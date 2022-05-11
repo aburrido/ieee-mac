@@ -15065,6 +15065,12 @@ FC-61-79   (hex)		Shenzhen Shenshui Electronic Commerce Co.,Ltd
 				Scoresby  VIC  3179
 				AU
 
+30-3D-51   (hex)		Dspread Technology (Beijing) Inc.
+400000-4FFFFF     (base 16)		Dspread Technology (Beijing) Inc.
+				Jingxin Building, 2045 Suite , Chaoyang District
+				Beijing    100027
+				CN
+
 30-3D-51   (hex)		TeraNXT Global India Pvt Ltd.
 A00000-AFFFFF     (base 16)		TeraNXT Global India Pvt Ltd.
 				7A/61 W.E.A KAROL BAGH
