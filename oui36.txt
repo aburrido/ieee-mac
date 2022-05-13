@@ -11753,6 +11753,18 @@ CC6000-CC6FFF     (base 16)		Genius Vision Digital Private Limited
 				Houston  TX  77024-7338
 				US
 
+8C-1F-64   (hex)		Abode Systems Inc
+B13000-B13FFF     (base 16)		Abode Systems Inc
+				2625 Middlefield Road
+				Palo Alto  CA  94306
+				US
+
+8C-1F-64   (hex)		DAVE SRL
+0EF000-0EFFFF     (base 16)		DAVE SRL
+				VIA TALPONEDO 29/A
+				PORCIA  PORDENONE  330850
+				IT
+
 70-B3-D5   (hex)		System West dba ICS Electronics
 E06000-E06FFF     (base 16)		System West dba ICS Electronics
 				7034 Commerce Circle Suite A
@@ -29208,4 +29220,10 @@ DFE000-DFEFFF     (base 16)		Nuvation Energy
 268000-268FFF     (base 16)		Astro Machine Corporation
 				630 Lively Blvd
 				Elk Grove Village  IL  60007
+				US
+
+8C-1F-64   (hex)		AperNet, LLC
+043000-043FFF     (base 16)		AperNet, LLC
+				651 North Broad StreetSuite 206
+				Middletown  DE  19709
 				US
