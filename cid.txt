@@ -686,6 +686,12 @@ BA6312                        (base 16)                     IDTECK
                                                             Bucheon-si, Gyeonggi-do  14453  07573        
                                                             KR                                           
 
+6A-62-1E                      (hex)                         DIFI Consortium                              
+6A621E                        (base 16)                     DIFI Consortium                              
+                                                            445 Hoes Lane                                
+                                                            Piscataway  NJ  08854                        
+                                                            US                                           
+
 DA-41-62                      (hex)                         Xperi Corporation                            
 DA4162                        (base 16)                     Xperi Corporation                            
                                                             5220 Las Virgenes Rd                         
