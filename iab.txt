@@ -6737,12 +6737,6 @@ EAB000-EABFFF                 (base 16)                     Warp9 Tech Design, I
                                                             Blaine  MN  55449                            
                                                             US                                           
 
-00-50-C2                      (hex)                         BAE Systems                                  
-EAA000-EAAFFF                 (base 16)                     BAE Systems                                  
-                                                            65 Spir Brook Rd.                            
-                                                            Nashua  New Hamshire  03060                  
-                                                            US                                           
-
 00-50-C2                      (hex)                         ThinkRF Corp                                 
 EA2000-EA2FFF                 (base 16)                     ThinkRF Corp                                 
                                                             390 Legget Drive                             
@@ -10564,6 +10558,12 @@ D5E000-D5EFFF                 (base 16)                     PRIVATECH Inc.
                                                             2-32-3, Kita-shinagawa                       
                                                             Tokyo   Shinagawa-ku  140-0001               
                                                             JP                                           
+
+00-50-C2                      (hex)                         BAE Systems                                  
+EAA000-EAAFFF                 (base 16)                     BAE Systems                                  
+                                                            65 Spir Brook Rd.                            
+                                                            Nashua  NH  03060                            
+                                                            US                                           
 
 00-50-C2                      (hex)                         DEUTA-WERKE GmbH                             
 FD7000-FD7FFF                 (base 16)                     DEUTA-WERKE GmbH                             
