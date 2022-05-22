@@ -5099,6 +5099,12 @@ F00000-FFFFFF     (base 16)		IEEE Registration Authority
 				Tucson  AZ  85744
 				US
 
+2C-69-1D   (hex)		SPEEDTECH CORP.
+400000-4FFFFF     (base 16)		SPEEDTECH CORP.
+				No. 568, Sec. 1, Minsheng N. Rd., Guishan Dist., Taoyuan City 338, Taiwan
+				Taoyuan    338
+				TW
+
 4C-4B-F9   (hex)		Shenzhen dingsheng technology co., LTD
 400000-4FFFFF     (base 16)		Shenzhen dingsheng technology co., LTD
 				Floor 3, building 5, kaijeda industrial zone, no.97, huaxing road, langkou community, dalang street, longhua district
@@ -9964,6 +9970,12 @@ C00000-CFFFFF     (base 16)		TalkGo, Inc.
 				3518 Fremont Ave N#473
 				Seattle  WA  98103
 				US
+
+2C-69-1D   (hex)		KATEK SE
+100000-1FFFFF     (base 16)		KATEK SE
+				Promenadeplatz 12
+				Munich    80333
+				DE
 
 20-85-93   (hex)		UNILUMIN GROUP CO.,LTD
 300000-3FFFFF     (base 16)		UNILUMIN GROUP CO.,LTD
@@ -15137,6 +15149,24 @@ F00000-FFFFFF     (base 16)		IEEE Registration Authority
 				Baltimore  MD  21224
 				US
 
+2C-69-1D   (hex)		SHENZHEN EX-LINK TECHNOLOGY CO.,LTD
+900000-9FFFFF     (base 16)		SHENZHEN EX-LINK TECHNOLOGY CO.,LTD
+				818 Building 2,Nanyou Fourth Industrial Zone,No 1124 ,Nanshan Avenue,Nanguang Community,Nanshan Street,Nanshan District,Shenzhen
+				SHENZHEN  GUANGDONG  518052
+				CN
+
+2C-69-1D   (hex)		Aparian, Inc.
+C00000-CFFFFF     (base 16)		Aparian, Inc.
+				2709 S Orange AveUnit D
+				Santa Ana  CA  92707
+				US
+
+2C-69-1D   (hex)		Carnegie Robotics
+600000-6FFFFF     (base 16)		Carnegie Robotics
+				4501 Hatfield Street
+				Pittsburgh  PA  15201
+				US
+
 4C-4B-F9   (hex)		Shandong Linkotech Electronic Co., Ltd.
 600000-6FFFFF     (base 16)		Shandong Linkotech Electronic Co., Ltd.
 				22nd Floor, Building 2, Aosheng Building, No.1166 Xinyi Street, High-tech Zone
@@ -20179,6 +20209,12 @@ B00000-BFFFFF     (base 16)		Shenzhen Daren HI-Tech Electronics Co., Ltd.
 				Room 401, No. 5, Jiayi Industrial Park, Guihua Community, Guanlan Street, Longhua District, Shenzhen
 				Shenzhen  Guangdong  518109
 				CN
+
+2C-69-1D   (hex)		Ascentac Inc.
+D00000-DFFFFF     (base 16)		Ascentac Inc.
+				11F.-1, No.80, Minzu 1st Rd., Sanmin Dist., Kaohsiung City 807, Taiwan (R.O.C.)
+				Kaohsiung City  Taiwan  807
+				TW
 
 20-85-93   (hex)		Great Lite International
 700000-7FFFFF     (base 16)		Great Lite International
