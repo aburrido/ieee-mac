@@ -5954,11 +5954,23 @@ C35000-C35FFF     (base 16)		Peter Huber Kaeltemaschinenbau AG
 				Offenburg  Ba-Wue  77656
 				DE
 
+8C-1F-64   (hex)		Nexilis Electronics India Pvt Ltd (PICSYS)
+692000-692FFF     (base 16)		Nexilis Electronics India Pvt Ltd (PICSYS)
+				Plot No.23,DITPL Industrial Area,Bashettihalli,Doddaballapura
+				Bangalore  Karnataka  561203
+				IN
+
 70-B3-D5   (hex)		Mahindra Electric Mobility Limited
 11A000-11AFFF     (base 16)		Mahindra Electric Mobility Limited
 				690, Gold Hill Square, Hosur Road, Bommanahalli
 				Bangalore  Karnataka  560068
 				IN
+
+8C-1F-64   (hex)		wtec GmbH
+F43000-F43FFF     (base 16)		wtec GmbH
+				Dornbachstrasse 1a
+				Bad Homburg    61352
+				DE
 
 70-B3-D5   (hex)		EVCO SPA
 A80000-A80FFF     (base 16)		EVCO SPA
@@ -17603,6 +17615,12 @@ CD2000-CD2FFF     (base 16)		TRUMPF Huttinger GmbH + Co. KG,
 				Broomfield  CO  80021
 				US
 
+8C-1F-64   (hex)		HuiTong intelligence Company
+240000-240FFF     (base 16)		HuiTong intelligence Company
+				8F., No. 51, Ln. 258, Rueiguang Rd., Neihu Dist., Taipei City 114, Taiwan (R.O.C.)
+				Taipei    114
+				TW
+
 70-B3-D5   (hex)		YUYAMA MFG Co.,Ltd
 BBB000-BBBFFF     (base 16)		YUYAMA MFG Co.,Ltd
 				3-3-1
@@ -23573,6 +23591,12 @@ CAF000-CAFFFF     (base 16)		BRS Sistemas Eletrônicos
 				Alava  SPAIN  01510
 				ES
 
+8C-1F-64   (hex)		SkyCell AG
+C05000-C05FFF     (base 16)		SkyCell AG
+				Hardturmstrasse 11
+				Zürich  ZH  8005
+				CH
+
 70-B3-D5   (hex)		DISMUNTEL SAL
 92C000-92CFFF     (base 16)		DISMUNTEL SAL
 				Pol ind cotes
@@ -29314,3 +29338,9 @@ DFE000-DFEFFF     (base 16)		Nuvation Energy
 				Plot No. D-228, Chakan MIDC Phase 2, 
 				Village Bhamboli, Taluka:Khed  Pune, Maharashtra  410 507
 				IN
+
+8C-1F-64   (hex)		IAV ENGINEERING SARL
+968000-968FFF     (base 16)		IAV ENGINEERING SARL
+				4a chemin des couleuvres
+				Tannay  VD  1295
+				CH
