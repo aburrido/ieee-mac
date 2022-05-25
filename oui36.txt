@@ -11804,17 +11804,17 @@ D5E000-D5EFFF     (base 16)		Integer.pl S.A.
 				Krakow    30-552
 				PL
 
-8C-1F-64   (hex)		Abbott Diagnostics Technologies AS
-300000-300FFF     (base 16)		Abbott Diagnostics Technologies AS
-				P. O.  Box 6863 Rodeløkka
-				Oslo    0504
-				NO
-
 8C-1F-64   (hex)		Suzhou Leamore Optronics Co., Ltd.
 662000-662FFF     (base 16)		Suzhou Leamore Optronics Co., Ltd.
 				Block 12-301, NO 99 Jinji Lake Road, Suzhou Industrial Park, Suzhou
 				Suzhou  Jiangsu   215000
 				CN
+
+8C-1F-64   (hex)		Abbott Diagnostics Technologies AS
+300000-300FFF     (base 16)		Abbott Diagnostics Technologies AS
+				P. O.  Box 6863 Rodeløkka
+				Oslo    0504
+				NO
 
 8C-1F-64   (hex)		Breas Medical AB
 98F000-98FFFF     (base 16)		Breas Medical AB
@@ -29333,14 +29333,14 @@ DFE000-DFEFFF     (base 16)		Nuvation Energy
 				Middletown  DE  19709
 				US
 
-8C-1F-64   (hex)		Belden India Private Limited
-54A000-54AFFF     (base 16)		Belden India Private Limited
-				Plot No. D-228, Chakan MIDC Phase 2, 
-				Village Bhamboli, Taluka:Khed  Pune, Maharashtra  410 507
-				IN
-
 8C-1F-64   (hex)		IAV ENGINEERING SARL
 968000-968FFF     (base 16)		IAV ENGINEERING SARL
 				4a chemin des couleuvres
 				Tannay  VD  1295
 				CH
+
+8C-1F-64   (hex)		Belden India Private Limited
+54A000-54AFFF     (base 16)		Belden India Private Limited
+				Plot No. D-228, Chakan MIDC Phase 2, 
+				Village Bhamboli, Taluka:Khed  Pune, Maharashtra  410 507
+				IN

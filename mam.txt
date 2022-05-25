@@ -5093,17 +5093,23 @@ F00000-FFFFFF     (base 16)		IEEE Registration Authority
 				PISCATAWAY  NJ  08854
 				US
 
-2C-69-1D   (hex)		IBM
-800000-8FFFFF     (base 16)		IBM
-				9000 South Rita Rd
-				Tucson  AZ  85744
-				US
+18-C3-F4   (hex)		Ningbo Yuda Communication Technology Co.,Ltd
+900000-9FFFFF     (base 16)		Ningbo Yuda Communication Technology Co.,Ltd
+				No.2 Yuda Road,Fengshan Street,Yuyao
+				Yuyao  Zhejiang  315400
+				CN
 
 2C-69-1D   (hex)		SPEEDTECH CORP.
 400000-4FFFFF     (base 16)		SPEEDTECH CORP.
 				No. 568, Sec. 1, Minsheng N. Rd., Guishan Dist., Taoyuan City 338, Taiwan
 				Taoyuan    338
 				TW
+
+2C-69-1D   (hex)		IBM
+800000-8FFFFF     (base 16)		IBM
+				9000 South Rita Rd
+				Tucson  AZ  85744
+				US
 
 4C-4B-F9   (hex)		Shenzhen dingsheng technology co., LTD
 400000-4FFFFF     (base 16)		Shenzhen dingsheng technology co., LTD
@@ -10619,9 +10625,6 @@ D00000-DFFFFF     (base 16)		Sixth Energy Technologies Private Limited
 				Granada Hills  CA  91344-4502
 				US
 
-30-0A-60   (hex)		Private
-300000-3FFFFF     (base 16)		Private
-
 30-0A-60   (hex)		KAZUtechnica Co.,Ltd.
 000000-0FFFFF     (base 16)		KAZUtechnica Co.,Ltd.
 				1-9-18,Chuo,Chuo-ku
@@ -13172,9 +13175,6 @@ B00000-BFFFFF     (base 16)		Advice
 				Kfar Saba  Not applicable  4464321
 				IL
 
-10-DC-B6   (hex)		Private
-000000-0FFFFF     (base 16)		Private
-
 54-A4-93   (hex)		Wonders Technology Co., Ltd.
 A00000-AFFFFF     (base 16)		Wonders Technology Co., Ltd.
 				4/F,Tower A,3rd Building,Tian'an Cloud Park,Bantian Avenue,Longgang District
@@ -15167,6 +15167,24 @@ C00000-CFFFFF     (base 16)		Aparian, Inc.
 				Pittsburgh  PA  15201
 				US
 
+10-DC-B6   (hex)		Apex Supply Chain Technologies
+000000-0FFFFF     (base 16)		Apex Supply Chain Technologies
+				4393 Digital Way
+				Mason  OH  45040
+				US
+
+2C-69-1D   (hex)		Chengdu Qianhong Communication Co., Ltd.
+E00000-EFFFFF     (base 16)		Chengdu Qianhong Communication Co., Ltd.
+				NO.666, XINGYE ROAD, EAST INDUSTRIAL AREA, XINDU DISTRICT, CHENGDU CITY, CHINA
+				Chengdu  SICHUAN  610599
+				CN
+
+30-0A-60   (hex)		Intergard do Brasil Ind e Com de Eletr e Mec Ltda
+300000-3FFFFF     (base 16)		Intergard do Brasil Ind e Com de Eletr e Mec Ltda
+				Avenida Capitao Casa 1485
+				São Bernardo do Campo  Sao Paulo  09812000
+				BR
+
 4C-4B-F9   (hex)		Shandong Linkotech Electronic Co., Ltd.
 600000-6FFFFF     (base 16)		Shandong Linkotech Electronic Co., Ltd.
 				22nd Floor, Building 2, Aosheng Building, No.1166 Xinyi Street, High-tech Zone
@@ -15231,9 +15249,6 @@ A00000-AFFFFF     (base 16)		Angora Networks
 				TR
 
 64-FB-81   (hex)		Private
-F00000-FFFFFF     (base 16)		Private
-
-78-C2-C0   (hex)		Private
 F00000-FFFFFF     (base 16)		Private
 
 58-FC-DB   (hex)		Private
@@ -15473,9 +15488,6 @@ D00000-DFFFFF     (base 16)		Rollock Oy
 				Kajaani    87700
 				FI
 
-BC-34-00   (hex)		Private
-F00000-FFFFFF     (base 16)		Private
-
 1C-82-59   (hex)		Shandong Luneng Intelligence Technology CO., Ltd
 000000-0FFFFF     (base 16)		Shandong Luneng Intelligence Technology CO., Ltd
 				Shandong Jinan Hightech zone Yinhe building block B, 2008 Xinluo Street
@@ -15559,9 +15571,6 @@ C00000-CFFFFF     (base 16)		Haltian Products Oy
 				Yrttipellontie 1D
 				Oulu    90230
 				FI
-
-80-7B-85   (hex)		Private
-F00000-FFFFFF     (base 16)		Private
 
 E4-1E-0A   (hex)		IDvaco Private Limited
 200000-2FFFFF     (base 16)		IDvaco Private Limited
@@ -20198,12 +20207,6 @@ E00000-EFFFFF     (base 16)		ACCO Brands USA LLC
 				Palo Alto  CA  94306
 				US
 
-14-1F-BA   (hex)		IEEE Registration Authority
-F00000-FFFFFF     (base 16)		IEEE Registration Authority
-				445 Hoes Lane
-				PISCATAWAY  NJ  08854
-				US
-
 2C-69-1D   (hex)		Shenzhen Daren HI-Tech Electronics Co., Ltd.
 B00000-BFFFFF     (base 16)		Shenzhen Daren HI-Tech Electronics Co., Ltd.
 				Room 401, No. 5, Jiayi Industrial Park, Guihua Community, Guanlan Street, Longhua District, Shenzhen
@@ -20215,6 +20218,30 @@ D00000-DFFFFF     (base 16)		Ascentac Inc.
 				11F.-1, No.80, Minzu 1st Rd., Sanmin Dist., Kaohsiung City 807, Taiwan (R.O.C.)
 				Kaohsiung City  Taiwan  807
 				TW
+
+80-7B-85   (hex)		IEEE Registration Authority
+F00000-FFFFFF     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				PISCATAWAY  NJ  08854
+				US
+
+14-1F-BA   (hex)		IEEE Registration Authority
+F00000-FFFFFF     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				PISCATAWAY  NJ  08854
+				US
+
+78-C2-C0   (hex)		IEEE Registration Authority
+F00000-FFFFFF     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				PISCATAWAY  NJ  08854
+				US
+
+BC-34-00   (hex)		IEEE Registration Authority
+F00000-FFFFFF     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				PISCATAWAY  NJ  08854
+				US
 
 20-85-93   (hex)		Great Lite International
 700000-7FFFFF     (base 16)		Great Lite International
@@ -25318,3 +25345,15 @@ F00000-FFFFFF     (base 16)		IEEE Registration Authority
 				LG Twin Towers, 128, Yeoui-daero, Yeongdeungpo-gu
 				Seoul    150-721
 				KR
+
+18-C3-F4   (hex)		Enertex Bayern GmbH
+100000-1FFFFF     (base 16)		Enertex Bayern GmbH
+				Ebermannstädter Str. 8
+				Forchheim  Bayern  91301
+				DE
+
+18-C3-F4   (hex)		General Test Systems
+300000-3FFFFF     (base 16)		General Test Systems
+				Building C–A7 Suite 805, 2190 Liuxian Avenue,Nanshan District
+				Shenzhen  Guangdong  518055
+				CN

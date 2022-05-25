@@ -55,6 +55,7 @@ MANUFACTURER ID               Organization
 1889                          PMT GmbH
 1109                          General Motors
 14599                         Delta Computers LLC.
+8163                          Scati Labs, S.A.
 15913                         VALCOM CO.,LTD.
 12385                         TrigasDM GmbH
 5688                          Duerr Somac GmbH
