@@ -5087,12 +5087,6 @@ B00000-BFFFFF     (base 16)		Labman Automation
 				Shanghai    China
 				CN
 
-88-5D-90   (hex)		IEEE Registration Authority
-F00000-FFFFFF     (base 16)		IEEE Registration Authority
-				445 Hoes Lane
-				PISCATAWAY  NJ  08854
-				US
-
 18-C3-F4   (hex)		Ningbo Yuda Communication Technology Co.,Ltd
 900000-9FFFFF     (base 16)		Ningbo Yuda Communication Technology Co.,Ltd
 				No.2 Yuda Road,Fengshan Street,Yuyao
@@ -5109,6 +5103,12 @@ F00000-FFFFFF     (base 16)		IEEE Registration Authority
 800000-8FFFFF     (base 16)		IBM
 				9000 South Rita Rd
 				Tucson  AZ  85744
+				US
+
+88-5D-90   (hex)		Private
+F00000-FFFFFF     (base 16)		Private
+				445 Hoes Lane
+				PISCATAWAY  NJ  08854
 				US
 
 4C-4B-F9   (hex)		Shenzhen dingsheng technology co., LTD
@@ -10373,9 +10373,6 @@ E00000-EFFFFF     (base 16)		ShenZhen Arts Changhua Intelligent Technology Co., 
 				Shenzhen  Guangdong  518057
 				CN
 
-8C-C8-F4   (hex)		Private
-700000-7FFFFF     (base 16)		Private
-
 D8-86-0B   (hex)		Get SAT
 200000-2FFFFF     (base 16)		Get SAT
 				Hamada 12
@@ -15143,22 +15140,34 @@ E00000-EFFFFF     (base 16)		Percent.com
 				Baltimore  MD  21224
 				US
 
-98-02-D8   (hex)		IEEE Registration Authority
-F00000-FFFFFF     (base 16)		IEEE Registration Authority
-				445 Hoes Lane
-				PISCATAWAY  NJ  08854
-				US
-
 2C-69-1D   (hex)		SHENZHEN EX-LINK TECHNOLOGY CO.,LTD
 900000-9FFFFF     (base 16)		SHENZHEN EX-LINK TECHNOLOGY CO.,LTD
 				818 Building 2,Nanyou Fourth Industrial Zone,No 1124 ,Nanshan Avenue,Nanguang Community,Nanshan Street,Nanshan District,Shenzhen
 				SHENZHEN  GUANGDONG  518052
 				CN
 
-2C-69-1D   (hex)		Aparian, Inc.
-C00000-CFFFFF     (base 16)		Aparian, Inc.
-				2709 S Orange AveUnit D
-				Santa Ana  CA  92707
+2C-69-1D   (hex)		Chengdu Qianhong Communication Co., Ltd.
+E00000-EFFFFF     (base 16)		Chengdu Qianhong Communication Co., Ltd.
+				NO.666, XINGYE ROAD, EAST INDUSTRIAL AREA, XINDU DISTRICT, CHENGDU CITY, CHINA
+				Chengdu  SICHUAN  610599
+				CN
+
+8C-C8-F4   (hex)		TableSafe
+700000-7FFFFF     (base 16)		TableSafe
+				12220 113th Ave NE, Suite 220
+				Kirkland  WA  98034
+				US
+
+30-0A-60   (hex)		Intergard do Brasil Ind e Com de Eletr e Mec Ltda
+300000-3FFFFF     (base 16)		Intergard do Brasil Ind e Com de Eletr e Mec Ltda
+				Avenida Capitao Casa 1485
+				São Bernardo do Campo  Sao Paulo  09812000
+				BR
+
+10-DC-B6   (hex)		Apex Supply Chain Technologies
+000000-0FFFFF     (base 16)		Apex Supply Chain Technologies
+				4393 Digital Way
+				Mason  OH  45040
 				US
 
 2C-69-1D   (hex)		Carnegie Robotics
@@ -15167,23 +15176,17 @@ C00000-CFFFFF     (base 16)		Aparian, Inc.
 				Pittsburgh  PA  15201
 				US
 
-10-DC-B6   (hex)		Apex Supply Chain Technologies
-000000-0FFFFF     (base 16)		Apex Supply Chain Technologies
-				4393 Digital Way
-				Mason  OH  45040
+2C-69-1D   (hex)		Aparian, Inc.
+C00000-CFFFFF     (base 16)		Aparian, Inc.
+				2709 S Orange AveUnit D
+				Santa Ana  CA  92707
 				US
 
-2C-69-1D   (hex)		Chengdu Qianhong Communication Co., Ltd.
-E00000-EFFFFF     (base 16)		Chengdu Qianhong Communication Co., Ltd.
-				NO.666, XINGYE ROAD, EAST INDUSTRIAL AREA, XINDU DISTRICT, CHENGDU CITY, CHINA
-				Chengdu  SICHUAN  610599
-				CN
-
-30-0A-60   (hex)		Intergard do Brasil Ind e Com de Eletr e Mec Ltda
-300000-3FFFFF     (base 16)		Intergard do Brasil Ind e Com de Eletr e Mec Ltda
-				Avenida Capitao Casa 1485
-				São Bernardo do Campo  Sao Paulo  09812000
-				BR
+98-02-D8   (hex)		Private
+F00000-FFFFFF     (base 16)		Private
+				445 Hoes Lane
+				PISCATAWAY  NJ  08854
+				US
 
 4C-4B-F9   (hex)		Shandong Linkotech Electronic Co., Ltd.
 600000-6FFFFF     (base 16)		Shandong Linkotech Electronic Co., Ltd.
@@ -20219,26 +20222,26 @@ D00000-DFFFFF     (base 16)		Ascentac Inc.
 				Kaohsiung City  Taiwan  807
 				TW
 
-80-7B-85   (hex)		IEEE Registration Authority
-F00000-FFFFFF     (base 16)		IEEE Registration Authority
+14-1F-BA   (hex)		Private
+F00000-FFFFFF     (base 16)		Private
 				445 Hoes Lane
 				PISCATAWAY  NJ  08854
 				US
 
-14-1F-BA   (hex)		IEEE Registration Authority
-F00000-FFFFFF     (base 16)		IEEE Registration Authority
+BC-34-00   (hex)		Private
+F00000-FFFFFF     (base 16)		Private
 				445 Hoes Lane
 				PISCATAWAY  NJ  08854
 				US
 
-78-C2-C0   (hex)		IEEE Registration Authority
-F00000-FFFFFF     (base 16)		IEEE Registration Authority
+80-7B-85   (hex)		Private
+F00000-FFFFFF     (base 16)		Private
 				445 Hoes Lane
 				PISCATAWAY  NJ  08854
 				US
 
-BC-34-00   (hex)		IEEE Registration Authority
-F00000-FFFFFF     (base 16)		IEEE Registration Authority
+78-C2-C0   (hex)		Private
+F00000-FFFFFF     (base 16)		Private
 				445 Hoes Lane
 				PISCATAWAY  NJ  08854
 				US
@@ -21268,9 +21271,6 @@ D00000-DFFFFF     (base 16)		OLIMEX Ltd
 				Circonvallazione Sud, 15
 				Mantova    46100
 				IT
-
-30-1F-9A   (hex)		Private
-900000-9FFFFF     (base 16)		Private
 
 F0-41-C8   (hex)		Shenzhen  Nufilo Electronic Technology Co., Ltd.
 900000-9FFFFF     (base 16)		Shenzhen  Nufilo Electronic Technology Co., Ltd.
@@ -25334,12 +25334,6 @@ B00000-BFFFFF     (base 16)		 Celliber Technologies Pvt Limited
 				Bangalore  Karnataka  560102
 				IN
 
-B8-D8-12   (hex)		IEEE Registration Authority
-F00000-FFFFFF     (base 16)		IEEE Registration Authority
-				445 Hoes Lane
-				PISCATAWAY  NJ  08854
-				US
-
 2C-69-1D   (hex)		LG Electronics Inc.
 500000-5FFFFF     (base 16)		LG Electronics Inc.
 				LG Twin Towers, 128, Yeoui-daero, Yeongdeungpo-gu
@@ -25357,3 +25351,15 @@ F00000-FFFFFF     (base 16)		IEEE Registration Authority
 				Building C–A7 Suite 805, 2190 Liuxian Avenue,Nanshan District
 				Shenzhen  Guangdong  518055
 				CN
+
+30-1F-9A   (hex)		Deep Sentinel 
+900000-9FFFFF     (base 16)		Deep Sentinel 
+				600 Main Street Suite C
+				PLEASANTON  CA  94566
+				US
+
+B8-D8-12   (hex)		Private
+F00000-FFFFFF     (base 16)		Private
+				445 Hoes Lane
+				PISCATAWAY  NJ  08854
+				US
