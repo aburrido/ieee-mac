@@ -5087,12 +5087,6 @@ B00000-BFFFFF     (base 16)		Labman Automation
 				Shanghai    China
 				CN
 
-2C-69-1D   (hex)		IBM
-800000-8FFFFF     (base 16)		IBM
-				9000 South Rita Rd
-				Tucson  AZ  85744
-				US
-
 2C-69-1D   (hex)		SPEEDTECH CORP.
 400000-4FFFFF     (base 16)		SPEEDTECH CORP.
 				No. 568, Sec. 1, Minsheng N. Rd., Guishan Dist., Taoyuan City 338, Taiwan
@@ -5104,6 +5098,12 @@ B00000-BFFFFF     (base 16)		Labman Automation
 				No.2 Yuda Road,Fengshan Street,Yuyao
 				Yuyao  Zhejiang  315400
 				CN
+
+2C-69-1D   (hex)		IBM
+800000-8FFFFF     (base 16)		IBM
+				9000 South Rita Rd
+				Tucson  AZ  85744
+				US
 
 88-5D-90   (hex)		Private
 F00000-FFFFFF     (base 16)		Private
@@ -25362,4 +25362,10 @@ B8-D8-12   (hex)		Private
 F00000-FFFFFF     (base 16)		Private
 				445 Hoes Lane
 				PISCATAWAY  NJ  08854
+				US
+
+18-C3-F4   (hex)		Synaptics, Inc
+500000-5FFFFF     (base 16)		Synaptics, Inc
+				1251 McKay Drive
+				San Jose  CA   95131-1709
 				US
