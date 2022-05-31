@@ -5111,6 +5111,12 @@ F00000-FFFFFF     (base 16)		Private
 				PISCATAWAY  NJ  08854
 				US
 
+18-C3-F4   (hex)		Shenzhen Chuangxin Internet Communication Technology Co., Ltd
+B00000-BFFFFF     (base 16)		Shenzhen Chuangxin Internet Communication Technology Co., Ltd
+				 608, building r2-b, Gaoxin industrial village, No. 020, Gaoxin South 7th Road, Gaoxin community, Yuehai street, Nanshan District,
+				ShenZhen  GuangDong  518000
+				CN
+
 4C-4B-F9   (hex)		Shenzhen dingsheng technology co., LTD
 400000-4FFFFF     (base 16)		Shenzhen dingsheng technology co., LTD
 				Floor 3, building 5, kaijeda industrial zone, no.97, huaxing road, langkou community, dalang street, longhua district
@@ -9982,6 +9988,12 @@ A00000-AFFFFF     (base 16)		Panasonic Appliances Marketing Asia Pacific (A divi
 				Promenadeplatz 12
 				Munich    80333
 				DE
+
+18-C3-F4   (hex)		VeriFone Systems (China), Inc.
+600000-6FFFFF     (base 16)		VeriFone Systems (China), Inc.
+				Ine.2nd  Floor,No 39,Region  C,Tongpan Road,Gulou District
+				Fuzhou  Fujian  350000
+				CN
 
 20-85-93   (hex)		UNILUMIN GROUP CO.,LTD
 300000-3FFFFF     (base 16)		UNILUMIN GROUP CO.,LTD
@@ -15188,6 +15200,18 @@ F00000-FFFFFF     (base 16)		Private
 				PISCATAWAY  NJ  08854
 				US
 
+18-C3-F4   (hex)		Shenzhen Yunlianxin Technology Co., Ltd.
+A00000-AFFFFF     (base 16)		Shenzhen Yunlianxin Technology Co., Ltd.
+				Room 601, Building 3, Xinzhongtai Industrial Park, Hengfeng Community, Yousong Community, Longhua Street, Longhua District, Shenzhen, Guangdong, China
+				Shenzhen  guangdong  518000
+				CN
+
+18-C3-F4   (hex)		Annapurna labs
+400000-4FFFFF     (base 16)		Annapurna labs
+				Matam Scientific Industries Center,   Building 8.2
+				Mail box 15123  Haifa  3508409
+				IL
+
 4C-4B-F9   (hex)		Shandong Linkotech Electronic Co., Ltd.
 600000-6FFFFF     (base 16)		Shandong Linkotech Electronic Co., Ltd.
 				22nd Floor, Building 2, Aosheng Building, No.1166 Xinyi Street, High-tech Zone
@@ -18683,9 +18707,6 @@ F4-90-CB   (hex)		Beijing Penslink Co., Ltd.
 				Beijing  Beijing  100102
 				CN
 
-F4-90-CB   (hex)		Private
-A00000-AFFFFF     (base 16)		Private
-
 C0-9B-F4   (hex)		The Professional Monitor Company Ltd
 D00000-DFFFFF     (base 16)		The Professional Monitor Company Ltd
 				Holme Court A1
@@ -20244,6 +20265,12 @@ F00000-FFFFFF     (base 16)		Private
 F00000-FFFFFF     (base 16)		Private
 				445 Hoes Lane
 				PISCATAWAY  NJ  08854
+				US
+
+F4-90-CB   (hex)		Fend Incorporated
+A00000-AFFFFF     (base 16)		Fend Incorporated
+				4600 Fairfax Dr Ste 410
+				Arlington  VA  22203-1553
 				US
 
 20-85-93   (hex)		Great Lite International
@@ -25369,3 +25396,9 @@ F00000-FFFFFF     (base 16)		Private
 				1251 McKay Drive
 				San Jose  CA   95131-1709
 				US
+
+18-C3-F4   (hex)		Shenzhen Liandian Communication Technology Co.LTD
+800000-8FFFFF     (base 16)		Shenzhen Liandian Communication Technology Co.LTD
+				1307, building A4, workshop 2, LiLang International Jewelry Industrial Park, 31 Bulan Road, xialilang community, Nanwan street, Longgang District
+				Shenzhen  Guangdong  518112
+				CN
