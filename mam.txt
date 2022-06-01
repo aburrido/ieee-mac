@@ -5105,17 +5105,23 @@ B00000-BFFFFF     (base 16)		Labman Automation
 				Tucson  AZ  85744
 				US
 
-88-5D-90   (hex)		Private
-F00000-FFFFFF     (base 16)		Private
-				445 Hoes Lane
-				PISCATAWAY  NJ  08854
-				US
-
 18-C3-F4   (hex)		Shenzhen Chuangxin Internet Communication Technology Co., Ltd
 B00000-BFFFFF     (base 16)		Shenzhen Chuangxin Internet Communication Technology Co., Ltd
 				 608, building r2-b, Gaoxin industrial village, No. 020, Gaoxin South 7th Road, Gaoxin community, Yuehai street, Nanshan District,
 				ShenZhen  GuangDong  518000
 				CN
+
+18-C3-F4   (hex)		HANGZHOU ZHONGKEJIGUANG TECHNOLOGY CO., LTD
+C00000-CFFFFF     (base 16)		HANGZHOU ZHONGKEJIGUANG TECHNOLOGY CO., LTD
+				Room107, Building 2, No.600, 21 Street, ETDA,
+				HANGZHOU  Zhejiang  310018
+				CN
+
+88-5D-90   (hex)		Private
+F00000-FFFFFF     (base 16)		Private
+				445 Hoes Lane
+				PISCATAWAY  NJ  08854
+				US
 
 4C-4B-F9   (hex)		Shenzhen dingsheng technology co., LTD
 400000-4FFFFF     (base 16)		Shenzhen dingsheng technology co., LTD
@@ -9988,6 +9994,12 @@ A00000-AFFFFF     (base 16)		Panasonic Appliances Marketing Asia Pacific (A divi
 				Promenadeplatz 12
 				Munich    80333
 				DE
+
+18-C3-F4   (hex)		Changsha Kiloview Electronics Co., Ltd.
+200000-2FFFFF     (base 16)		Changsha Kiloview Electronics Co., Ltd.
+				B4-106/109, Jiahua Intelligence Valley Industrial Park, 877 Huijin Road, Yuhua District
+				Changsha  Hunan  410001
+				CN
 
 18-C3-F4   (hex)		VeriFone Systems (China), Inc.
 600000-6FFFFF     (base 16)		VeriFone Systems (China), Inc.
@@ -15212,6 +15224,18 @@ A00000-AFFFFF     (base 16)		Shenzhen Yunlianxin Technology Co., Ltd.
 				Mail box 15123  Haifa  3508409
 				IL
 
+18-C3-F4   (hex)		Shenzhen C & D Electronics Co., Ltd.
+D00000-DFFFFF     (base 16)		Shenzhen C & D Electronics Co., Ltd.
+				9th FIoor, Building 9, No.1 Qingxiang road, BaoNeng Science and TechnoIogy Industrial Park, Longhua New District
+				ShenZhen  GuangDong  518000
+				CN
+
+18-C3-F4   (hex)		Shenzhen Yecon-Tech Co.,Ltd.
+700000-7FFFFF     (base 16)		Shenzhen Yecon-Tech Co.,Ltd.
+				Building 2,Cuigang Industrial Zone 6,Huaide Community,Fuyong Town,Baoan District, Shenzhen City, Guangdong province, China
+				Shenzhen  Guangdong  518000
+				CN
+
 4C-4B-F9   (hex)		Shandong Linkotech Electronic Co., Ltd.
 600000-6FFFFF     (base 16)		Shandong Linkotech Electronic Co., Ltd.
 				22nd Floor, Building 2, Aosheng Building, No.1166 Xinyi Street, High-tech Zone
@@ -20273,6 +20297,12 @@ A00000-AFFFFF     (base 16)		Fend Incorporated
 				Arlington  VA  22203-1553
 				US
 
+18-C3-F4   (hex)		Scati Labs, S.A.
+000000-0FFFFF     (base 16)		Scati Labs, S.A.
+				Ronda del Canal Imperial de Aragon 18-20
+				ZARAGOZA  Aragon  50197
+				ES
+
 20-85-93   (hex)		Great Lite International
 700000-7FFFFF     (base 16)		Great Lite International
 				11F., No.207-2, Sec. 3, Beixin Rd., Xindian Dist.,
@@ -23399,12 +23429,6 @@ D00000-DFFFFF     (base 16)		LeoLabs
 				Fuzhou  FuJian  350003
 				CN
 
-10-DC-B6   (hex)		ABB Switzerland Ltd.
-100000-1FFFFF     (base 16)		ABB Switzerland Ltd.
-				Fabrikstrasse 3
-				Lenzburg    5600
-				CH
-
 10-DC-B6   (hex)		Milesight Taiwan
 500000-5FFFFF     (base 16)		Milesight Taiwan
 				10F., No. 87, Sec. 4, Chongxin Rd
@@ -25391,14 +25415,20 @@ F00000-FFFFFF     (base 16)		Private
 				PISCATAWAY  NJ  08854
 				US
 
+18-C3-F4   (hex)		Shenzhen Liandian Communication Technology Co.LTD
+800000-8FFFFF     (base 16)		Shenzhen Liandian Communication Technology Co.LTD
+				1307, building A4, workshop 2, LiLang International Jewelry Industrial Park, 31 Bulan Road, xialilang community, Nanwan street, Longgang District
+				Shenzhen  Guangdong  518112
+				CN
+
 18-C3-F4   (hex)		Synaptics, Inc
 500000-5FFFFF     (base 16)		Synaptics, Inc
 				1251 McKay Drive
 				San Jose  CA   95131-1709
 				US
 
-18-C3-F4   (hex)		Shenzhen Liandian Communication Technology Co.LTD
-800000-8FFFFF     (base 16)		Shenzhen Liandian Communication Technology Co.LTD
-				1307, building A4, workshop 2, LiLang International Jewelry Industrial Park, 31 Bulan Road, xialilang community, Nanwan street, Longgang District
-				Shenzhen  Guangdong  518112
-				CN
+10-DC-B6   (hex)		Hitachi Energy Switzerland Ltd
+100000-1FFFFF     (base 16)		Hitachi Energy Switzerland Ltd
+				Fabrikstrasse 3
+				Lenzburg    5600
+				CH
