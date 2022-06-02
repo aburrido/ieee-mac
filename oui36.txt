@@ -5972,6 +5972,18 @@ F43000-F43FFF     (base 16)		wtec GmbH
 				Bad Homburg    61352
 				DE
 
+8C-1F-64   (hex)		VECTOR TECHNOLOGIES, LLC
+365000-365FFF     (base 16)		VECTOR TECHNOLOGIES, LLC
+				Razdolnaya str, 76bldg3
+				Orel  Orel region  302038
+				RU
+
+8C-1F-64   (hex)		BABTEL
+A51000-A51FFF     (base 16)		BABTEL
+				139 E Chestnut St
+				Coatesville    19320
+				US
+
 70-B3-D5   (hex)		EVCO SPA
 A80000-A80FFF     (base 16)		EVCO SPA
 				VIA FELTRE N. 81
@@ -24446,9 +24458,6 @@ C35000-C35FFF     (base 16)		Vibrationmaster
 				BeiJing  BeiJing  100020
 				CN
 
-70-B3-D5   (hex)		Private
-66A000-66AFFF     (base 16)		Private
-
 70-B3-D5   (hex)		Keepen
 69C000-69CFFF     (base 16)		Keepen
 				12, rue Anselme
@@ -29370,4 +29379,10 @@ DFE000-DFEFFF     (base 16)		Nuvation Energy
 FC2000-FC2FFF     (base 16)		I/O Controls
 				1357 W Foothill Blvd
 				Azusa  CA  91702
+				US
+
+70-B3-D5   (hex)		Nomadic
+66A000-66AFFF     (base 16)		Nomadic
+				101 Glacier Point, Suite E
+				San Rafael  CA  94901
 				US
