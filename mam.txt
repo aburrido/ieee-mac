@@ -15242,6 +15242,12 @@ D00000-DFFFFF     (base 16)		Shenzhen C & D Electronics Co., Ltd.
 				Shenzhen  Guangdong  518000
 				CN
 
+88-3C-C5   (hex)		Corigine, Inc
+A00000-AFFFFF     (base 16)		Corigine, Inc
+				4655 Old Ironsides Dr #270
+				Santa Clara  CA  95054
+				US
+
 4C-4B-F9   (hex)		Shandong Linkotech Electronic Co., Ltd.
 600000-6FFFFF     (base 16)		Shandong Linkotech Electronic Co., Ltd.
 				22nd Floor, Building 2, Aosheng Building, No.1166 Xinyi Street, High-tech Zone
@@ -20297,11 +20303,11 @@ F00000-FFFFFF     (base 16)		Private
 				PISCATAWAY  NJ  08854
 				US
 
-F4-90-CB   (hex)		Fend Incorporated
-A00000-AFFFFF     (base 16)		Fend Incorporated
-				4600 Fairfax Dr Ste 410
-				Arlington  VA  22203-1553
-				US
+18-C3-F4   (hex)		SHENZHEN MEGMEET ELECTRICAL CO., LTD
+E00000-EFFFFF     (base 16)		SHENZHEN MEGMEET ELECTRICAL CO., LTD
+				5th Floor?Block B?Ziguang information Harbor?Langshan Rd., Science & Technology Park,Nahshan District,ShenZhen
+				ShenZhen    518051
+				CN
 
 18-C3-F4   (hex)		Scati Labs, S.A.
 000000-0FFFFF     (base 16)		Scati Labs, S.A.
@@ -20309,11 +20315,17 @@ A00000-AFFFFF     (base 16)		Fend Incorporated
 				ZARAGOZA  Aragon  50197
 				ES
 
-18-C3-F4   (hex)		SHENZHEN MEGMEET ELECTRICAL CO., LTD
-E00000-EFFFFF     (base 16)		SHENZHEN MEGMEET ELECTRICAL CO., LTD
-				5th Floor?Block B?Ziguang information Harbor?Langshan Rd., Science & Technology Park,Nahshan District,ShenZhen
-				ShenZhen    518051
-				CN
+F4-90-CB   (hex)		Fend Incorporated
+A00000-AFFFFF     (base 16)		Fend Incorporated
+				4600 Fairfax Dr Ste 410
+				Arlington  VA  22203-1553
+				US
+
+88-3C-C5   (hex)		KMtronic ltd
+700000-7FFFFF     (base 16)		KMtronic ltd
+				Dobri Czintulov 28A str.
+				 Gorna Oryahovica  VT  5100
+				BG
 
 20-85-93   (hex)		Great Lite International
 700000-7FFFFF     (base 16)		Great Lite International
@@ -25449,4 +25461,10 @@ F00000-FFFFFF     (base 16)		Private
 500000-5FFFFF     (base 16)		Shanghai Ucan Automation Equipment Co., Ltd.
 				4F, Building (5), No. 8, Hangyi Road, Fengxian District, Shanghai
 				Shanghai    201499
+				CN
+
+88-3C-C5   (hex)		shenzhen Feng Jing Sheng Electronics Technology Co.,Ltd
+300000-3FFFFF     (base 16)		shenzhen Feng Jing Sheng Electronics Technology Co.,Ltd
+				Fucheng Subdistrict
+				Shenzhen  Guangdong  518000
 				CN

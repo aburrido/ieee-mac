@@ -24,6 +24,7 @@ MANUFACTURER ID               Organization
 22                            Endevco Corporation
 12486                         Trafag AG
 9406                          Omega Engineering Inc.
+15504                         Snorble
 10156                         mg-sensor GmbH
 15095                         Soundtec GmbH
 555                           Druck- und Durchflussmessung

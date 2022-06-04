@@ -11849,6 +11849,12 @@ E2D000-E2DFFF     (base 16)		Private
 				Sagamihara City   Kanagawa Prefecture  2520243
 				JP
 
+8C-1F-64   (hex)		AVA Monitoring AB
+28D000-28DFFF     (base 16)		AVA Monitoring AB
+				Vädursgatan 6
+				Göteborg  Västra götaland  412 50
+				SE
+
 70-B3-D5   (hex)		System West dba ICS Electronics
 E06000-E06FFF     (base 16)		System West dba ICS Electronics
 				7034 Commerce Circle Suite A
@@ -23641,6 +23647,12 @@ C05000-C05FFF     (base 16)		SkyCell AG
 				Hardturmstrasse 11
 				Zürich  ZH  8005
 				CH
+
+8C-1F-64   (hex)		STV Electronic GmbH
+3FC000-3FCFFF     (base 16)		STV Electronic GmbH
+				Hellweg 203-205
+				Schloss Holte  Nordrhein Westfalen  33758
+				DE
 
 70-B3-D5   (hex)		DISMUNTEL SAL
 92C000-92CFFF     (base 16)		DISMUNTEL SAL
