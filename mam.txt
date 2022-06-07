@@ -5123,6 +5123,12 @@ C00000-CFFFFF     (base 16)		HDL da Amazônia Industria Eletrônica Ltda
 				Manaus  MN  69075-010
 				BR
 
+88-3C-C5   (hex)		SERNET (SUZHOU) TECHNOLOGIES CORPORATION
+900000-9FFFFF     (base 16)		SERNET (SUZHOU) TECHNOLOGIES CORPORATION
+				NO.8 Tangzhuang Road,Suzhou Industrial Park,Su ZhouCity,JiangSu Province,China
+				Suzhou    215021
+				CN
+
 4C-4B-F9   (hex)		Shenzhen dingsheng technology co., LTD
 400000-4FFFFF     (base 16)		Shenzhen dingsheng technology co., LTD
 				Floor 3, building 5, kaijeda industrial zone, no.97, huaxing road, langkou community, dalang street, longhua district
@@ -15240,6 +15246,12 @@ D00000-DFFFFF     (base 16)		Shenzhen C & D Electronics Co., Ltd.
 700000-7FFFFF     (base 16)		Shenzhen Yecon-Tech Co.,Ltd.
 				Building 2,Cuigang Industrial Zone 6,Huaide Community,Fuyong Town,Baoan District, Shenzhen City, Guangdong province, China
 				Shenzhen  Guangdong  518000
+				CN
+
+88-3C-C5   (hex)		Shenzhen shijia chuangxin Technology Co., Ltd
+B00000-BFFFFF     (base 16)		Shenzhen shijia chuangxin Technology Co., Ltd
+				Room 301, Building A, Comprehensive Building, Jinlaiwang Industrial Park, No. 7, Jiayi Industrial Park, Guixiang Community, Guanlan Street, Longhua District, Shenzhen
+				SHENZHEN    51800
 				CN
 
 88-3C-C5   (hex)		Corigine, Inc
@@ -25457,14 +25469,14 @@ F00000-FFFFFF     (base 16)		Private
 				Lenzburg    5600
 				CH
 
-88-3C-C5   (hex)		Shanghai Ucan Automation Equipment Co., Ltd.
-500000-5FFFFF     (base 16)		Shanghai Ucan Automation Equipment Co., Ltd.
-				4F, Building (5), No. 8, Hangyi Road, Fengxian District, Shanghai
-				Shanghai    201499
-				CN
-
 88-3C-C5   (hex)		shenzhen Feng Jing Sheng Electronics Technology Co.,Ltd
 300000-3FFFFF     (base 16)		shenzhen Feng Jing Sheng Electronics Technology Co.,Ltd
 				Fucheng Subdistrict
 				Shenzhen  Guangdong  518000
+				CN
+
+88-3C-C5   (hex)		Shanghai Ucan Automation Equipment Co., Ltd.
+500000-5FFFFF     (base 16)		Shanghai Ucan Automation Equipment Co., Ltd.
+				4F, Building (5), No. 8, Hangyi Road, Fengxian District, Shanghai
+				Shanghai    201499
 				CN
