@@ -5129,6 +5129,18 @@ C00000-CFFFFF     (base 16)		HDL da Amazônia Industria Eletrônica Ltda
 				Suzhou    215021
 				CN
 
+88-3C-C5   (hex)		Lenard Enterprises Inc
+D00000-DFFFFF     (base 16)		Lenard Enterprises Inc
+				1211 Gorham St.
+				Newmarket  ON  L3Y8Y3
+				CA
+
+18-C3-F4   (hex)		VECTOR TECHNOLOGIES, LLC
+B00000-BFFFFF     (base 16)		VECTOR TECHNOLOGIES, LLC
+				Razdolnaya str, 76bldg3
+				Orel  Orel region  302038
+				RU
+
 4C-4B-F9   (hex)		Shenzhen dingsheng technology co., LTD
 400000-4FFFFF     (base 16)		Shenzhen dingsheng technology co., LTD
 				Floor 3, building 5, kaijeda industrial zone, no.97, huaxing road, langkou community, dalang street, longhua district
@@ -10007,17 +10019,17 @@ C00000-CFFFFF     (base 16)		TalkGo, Inc.
 				Fuzhou  Fujian  350000
 				CN
 
-2C-69-1D   (hex)		Panasonic Appliances Marketing Asia Pacific
-A00000-AFFFFF     (base 16)		Panasonic Appliances Marketing Asia Pacific
-				Lot 10, Jalan 13/2 
-				Petaling Jaya   Selangor  46200
-				MY
-
 88-3C-C5   (hex)		Wuhan Guangying Intelligence Technology Co., Ltd
 800000-8FFFFF     (base 16)		Wuhan Guangying Intelligence Technology Co., Ltd
 				Optics Valley High tech building, No. 2, Jiayuan Road, Hongshan District, Wuhan
 				Wuhan  HuBei  430074
 				CN
+
+2C-69-1D   (hex)		Panasonic Appliances Marketing Asia Pacific
+A00000-AFFFFF     (base 16)		Panasonic Appliances Marketing Asia Pacific
+				Lot 10, Jalan 13/2 
+				Petaling Jaya   Selangor  46200
+				MY
 
 20-85-93   (hex)		UNILUMIN GROUP CO.,LTD
 300000-3FFFFF     (base 16)		UNILUMIN GROUP CO.,LTD
@@ -20338,6 +20350,12 @@ A00000-AFFFFF     (base 16)		Fend Incorporated
 				Dobri Czintulov 28A str.
 				 Gorna Oryahovica  VT  5100
 				BG
+
+88-3C-C5   (hex)		Chengdu Data Sky Technology Co., Ltd.
+000000-0FFFFF     (base 16)		Chengdu Data Sky Technology Co., Ltd.
+				No. 88, Tianchen Road, Hezuo Street, West District, High-tech Zone, Chengdu City, Sichuan Province
+				Chengdu  Sichuan  610000
+				CN
 
 20-85-93   (hex)		Great Lite International
 700000-7FFFFF     (base 16)		Great Lite International
