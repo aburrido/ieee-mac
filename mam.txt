@@ -5129,17 +5129,17 @@ C00000-CFFFFF     (base 16)		HDL da Amazônia Industria Eletrônica Ltda
 				Suzhou    215021
 				CN
 
-88-3C-C5   (hex)		Lenard Enterprises Inc
-D00000-DFFFFF     (base 16)		Lenard Enterprises Inc
-				1211 Gorham St.
-				Newmarket  ON  L3Y8Y3
-				CA
-
 18-C3-F4   (hex)		VECTOR TECHNOLOGIES, LLC
 B00000-BFFFFF     (base 16)		VECTOR TECHNOLOGIES, LLC
 				Razdolnaya str, 76bldg3
 				Orel  Orel region  302038
 				RU
+
+88-3C-C5   (hex)		Lenard Enterprises Inc
+D00000-DFFFFF     (base 16)		Lenard Enterprises Inc
+				1211 Gorham St., Unit 3 Newmarket ON L3Y8Y3
+				 Newmarket  ON  L3Y8Y3
+				CA
 
 4C-4B-F9   (hex)		Shenzhen dingsheng technology co., LTD
 400000-4FFFFF     (base 16)		Shenzhen dingsheng technology co., LTD
