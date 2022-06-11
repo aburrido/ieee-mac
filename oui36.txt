@@ -6317,9 +6317,6 @@ FB2000-FB2FFF     (base 16)		KJ3 Elektronik AB
 				Tel Aviv  IL  6971915
 				IL
 
-70-B3-D5   (hex)		Private
-1D7000-1D7FFF     (base 16)		Private
-
 70-B3-D5   (hex)		Orlaco Products B.V.
 EAE000-EAEFFF     (base 16)		Orlaco Products B.V.
 				Albert Plesmanstraat 42
@@ -11867,6 +11864,18 @@ D5E000-D5EFFF     (base 16)		Integer.pl S.A.
 8C-1F-64   (hex)		Private
 E2D000-E2DFFF     (base 16)		Private
 
+8C-1F-64   (hex)		MECT SRL
+309000-309FFF     (base 16)		MECT SRL
+				VIA E. FERMI 57/59
+				ALPIGNANO    10091
+				IT
+
+70-B3-D5   (hex)		BAE Systems Apllied Intelligence
+1D7000-1D7FFF     (base 16)		BAE Systems Apllied Intelligence
+				170 Waterside House
+				Guildford  Surrey  GU2 7RQ
+				GB
+
 70-B3-D5   (hex)		System West dba ICS Electronics
 E06000-E06FFF     (base 16)		System West dba ICS Electronics
 				7034 Commerce Circle Suite A
@@ -17408,12 +17417,6 @@ E61000-E61FFF     (base 16)		Stange Elektronik GmbH
 				Bad Oldesloe    D-23843
 				DE
 
-8C-1F-64   (hex)		Corigine, Inc
-306000-306FFF     (base 16)		Corigine, Inc
-				4655 Old Ironsides Dr #270
-				Santa Clara  CA  95054
-				US
-
 8C-1F-64   (hex)		biosilver .co.,ltd
 641000-641FFF     (base 16)		biosilver .co.,ltd
 				2-14-4, shinyokohama
@@ -17707,6 +17710,12 @@ E62000-E62FFF     (base 16)		Axcend
 				5252 N Edgewood Dr
 				Provo  UT  84604
 				US
+
+8C-1F-64   (hex)		Corigine,Inc.
+306000-306FFF     (base 16)		Corigine,Inc.
+				Room202 ,west side of 2nd floor,Building 1,1516 Hongfeng Road
+				Huzhou  Zhejiang  313000
+				CN
 
 70-B3-D5   (hex)		YUYAMA MFG Co.,Ltd
 BBB000-BBBFFF     (base 16)		YUYAMA MFG Co.,Ltd
