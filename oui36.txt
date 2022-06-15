@@ -5996,6 +5996,18 @@ CF7000-CF7FFF     (base 16)		BusPas
 				Montreal  Quebec  H3B 1P5
 				CA
 
+8C-1F-64   (hex)		Sichuan AnSphere Technology Co. Ltd.
+208000-208FFF     (base 16)		Sichuan AnSphere Technology Co. Ltd.
+				Room 332, Building 2, Innovation Center, Science and Technology Innovation Park
+				Mian Yang  Sichuan  621000
+				CN
+
+8C-1F-64   (hex)		Kinetic Technologies
+324000-324FFF     (base 16)		Kinetic Technologies
+				6399 San Ignacio Ave #250
+				San Jose  CA  95119
+				US
+
 70-B3-D5   (hex)		EVCO SPA
 A80000-A80FFF     (base 16)		EVCO SPA
 				VIA FELTRE N. 81
@@ -29483,14 +29495,26 @@ F5B000-F5BFFF     (base 16)		SemaConnect, Inc
 				San Rafael  CA  94901
 				US
 
+70-B3-D5   (hex)		BAE Systems Apllied Intelligence
+E2D000-E2DFFF     (base 16)		BAE Systems Apllied Intelligence
+				170 Waterside House
+				Guildford  Surrey  GU2 7RQ
+				GB
+
 8C-1F-64   (hex)		GlobalInvacom
 5DB000-5DBFFF     (base 16)		GlobalInvacom
 				Global Invacom LTD,Network house ,station road
 				Maldon  Essex  CM9 4LQ
 				GB
 
-70-B3-D5   (hex)		BAE Systems Apllied Intelligence
-E2D000-E2DFFF     (base 16)		BAE Systems Apllied Intelligence
-				170 Waterside House
-				Guildford  Surrey  GU2 7RQ
-				GB
+8C-1F-64   (hex)		Guan Show Technologe Co., Ltd.
+7B5000-7B5FFF     (base 16)		Guan Show Technologe Co., Ltd.
+				No.127, Jianguo 1st Rd., Lingya Dist.
+				 Kaohsiung City     802
+				TW
+
+8C-1F-64   (hex)		Potter Electric Signal Company
+14B000-14BFFF     (base 16)		Potter Electric Signal Company
+				1609 Park 370 Place
+				Hazelwood, MO    63042
+				US
