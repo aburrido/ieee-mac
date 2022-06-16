@@ -698,6 +698,12 @@ BA6312                        (base 16)                     IDTECK
                                                             Seoul    06763                               
                                                             KR                                           
 
+CA-7D-DD                      (hex)                         EmOne (Thailand) Co.,Ltd.                    
+CA7DDD                        (base 16)                     EmOne (Thailand) Co.,Ltd.                    
+                                                            39/1 Soi.Sangkhom Songkhro 12                
+                                                            Lat Phrao  Bangkok  10230                    
+                                                            TH                                           
+
 DA-41-62                      (hex)                         Xperi Corporation                            
 DA4162                        (base 16)                     Xperi Corporation                            
                                                             5220 Las Virgenes Rd                         

@@ -20381,6 +20381,12 @@ A00000-AFFFFF     (base 16)		Fend Incorporated
 				Chengdu  Sichuan  610000
 				CN
 
+58-47-CA   (hex)		Shenzhen Meigao Electronic Equipment Co.,Ltd
+700000-7FFFFF     (base 16)		Shenzhen Meigao Electronic Equipment Co.,Ltd
+				B201 B221-B222, Pinghu Center Plant, Shenye Logistics  No. 6 Fukang Rd., Hehua Community, Pinghu Street   Longgang District, Shenzhen
+				ShenZhen    518111
+				CN
+
 20-85-93   (hex)		Great Lite International
 700000-7FFFFF     (base 16)		Great Lite International
 				11F., No.207-2, Sec. 3, Beixin Rd., Xindian Dist.,
