@@ -17747,6 +17747,12 @@ E62000-E62FFF     (base 16)		Axcend
 				Littleton  MA  01460
 				US
 
+8C-1F-64   (hex)		Monnit Corporation
+739000-739FFF     (base 16)		Monnit Corporation
+				450 South Simmons STE 670
+				Kaysville  UT  84037
+				US
+
 70-B3-D5   (hex)		YUYAMA MFG Co.,Ltd
 BBB000-BBBFFF     (base 16)		YUYAMA MFG Co.,Ltd
 				3-3-1
@@ -29518,3 +29524,15 @@ E2D000-E2DFFF     (base 16)		BAE Systems Apllied Intelligence
 				1609 Park 370 Place
 				Hazelwood, MO    63042
 				US
+
+8C-1F-64   (hex)		Control Aut Tecnologia em Automação LTDA
+511000-511FFF     (base 16)		Control Aut Tecnologia em Automação LTDA
+				Rua Pedregulhos, 48
+				Campinas   São Paulo  13090716
+				BR
+
+8C-1F-64   (hex)		Anteus Kft.
+D2A000-D2AFFF     (base 16)		Anteus Kft.
+				Veres Péter út 48
+				Budapest    1163
+				HU

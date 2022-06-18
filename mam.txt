@@ -20393,6 +20393,12 @@ E00000-EFFFFF     (base 16)		SHENZHEN MEGMEET ELECTRICAL CO., LTD
 				New York  NY  10024
 				US
 
+58-47-CA   (hex)		PRACTEK Technology Co., Ltd.
+D00000-DFFFFF     (base 16)		PRACTEK Technology Co., Ltd.
+				1/F, No.1 Building, No.168 Dieqiao Road, Pudong
+				Shanghai    201315
+				CN
+
 20-85-93   (hex)		Great Lite International
 700000-7FFFFF     (base 16)		Great Lite International
 				11F., No.207-2, Sec. 3, Beixin Rd., Xindian Dist.,
