@@ -11900,6 +11900,12 @@ E2D000-E2DFFF     (base 16)		Private
 				Miami   FL  33157 
 				US
 
+8C-1F-64   (hex)		Arcus-EDS GmbH
+698000-698FFF     (base 16)		Arcus-EDS GmbH
+				Rigaer Str. 88
+				Berlin  Berlin  10247
+				DE
+
 70-B3-D5   (hex)		System West dba ICS Electronics
 E06000-E06FFF     (base 16)		System West dba ICS Electronics
 				7034 Commerce Circle Suite A
@@ -23739,6 +23745,12 @@ C05000-C05FFF     (base 16)		SkyCell AG
 3FC000-3FCFFF     (base 16)		STV Electronic GmbH
 				Hellweg 203-205
 				Schloss Holte  Nordrhein Westfalen  33758
+				DE
+
+8C-1F-64   (hex)		Foerster-Technik GmbH
+79B000-79BFFF     (base 16)		Foerster-Technik GmbH
+				Gerwigstraße 25
+				Engen  Baden-Württemberg  78234
 				DE
 
 70-B3-D5   (hex)		DISMUNTEL SAL
