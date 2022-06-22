@@ -6008,6 +6008,12 @@ CF7000-CF7FFF     (base 16)		BusPas
 				San Jose  CA  95119
 				US
 
+8C-1F-64   (hex)		Profcon AB
+91A000-91AFFF     (base 16)		Profcon AB
+				Victor Hasselblads gata 9
+				Västra Frölunda    42131
+				SE
+
 70-B3-D5   (hex)		EVCO SPA
 A80000-A80FFF     (base 16)		EVCO SPA
 				VIA FELTRE N. 81
@@ -17729,12 +17735,6 @@ C04000-C04FFF     (base 16)		SANWA CORPORATION
 				minato-ku  Tokyo  1050004
 				JP
 
-8C-1F-64   (hex)		Corigine,Inc.
-306000-306FFF     (base 16)		Corigine,Inc.
-				Room202 ,west side of 2nd floor,Building 1,1516 Hongfeng Road
-				Huzhou  Zhejiang  313000
-				CN
-
 8C-1F-64   (hex)		Beijing Aoxing Technology Co.,Ltd
 45B000-45BFFF     (base 16)		Beijing Aoxing Technology Co.,Ltd
 				No.204,2f,building 8,Zhongguancun Software Park,No.8,Dongbeiwang West Road,Haidian District
@@ -17758,6 +17758,12 @@ E62000-E62FFF     (base 16)		Axcend
 				450 South Simmons STE 670
 				Kaysville  UT  84037
 				US
+
+8C-1F-64   (hex)		Corigine,Inc.
+306000-306FFF     (base 16)		Corigine,Inc.
+				Room202 ,west side of 2nd floor,Building 1,1516 Hongfeng Road
+				Huzhou  Zhejiang  313000 
+				CN
 
 70-B3-D5   (hex)		YUYAMA MFG Co.,Ltd
 BBB000-BBBFFF     (base 16)		YUYAMA MFG Co.,Ltd
@@ -29548,3 +29554,9 @@ D2A000-D2AFFF     (base 16)		Anteus Kft.
 				Veres Péter út 48
 				Budapest    1163
 				HU
+
+8C-1F-64   (hex)		Xicato
+1B5000-1B5FFF     (base 16)		Xicato
+				102 Cooper Court
+				LOS GATOS  CA  95032
+				US
