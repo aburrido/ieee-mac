@@ -11900,6 +11900,12 @@ E2D000-E2DFFF     (base 16)		Private
 				Lausanne    1007
 				CH
 
+8C-1F-64   (hex)		Northwest Central Indiana Community Partnerships Inc dba Wabash Heartland Innovation Network (WHIN)
+EF8000-EF8FFF     (base 16)		Northwest Central Indiana Community Partnerships Inc dba Wabash Heartland Innovation Network (WHIN)
+				1281 Win Hentschel BlvdSuite 2161
+				West Lafayette  IN  47906
+				US
+
 8C-1F-64   (hex)		Avionica 
 6A0000-6A0FFF     (base 16)		Avionica 
 				9941 West Jessamine St
@@ -11911,6 +11917,12 @@ E2D000-E2DFFF     (base 16)		Private
 				Rigaer Str. 88
 				Berlin  Berlin  10247
 				DE
+
+8C-1F-64   (hex)		biosilver .co.,ltd
+34D000-34DFFF     (base 16)		biosilver .co.,ltd
+				2-14-4, shinyokohama
+				yokohama  kanagawa  2220033
+				JP
 
 70-B3-D5   (hex)		System West dba ICS Electronics
 E06000-E06FFF     (base 16)		System West dba ICS Electronics
@@ -17764,6 +17776,18 @@ E62000-E62FFF     (base 16)		Axcend
 				Room202 ,west side of 2nd floor,Building 1,1516 Hongfeng Road
 				Huzhou  Zhejiang  313000 
 				CN
+
+8C-1F-64   (hex)		Druck Ltd.
+8E5000-8E5FFF     (base 16)		Druck Ltd.
+				Firtree Lane, Groby, Leicester
+				Le6 0FH  England  
+				GB
+
+8C-1F-64   (hex)		MB connect line GmbH Fernwartungssysteme
+2FB000-2FBFFF     (base 16)		MB connect line GmbH Fernwartungssysteme
+				Winnettener Straße 6
+				Dinkelsbuehl  Bavaria  91550
+				DE
 
 70-B3-D5   (hex)		YUYAMA MFG Co.,Ltd
 BBB000-BBBFFF     (base 16)		YUYAMA MFG Co.,Ltd
@@ -29531,18 +29555,6 @@ E2D000-E2DFFF     (base 16)		BAE Systems Apllied Intelligence
 				Maldon  Essex  CM9 4LQ
 				GB
 
-8C-1F-64   (hex)		Guan Show Technologe Co., Ltd.
-7B5000-7B5FFF     (base 16)		Guan Show Technologe Co., Ltd.
-				No.127, Jianguo 1st Rd., Lingya Dist.
-				 Kaohsiung City     802
-				TW
-
-8C-1F-64   (hex)		Potter Electric Signal Company
-14B000-14BFFF     (base 16)		Potter Electric Signal Company
-				1609 Park 370 Place
-				Hazelwood, MO    63042
-				US
-
 8C-1F-64   (hex)		Control Aut Tecnologia em Automação LTDA
 511000-511FFF     (base 16)		Control Aut Tecnologia em Automação LTDA
 				Rua Pedregulhos, 48
@@ -29554,6 +29566,24 @@ D2A000-D2AFFF     (base 16)		Anteus Kft.
 				Veres Péter út 48
 				Budapest    1163
 				HU
+
+8C-1F-64   (hex)		Guan Show Technologe Co., Ltd.
+7B5000-7B5FFF     (base 16)		Guan Show Technologe Co., Ltd.
+				No.127, Jianguo 1st Rd., Lingya Dist.
+				 Kaohsiung City     802
+				TW
+
+8C-1F-64   (hex)		KEYLINE S.P.A.
+7B6000-7B6FFF     (base 16)		KEYLINE S.P.A.
+				VIA CAMILLO BIANCHI, 2
+				CONEGLIANO  TV  31015
+				IT
+
+8C-1F-64   (hex)		Potter Electric Signal Company
+14B000-14BFFF     (base 16)		Potter Electric Signal Company
+				1609 Park 370 Place
+				Hazelwood, MO    63042
+				US
 
 8C-1F-64   (hex)		Xicato
 1B5000-1B5FFF     (base 16)		Xicato
