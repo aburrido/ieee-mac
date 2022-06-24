@@ -4979,12 +4979,6 @@ C4-A1-0E   (hex)		BARTEC PIXAVI AS
 				SANDNES  Rogaland  4313
 				NO
 
-C4-A1-0E   (hex)		HYOSUNG HEAVY INDUSTRIES
-000000-0FFFFF     (base 16)		HYOSUNG HEAVY INDUSTRIES
-				119, Mapo-daero (Gongdeok-dong), Mapo-gu
-				Seoul    04144
-				KR
-
 C4-A1-0E   (hex)		Consolinno Energy GmbH
 300000-3FFFFF     (base 16)		Consolinno Energy GmbH
 				Franz-Mayer-Straße 1
@@ -5164,6 +5158,18 @@ E00000-EFFFFF     (base 16)		myUpTech AB
 				Box 14
 				Markaryd    28532
 				SE
+
+C4-A1-0E   (hex)		HYOSUNG Heavy Industries Corporation
+000000-0FFFFF     (base 16)		HYOSUNG Heavy Industries Corporation
+				119, Mapo-daero (Gongdeok-dong), Mapo-gu
+				Seoul    04144
+				KR
+
+D4-20-00   (hex)		Annapurna labs
+700000-7FFFFF     (base 16)		Annapurna labs
+				Matam Scientific Industries Center,   Building 8.2
+				Mail box 15123  Haifa  3508409
+				IL
 
 4C-4B-F9   (hex)		Shenzhen dingsheng technology co., LTD
 400000-4FFFFF     (base 16)		Shenzhen dingsheng technology co., LTD
@@ -25612,3 +25618,9 @@ E00000-EFFFFF     (base 16)		AZURE SUMMIT TECHNOLOGY
 				1335 Gateway Drive, Suite 200
 				Melbourne  FL  32901
 				US
+
+D4-20-00   (hex)		Monolith Electric?Changzhou?Co.,Ltd.
+500000-5FFFFF     (base 16)		Monolith Electric?Changzhou?Co.,Ltd.
+				No.8,Huashan Road,Xinbei District Changzhou,Jiangsu,China
+				Changzhou  Jiangsu  213000
+				CN
