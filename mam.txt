@@ -5171,6 +5171,18 @@ D4-20-00   (hex)		Annapurna labs
 				Mail box 15123  Haifa  3508409
 				IL
 
+D4-20-00   (hex)		Zelus(HuangZhou) Technology Ltd.
+100000-1FFFFF     (base 16)		Zelus(HuangZhou) Technology Ltd.
+				Room 601-602, Building 1, Liuhe Jinzuo, Xihu District, Hangzhou City, Zhejiang Province
+				HuangZhou    310012
+				CN
+
+D4-20-00   (hex)		Wattsense
+000000-0FFFFF     (base 16)		Wattsense
+				Espace Ouest, 39 Chemin du Moulin Carron
+				Dardilly    69570
+				FR
+
 4C-4B-F9   (hex)		Shenzhen dingsheng technology co., LTD
 400000-4FFFFF     (base 16)		Shenzhen dingsheng technology co., LTD
 				Floor 3, building 5, kaijeda industrial zone, no.97, huaxing road, langkou community, dalang street, longhua district
@@ -6183,12 +6195,6 @@ B00000-BFFFFF     (base 16)		Synaccess Networks
 200000-2FFFFF     (base 16)		Deltapath, Inc.
 				2107 N 1ST ST, STE 660
 				San Jose  CA  95131
-				US
-
-0C-73-EB   (hex)		Pi Innovo LLC
-A00000-AFFFFF     (base 16)		Pi Innovo LLC
-				47023 Five Mile Rd
-				Plymouth  MI  48170
 				US
 
 3C-24-F0   (hex)		Inter Action Corporation
@@ -10078,6 +10084,18 @@ E8-6C-C7   (hex)		Huaqin Technology Co.,Ltd.
 				Metrology House, Halesfield 13
 				Telford    TF7 4PL
 				GB
+
+D4-20-00   (hex)		Dalian Baishengyuan Technology Co.,Ltd
+800000-8FFFFF     (base 16)		Dalian Baishengyuan Technology Co.,Ltd
+				3 F, Block A, no.3 Kehai Street, Dalian High-tech Industrial Park, Liaoning Province
+				Dalian    116023
+				CN
+
+0C-73-EB   (hex)		Dana
+A00000-AFFFFF     (base 16)		Dana
+				3939 Technology Drive
+				Maumee  OH  43537
+				US
 
 20-85-93   (hex)		UNILUMIN GROUP CO.,LTD
 300000-3FFFFF     (base 16)		UNILUMIN GROUP CO.,LTD
@@ -15342,6 +15360,12 @@ A00000-AFFFFF     (base 16)		Powder Watts, LLC
 B00000-BFFFFF     (base 16)		Suzhou Laisai Intelligence Technology Co.,Ltd
 				No.59 Jiangnan Avenue
 				Changshu  Jiangsu  215500
+				CN
+
+D4-20-00   (hex)		EVOC VIN Technology Co.,Ltd
+400000-4FFFFF     (base 16)		EVOC VIN Technology Co.,Ltd
+				Room 101?Evoc Technology Building?No.31 Gaoxin Central Avenue 4th Road?Nanshan District
+				Shenzhen  Guangdong  518057
 				CN
 
 4C-4B-F9   (hex)		Shandong Linkotech Electronic Co., Ltd.
