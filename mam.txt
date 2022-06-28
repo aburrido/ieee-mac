@@ -25637,14 +25637,14 @@ B00000-BFFFFF     (base 16)		Ampner Ltd
 				Vaasa    65380
 				FI
 
-58-47-CA   (hex)		AZURE SUMMIT TECHNOLOGY
-E00000-EFFFFF     (base 16)		AZURE SUMMIT TECHNOLOGY
-				1335 Gateway Drive, Suite 200
-				Melbourne  FL  32901
-				US
-
 D4-20-00   (hex)		Monolith Electric?Changzhou?Co.,Ltd.
 500000-5FFFFF     (base 16)		Monolith Electric?Changzhou?Co.,Ltd.
 				No.8,Huashan Road,Xinbei District Changzhou,Jiangsu,China
 				Changzhou  Jiangsu  213000
 				CN
+
+58-47-CA   (hex)		AZURE SUMMIT TECHNOLOGY
+E00000-EFFFFF     (base 16)		AZURE SUMMIT TECHNOLOGY
+				1335 Gateway Drive, Suite 200
+				Melbourne  FL  32901
+				US
