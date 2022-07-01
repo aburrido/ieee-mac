@@ -6020,6 +6020,18 @@ C07000-C07FFF     (base 16)		HYOSUNG Heavy Industries Corporation
 				Seoul    04144
 				KR
 
+8C-1F-64   (hex)		Noisewave Corporation
+7D9000-7D9FFF     (base 16)		Noisewave Corporation
+				20 Troy Rd. Ste 3
+				Whippany  NJ  07981
+				US
+
+8C-1F-64   (hex)		Sicon srl
+83E000-83EFFF     (base 16)		Sicon srl
+				Via Sila 1/3
+				Isola Vicentina  Vicenza  36033
+				IT
+
 70-B3-D5   (hex)		EVCO SPA
 A80000-A80FFF     (base 16)		EVCO SPA
 				VIA FELTRE N. 81
@@ -17777,18 +17789,6 @@ E62000-E62FFF     (base 16)		Axcend
 				Kaysville  UT  84037
 				US
 
-8C-1F-64   (hex)		Corigine,Inc.
-306000-306FFF     (base 16)		Corigine,Inc.
-				Room202 ,west side of 2nd floor,Building 1,1516 Hongfeng Road
-				Huzhou  Zhejiang  313000 
-				CN
-
-8C-1F-64   (hex)		Druck Ltd.
-8E5000-8E5FFF     (base 16)		Druck Ltd.
-				Firtree Lane, Groby, Leicester
-				Le6 0FH  England  
-				GB
-
 8C-1F-64   (hex)		MB connect line GmbH Fernwartungssysteme
 2FB000-2FBFFF     (base 16)		MB connect line GmbH Fernwartungssysteme
 				Winnettener Straße 6
@@ -17800,6 +17800,18 @@ E62000-E62FFF     (base 16)		Axcend
 				212 Technology Dr,Suite K
 				Irvine    92618
 				US
+
+8C-1F-64   (hex)		Druck Ltd.
+8E5000-8E5FFF     (base 16)		Druck Ltd.
+				Firtree Lane, Groby, Leicester
+				Le6 0FH  England  
+				GB
+
+8C-1F-64   (hex)		Corigine,Inc.
+306000-306FFF     (base 16)		Corigine,Inc.
+				Room202 ,west side of 2nd floor,Building 1,1516 Hongfeng Road
+				Huzhou  Zhejiang  313000 
+				CN
 
 70-B3-D5   (hex)		YUYAMA MFG Co.,Ltd
 BBB000-BBBFFF     (base 16)		YUYAMA MFG Co.,Ltd

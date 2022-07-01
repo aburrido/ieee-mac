@@ -5159,18 +5159,6 @@ E00000-EFFFFF     (base 16)		myUpTech AB
 				Markaryd    28532
 				SE
 
-C4-A1-0E   (hex)		HYOSUNG Heavy Industries Corporation
-000000-0FFFFF     (base 16)		HYOSUNG Heavy Industries Corporation
-				119, Mapo-daero (Gongdeok-dong), Mapo-gu
-				Seoul    04144
-				KR
-
-D4-20-00   (hex)		Annapurna labs
-700000-7FFFFF     (base 16)		Annapurna labs
-				Matam Scientific Industries Center,   Building 8.2
-				Mail box 15123  Haifa  3508409
-				IL
-
 D4-20-00   (hex)		Zelus(HuangZhou) Technology Ltd.
 100000-1FFFFF     (base 16)		Zelus(HuangZhou) Technology Ltd.
 				Room 601-602, Building 1, Liuhe Jinzuo, Xihu District, Hangzhou City, Zhejiang Province
@@ -5182,6 +5170,18 @@ D4-20-00   (hex)		Wattsense
 				Espace Ouest, 39 Chemin du Moulin Carron
 				Dardilly    69570
 				FR
+
+C4-A1-0E   (hex)		HYOSUNG Heavy Industries Corporation
+000000-0FFFFF     (base 16)		HYOSUNG Heavy Industries Corporation
+				119, Mapo-daero (Gongdeok-dong), Mapo-gu
+				Seoul    04144
+				KR
+
+D4-20-00   (hex)		Annapurna labs
+700000-7FFFFF     (base 16)		Annapurna labs
+				Matam Scientific Industries Center,   Building 8.2
+				Mail box 15123  Haifa  3508409
+				IL
 
 4C-4B-F9   (hex)		Shenzhen dingsheng technology co., LTD
 400000-4FFFFF     (base 16)		Shenzhen dingsheng technology co., LTD
@@ -10096,6 +10096,12 @@ A00000-AFFFFF     (base 16)		Dana
 				3939 Technology Drive
 				Maumee  OH  43537
 				US
+
+D4-20-00   (hex)		Shenzhen Volt IoT technology co.,ltd.
+B00000-BFFFFF     (base 16)		Shenzhen Volt IoT technology co.,ltd.
+				Room 902, Building B, Industry-University-Research Building, Wuhan University, Yuehai Street, Nanshan District, Shenzhen
+				Shenzhen  guangdong  518054
+				CN
 
 20-85-93   (hex)		UNILUMIN GROUP CO.,LTD
 300000-3FFFFF     (base 16)		UNILUMIN GROUP CO.,LTD
@@ -20476,6 +20482,12 @@ D00000-DFFFFF     (base 16)		PRACTEK Technology Co., Ltd.
 				161 West 87th Street
 				New York  NY  10024
 				US
+
+D4-20-00   (hex)		Shenzhen AI Develop & Manufacture Co.,LTD.
+200000-2FFFFF     (base 16)		Shenzhen AI Develop & Manufacture Co.,LTD.
+				Room 609, Building 1, Phase 2, Gaoxinqi Strategic Emerging Industrial Park, Liu Xian 1st Road,Baoan
+				Shenzhen  Guangdong  518101
+				CN
 
 20-85-93   (hex)		Great Lite International
 700000-7FFFFF     (base 16)		Great Lite International

@@ -140,6 +140,12 @@ DA1E56                        (base 16)                     OSNexus
                                                             Bellevue  WA  98005                          
                                                             US                                           
 
+BA-67-91                      (hex)                         Kandou Bus SA                                
+BA6791                        (base 16)                     Kandou Bus SA                                
+                                                            EPFL Innovation Park                         
+                                                            Lausanne  Vaud  1015                         
+                                                            CH                                           
+
 BA-4D-EA                      (hex)                         Environexus                                  
 BA4DEA                        (base 16)                     Environexus                                  
                                                             50 Ricketts Road                             
