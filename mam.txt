@@ -15380,6 +15380,18 @@ D4-20-00   (hex)		EVOC VIN Technology Co.,Ltd
 				Shenzhen  Guangdong  518057
 				CN
 
+D4-20-00   (hex)		RPUSI Communication Technology  Co.,Ltd.
+E00000-EFFFFF     (base 16)		RPUSI Communication Technology  Co.,Ltd.
+				Room 610,Building 1,No.423,Wuning Road,Putuo Dist
+				Shanghai    200036
+				CN
+
+D4-20-00   (hex)		ZUUM
+D00000-DFFFFF     (base 16)		ZUUM
+				4321 W Sam Houston Pkwy N Ste 120
+				Houston  TX  77043
+				US
+
 4C-4B-F9   (hex)		Shandong Linkotech Electronic Co., Ltd.
 600000-6FFFFF     (base 16)		Shandong Linkotech Electronic Co., Ltd.
 				22nd Floor, Building 2, Aosheng Building, No.1166 Xinyi Street, High-tech Zone
@@ -25667,14 +25679,14 @@ E00000-EFFFFF     (base 16)		AZURE SUMMIT TECHNOLOGY
 				Melbourne  FL  32901
 				US
 
-D4-20-00   (hex)		Arbe Robotics Ltd.
-300000-3FFFFF     (base 16)		Arbe Robotics Ltd.
-				107, Hashmonaim st.
-				Tel Aviv    6713321
-				IL
-
 D4-20-00   (hex)		HiAR Information Technology Co.,Ltd
 600000-6FFFFF     (base 16)		HiAR Information Technology Co.,Ltd
 				Room 501, no.570, Shengxia Road, Pudong  New Area,
 				Shanghai    200120
 				CN
+
+D4-20-00   (hex)		Arbe Robotics Ltd.
+300000-3FFFFF     (base 16)		Arbe Robotics Ltd.
+				107, Hashmonaim st.
+				Tel Aviv    6713321
+				IL
