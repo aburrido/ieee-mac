@@ -344,6 +344,12 @@ DA9D49                        (base 16)                     Calix Inc.
                                                             San Jose  CA  95131                          
                                                             US                                           
 
+7A-3F-8C                      (hex)                         Seagate Technology Thailand Ltd.             
+7A3F8C                        (base 16)                     Seagate Technology Thailand Ltd.             
+                                                            1627 Moo 7, Teparuk Road, T. Teparuk, A.Muang
+                                                            Samutprakarn    10270                        
+                                                            TH                                           
+
 BA-C4-85                      (hex)                         Fraunhofer IIS                               
 BAC485                        (base 16)                     Fraunhofer IIS                               
                                                             Am Wolfsmantel 33                            

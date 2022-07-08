@@ -6026,11 +6026,23 @@ C07000-C07FFF     (base 16)		HYOSUNG Heavy Industries Corporation
 				Whippany  NJ  07981
 				US
 
+8C-1F-64   (hex)		GS Elektromedizinsiche Geräte G. Stemple GmbH
+9B6000-9B6FFF     (base 16)		GS Elektromedizinsiche Geräte G. Stemple GmbH
+				Hauswiesenstr. 26
+				Kaufering  Bayern  86916
+				DE
+
 8C-1F-64   (hex)		Sicon srl
 83E000-83EFFF     (base 16)		Sicon srl
 				Via Sila 1/3
 				Isola Vicentina  Vicenza  36033
 				IT
+
+8C-1F-64   (hex)		Circuit Solutions
+4E7000-4E7FFF     (base 16)		Circuit Solutions
+				2514 Bonnie Dell Drive
+				South Park  PA  15129
+				US
 
 8C-1F-64   (hex)		BAE Systems
 556000-556FFF     (base 16)		BAE Systems
@@ -6043,12 +6055,6 @@ C07000-C07FFF     (base 16)		HYOSUNG Heavy Industries Corporation
 				6F, Toto building, 5-1-4, Toranomon, Minato-ku
 				Tokyo    1050001
 				JP
-
-8C-1F-64   (hex)		GS Elektromedizinsiche Geräte G. Stemple GmbH
-9B6000-9B6FFF     (base 16)		GS Elektromedizinsiche Geräte G. Stemple GmbH
-				Hauswiesenstr. 26
-				Kaufering  Bayern  86916
-				DE
 
 70-B3-D5   (hex)		EVCO SPA
 A80000-A80FFF     (base 16)		EVCO SPA
@@ -17833,6 +17839,12 @@ E62000-E62FFF     (base 16)		Axcend
 				212 Technology Dr,Suite K
 				Irvine    92618
 				US
+
+8C-1F-64   (hex)		NAS Engineering PRO
+D20000-D20FFF     (base 16)		NAS Engineering PRO
+				Liduma 17
+				Jelgava  Jelgava  LV-3001
+				LV
 
 70-B3-D5   (hex)		YPP Corporation
 119000-119FFF     (base 16)		YPP Corporation
@@ -29671,3 +29683,9 @@ F12000-F12FFF     (base 16)		CAITRON GmbH
 				Calle Ramón María Aller Ulloa, 23.
 				Lugo  Lugo  27003
 				ES
+
+8C-1F-64   (hex)		??????????
+F3B000-F3BFFF     (base 16)		??????????
+				???????????????1?1?2?219?
+				Beijing    102300
+				CN
