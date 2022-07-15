@@ -6056,6 +6056,12 @@ C07000-C07FFF     (base 16)		HYOSUNG Heavy Industries Corporation
 				Tokyo    1050001
 				JP
 
+8C-1F-64   (hex)		GVA Lighting, Inc.
+44E000-44EFFF     (base 16)		GVA Lighting, Inc.
+				2771 Bristol Circle
+				Oakville  Ontario  L6H 6X5
+				CA
+
 70-B3-D5   (hex)		EVCO SPA
 A80000-A80FFF     (base 16)		EVCO SPA
 				VIA FELTRE N. 81
@@ -11978,6 +11984,12 @@ CEB000-CEBFFF     (base 16)		EUREKA FOR SMART PROPERTIES CO. W.L.L
 				Assen    9403DR
 				NL
 
+8C-1F-64   (hex)		TEX COMPUTER SRL 
+3B6000-3B6FFF     (base 16)		TEX COMPUTER SRL 
+				Via O. Respighi 13
+				CATTOLICA   RIMINI   47841
+				IT
+
 70-B3-D5   (hex)		System West dba ICS Electronics
 E06000-E06FFF     (base 16)		System West dba ICS Electronics
 				7034 Commerce Circle Suite A
@@ -15443,12 +15455,6 @@ C58000-C58FFF     (base 16)		RMI Laser LLC
 				Lafayette  Colorado  80026
 				US
 
-70-B3-D5   (hex)		HKC Limited
-CB7000-CB7FFF     (base 16)		HKC Limited
-				Parkway Business Centre
-				Ballymount  Dublin  Dublin 24
-				IE
-
 70-B3-D5   (hex)		Molu Technology Inc., LTD.
 D8F000-D8FFFF     (base 16)		Molu Technology Inc., LTD.
 				NO. 25, Ln., 230, Zhonghe Rd.,
@@ -17858,6 +17864,18 @@ D20000-D20FFF     (base 16)		NAS Engineering PRO
 				Geumchon-gu  Seoul  153-802
 				KR
 
+70-B3-D5   (hex)		HKC Security Ltd.
+CB7000-CB7FFF     (base 16)		HKC Security Ltd.
+				Parkway Business Centre
+				Ballymount  Dublin  Dublin 24
+				IE
+
+8C-1F-64   (hex)		Applied Materials
+D3A000-D3AFFF     (base 16)		Applied Materials
+				2100 Brighton Henrietta Townline Rd
+				Rochester  NY  14623
+				US
+
 70-B3-D5   (hex)		YUYAMA MFG Co.,Ltd
 BBB000-BBBFFF     (base 16)		YUYAMA MFG Co.,Ltd
 				3-3-1
@@ -19534,12 +19552,6 @@ C49000-C49FFF     (base 16)		BTG Instruments AB
 				Room 803, 77, Seongsuil-ro, Seongdong-gu
 				SEOUL    04790
 				KR
-
-70-B3-D5   (hex)		HKC Limited
-F1F000-F1FFFF     (base 16)		HKC Limited
-				Parkway Business Centre
-				Ballymount  Dublin  Dublin 24
-				IE
 
 70-B3-D5   (hex)		Gogo BA 
 002000-002FFF     (base 16)		Gogo BA 
@@ -23857,6 +23869,12 @@ B55000-B55FFF     (base 16)		Sanchar Telesystems limited
 				A-78, GROUND FLOOR, OKHLA INDUSTRIAL AREA, PHASE - II, NEW DELHI
 				New Delhi  Delhi  110020
 				IN
+
+70-B3-D5   (hex)		HKC Security Ltd.
+F1F000-F1FFFF     (base 16)		HKC Security Ltd.
+				Parkway Business Centre
+				Ballymount  Dublin  Dublin 24
+				IE
 
 70-B3-D5   (hex)		DISMUNTEL SAL
 92C000-92CFFF     (base 16)		DISMUNTEL SAL
@@ -29707,3 +29725,15 @@ F3B000-F3BFFF     (base 16)		??????????
 				Unit 2, 62 Township Drive West
 				West Burleigh  Queensland  4219
 				AU
+
+8C-1F-64   (hex)		HKC Security Ltd.
+B0F000-B0FFFF     (base 16)		HKC Security Ltd.
+				Parkway Business Centre
+				Ballymount  Dublin  D24 WY49
+				IE
+
+8C-1F-64   (hex)		Byte Lab Grupa d.o.o.
+F3D000-F3DFFF     (base 16)		Byte Lab Grupa d.o.o.
+				Medarska 69/1
+				Zagreb    10090
+				HR

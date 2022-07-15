@@ -716,6 +716,12 @@ CA7DDD                        (base 16)                     EmOne (Thailand) Co.
                                                             Lat Phrao  Bangkok  10230                    
                                                             TH                                           
 
+BA-C8-C4                      (hex)                         Transponder & Reader Engineered Systems, Inc 
+BAC8C4                        (base 16)                     Transponder & Reader Engineered Systems, Inc 
+                                                            9651 Chalma Avenue                           
+                                                            Baton Rouge  LA  70814                       
+                                                            US                                           
+
 DA-41-62                      (hex)                         Xperi Corporation                            
 DA4162                        (base 16)                     Xperi Corporation                            
                                                             5220 Las Virgenes Rd                         
