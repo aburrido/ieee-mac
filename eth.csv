@@ -1,5 +1,5 @@
 Registry,Assignment,Organization Name,Organization Address,Protocol
-Ethertype,891c,Martin Professional A/S,Olof Palmes Allé 18 Århus N Midtjylland DK 8200 ,"This protocol is used for high bandwidth, low latency transmission of video data to video wall display devices over an Ethernet network. The protocol is proprietary to Martin Professional A/S, refer to www.martin.dk for further information."
+Ethertype,891C,Martin Professional A/S,Olof Palmes Allé 18 Århus N Midtjylland DK 8200 ,"This protocol is used for high bandwidth, low latency transmission of video data to video wall display devices over an Ethernet network. The protocol is proprietary to Martin Professional A/S, refer to www.martin.dk for further information."
 Ethertype,893C,Coraid Inc.,"255 Shoreline Drive, Suite 650 Redwood City CA - California US 94065 ","The Coraid Ethernet Console (CEC) protocol defines and implements a bidirectional conversation over raw ethernet frames with provisions for retransmission and discovery.  The CEC protocol is integrated with a console server and CEC clients in its first implementation, providing a central management solution for Coraid's appliances.
 
 http://sources.coraid.com/magic/man2html/8/cec"
@@ -10,12 +10,12 @@ Ethertype,874C,Hybrid,20863 Stevens Creek Blvd. Cupertino CA US 95014-8750 ,Prot
 Ethertype,874E,Hybrid,20863 Stevens Creek Blvd. Cupertino CA US 95014-8750 ,Protocol unavailable.
 Ethertype,802E,Tymshare,Network Technology Division  Cupertino US CA ,Protocol unavailable.
 Ethertype,8740,Siemens  AG,Otto-Han-Ring-6 Munich  DE D-81739 ,Protocol unavailable.
-Ethertype,88d8,Metro Ethernet Forum,1300 Bristol St. N. Suite 160 Newport Beach CA US 92660 ,"The Metro Ethernet Forum's MEF 8, ""Implementation Agreement for the Emulation of PDH Circuits over Metro Ethernet Networks"", provides for the emulation of TDM services belonging to the Plesiochronous Digital Hierarchy (PDH) across a Metro Ethernet Network.  Specifically it covers emulation of Nx64 kbit/s, DS1, E1, DS3 and E3 circuits.  Generically this is referred to as Circuit Emulation Services over Ethernet (CESoETH)."
+Ethertype,88D8,Metro Ethernet Forum,1300 Bristol St. N. Suite 160 Newport Beach CA US 92660 ,"The Metro Ethernet Forum's MEF 8, ""Implementation Agreement for the Emulation of PDH Circuits over Metro Ethernet Networks"", provides for the emulation of TDM services belonging to the Plesiochronous Digital Hierarchy (PDH) across a Metro Ethernet Network.  Specifically it covers emulation of Nx64 kbit/s, DS1, E1, DS3 and E3 circuits.  Generically this is referred to as Circuit Emulation Services over Ethernet (CESoETH)."
 Ethertype,8900,Red Lion,820 S. University Blvd. Mobile AL US 36609 ,Red Lion Controls Inc. proprietary
-Ethertype,88eb,"Aruba, a Hewlett Packard Enterprise Company",3333 Scott Blvd Santa Clara CA US 95054 ,This is an application for a second e-type from Aruba at this time.
+Ethertype,88EB,"Aruba, a Hewlett Packard Enterprise Company",3333 Scott Blvd Santa Clara CA US 95054 ,This is an application for a second e-type from Aruba at this time.
 Ethertype,8907,Zhejiang University,"Institute of Advanced Process Control,Zhejiang University Hangzhou Zhejiang CN 310027 ","DRP(Distributed Redundancy Protocol) is a high availability ethernet protocol developed by Zhejiang University. This protocol guarantee short recovery time in case of either link failure or switch failure. And in this protocol, all switches are distributed and equal without master and slave. This protocol is useful for ring/tree/star topology."
 Ethertype,892F,International Electrotechnical Commission,"3, rue de Varembé Geneva GE CH CH-1211 ",High-availability Seamless Redundancy (HSR) protocol
-Ethertype,88cd,sercos international e.V.,Küblerstrasse 1 Süssen Baden-Württemberg DE 73079 ,SERCOS interface 
+Ethertype,88CD,sercos international e.V.,Küblerstrasse 1 Süssen Baden-Württemberg DE 73079 ,SERCOS interface 
 Ethertype,B4E3,"Cable Television Laboratories, Inc (CableLabs)",858 Coal Creek Circle Louisville CO US 80027 ,Use for varies special communications on various projects
 Ethertype,8392,Private,,Protocol unavailable.
 Ethertype,8397,Private,,Protocol unavailable.
@@ -43,7 +43,7 @@ Ethertype,8415,Private,,Protocol unavailable.
 Ethertype,83BA,Private,,Protocol unavailable.
 Ethertype,83BE,Private,,Protocol unavailable.
 Ethertype,83D4,Private,,Protocol unavailable.
-Ethertype,83E7,Private,,Protocol unavailable.
+Ethertype,"=""83E7""",Private,,Protocol unavailable.
 Ethertype,843E,Private,,Protocol unavailable.
 Ethertype,843F,Private,,Protocol unavailable.
 Ethertype,8444,Private,,Protocol unavailable.
@@ -79,8 +79,8 @@ Ethertype,84AA,Private,,Protocol unavailable.
 Ethertype,84EE,Private,,Protocol unavailable.
 Ethertype,84F1,Private,,Protocol unavailable.
 Ethertype,84F9,Private,,Protocol unavailable.
-Ethertype,84E3,Private,,Protocol unavailable.
-Ethertype,84E5,Private,,Protocol unavailable.
+Ethertype,"=""84E3""",Private,,Protocol unavailable.
+Ethertype,"=""84E5""",Private,,Protocol unavailable.
 Ethertype,84ED,Private,,Protocol unavailable.
 Ethertype,84D8,Private,,Protocol unavailable.
 Ethertype,84D9,Private,,Protocol unavailable.
@@ -120,7 +120,7 @@ Ethertype,861F,Private,,Protocol unavailable.
 Ethertype,8620,Private,,Protocol unavailable.
 Ethertype,8622,Private,,Protocol unavailable.
 Ethertype,8626,Private,,Protocol unavailable.
-Ethertype,85E6,Private,,Protocol unavailable.
+Ethertype,"=""85E6""",Private,,Protocol unavailable.
 Ethertype,85ED,Private,,Protocol unavailable.
 Ethertype,85EF,Private,,Protocol unavailable.
 Ethertype,85F1,Private,,Protocol unavailable.
@@ -175,9 +175,9 @@ Ethertype,AEFE,CPRI Cooperation c/o Ericsson AB,Torshamnsgatan 21 Stockholm  SE 
 Ethertype,A0ED,IETF 6lo working group,c/o Internet Society Reston VA US 20190-5108 ,"When carried over layer 2 technologies such as Ethernet, this ethertype
 will be used to identify IPv6 datagrams using LoWPAN encapsulation as defined
 in IETF RFC 4944 ""Transmission of IPv6 Packets over IEEE 802.15.4 Networks"""
-Ethertype,88db,Adtran Inc,901 Explorer Blvd. Huntsville AL US 35806 ,"Adtran does not currently wish to disclose it's protocols, but may desire to do so in the future."
+Ethertype,88DB,Adtran Inc,901 Explorer Blvd. Huntsville AL US 35806 ,"Adtran does not currently wish to disclose it's protocols, but may desire to do so in the future."
 Ethertype,D28B,Arista Networks,5453 Great America Parkway Santa Clara CA US 95054 ,We plan to use this Ethertype for multiple proprietary protocols.  They are still under development. We will disclose the protocols publicly once they are generally available.
-Ethertype,88e4,"VIA Technologies, Inc.","8F, 533, Chung-Cheng Road Hsin-Tien Taipei TW 231 ","Via NeTworking Switch Management Protocol (VNTSMP) provides one such solution. Switches that support VNTSMP send and receive VNTSMP PDU with one another. A switch without a CPU module (the Client) uses VNTSMP PDU (QUERY) to encapsulate control protocol PDU, such as BPDU, to the switch equipped with a CPU module (the Server) for processing. The Server then sends the Client a response PDU (REPLY) to tell it what action needs to be taken. The Server can also send a QUERY PDU to the Client for a snapshot of all statistics counters. The Client then returns it in one or more REPLY PDUs.
+Ethertype,"=""88E4""","VIA Technologies, Inc.","8F, 533, Chung-Cheng Road Hsin-Tien Taipei TW 231 ","Via NeTworking Switch Management Protocol (VNTSMP) provides one such solution. Switches that support VNTSMP send and receive VNTSMP PDU with one another. A switch without a CPU module (the Client) uses VNTSMP PDU (QUERY) to encapsulate control protocol PDU, such as BPDU, to the switch equipped with a CPU module (the Server) for processing. The Server then sends the Client a response PDU (REPLY) to tell it what action needs to be taken. The Server can also send a QUERY PDU to the Client for a snapshot of all statistics counters. The Client then returns it in one or more REPLY PDUs.
 "
 Ethertype,8949,"Mellanox Technologies, Inc.","350 Oakmead Parkway, Suite 100  Sunnyvale CA US 94085 ",Mellanox Remote Mirror Encapsulation
 Ethertype,088A,Private,,Protocol unavailable.
@@ -187,7 +187,7 @@ Ethertype,820A,"Xyplex, Inc.",330 Codman Hill Road Boxborough MA US 01719 ,Proto
 Ethertype,820D,"Xyplex, Inc.",330 Codman Hill Road Boxborough MA US 01719 ,Protocol unavailable.
 Ethertype,8210,"Xyplex, Inc.",330 Codman Hill Road Boxborough MA US 01719 ,Protocol unavailable.
 Ethertype,8216,"Xyplex, Inc.",330 Codman Hill Road Boxborough MA US 01719 ,Protocol unavailable.
-Ethertype,88c8,Sony Interactive Entertainment Inc.,1-7-1 Konan Minato-ku Tokyo JP 108-0075 ,"In our protocol, only one field must be required. It is two byte ""sub-type"" field. We manage this sub-type and assign it to each application.  Acutual protocol in each application may be vary. If sub-type is allocated, its protocol and data format can be freely designed."
+Ethertype,88C8,Sony Interactive Entertainment Inc.,1-7-1 Konan Minato-ku Tokyo JP 108-0075 ,"In our protocol, only one field must be required. It is two byte ""sub-type"" field. We manage this sub-type and assign it to each application.  Acutual protocol in each application may be vary. If sub-type is allocated, its protocol and data format can be freely designed."
 Ethertype,8874,Broadcom,2099 Gateway Place San Jose CA US 95110 ,Protocol unavailable.
 Ethertype,81FE,"Cabletron Systems, Inc.",35 Industrial Way Rochester NH US 03867 ,Protocol unavailable.
 Ethertype,8203,"Quantum Software Systems, Ltd.",175 Terence Matthews Cresent Ottawa Ontario CA K2M 1W8 ,Protocol unavailable.
@@ -244,8 +244,8 @@ Ethertype,01C3,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
 Ethertype,01AC,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
 Ethertype,01AD,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
 Ethertype,01B3,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,01E8,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,01E9,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
+Ethertype,"=""01E8""",Xerox (Experimental), Webster NY US  ,Protocol unavailable.
+Ethertype,"=""01E9""",Xerox (Experimental), Webster NY US  ,Protocol unavailable.
 Ethertype,01EA,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
 Ethertype,01A3,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
 Ethertype,01A6,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
@@ -311,10 +311,10 @@ Ethertype,10A2,Private,,Protocol unavailable.
 Ethertype,1067,Private,,Protocol unavailable.
 Ethertype,10DE,Private,,Protocol unavailable.
 Ethertype,10DF,Private,,Protocol unavailable.
-Ethertype,10E2,Private,,Protocol unavailable.
-Ethertype,10E3,Private,,Protocol unavailable.
-Ethertype,10E5,Private,,Protocol unavailable.
-Ethertype,10E8,Private,,Protocol unavailable.
+Ethertype,"=""10E2""",Private,,Protocol unavailable.
+Ethertype,"=""10E3""",Private,,Protocol unavailable.
+Ethertype,"=""10E5""",Private,,Protocol unavailable.
+Ethertype,"=""10E8""",Private,,Protocol unavailable.
 Ethertype,10B6,Private,,Protocol unavailable.
 Ethertype,10B9,Private,,Protocol unavailable.
 Ethertype,10BC,Private,,Protocol unavailable.
@@ -347,7 +347,7 @@ Ethertype,80CD,Private,,Protocol unavailable.
 Ethertype,8133,Private,,Protocol unavailable.
 Ethertype,8136,Private,,Protocol unavailable.
 Ethertype,86DB,Private,,Protocol unavailable.
-Ethertype,86E1,Private,,Protocol unavailable.
+Ethertype,"=""86E1""",Private,,Protocol unavailable.
 Ethertype,86EC,Private,,Protocol unavailable.
 Ethertype,829D,Private,,Protocol unavailable.
 Ethertype,829E,Private,,Protocol unavailable.
@@ -361,7 +361,7 @@ Ethertype,200C,Private,,Protocol unavailable.
 Ethertype,200D,Private,,Protocol unavailable.
 Ethertype,2015,Private,,Protocol unavailable.
 Ethertype,201A,Private,,Protocol unavailable.
-Ethertype,81E8,Private,,Protocol unavailable.
+Ethertype,"=""81E8""",Private,,Protocol unavailable.
 Ethertype,2068,Private,,Protocol unavailable.
 Ethertype,206C,Private,,Protocol unavailable.
 Ethertype,206D,Private,,Protocol unavailable.
@@ -386,7 +386,7 @@ Ethertype,870B,Private,,Protocol unavailable.
 Ethertype,205D,Private,,Protocol unavailable.
 Ethertype,2062,Private,,Protocol unavailable.
 Ethertype,2063,Private,,Protocol unavailable.
-Ethertype,80E0,Private,,Protocol unavailable.
+Ethertype,"=""80E0""",Private,,Protocol unavailable.
 Ethertype,813B,Private,,Protocol unavailable.
 Ethertype,80C0,Private,,Protocol unavailable.
 Ethertype,80DE,Private,,Protocol unavailable.
@@ -419,10 +419,10 @@ Ethertype,8697,Private,,Protocol unavailable.
 Ethertype,86DE,Private,,Protocol unavailable.
 Ethertype,8A96,Private,,Protocol unavailable.
 Ethertype,8A97,Private,,Protocol unavailable.
-Ethertype,88b8,IEC TC57,"3, rue de Varembre Geneva 20  CH CH-1211 ","IEC 61850 is a global standard for the use in utility communication, in particular for the information exchange between IED's in a power transmission or distribution substation.
+Ethertype,88B8,IEC TC57,"3, rue de Varembre Geneva 20  CH CH-1211 ","IEC 61850 is a global standard for the use in utility communication, in particular for the information exchange between IED's in a power transmission or distribution substation.
 
 There are three types of application services that use a specific EtherType. GOOSE uses EtherType field 88b8, GSE management services uses EtherType field 88b9. These two protocols are defined in IEC 61850-8-1. SV (Sampled Value Transmission) uses EtherType field 88ba; the protocol is defined in IEC 61850-9-1 and IEC 61850-9-2."
-Ethertype,888d,T11 Technical Committee,Sponsored by:  NCITS Secretariat Washington DC US 2005 ,"The ANSI FC-BB family of standards that have been developed, or are being developed within the INCITS T11 organization specify that all FC-BBW messages carry a fixed 8 byte Logical Link Control (LLC)/Sub Network Access Protocol (SNAP) field. The FC-BB-x LLC/SNAP header specifies an OUI of hex '00000' and requires a two byte PID that specifies Fibre Channel. This is really not something that should be assigned to a single company but instead be associated with the INCITS T11 organization or ANSI."
+Ethertype,888D,T11 Technical Committee,Sponsored by:  NCITS Secretariat Washington DC US 2005 ,"The ANSI FC-BB family of standards that have been developed, or are being developed within the INCITS T11 organization specify that all FC-BBW messages carry a fixed 8 byte Logical Link Control (LLC)/Sub Network Access Protocol (SNAP) field. The FC-BB-x LLC/SNAP header specifies an OUI of hex '00000' and requires a two byte PID that specifies Fibre Channel. This is really not something that should be assigned to a single company but instead be associated with the INCITS T11 organization or ANSI."
 Ethertype,8017,Able Computers,   US  ,Protocol unavailable.
 Ethertype,8018,Able Computers,   US  ,Protocol unavailable.
 Ethertype,8146,Vrije Universiteit,De Boelelaan 1081 Amsterdam  NL  ,EtherType used by the Amoeba Distributed Operating System protocols
@@ -447,7 +447,7 @@ Ethertype,82F4,"Walker Richer & Quinn, Inc.", Seattle WA US  ,Protocol unavailab
 Ethertype,82DC,"Walker Richer & Quinn, Inc.", Seattle WA US  ,Protocol unavailable.
 Ethertype,82DD,"Walker Richer & Quinn, Inc.", Seattle WA US  ,Protocol unavailable.
 Ethertype,82DF,"Walker Richer & Quinn, Inc.", Seattle WA US  ,Protocol unavailable.
-Ethertype,82E3,"Walker Richer & Quinn, Inc.", Seattle WA US  ,Protocol unavailable.
+Ethertype,"=""82E3""","Walker Richer & Quinn, Inc.", Seattle WA US  ,Protocol unavailable.
 Ethertype,8355,"Walker Richer & Quinn, Inc.", Seattle WA US  ,Protocol unavailable.
 Ethertype,835F,"Walker Richer & Quinn, Inc.", Seattle WA US  ,Protocol unavailable.
 Ethertype,8360,"Walker Richer & Quinn, Inc.", Seattle WA US  ,Protocol unavailable.
@@ -483,7 +483,7 @@ Ethertype,4242,PCS Basic Block Protocol,   US  ,Protocol unavailable.
 Ethertype,826E,Extra Document,   US  ,Protocol unavailable.
 Ethertype,8876,"OpenDOF Project, Inc.",3855 SW 153rd Drive Beaverton OR US 97003 ,Protocol unavailable.
 Ethertype,8950,ISO TC204 WG16,7705 San Isabel Dr. Plano Texas US 75025 ,"The Fast Networking and Transport Protocol (FNTP) is a ""stripped down"" networking and transport layer protocol that is essentially a ""port-mapping"" protocol with no networking overhead incurred at all.  It is intended for use in situations where channel capacity is limited (necessitation a minimal overhead protocol) and speed in processing of NPDUs is important.  The details of the protocol can be found in the ISO 29281 international standard."
-Ethertype,885c,Philips Medizin Systeme Boblingen GmbH,Hewlett-Packard-Straße 2 Böblingen  DE 71034 ,This EtherType is used for real-time communication between medical devices.
+Ethertype,885C,Philips Medizin Systeme Boblingen GmbH,Hewlett-Packard-Straße 2 Böblingen  DE 71034 ,This EtherType is used for real-time communication between medical devices.
 Ethertype,8892,PROFIBUS International,Haid-und-Neu-Straße 7 Karlsruhe  DE D-76131 ,Protocol unavailable.
 Ethertype,8943,Tektronix  Communications,3033 W. President George Bush Hwy Plano TX US 75075  ,Protocol unavailable.
 Ethertype,893E,Coraid Inc.,"255 Shoreline Drive, Suite 650 Redwood City CA - California US 94065 ","EL is a connection-based, lightweight transport protocol, providing the transport layer for 9P protocol while avoiding the overhead and complexity of Internet Protocol within the same network broadcast domain. It provides retransmission of lost messages and in-sequence delivery, but has no flow control and no blind retransmission.
@@ -492,7 +492,7 @@ Ethertype,893E,Coraid Inc.,"255 Shoreline Drive, Suite 650 Redwood City CA - Cal
 Ethertype,8938,HDBaseT Alliance,3855 SW 153rd Drive Beaverton OR US 97006 ,"""HDBaseT Control and Management Protocol (www.hdbaset.org)"""
 Ethertype,892E,Ozmo Devices,2595 E. Bayshore Rd. Suite 100 Palo Alto CA US 94303 ,"A protocol to enable USB type data and USB type commands to be sent between two devices connected by an IEEE802 link, typically an IEEE802.11 link. The protocol allows encoding of all information that would normally be present in a wired USB request, such as request_id and rcode along with payload data. Defined header structures allow correct delivery of the required fields. The informaion provided through the protocol enables USB like behaviour to be implemented between wirelessly connected devices. www.ozmodevices.com
 "
-Ethertype,88b4,"Instant Wireless Network Communications, Co. Ltd.","4F X Xietong Building, No. 12 Gaoxin 2nd Xi' an,  US 710075 ","WAI is a new authentication protocol that will be used to access authentication in IP based networks. This protocol establishes a logic channel between a station and access equipment by using an EtherType Field to accomplish authentication. WAI can offer secure access control by mutual certificate authentication based on AS (authentication server).
+Ethertype,88B4,"Instant Wireless Network Communications, Co. Ltd.","4F X Xietong Building, No. 12 Gaoxin 2nd Xi' an,  US 710075 ","WAI is a new authentication protocol that will be used to access authentication in IP based networks. This protocol establishes a logic channel between a station and access equipment by using an EtherType Field to accomplish authentication. WAI can offer secure access control by mutual certificate authentication based on AS (authentication server).
 WAI is more secure than the most existing authentication protocol and can protect network against attacks.
 Now we want to request a new EtherType Field to distinguish our new protocol from all all existing protocol in actual network."
 Ethertype,892C,China Broadband Wireless IP Standard group(ChinaBWIPS),100191-006#  Beijing  CN 100191 ,"TLP (TePA based LAN Privacy) protocol. 
@@ -503,7 +503,7 @@ Payload structure = TLP Ethertype (2 bytes) | Version(3 bits)|IsEncrypted(1 bit)
 Ethertype,22F3,IETF TRILL Working Group,c/o Internet Society Reston VA US 20190-5108 ,"TRILL combine the advantages of bridges and routers and is the application of link state routing to the VLAN aware customer bridging problem. The TRILL protocol is described in the base protocol document at http://tools.ietf.org/id/draft-ietf-trill-rbridge-protocol-15.txt
 The final document can be found here: http://www.ietf.org/rfc/rfc6325.txt"
 Ethertype,22EE,Huawei Technologies (Netherlands) B.V.,Karspeldreef 4 Amsterdam Z-O  NL 1101 CJ ,"   In transport network, there are many clients such as PPP, ATM, FC, etc. It is necessary to have an Ethernet type code which is followed by a 16-bit Subtype filed. The subtype field identify the client with specific requirement such as QoS. "
-Ethertype,22E8,"RAD Data Communications, Ltd.",24 Raoul Wallenberg St. Tel Aviv  IL 69719 ,"Ethernet bonding (inverse multiplexing) protocol. Ethernet bonding enables use of multiple low-datarate physical links to provide a high-datarate logical link, without identifying flows (as in LAG) or fragmenting frames (as in PME aggregation).
+Ethertype,"=""22E8""","RAD Data Communications, Ltd.",24 Raoul Wallenberg St. Tel Aviv  IL 69719 ,"Ethernet bonding (inverse multiplexing) protocol. Ethernet bonding enables use of multiple low-datarate physical links to provide a high-datarate logical link, without identifying flows (as in LAG) or fragmenting frames (as in PME aggregation).
 Ethernet bonding performs explicit differential delay compensation and explicit link bandwidth allocation.
 Ethernet bonding can exploit links with different data-rates, and does not fragment packets. 
 
@@ -512,9 +512,9 @@ For VLAN tagged frames it appears after the VLAN tag header.
 The entire Ethernet bonding header (including Ethertype) is eight bytes in length. Following the Ethertype, there is a 2-octet &quot;sequence number&quot; field, a 1-octet &quot;version&quot; field that must be set to zero, a 1-octet &quot;reserved&quot; field for future use,
 a 1-octet &quot;flags&quot; field (presently used to identify OAM messages), and a 1-octet &quot;group identifier and intermediate node traversal&quot; field.
 "
-Ethertype,88af,Life Racing Limited,Unit 6 Repton Close Basildon Essex US SS13 1LE ,"Proprietary automotive control unit protocol used by UK OEM Life Racing
+Ethertype,88AF,Life Racing Limited,Unit 6 Repton Close Basildon Essex US SS13 1LE ,"Proprietary automotive control unit protocol used by UK OEM Life Racing
 Ltd."
-Ethertype,891a,Mobile Wireless Group,2111 NE 25th Ave Hillsboro OR US 97124 ,"The protocol for this Ethertype will allow for software above the driver to periodically send packets. The periodicity allows for significant power savings for devices operating on small batteries. The power saving nature of this protocol requires that it operate at the Ethertype level; it does not fit well into the context of the TCP/IP protocol suite.
+Ethertype,891A,Mobile Wireless Group,2111 NE 25th Ave Hillsboro OR US 97124 ,"The protocol for this Ethertype will allow for software above the driver to periodically send packets. The periodicity allows for significant power savings for devices operating on small batteries. The power saving nature of this protocol requires that it operate at the Ethertype level; it does not fit well into the context of the TCP/IP protocol suite.
 
 Our first implementation used an unique OUI for Intel; however, the driver stack from Microsoft Vista requires the use of an EtherType, not an OUI value.
 "
@@ -524,21 +524,21 @@ Ethertype,8911,Enea,1100 Park St NE Washington DC US 20002 ,"The complete descri
 This is the SourceForge web site. Look under Project/Web to direct you to the LINX homepage. Or you may go directly to the documents homepage at:
 	http://linx.sourceforge.net
 "
-Ethertype,88f3,AlaxalA Networks Corporation,Shinkawasaki Mitsui Building West Tower 13F Kawasaki Kanagawa JP 212-0058 ,protocol unavailable
-Ethertype,88e6,Nortel,M/S P7903B12 Santa Clara CA US 95054 ,Nortel Ethernet OAM protocol.
-Ethertype,88bc,International Telecommunication Union - Telecommunication St,Place des Nations Geneva 20  CH CH-1211 ,Protocol unavailable.
-Ethertype,88d9,Microsoft,1 Microsoft Way Redmond WA US 98052 ,"The protocol utilizes MAC layer encapsulation for point to point, point to multipoint and broadcast communication.  The protocol is used to interconnect devices for real-time and near-real time discovery, control and eventing."
-Ethertype,88ce,"Level 5 Networks, Inc.","840 W. California Ave., STE 240 Sunnyvale CA US 94086 ","Type Protocol:
+Ethertype,88F3,AlaxalA Networks Corporation,Shinkawasaki Mitsui Building West Tower 13F Kawasaki Kanagawa JP 212-0058 ,protocol unavailable
+Ethertype,"=""88E6""",Nortel,M/S P7903B12 Santa Clara CA US 95054 ,Nortel Ethernet OAM protocol.
+Ethertype,88BC,International Telecommunication Union - Telecommunication St,Place des Nations Geneva 20  CH CH-1211 ,Protocol unavailable.
+Ethertype,88D9,Microsoft,1 Microsoft Way Redmond WA US 98052 ,"The protocol utilizes MAC layer encapsulation for point to point, point to multipoint and broadcast communication.  The protocol is used to interconnect devices for real-time and near-real time discovery, control and eventing."
+Ethertype,88CE,"Level 5 Networks, Inc.","840 W. California Ave., STE 240 Sunnyvale CA US 94086 ","Type Protocol:
 
 Remote Direct Memory Access over Ethernet (RDMAoE): a protocol for low-latency, low-overhead memory-to-memory communications among hosts interconnected by Ethernet
 "
-Ethertype,88ac,"Tenor Networks, Inc.",100 Nagog Park Acton MA US 01720-3409 ,Protocol unavailable.
-Ethertype,88aa,Nokia Networks/IP Mobility Networks,P.O. Box 301   FI 00045 ,Protocol unavailable.
-Ethertype,889f,Transition Networks,6475 City West Parkway Eden Prarie MN US 55344 ,Protocol unavailable.
+Ethertype,88AC,"Tenor Networks, Inc.",100 Nagog Park Acton MA US 01720-3409 ,Protocol unavailable.
+Ethertype,88AA,Nokia Networks/IP Mobility Networks,P.O. Box 301   FI 00045 ,Protocol unavailable.
+Ethertype,889F,Transition Networks,6475 City West Parkway Eden Prarie MN US 55344 ,Protocol unavailable.
 Ethertype,8897,Phonex Broadband,6952 So. High Tech Dr. Midvale UT US 84047 ,Protocol unavailable.
-Ethertype,888f,Lincom Wireless,5120 W. Goldleaf Circle Los Angeles CA US 90056 ,Protocol unavailable.
+Ethertype,888F,Lincom Wireless,5120 W. Goldleaf Circle Los Angeles CA US 90056 ,Protocol unavailable.
 Ethertype,8886,Big Band Networks Ltd,3 Azrieli Towers Tel Aviv  IL 67093 ,Protocol unavailable.
-Ethertype,887f,ESI,3701 E. Plano Parkway Plano TX US 75074 ,Protocol unavailable.
+Ethertype,887F,ESI,3701 E. Plano Parkway Plano TX US 75074 ,Protocol unavailable.
 Ethertype,8877,Lucent Technologies,260 14th Street NW Atlanta GA US 30318 ,Protocol unavailable.
 Ethertype,8878,Lucent Technologies Inc.,260 14th Street NW Atlanta GA US 30318 ,Protocol unavailable.
 Ethertype,8875,Adaptive Broadband Corporation,175 Science Parkway Rochester NY US 14620 ,Protocol unavailable.
@@ -647,8 +647,8 @@ Ethertype,8252,The Royal Hong Kong Jockey Club,Information Sys. Dept. Happy Vall
 Ethertype,8253,The Royal Hong Kong Jockey Club,Information Sys. Dept. Happy Valley  HK  ,Protocol unavailable.
 Ethertype,81C9,Atlantix Corporatiion,5401 NW Broken Sound Blvd. Boca Raton FLA US 33431 ,Protocol unavailable.
 Ethertype,81CB,Atlantix Corporatiion,5401 NW Broken Sound Blvd. Boca Raton FLA US 33431 ,Protocol unavailable.
-Ethertype,81E3,System Designers Software Inc.,9 New England Executive Park Burlington MA US 01803 ,Protocol unavailable.
-Ethertype,81E4,System Designers Software Inc.,9 New England Executive Park Burlington MA US 01803 ,Protocol unavailable.
+Ethertype,"=""81E3""",System Designers Software Inc.,9 New England Executive Park Burlington MA US 01803 ,Protocol unavailable.
+Ethertype,"=""81E4""",System Designers Software Inc.,9 New England Executive Park Burlington MA US 01803 ,Protocol unavailable.
 Ethertype,4406,"Computer Generation, Inc.",3855 Presidential Pkwy Atlanta GA US 30340 ,Protocol unavailable.
 Ethertype,8239,Thomson Sintra,"525, route des Dolines BP 138-06561 Valbinne Cedex FR  ",Protocol unavailable.
 Ethertype,823A,Thomson Sintra,"525, route des Dolines BP 138-06561 Valbinne Cedex FR  ",Protocol unavailable.
@@ -706,7 +706,7 @@ Ethertype,7003,Ungermann-Bass,   US  ,Protocol unavailable.
 Ethertype,8955,Megapixel VR,340 S. Lemon Ave Walnut CA US 91789 ,"High efficiency, low latency proprietary streaming data distribution protocol."
 Ethertype,22F0,	IEEE 1722 Working Group,1722 Chair c/o IEEE Piscataway NJ US 08854 ,IEEE Std. 1722-2016 Transport Protocol for Time-Sensitive Applications in Bridged Local Area Networks
 Ethertype,F8DB,Schindler Elevator Ltd.,Zugerstrasse 13 Ebikon  CH 6030 ,Real time protocol for control and safety functions for elevators and escalators
-Ethertype,88fb, International Electrotechnical Commission,"3, rue de Varembé  GENEVA 20  CH CH - 1211 ","The IEC 62439 PRP protocol operates by sending the normal (IP,..) Ethernet frames over two independent networks, while appending the frames (except BPDUs) with a redundancy control trailer to help the receiver in discarding the duplicates. 
+Ethertype,88FB, International Electrotechnical Commission,"3, rue de Varembé  GENEVA 20  CH CH - 1211 ","The IEC 62439 PRP protocol operates by sending the normal (IP,..) Ethernet frames over two independent networks, while appending the frames (except BPDUs) with a redundancy control trailer to help the receiver in discarding the duplicates. 
 The Ethertype identifies supervision frames that check the livelyness and presence or absence of nodes.
 URL:"
 Ethertype,86BE,"Software Technology, Inc.",1511 Park Ave Melbourne FL US 32901 ,Protocol unavailable.
@@ -728,8 +728,8 @@ Ethertype,879A,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protoco
 Ethertype,87B2,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
 Ethertype,87B4,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
 Ethertype,87DD,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
-Ethertype,87E3,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
-Ethertype,87E6,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
+Ethertype,"=""87E3""",Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
+Ethertype,"=""87E6""",Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
 Ethertype,87EA,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
 Ethertype,87ED,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
 Ethertype,87D3,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
@@ -740,10 +740,10 @@ Ethertype,87F3,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protoco
 Ethertype,87FA,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
 Ethertype,87B9,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
 Ethertype,8808,IEEE 802.3 Working Group,"IEEE 802.3 Chair, c/o RAC Administrator, IEEE  Piscataway NJ US 08854 ",MAC Control as defined in IEEE std 802.3
-Ethertype,88f5,IEEE 802.1 Chair," c/o RAC Administrator , IEEE Piscataway NJ US 08554 ","Multiple VLAN Registration Protocol (MVRP) defined in IEEE Std 802.1Q 
+Ethertype,88F5,IEEE 802.1 Chair," c/o RAC Administrator , IEEE Piscataway NJ US 08554 ","Multiple VLAN Registration Protocol (MVRP) defined in IEEE Std 802.1Q 
 "
-Ethertype,88b6,IEEE 802.1 Chair," c/o RAC Administrator , IEEE Piscataway NJ US 08554 ",Local Experimental EtherType 2 as defined in IEEE Std 802.  This EtherType value is available for public use and for prototype and vendor-specific protocol development.
-Ethertype,88cc,IEEE 802.1 Chair," c/o RAC Administrator , IEEE Piscataway NJ US 08554 ",Link Layer Discovery Protocol (LLDP) defined in IEEE Std 802.1AB
+Ethertype,88B6,IEEE 802.1 Chair," c/o RAC Administrator , IEEE Piscataway NJ US 08554 ",Local Experimental EtherType 2 as defined in IEEE Std 802.  This EtherType value is available for public use and for prototype and vendor-specific protocol development.
+Ethertype,88CC,IEEE 802.1 Chair," c/o RAC Administrator , IEEE Piscataway NJ US 08554 ",Link Layer Discovery Protocol (LLDP) defined in IEEE Std 802.1AB
 Ethertype,22EA,IEEE 802.1 Chair," c/o RAC Administrator , IEEE Piscataway NJ US 08554 ",Stream Reservation Protocol (SRP) defined in IEEE Std 802.1Q
 Ethertype,8940,IEEE 802.1 Chair," c/o RAC Administrator , IEEE Piscataway NJ US 08554 ","Edge Control Protocol (ECP) defined in IEEE Std 802.1Q for use with IEEE Std 802.1BR
 http://www.ieee802.org/1/files/private/bg-drafts/d2/802-1qbg-d2-0.pdf
@@ -752,8 +752,8 @@ user: p8021
 pass: go_wildcats"
 Ethertype,8910,IEEE 802.1 Working Group,"IEEE 802.1 Chair, c/o RAC Administrator IEEE Piscataway NJ US 08854  ",Encapsulated Addresses for use with the Backbone Service Instance as defined in IEEE Std 802.1Q
 Ethertype,880B,US Robotics Corporation,"1300 E. Woodfield Roar, Suite: 506 Schaumburg IL US 60173 ",PPP - IETF RFC 2637
-Ethertype,0B07,University of Berkeley,   US  ,Berkeley Reserved
 Ethertype,0B01,University of Berkeley,   US  ,Real Time Internet Protocol scheme 2
+Ethertype,0B07,University of Berkeley,   US  ,Berkeley Reserved
 Ethertype,8743,Siemens  AG,Otto-Han-Ring-6 Munich  DE D-81739 ,Protocol unavailable.
 Ethertype,8745,Siemens  AG,Otto-Han-Ring-6 Munich  DE D-81739 ,Protocol unavailable.
 Ethertype,8748,Hybrid,20863 Stevens Creek Blvd. Cupertino CA US 95014-8750 ,Protocol unavailable.
@@ -761,10 +761,10 @@ Ethertype,874F,Hybrid,20863 Stevens Creek Blvd. Cupertino CA US 95014-8750 ,Prot
 Ethertype,8750,Hybrid,20863 Stevens Creek Blvd. Cupertino CA US 95014-8750 ,Protocol unavailable.
 Ethertype,8908,Waves Audio LTD,"Azrilei Center 3, Triangle tower Tel Aviv Central IL 67023 ","Following the EtherType are the following fields, 2 bytes each in little-endian order:
 Workgroup ID, Destination LUN, Source LUN, Opcode. The combination of the first three fields along with the Ethernet address is used for classifying packets into flows. The Opcode field determines the structure of the information contained in the remaining part of the packet. Detailed information regarding the packet structure for different opcode values is not being made public at this time."
-Ethertype,88ea,"Aruba, a Hewlett Packard Enterprise Company",3333 Scott Blvd Santa Clara CA US 95054 ,For the use of transferring a new security authentication and encryption protocol between two devices at the L2 layer.  The protocol will transfer 802.1x and 256 bit AES-CBC encrypted frames across wired and wireless devices by encapsulating L2 packets.  The new ether type is needed to identify and differentiate from other packets in order to apply the the proper decryption functions.
-Ethertype,88d6,"Aruba, a Hewlett Packard Enterprise Company",3333 Scott Blvd Santa Clara CA US 95054 ,Aruba Networks L2 AES
-Ethertype,88dc,IEEE P1609 WG,3800 N Fairfax Drive #207 Arlington VA US 22203-1759 , (WAVE) Short Message Protocol (WSM) 
-Ethertype,88ab,ETHERNET Powerlink Standarization Group (EPSG),Gebaude E301 Winterthur  US CH-8401 ,ETHERNET Powerlink (EPL)
+Ethertype,88EA,"Aruba, a Hewlett Packard Enterprise Company",3333 Scott Blvd Santa Clara CA US 95054 ,For the use of transferring a new security authentication and encryption protocol between two devices at the L2 layer.  The protocol will transfer 802.1x and 256 bit AES-CBC encrypted frames across wired and wireless devices by encapsulating L2 packets.  The new ether type is needed to identify and differentiate from other packets in order to apply the the proper decryption functions.
+Ethertype,88D6,"Aruba, a Hewlett Packard Enterprise Company",3333 Scott Blvd Santa Clara CA US 95054 ,Aruba Networks L2 AES
+Ethertype,88DC,IEEE P1609 WG,3800 N Fairfax Drive #207 Arlington VA US 22203-1759 , (WAVE) Short Message Protocol (WSM) 
+Ethertype,88AB,ETHERNET Powerlink Standarization Group (EPSG),Gebaude E301 Winterthur  US CH-8401 ,ETHERNET Powerlink (EPL)
 Ethertype,86DD,USC/ISI,4676 Admiralty Way Marina del Rey CA US 90292 ,Internet Protocol Version 6 (IPV6)
 Ethertype,8395,Private,,Protocol unavailable.
 Ethertype,83BF,Private,,Protocol unavailable.
@@ -779,11 +779,11 @@ Ethertype,83AB,Private,,Protocol unavailable.
 Ethertype,83D3,Private,,Protocol unavailable.
 Ethertype,83D6,Private,,Protocol unavailable.
 Ethertype,83D7,Private,,Protocol unavailable.
-Ethertype,83E9,Private,,Protocol unavailable.
+Ethertype,"=""83E9""",Private,,Protocol unavailable.
 Ethertype,83EA,Private,,Protocol unavailable.
 Ethertype,83F3,Private,,Protocol unavailable.
 Ethertype,83DD,Private,,Protocol unavailable.
-Ethertype,83E4,Private,,Protocol unavailable.
+Ethertype,"=""83E4""",Private,,Protocol unavailable.
 Ethertype,83A0,Private,,Protocol unavailable.
 Ethertype,83A4,Private,,Protocol unavailable.
 Ethertype,83FA,Private,,Protocol unavailable.
@@ -829,10 +829,10 @@ Ethertype,84D4,Private,,Protocol unavailable.
 Ethertype,84D5,Private,,Protocol unavailable.
 Ethertype,848D,Private,,Protocol unavailable.
 Ethertype,8498,Private,,Protocol unavailable.
-Ethertype,84E8,Private,,Protocol unavailable.
+Ethertype,"=""84E8""",Private,,Protocol unavailable.
 Ethertype,84EC,Private,,Protocol unavailable.
 Ethertype,84B1,Private,,Protocol unavailable.
-Ethertype,84E4,Private,,Protocol unavailable.
+Ethertype,"=""84E4""",Private,,Protocol unavailable.
 Ethertype,853B,Private,,Protocol unavailable.
 Ethertype,853C,Private,,Protocol unavailable.
 Ethertype,853D,Private,,Protocol unavailable.
@@ -871,8 +871,8 @@ Ethertype,8594,Private,,Protocol unavailable.
 Ethertype,85D2,Private,,Protocol unavailable.
 Ethertype,85D4,Private,,Protocol unavailable.
 Ethertype,85D7,Private,,Protocol unavailable.
-Ethertype,85E3,Private,,Protocol unavailable.
-Ethertype,85E4,Private,,Protocol unavailable.
+Ethertype,"=""85E3""",Private,,Protocol unavailable.
+Ethertype,"=""85E4""",Private,,Protocol unavailable.
 Ethertype,85EA,Private,,Protocol unavailable.
 Ethertype,859D,Private,,Protocol unavailable.
 Ethertype,85A3,Private,,Protocol unavailable.
@@ -916,7 +916,7 @@ Ethertype,8805,Private,,Protocol unavailable.
 Ethertype,8879,Expand Networks,Atidim Tech Park - Bldg. 4 TelAviv  IL 61580 ,Protocol unavailable.
 Ethertype,894F,"Cisco Systems, Inc",3800 Zankar Rd San Jose CA US 95134 ,894F: NSH (Network Service Header). Reference: draft-ietf-sfc-nsh-18
 Ethertype,8936,Ericsson AB,Flöjelbergsgatan 2a Mölndal  SE SE-431 84 ,A protocol for exchange of radio data frames between a network forwarding device and a radio device. Protocol details may be released at a later stage.
-Ethertype,88bf,Proxim Corporation,28 Bay View Road Wellesley MA US 02482 ,"For encapsulation of Ethernet packets being transmitted between switch-like
+Ethertype,88BF,Proxim Corporation,28 Bay View Road Wellesley MA US 02482 ,"For encapsulation of Ethernet packets being transmitted between switch-like
 devices to carry device specific information"
 Ethertype,ED3E,IETF Routing Area,5177 Brandin Court Fremont CA US 94538 ,"EtherType is FoRCES inter-FE LFB type.
 Contains packet-processing meta-data followed by encapsulated packet. See https://datatracker.ietf.org/doc/draft-ietf-forces-interfelfb/ "
@@ -938,7 +938,7 @@ Ethertype,0400,Private,,Protocol unavailable.
 Ethertype,8918,"Hangzhou H3C Technologies Co., Limited","Oriental Electronics Bldg., #2, Chuangye RoadÂ£Â¬Shangdi Information Industry Base,Haidian District, Beijing Beijing CN 100085 ",Protocol unavailable
 Ethertype,81FB,"Cabletron Systems, Inc.",35 Industrial Way Rochester NH US 03867 ,Protocol unavailable.
 Ethertype,81FF,"Cabletron Systems, Inc.",35 Industrial Way Rochester NH US 03867 ,Protocol unavailable.
-Ethertype,88b1,"Cranite Systems, Inc.",6620 Via Del Oro San Jose CA US 95119 ,Protocol unavailable.
+Ethertype,88B1,"Cranite Systems, Inc.",6620 Via Del Oro San Jose CA US 95119 ,Protocol unavailable.
 Ethertype,0801,Xerox,   US  ,Protocol unavailable.
 Ethertype,8763,The University of Utah,Dept of Computer Science Salt Lake City UT US 84112 ,Protocol unavailable.
 Ethertype,8766,The University of Utah,Dept of Computer Science Salt Lake City UT US 84112 ,Protocol unavailable.
@@ -953,9 +953,9 @@ Ethertype,8775,Intel Corporation,2111 NE 25 Ave Hillsboro OR US 97124 ,Protocol 
 Ethertype,877D,Intel Corporation,2111 NE 25 Ave Hillsboro OR US 97124 ,Protocol unavailable.
 Ethertype,877E,Intel Corporation,2111 NE 25 Ave Hillsboro OR US 97124 ,Protocol unavailable.
 Ethertype,877F,Intel Corporation,2111 NE 25 Ave Hillsboro OR US 97124 ,Protocol unavailable.
-Ethertype,88a7,"HUAWEI TECHNOLOGIES CO.,LTD","8F, Huadian R&D Building Shenzhen Guangdong CN 518129 ",Protocol unavailable.
-Ethertype,88c1,Avaya Inc,360 Mt Kemble Ave Morristown NJ US 07960 ,Protocol unavailable.
-Ethertype,88bb,"Cisco Systems, Inc",170 W. Tasman Drive San Jose CA US 95134 ,Protocol unavailable.
+Ethertype,88A7,"HUAWEI TECHNOLOGIES CO.,LTD","8F, Huadian R&D Building Shenzhen Guangdong CN 518129 ",Protocol unavailable.
+Ethertype,88C1,Avaya Inc,360 Mt Kemble Ave Morristown NJ US 07960 ,Protocol unavailable.
+Ethertype,88BB,"Cisco Systems, Inc",170 W. Tasman Drive San Jose CA US 95134 ,Protocol unavailable.
 Ethertype,0103,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
 Ethertype,0114,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
 Ethertype,0115,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
@@ -988,8 +988,8 @@ Ethertype,0192,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
 Ethertype,0193,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
 Ethertype,0129,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
 Ethertype,01DC,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,01E0,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,01E3,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
+Ethertype,"=""01E0""",Xerox (Experimental), Webster NY US  ,Protocol unavailable.
+Ethertype,"=""01E3""",Xerox (Experimental), Webster NY US  ,Protocol unavailable.
 Ethertype,01A4,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
 Ethertype,01AA,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
 Ethertype,01AB,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
@@ -1059,8 +1059,8 @@ Ethertype,108E,Private,,Protocol unavailable.
 Ethertype,1045,Private,,Protocol unavailable.
 Ethertype,1049,Private,,Protocol unavailable.
 Ethertype,10AD,Private,,Protocol unavailable.
-Ethertype,10E4,Private,,Protocol unavailable.
-Ethertype,10E7,Private,,Protocol unavailable.
+Ethertype,"=""10E4""",Private,,Protocol unavailable.
+Ethertype,"=""10E7""",Private,,Protocol unavailable.
 Ethertype,10EB,Private,,Protocol unavailable.
 Ethertype,10FE,Private,,Protocol unavailable.
 Ethertype,80A3,Private,,Protocol unavailable.
@@ -1068,8 +1068,8 @@ Ethertype,81EA,Private,,Protocol unavailable.
 Ethertype,81EE,Private,,Protocol unavailable.
 Ethertype,80AC,Private,,Protocol unavailable.
 Ethertype,80B0,Private,,Protocol unavailable.
-Ethertype,81E6,Private,,Protocol unavailable.
-Ethertype,81E7,Private,,Protocol unavailable.
+Ethertype,"=""81E6""",Private,,Protocol unavailable.
+Ethertype,"=""81E7""",Private,,Protocol unavailable.
 Ethertype,10F3,Private,,Protocol unavailable.
 Ethertype,10F9,Private,,Protocol unavailable.
 Ethertype,81A4,Private,,Protocol unavailable.
@@ -1150,7 +1150,7 @@ Ethertype,82D6,"Walker Richer & Quinn, Inc.", Seattle WA US  ,Protocol unavailab
 Ethertype,82D9,"Walker Richer & Quinn, Inc.", Seattle WA US  ,Protocol unavailable.
 Ethertype,82DA,"Walker Richer & Quinn, Inc.", Seattle WA US  ,Protocol unavailable.
 Ethertype,82DB,"Walker Richer & Quinn, Inc.", Seattle WA US  ,Protocol unavailable.
-Ethertype,82E0,"Walker Richer & Quinn, Inc.", Seattle WA US  ,Protocol unavailable.
+Ethertype,"=""82E0""","Walker Richer & Quinn, Inc.", Seattle WA US  ,Protocol unavailable.
 Ethertype,82F5,"Walker Richer & Quinn, Inc.", Seattle WA US  ,Protocol unavailable.
 Ethertype,82F9,"Walker Richer & Quinn, Inc.", Seattle WA US  ,Protocol unavailable.
 Ethertype,82FA,"Walker Richer & Quinn, Inc.", Seattle WA US  ,Protocol unavailable.
@@ -1161,8 +1161,8 @@ Ethertype,82B5,"Walker Richer & Quinn, Inc.", Seattle WA US  ,Protocol unavailab
 Ethertype,82CA,"Walker Richer & Quinn, Inc.", Seattle WA US  ,Protocol unavailable.
 Ethertype,82D2,"Walker Richer & Quinn, Inc.", Seattle WA US  ,Protocol unavailable.
 Ethertype,82D3,"Walker Richer & Quinn, Inc.", Seattle WA US  ,Protocol unavailable.
-Ethertype,82E6,"Walker Richer & Quinn, Inc.", Seattle WA US  ,Protocol unavailable.
-Ethertype,82E8,"Walker Richer & Quinn, Inc.", Seattle WA US  ,Protocol unavailable.
+Ethertype,"=""82E6""","Walker Richer & Quinn, Inc.", Seattle WA US  ,Protocol unavailable.
+Ethertype,"=""82E8""","Walker Richer & Quinn, Inc.", Seattle WA US  ,Protocol unavailable.
 Ethertype,82EA,"Walker Richer & Quinn, Inc.", Seattle WA US  ,Protocol unavailable.
 Ethertype,8303,"Walker Richer & Quinn, Inc.", Seattle WA US  ,Protocol unavailable.
 Ethertype,8304,"Walker Richer & Quinn, Inc.", Seattle WA US  ,Protocol unavailable.
@@ -1250,7 +1250,7 @@ EtherType appears after the VLAN tag header. EtherType is followed by a 16 bit s
 by SEL.
 "
 Ethertype,8884,The ATM Forum,2570 West El Camino Real Mountainview CA US 94040-1313 ,Protocol unavailable.
-Ethertype,88dd,"Audio Engineering Society, Inc.","60 East 42nd Street, Ste. 2520 New York NY. US 10165-2520 ",AES50-2005 (publication pending); other projects in development.  All AES standards publications on-line at http://www.aes.org/publications/standards
+Ethertype,88DD,"Audio Engineering Society, Inc.","60 East 42nd Street, Ste. 2520 New York NY. US 10165-2520 ",AES50-2005 (publication pending); other projects in development.  All AES standards publications on-line at http://www.aes.org/publications/standards
 Ethertype,22F2,Association of Radio Industries and Businesses (ARIB),"Nittochi Bldg. 11F, Tokyo  JP 100-0013 ","HCfB (Header Compression for Broadcasting) is an IP header compression protocol for broadcasting channels, which is specified in ARIB STD B-32 Part 3 or Recommendation ITU-R BT. [MUXVLP] ""Multiplexing scheme for variable-length packets in digital multimedia broadcasting systems"".
 ARIB standard is available at http://www.arib.or.jp/english/html/overview/doc/2-STD-B32v2_2.pdf.
 Recommendation ITU-R BT.[MUXVLP] is available at  http://www.itu.int/md/R07-SG06-C-0200/en.
@@ -1258,58 +1258,58 @@ Recommendation ITU-R BT.[MUXVLP] is available at  http://www.itu.int/md/R07-SG06
 Ethertype,22F1,Association of Radio Industries and Businesses (ARIB),"Nittochi Bldg. 11F, Tokyo  JP 100-0013 ","ROHC (Robust Header Compression) is an IP header compression protocol specified in IETF RFC 3095 &quot;RObust Header Compression (ROHC): Framework and four profiles: RTP, UDP, ESP, and uncompressed&quot;. The specification is available at http://www.ietf.org/rfc/rfc3095.txt."
 Ethertype,22EC,KERI(Korea Electrotechnology Research Institute),1271-19 Ansan-city Gyeonggi-do KR 426-170 ,Protocol : Power-Line Communication Conformance Testing Control Protocol Based on Ethernet Protocol
 Ethertype,8885,NETSEC,"13505 Dulles Technology Dr., Ste. 1 Herdon VA US 20171 ",Protocol unavailable.
-Ethertype,88ae,"Andiamo Systems, Inc.",375 E. Tasman Dr. San Jose CA US 95134 ,Protocol unavailable.
-Ethertype,88a1,Telkonet Inc.,20374 Seneca Meadows Pkwy Germantown MD US 21401 ,Protocol unavailable.
-Ethertype,22E1,Sandvine Incorporated,408 Albert St. Waterloo Ontario CA N2L 3V3 ,"Sandvine does not currently wish to disclose it's protocols, but may desire to do so in the future.
+Ethertype,88AE,"Andiamo Systems, Inc.",375 E. Tasman Dr. San Jose CA US 95134 ,Protocol unavailable.
+Ethertype,88A1,Telkonet Inc.,20374 Seneca Meadows Pkwy Germantown MD US 21401 ,Protocol unavailable.
+Ethertype,"=""22E1""",Sandvine Incorporated,408 Albert St. Waterloo Ontario CA N2L 3V3 ,"Sandvine does not currently wish to disclose it's protocols, but may desire to do so in the future.
 "
-Ethertype,22E0,NETCORE TNDUSTRAIL CO.LTD,"the 8th floor,block C5,stage 2, Tianfu software park Gaoxin Area,Cheng Du city SiChuan CN 610041 ","NETCORE TNDUSTRAIL CO.LTD
+Ethertype,"=""22E0""",NETCORE TNDUSTRAIL CO.LTD,"the 8th floor,block C5,stage 2, Tianfu software park Gaoxin Area,Cheng Du city SiChuan CN 610041 ","NETCORE TNDUSTRAIL CO.LTD
 
 www.netcoretec.com"
-Ethertype,889b,Mindspeed Technologies,Les Taissounieres HB1 Sophia Antipolis Cedex  US 06903 ,"This EtherType Field designates the CSM_ENCAPS protocol.  It is a connectionless protocol designed to allow the assignment of Ethernet MAC addresses to devices on the Ethernet, as well as reliable data transport once MAC addresses are assigned.  The CSM_ENCAPS protocol is typically used in media gateway systems designed using Mindspeed Technologies devices.  Refer to www.mindspeed.com for further information."
-Ethertype,889e,"Remotec, Inc.",114 Union Valley Road Oakridge TN US 37830 ,Remotec Robot deterministic heartbeat and safety critical control and status protocol for hazardous duty robotic vehicles.
-Ethertype,88ad,XiMeta Technology Americas Inc.,54 Ray Street New Brunswick NJ US 08901 ,"We are manufacturing a series of devices that are connected to the Ethernet requiring secure data transmission.  Because of the security reasons, the communication between the devices is done through a proprietary communication protocol instead of well known protocols such as IP.  We therefore need an Ethertype Field for the Ethernet frame to embed our proprietary communication protocol."
-Ethertype,891e,CipherOptics,701 Corporate Center Drive Raleigh NC US 27607 ,"CipherOptics does not currently wish to disclose this protocol but may desire to do so in the future.
+Ethertype,889B,Mindspeed Technologies,Les Taissounieres HB1 Sophia Antipolis Cedex  US 06903 ,"This EtherType Field designates the CSM_ENCAPS protocol.  It is a connectionless protocol designed to allow the assignment of Ethernet MAC addresses to devices on the Ethernet, as well as reliable data transport once MAC addresses are assigned.  The CSM_ENCAPS protocol is typically used in media gateway systems designed using Mindspeed Technologies devices.  Refer to www.mindspeed.com for further information."
+Ethertype,889E,"Remotec, Inc.",114 Union Valley Road Oakridge TN US 37830 ,Remotec Robot deterministic heartbeat and safety critical control and status protocol for hazardous duty robotic vehicles.
+Ethertype,88AD,XiMeta Technology Americas Inc.,54 Ray Street New Brunswick NJ US 08901 ,"We are manufacturing a series of devices that are connected to the Ethernet requiring secure data transmission.  Because of the security reasons, the communication between the devices is done through a proprietary communication protocol instead of well known protocols such as IP.  We therefore need an Ethertype Field for the Ethernet frame to embed our proprietary communication protocol."
+Ethertype,891E,CipherOptics,701 Corporate Center Drive Raleigh NC US 27607 ,"CipherOptics does not currently wish to disclose this protocol but may desire to do so in the future.
 
 www.cipheroptics.com"
 Ethertype,8916,Element Labs,3350 Scott Blvd Santa Clara CA US 95054 ,"PXL video data protocol. Valid frame lengths are 64 octets up to 8192 octets.
 Valid first two octets of frame payload are: (00-01 thru 00-6F), (00-EE thru 00-FE),
 (80-10 thru 80-6F), (80-EE thru 80-FE)."
 Ethertype,8912,Gigle Semiconductor,Barcelona Activa- Vivero Glorias Barcelona  ES 08018 ,Ethertype used for mediaxtream Specification protocols
-Ethertype,890a,WIT,138 Avenue Leon Beranger St-Laurent-Du-Var France FR 06706 ,"Protocol WIO 
+Ethertype,890A,WIT,138 Avenue Leon Beranger St-Laurent-Du-Var France FR 06706 ,"Protocol WIO 
 For Building Automation "
-Ethertype,88fe,LS Industrial Systems. Co. Ltd.,"533, Hogye-dong Dongan-gu Anayang-si Gyeonggi-do KR 431-080 ","The newly developed protocol of LS Industrial Systems is the real-time Ethernet (RTE) protocol that designed for supporting several topologies of ring, line and star based on ISO/IEC 8802-3. Especially this protocol is suitable for high reliable automation network control systems that need minimum redundancy recovery time. The redundancy recovery time means the maximum time from failure to become fully operational again in case of a single permanent failure
+Ethertype,88FE,LS Industrial Systems. Co. Ltd.,"533, Hogye-dong Dongan-gu Anayang-si Gyeonggi-do KR 431-080 ","The newly developed protocol of LS Industrial Systems is the real-time Ethernet (RTE) protocol that designed for supporting several topologies of ring, line and star based on ISO/IEC 8802-3. Especially this protocol is suitable for high reliable automation network control systems that need minimum redundancy recovery time. The redundancy recovery time means the maximum time from failure to become fully operational again in case of a single permanent failure
 The company website is www.lsis.biz (Korean) or www.lgis.com (English).
 "
-Ethertype,88f7,IEEE I&M Society TC9,100 Bureau Drive Gaithersburg MD US 20899-8220 ,"The EtherType field assignment is to be used in the revised IEEE 1588, Standard for a Precision Clock Synchronization Protocol for Networked Measurement and Control Systems.  
+Ethertype,88F7,IEEE I&M Society TC9,100 Bureau Drive Gaithersburg MD US 20899-8220 ,"The EtherType field assignment is to be used in the revised IEEE 1588, Standard for a Precision Clock Synchronization Protocol for Networked Measurement and Control Systems.  
 
 The URL for the standard activities is: http://ieee1588.nist.gov
 "
-Ethertype,88f0,IEEE P1451.0,700 King Farm Blvd. Rockville MD US 20850 ,"IEEE P1451.0 Smart Transducer Interface for Sensors and Actuators
+Ethertype,88F0,IEEE P1451.0,700 King Farm Blvd. Rockville MD US 20850 ,"IEEE P1451.0 Smart Transducer Interface for Sensors and Actuators
 
 http://grouper.ieee.org/groups/1451/0/private/
 
 "
-Ethertype,88e0,Nortel,3500 Carling Avenue Nepean Ontario US K1Y 4H7 ,Ethernet Trunks
-Ethertype,88da,Entropic Communication Inc,9276 Scranton Rd. Suite 200 San Diego CA US 92121 ,Protocol unavailable.
-Ethertype,88d3,Digidesign,2001 Junipero Serra Blvd Daly City CA US 94014 ,"This is a proprietary and confidential protocol for the use of real-time communications with a future Digidesign product. We respectfully request that we do not document its details here.
+Ethertype,"=""88E0""",Nortel,3500 Carling Avenue Nepean Ontario US K1Y 4H7 ,Ethernet Trunks
+Ethertype,88DA,Entropic Communication Inc,9276 Scranton Rd. Suite 200 San Diego CA US 92121 ,Protocol unavailable.
+Ethertype,88D3,Digidesign,2001 Junipero Serra Blvd Daly City CA US 94014 ,"This is a proprietary and confidential protocol for the use of real-time communications with a future Digidesign product. We respectfully request that we do not document its details here.
 
  
 
  
 
 "
-Ethertype,88c0,Microsoft Corporation,One Microsoft Way Redmond WA US 98052 ,Protocol unavailable.
-Ethertype,88bd,"Atheros Communications, Inc.",529 Almanor Avenue Sunnyvale CA US 94085-3512 ,Protocol unavailable.
-Ethertype,88a9,"Meshnetworks, Inc.",485 Keller Road Maitland FL US 32751 ,Protocol unavailable.
-Ethertype,88a5,Jedai Broadband Networks,331 Newman Springs Rd. Red Bank NJ US 07701 ,Protocol unavailable.
+Ethertype,88C0,Microsoft Corporation,One Microsoft Way Redmond WA US 98052 ,Protocol unavailable.
+Ethertype,88BD,"Atheros Communications, Inc.",529 Almanor Avenue Sunnyvale CA US 94085-3512 ,Protocol unavailable.
+Ethertype,88A9,"Meshnetworks, Inc.",485 Keller Road Maitland FL US 32751 ,Protocol unavailable.
+Ethertype,88A5,Jedai Broadband Networks,331 Newman Springs Rd. Red Bank NJ US 07701 ,Protocol unavailable.
 Ethertype,8899,Realtek Semiconductor Corp.,"No. 2 Industry E. Rd. IX, Hsinchu  TW 30077 ",Protocol unavailable.
 Ethertype,8898,Aspen Networks Inc.,4655 Old Ironsides Drive Santa Clara CA US 95054 ,Protocol unavailable.
 Ethertype,8888,Santera Systems,2901 Summit Ave. Plano TX US 75074 ,Protocol unavailable.
 Ethertype,8882,Comtrol Europe Ltd,The Courtyard Studio Laughton Oxfordshire GB OX6 0EE ,Protocol unavailable.
 Ethertype,8872,UUNET Technologies,100 Manhattanville Rd. Purchase NY US 10577 ,Protocol unavailable.
 Ethertype,8871,Nippon Telegraph and Telephone Corporation,Software Laboratory Tokyo  JP 180-8585 ,Protocol unavailable.
-Ethertype,885e,Quantum Corporation,500 McCarthy Blvd. Milpitas CA US 95035 ,Protocol unavailable.
-Ethertype,885a,Foundry Networks,680 W. Maude Ave. Sunnyvale CA US 94086 ,Protocol unavailable.
+Ethertype,885E,Quantum Corporation,500 McCarthy Blvd. Milpitas CA US 95035 ,Protocol unavailable.
+Ethertype,885A,Foundry Networks,680 W. Maude Ave. Sunnyvale CA US 94086 ,Protocol unavailable.
 Ethertype,8F01,Xerox,   US  ,Protocol unavailable.
 Ethertype,8F03,Xerox,   US  ,Protocol unavailable.
 Ethertype,8F3D,Xerox,   US  ,Protocol unavailable.
@@ -1475,8 +1475,8 @@ Ethertype,87AE,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protoco
 Ethertype,87B3,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
 Ethertype,87B5,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
 Ethertype,87B7,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
-Ethertype,87E2,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
-Ethertype,87E4,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
+Ethertype,"=""87E2""",Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
+Ethertype,"=""87E4""",Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
 Ethertype,87EC,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
 Ethertype,87CA,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
 Ethertype,87D5,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
@@ -1484,23 +1484,23 @@ Ethertype,87F2,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protoco
 Ethertype,87F4,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
 Ethertype,879B,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
 Ethertype,880A,IEEE 802.3 Working Group,"IEEE 802.3 Chair, c/o RAC Administrator, IEEE  Piscataway NJ US 08854 ",Protocol unavailable.
-Ethertype,88b5,IEEE 802.1 Chair," c/o RAC Administrator , IEEE Piscataway NJ US 08554 ",Local Experimental EtherType 1 as defined in IEEE Std 802.  This EtherType value is available for public use and for prototype and vendor-specific protocol development.
+Ethertype,88B5,IEEE 802.1 Chair," c/o RAC Administrator , IEEE Piscataway NJ US 08554 ",Local Experimental EtherType 1 as defined in IEEE Std 802.  This EtherType value is available for public use and for prototype and vendor-specific protocol development.
 Ethertype,894B,IEEE 802.1 Chair," c/o RAC Administrator , IEEE Piscataway NJ US 08554 ",flow filtering tag (F-TAG) as defined in IEEE Std 802.1Q
 Ethertype,8929,IEEE 802.1 Chair," c/o RAC Administrator , IEEE Piscataway NJ US 08554 ","Multiple I-SID Registration
 Protocol (MIRP) as defined in IEEE Std 802.1Q
 "
-Ethertype,88f2,Honeywell,512 Virginia Dr Ft. Washington PA US 19034 ,WNSIA - Wireless Network for Secure Industrial Application protocol suite
-Ethertype,890d,IEEE 802.11 Working Group,c/o RAC Administrator Piscataway  NJ US 08854 ,Management protocol as defined in IEEE Std 802.11
+Ethertype,88F2,Honeywell,512 Virginia Dr Ft. Washington PA US 19034 ,WNSIA - Wireless Network for Secure Industrial Application protocol suite
+Ethertype,890D,IEEE 802.11 Working Group,c/o RAC Administrator Piscataway  NJ US 08854 ,Management protocol as defined in IEEE Std 802.11
 Ethertype,8870,IEEE 802.1 Working Group," c/o RAC Administrator , IEEE Piscataway NJ US 08554 ",LLC encapsulation as defined by IEEE Std 802.1AC.
 Ethertype,0B05,University of Berkeley,   US  ,Berkeley Reserved
 Ethertype,8742,Siemens  AG,Otto-Han-Ring-6 Munich  DE D-81739 ,Protocol unavailable.
 Ethertype,8744,Siemens  AG,Otto-Han-Ring-6 Munich  DE D-81739 ,Protocol unavailable.
 Ethertype,80F6,Siemens  AG,Otto-Han-Ring-6 Munich  DE D-81739 ,Protocol unavailable.
 Ethertype,873F,Siemens  AG,Otto-Han-Ring-6 Munich  DE D-81739 ,Protocol unavailable.
-Ethertype,88f1,Rajant Corporation,400 East King Street Malvern PA US 19355 ,"This ethertype is used exclusively by Rajant's BreadCrumb(R) Wireless Network.  Rajant's BreadCrumb Wireless Network is a robust, rapidly deployable mesh network with a highly mobile infrastructure.  For more information please visit http://www.rajant.com"
+Ethertype,88F1,Rajant Corporation,400 East King Street Malvern PA US 19355 ,"This ethertype is used exclusively by Rajant's BreadCrumb(R) Wireless Network.  Rajant's BreadCrumb Wireless Network is a robust, rapidly deployable mesh network with a highly mobile infrastructure.  For more information please visit http://www.rajant.com"
 Ethertype,8915,"Mellanox Technologies, Inc.","350 Oakmead Parkway, Suite 100  Sunnyvale CA US 94085 ",RoCE - RDMA over Converged Ethernet
-Ethertype,88e3,SIEMENS AG,Oestliche Rheinbrückenstraße 50 Karlsruhe Baden-Württemberg DE 76181 ,MRP (medium redundancy protocol)
-Ethertype,886d,Intel Corporation,JF3-410 Hillsboro OR US 97124 ,Intel Advanced Networking Services
+Ethertype,"=""88E3""",SIEMENS AG,Oestliche Rheinbrückenstraße 50 Karlsruhe Baden-Württemberg DE 76181 ,MRP (medium redundancy protocol)
+Ethertype,886D,Intel Corporation,JF3-410 Hillsboro OR US 97124 ,Intel Advanced Networking Services
 Ethertype,8137,"Novell, Inc.",122 EAST 1700 SOUTH Provo UT US  84606 ,Internetwork Packet Exchange (IPX)
 Ethertype,8138,"Novell, Inc.",122 EAST 1700 SOUTH Provo UT US  84606 ,Internetwork Packet Exchange (IPX)
 Ethertype,8399,Private,,Protocol unavailable.
@@ -1511,11 +1511,11 @@ Ethertype,83B3,Private,,Protocol unavailable.
 Ethertype,839E,Private,,Protocol unavailable.
 Ethertype,83A1,Private,,Protocol unavailable.
 Ethertype,83BB,Private,,Protocol unavailable.
-Ethertype,83E1,Private,,Protocol unavailable.
-Ethertype,83E2,Private,,Protocol unavailable.
-Ethertype,83E3,Private,,Protocol unavailable.
-Ethertype,83E6,Private,,Protocol unavailable.
-Ethertype,83E8,Private,,Protocol unavailable.
+Ethertype,"=""83E1""",Private,,Protocol unavailable.
+Ethertype,"=""83E2""",Private,,Protocol unavailable.
+Ethertype,"=""83E3""",Private,,Protocol unavailable.
+Ethertype,"=""83E6""",Private,,Protocol unavailable.
+Ethertype,"=""83E8""",Private,,Protocol unavailable.
 Ethertype,83C6,Private,,Protocol unavailable.
 Ethertype,83C7,Private,,Protocol unavailable.
 Ethertype,83C9,Private,,Protocol unavailable.
@@ -1579,8 +1579,8 @@ Ethertype,8522,Private,,Protocol unavailable.
 Ethertype,8523,Private,,Protocol unavailable.
 Ethertype,84FC,Private,,Protocol unavailable.
 Ethertype,8502,Private,,Protocol unavailable.
-Ethertype,84E2,Private,,Protocol unavailable.
-Ethertype,84E7,Private,,Protocol unavailable.
+Ethertype,"=""84E2""",Private,,Protocol unavailable.
+Ethertype,"=""84E7""",Private,,Protocol unavailable.
 Ethertype,8547,Private,,Protocol unavailable.
 Ethertype,8549,Private,,Protocol unavailable.
 Ethertype,8529,Private,,Protocol unavailable.
@@ -1626,12 +1626,12 @@ Ethertype,8635,Private,,Protocol unavailable.
 Ethertype,8636,Private,,Protocol unavailable.
 Ethertype,8637,Private,,Protocol unavailable.
 Ethertype,85DC,Private,,Protocol unavailable.
-Ethertype,85E0,Private,,Protocol unavailable.
-Ethertype,85E1,Private,,Protocol unavailable.
+Ethertype,"=""85E0""",Private,,Protocol unavailable.
+Ethertype,"=""85E1""",Private,,Protocol unavailable.
 Ethertype,861E,Private,,Protocol unavailable.
 Ethertype,8623,Private,,Protocol unavailable.
 Ethertype,8627,Private,,Protocol unavailable.
-Ethertype,85E8,Private,,Protocol unavailable.
+Ethertype,"=""85E8""",Private,,Protocol unavailable.
 Ethertype,85EB,Private,,Protocol unavailable.
 Ethertype,85F0,Private,,Protocol unavailable.
 Ethertype,85F6,Private,,Protocol unavailable.
@@ -1659,7 +1659,7 @@ Ethertype,868F,Private,,Protocol unavailable.
 Ethertype,9A22,IETF,c/o Internet Society Reston MA US 20190-5108 ,See IETF Internet Draft draft-ietf-trill-multi-topology-06.txt which is about to be published as RFC 8377.
 Ethertype,B382,"Cisco Systems, Inc.",3850 Zanker Rd. San Jose CA US 95134 ,Private Protocol
 Ethertype,884D,"Klos Technologies, Inc.",604 Daniel Webster Highway Merrimack NH US 03054 ,Protocol unavailable.
-Ethertype,88b9,IEC TC57,"3, rue de Varembre Geneva 20  CH CH-1211 ","IEC 61850 is a global standard for the use in utility communication, in particular for the information exchange between IED's in a power transmission or distribution substation.
+Ethertype,88B9,IEC TC57,"3, rue de Varembre Geneva 20  CH CH-1211 ","IEC 61850 is a global standard for the use in utility communication, in particular for the information exchange between IED's in a power transmission or distribution substation.
 
 There are three types of application services that use a specific EtherType. GOOSE uses EtherType field 88b8, GSE management services uses EtherType field 88b9. These two protocols are defined in IEC 61850-8-1. SV (Sampled Value Transmission) uses EtherType field 88ba; the protocol is defined in IEC 61850-9-1 and IEC 61850-9-2."
 Ethertype,C111,"Soraa, Inc.",6500 Kaiser Dr Suite 110 Fremont CA US 94555 ,A simple protocol will be used to manage and monitor a device or group of devices.
@@ -1683,7 +1683,7 @@ Ethertype,8103,Nortel Networks,8200 Dixie Rd Brampton Ontario CA 0000 ,Protocol 
 Ethertype,8034,PIXEL COMPUTER INC.,260 Fordham Road Wilmington MA US 01887 ,Protocol unavailable.
 Ethertype,B7EA,"Huawei Technologies, Co., Ltd","No 156 Beiqing Road, Haidian District Beijing  CN 100095 ","The Ethertype will be used to identify a “Channel” in which control messages are encapsulated as payload of GRE packets. When a GRE packet tagged with the EtherType is received, the payload will be handed to the network processor for processing."
 Ethertype,8925,General Dynamics Mission Systems,150 Rustcraft Road Dedham MA US 02026 ,Fortress Mesh Protocol
-Ethertype,88e2,"JAPAN RADIO CO., LTD.",5-1-1 Shimorenjaku Mitaka-City Tokyo JP 181-8510 ,"Japan Radio Co., Ltd.
+Ethertype,"=""88E2""","JAPAN RADIO CO., LTD.",5-1-1 Shimorenjaku Mitaka-City Tokyo JP 181-8510 ,"Japan Radio Co., Ltd.
 JRC Layer two protocol.
 www.jrc.co.jp
 "
@@ -1707,7 +1707,7 @@ Ethertype,8778,Intel Corporation,2111 NE 25 Ave Hillsboro OR US 97124 ,Protocol 
 Ethertype,8906,"Cisco Systems, Inc",170 W Tasman Drive San Jose CA US 95134 ,"FCoE - Fibre Channel over Ethernet
 "
 Ethertype,8904,"Cisco Systems, Inc",170 W Tasman Drive San Jose CA US 95134 , BCN (Backward Congestion Notification) data frame tag
-Ethertype,88be,"Cisco Systems, Inc",170 W. Tasman Drive San Jose CA US 95134 ,Protocol unavailable.
+Ethertype,88BE,"Cisco Systems, Inc",170 W. Tasman Drive San Jose CA US 95134 ,Protocol unavailable.
 Ethertype,8909,"Cisco Systems, Inc",170 W. Tasman Drive San Jose CA US 95134 ,"Decline to disclose.
 
 Cisco Proprietary."
@@ -1758,9 +1758,9 @@ Ethertype,01FB,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
 Ethertype,0808,Xerox (Frame Relay ARP) RFC1701,", Webster NY US 14580 ",Protocol unavailable.
 Ethertype,0B00,Universitiy of Berkeley,   US  ,Protocol unavailable.
 Ethertype,01DF,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,01E4,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,01E5,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,01E7,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
+Ethertype,"=""01E4""",Xerox (Experimental), Webster NY US  ,Protocol unavailable.
+Ethertype,"=""01E5""",Xerox (Experimental), Webster NY US  ,Protocol unavailable.
+Ethertype,"=""01E7""",Xerox (Experimental), Webster NY US  ,Protocol unavailable.
 Ethertype,019D,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
 Ethertype,01A5,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
 Ethertype,01A8,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
@@ -1837,18 +1837,18 @@ Ethertype,10F8,Private,,Protocol unavailable.
 Ethertype,10FA,Private,,Protocol unavailable.
 Ethertype,6010,Private,,Protocol unavailable.
 Ethertype,6014,Private,,Protocol unavailable.
-Ethertype,86E8,Private,,Protocol unavailable.
+Ethertype,"=""86E8""",Private,,Protocol unavailable.
 Ethertype,86EA,Private,,Protocol unavailable.
 Ethertype,86EB,Private,,Protocol unavailable.
 Ethertype,86ED,Private,,Protocol unavailable.
 Ethertype,8135,Private,,Protocol unavailable.
 Ethertype,8153,Private,,Protocol unavailable.
-Ethertype,86E5,Private,,Protocol unavailable.
+Ethertype,"=""86E5""",Private,,Protocol unavailable.
 Ethertype,805C,Private,,Protocol unavailable.
 Ethertype,81EB,Private,,Protocol unavailable.
 Ethertype,81F0,Private,,Protocol unavailable.
 Ethertype,81F2,Private,,Protocol unavailable.
-Ethertype,10E9,Private,,Protocol unavailable.
+Ethertype,"=""10E9""",Private,,Protocol unavailable.
 Ethertype,10EC,Private,,Protocol unavailable.
 Ethertype,10D8,Private,,Protocol unavailable.
 Ethertype,10DD,Private,,Protocol unavailable.
@@ -1894,8 +1894,8 @@ Ethertype,207B,Private,,Protocol unavailable.
 Ethertype,871B,Private,,Protocol unavailable.
 Ethertype,871D,Private,,Protocol unavailable.
 Ethertype,81CF,Private,,Protocol unavailable.
-Ethertype,80E1,Private,,Protocol unavailable.
-Ethertype,80E3,Private,,Protocol unavailable.
+Ethertype,"=""80E1""",Private,,Protocol unavailable.
+Ethertype,"=""80E3""",Private,,Protocol unavailable.
 Ethertype,8149,Private,,Protocol unavailable.
 Ethertype,207E,Private,,Protocol unavailable.
 Ethertype,207F,Private,,Protocol unavailable.
@@ -1954,7 +1954,7 @@ Ethertype,82AC,"Walker Richer & Quinn, Inc.", Seattle WA US  ,Protocol unavailab
 Ethertype,82AD,"Walker Richer & Quinn, Inc.", Seattle WA US  ,Protocol unavailable.
 Ethertype,82AF,"Walker Richer & Quinn, Inc.", Seattle WA US  ,Protocol unavailable.
 Ethertype,82DE,"Walker Richer & Quinn, Inc.", Seattle WA US  ,Protocol unavailable.
-Ethertype,82E5,"Walker Richer & Quinn, Inc.", Seattle WA US  ,Protocol unavailable.
+Ethertype,"=""82E5""","Walker Richer & Quinn, Inc.", Seattle WA US  ,Protocol unavailable.
 Ethertype,8347,"Walker Richer & Quinn, Inc.", Seattle WA US  ,Protocol unavailable.
 Ethertype,8348,"Walker Richer & Quinn, Inc.", Seattle WA US  ,Protocol unavailable.
 Ethertype,834B,"Walker Richer & Quinn, Inc.", Seattle WA US  ,Protocol unavailable.
@@ -1990,17 +1990,17 @@ Ethertype,8273,Extra Document,   US  ,Protocol unavailable.
 Ethertype,803C,DEC,   US  ,Protocol unavailable.
 Ethertype,803D,DEC,   US  ,Protocol unavailable.
 Ethertype,8954,Datasat Technologies,5 Tavistock Estate Twyford Reading GB RG10 9NJ ,"The protocol is a proprietary one; however each Ethernet packet payload will consist of a header describing the proprietary packet. The aforementioned header contains a byte describing the type and a byte describing the version of the header, thus allowing for future expansion. The type and version byte have deliberately been made the first two bytes allowing the structure of the header to be changed in the future if required."
-Ethertype,888b,Toshiba Corporation,Micro Electronics & Systems Companents Department Fuchu-shi Tokyo JP 183-8511 ,"TOSHIBA utilizes Ethernet based communications network, as a real-time control network in large number of actual manufacturing fields worldwide, which is required highly deterministic transmissions, co-existence of time-critical and non-time-critical data transmissions without prejudice to the time-critical data delivery, and  regular Ethernet based applications running in parallel to the real-time
+Ethertype,888B,Toshiba Corporation,Micro Electronics & Systems Companents Department Fuchu-shi Tokyo JP 183-8511 ,"TOSHIBA utilizes Ethernet based communications network, as a real-time control network in large number of actual manufacturing fields worldwide, which is required highly deterministic transmissions, co-existence of time-critical and non-time-critical data transmissions without prejudice to the time-critical data delivery, and  regular Ethernet based applications running in parallel to the real-time
 control applications in the same network. The protocol processes the deterministic media access for prioritized data delivery as the extension of the Ethernet MAC protocol identified by the EtherType Field of 888b, and allows deterministic time-critical data broadcasting for the synchronization, the temporal and spatial data coherency of whole I/O data and the network management data on the global data storage inside and common to each node in the network. The I/O data is for control, monitor and
 supervisory use of filed devices, and the network management data is used for the redundancy within the required time constraint."
-Ethertype,885b,Philips Medizin Systeme Boblingen GmbH,Hewlett-Packard-Straße 2 Böblingen  DE 71034 ,This EtherType is used for real-time communication between medical devices.
+Ethertype,885B,Philips Medizin Systeme Boblingen GmbH,Hewlett-Packard-Straße 2 Böblingen  DE 71034 ,This EtherType is used for real-time communication between medical devices.
 Ethertype,8947,ETSI,650 Route des lucioles Sophia antipolis  FR 06921 ,"GeoNetworking as defined in ETSI EN 302 636-4-1.
 
 Link to the protocol:
 
 http://webapp.etsi.org/workprogram/Frame_WorkItemList.asp?SearchPage=TRUE&qSORT=HIGHVERSION&qINCLUDE_SUB_TB=True&butSimple=++Search++&qETSI_STANDARD_TYPE=&qETSI_NUMBER=302+636-4-1&qETSI_ALL=TRUE&qMILESTONE=&qACHIEVED_DAY=&qACHIEVED_MONTH=&qACHIEVED_YEAR=&qREPORT_TYPE=SUMMARY&optDisplay=10&qTB_ID=&includeNonActiveTB=FALSE
 "
-Ethertype,88fc,Accedian Network,2351 boul. Alfred-Nobel St-Laurent QC CA H4S 2A9 ,"The protocol will use a common header multiplexing various subprotocols into a single ethertype. The format is as follow:
+Ethertype,88FC,Accedian Network,2351 boul. Alfred-Nobel St-Laurent QC CA H4S 2A9 ,"The protocol will use a common header multiplexing various subprotocols into a single ethertype. The format is as follow:
 
 Version   8 bits  Version of the common header
 Subtype   8 bits  Subprotocol identifier
@@ -2018,33 +2018,33 @@ Payload structure = Frame number (2 bytes) | Control and Audio Data
 Ethertype,22F4,IETF TRILL Working Group,c/o Internet Society Reston VA US 20190-5108 ,"IS-IS (Intermediate System to Intermediate System) is a link state routing protocol described in ISO/IEC 10589:2002 and IETF RFC 1195. For an example of Layer 2 use, see http://tools.ietf.org/id/draft-ietf-trill-rbridge-protocol-15.txt
 The final document can be found here: http://www.ietf.org/rfc/rfc6325.txt"
 Ethertype,22EF,"Anagran, Inc",580 North Pastoria Ave. Sunnyvale CA US 94085 ,This Ethertype will be used for FSA signalling - Q.Flowstatesig . 
-Ethertype,22E3,"Marvell Semiconductor, Inc.",5488 Marvell Lane Santa Clara CA US 95054 ,"The protocol has not been published yet; however, it will be part of the ITU-T G.9960 specification, whose PHY has been consented by ITU-T. The Ethertype will be used in messages to signify that the message/primitive is specific to G.hn, the fields are defined as per IEEE 802.3. The message will have the form:
+Ethertype,"=""22E3""","Marvell Semiconductor, Inc.",5488 Marvell Lane Santa Clara CA US 95054 ,"The protocol has not been published yet; however, it will be part of the ITU-T G.9960 specification, whose PHY has been consented by ITU-T. The Ethertype will be used in messages to signify that the message/primitive is specific to G.hn, the fields are defined as per IEEE 802.3. The message will have the form:
 DA (6 octets)|SA (6 octets)|Ethertype/TAGs (2-x octets)|MAC client LEN (2 octets)|Data (application dependent)|FCS (4 octets)"
-Ethertype,22E4,Aprius,440 N Wolfe Rd Sunnyvale CA US 94085 ,No protocol available.
-Ethertype,88d2,3GPP2,1960 Lucent Lane Naperville IL US 60566 ,This will be used in a revision of the Interoperability Specification (IOS) for cdma2000 Access Network Interfaces (document numbers A.S0011-B through A.S0017-B v1.0). This document already uses the Ether type 8881 to carry bearer data but a new number is needed to distinguish new signaling information that will be added in the next revision of the document. The most recently published version of the document is available at http://www.3gpp2.org/Public_html/specs/index.cfm#tsga.
+Ethertype,"=""22E4""",Aprius,440 N Wolfe Rd Sunnyvale CA US 94085 ,No protocol available.
+Ethertype,88D2,3GPP2,1960 Lucent Lane Naperville IL US 60566 ,This will be used in a revision of the Interoperability Specification (IOS) for cdma2000 Access Network Interfaces (document numbers A.S0011-B through A.S0017-B v1.0). This document already uses the Ether type 8881 to carry bearer data but a new number is needed to distinguish new signaling information that will be added in the next revision of the document. The most recently published version of the document is available at http://www.3gpp2.org/Public_html/specs/index.cfm#tsga.
 Ethertype,8924,iris-GmbH infrared & intelligent sensors,Ostendstraße 1-14 Berlin  DE 12459 ,"Vendor-specific protocol with multiple proprietary sub-protocols; mainly used for fast, local, TCP/IP-independent inter-device communication, as well as for bootloading, debugging and initial configuration of iris devices with Ethernet interface. iris does not currently wish to disclose its protocol specification, but may decide to do so in the future.
 Please refer to http://www.irisgmbh.de
 "
 Ethertype,8922,"VMware, Inc.",3401 Hillview Ave Palo Alto CA US 94304 ,"Following the ethernet header, the packet contains a 4-byte magic number, a 2-byte length field, and a 1-byte type field. Additional data are type dependent. For a ""beacon"" packet, the data includes a unique host identifier, a sequence number, a source virtual port identifier, and the name of the physical adapater.
 
 www.vmware.com"
-Ethertype,890c,FibroLAN Ltd.,"2 Hacarmel st., POB 544 Yokneam Illit  IL 20692 ","FibroLAN CPE Management Protocol (FCMP)
+Ethertype,890C,FibroLAN Ltd.,"2 Hacarmel st., POB 544 Yokneam Illit  IL 20692 ","FibroLAN CPE Management Protocol (FCMP)
 "
-Ethertype,88ff,FUJITSU LIMITED,"403, Kosugi-cho 1-chome, Nakahara-ku Kawasaki Kanagawa JP 211-0063 ","This Ethertype is used to identify a protocol
+Ethertype,88FF,FUJITSU LIMITED,"403, Kosugi-cho 1-chome, Nakahara-ku Kawasaki Kanagawa JP 211-0063 ","This Ethertype is used to identify a protocol
 used for Fujitsu MAC Security and so on."
-Ethertype,88ed,"Meshcom Technologies, Inc",Meritullinkatu 1 C Helsinki  FI 00170 ,Meshcom Mesh Protocol (MMP). www.meshcom.com
-Ethertype,88d5,GGSN Design & Development,2201 Lakeside Blvd. Richardson Texas US 75082 ,"Nortel Networks
+Ethertype,88ED,"Meshcom Technologies, Inc",Meritullinkatu 1 C Helsinki  FI 00170 ,Meshcom Mesh Protocol (MMP). www.meshcom.com
+Ethertype,88D5,GGSN Design & Development,2201 Lakeside Blvd. Richardson Texas US 75082 ,"Nortel Networks
 "
-Ethertype,88d1,Integral Access Inc.,6 Omni Way Chelmsford MA US 01824 ,"Not currently published
+Ethertype,88D1,Integral Access Inc.,6 Omni Way Chelmsford MA US 01824 ,"Not currently published
 Company Wedsite www.integralaccess.com"
-Ethertype,88c6,3eti,700 Kings Farm Blvd Rockville MD US 20850 ,This product is intended for 802.11 product to product communications.
-Ethertype,88c2,LEA (Laboratoire Europeen ADSL),9 rue des Charmilles Cesson SEV1 GNE Cedex FR 35577 ,Protocol unavailable.
-Ethertype,88b2,DragonWave Inc.,600-411 Lesset Dr. Kanata Ontario CA K2L 2R8 ,Protocol unavailable.
+Ethertype,88C6,3eti,700 Kings Farm Blvd Rockville MD US 20850 ,This product is intended for 802.11 product to product communications.
+Ethertype,88C2,LEA (Laboratoire Europeen ADSL),9 rue des Charmilles Cesson SEV1 GNE Cedex FR 35577 ,Protocol unavailable.
+Ethertype,88B2,DragonWave Inc.,600-411 Lesset Dr. Kanata Ontario CA K2L 2R8 ,Protocol unavailable.
 Ethertype,8880,Exbit Technology,Hoerkaer 18  Herlen DK 2730 ,Protocol unavailable.
-Ethertype,887a,Marconi Communications Inc.,8616 Freeport Parkway Irving TX US 75063 ,Protocol unavailable.
+Ethertype,887A,Marconi Communications Inc.,8616 Freeport Parkway Irving TX US 75063 ,Protocol unavailable.
 Ethertype,8868,NBX Corporation,100 Brickstone Square Andover MA US 01810 ,Protocol unavailable.
 Ethertype,8867,Lucent Technologies,1100 E. Warrenville Rd. Naperville IL US 60566 ,Protocol unavailable.
-Ethertype,885d,"Endocardial Solutions, Inc.",1450 Energy Lane St. Paul MN US 55108 ,Protocol unavailable.
+Ethertype,885D,"Endocardial Solutions, Inc.",1450 Energy Lane St. Paul MN US 55108 ,Protocol unavailable.
 Ethertype,8F06,Xerox,   US  ,Protocol unavailable.
 Ethertype,8F0A,Xerox,   US  ,Protocol unavailable.
 Ethertype,8F1B,Xerox,   US  ,Protocol unavailable.
@@ -2238,7 +2238,7 @@ Ethertype,87D1,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protoco
 Ethertype,87D8,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
 Ethertype,87DA,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
 Ethertype,87DE,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
-Ethertype,87E8,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
+Ethertype,"=""87E8""",Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
 Ethertype,87EB,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
 Ethertype,87EE,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
 Ethertype,87F0,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
@@ -2248,7 +2248,7 @@ Ethertype,87F9,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protoco
 Ethertype,87BD,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
 Ethertype,87C3,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
 Ethertype,87C6,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
-Ethertype,88a4,Beckhoff Automation GmbH & Co KG,Huelshorstweg 20 Verl  DE D-33415 ,EtherCAT
+Ethertype,88A4,Beckhoff Automation GmbH & Co KG,Huelshorstweg 20 Verl  DE D-33415 ,EtherCAT
 Ethertype,8820,APRESIA Systems Ltd,"Tsukuba Network Technical Center, Kidamari 3550 Tsuchiura-shi Ibaraki-ken JP 300-0026 ","The EtherType Field 8820 assigned for Hitachi Cable is used for 
 Hitachi Cable's proprietary plotocols such as 
  
@@ -2256,13 +2256,13 @@ PHDP(PHysical Discovery Protocol)
 VLTP(VLan Transmission Protocol)
 MMRP(Multi Master Ring Protocol)"
 Ethertype,F1C1,IEEE 802.1 Chair," c/o RAC Administrator , IEEE Piscataway NJ US 08554 ",Redundancy tag (R-TAG) as defined in IEEE Std 802.1CB
-Ethertype,22E7,IEEE 802.1 Chair," c/o RAC Administrator , IEEE Piscataway NJ US 08554 ",Congestion Notification Message (CNM) as defined in IEEE Std 802.1Q
-Ethertype,22E9,IEEE 802.1 Chair," c/o RAC Administrator , IEEE Piscataway NJ US 08554 ",Congestion Notification Tag (CN-TAG) as defined in IEEE Std 802.1Q
-Ethertype,888e,IEEE 802.1 Chair," c/o RAC Administrator , IEEE Piscataway NJ US 08554 ",Port Access Entity (PAE) for Ethernet Access Protocol (EAP) over LAN (EAPOL) as defined in IEEE Std 802.1X
-Ethertype,88a8,IEEE 802.1 Chair," c/o RAC Administrator , IEEE Piscataway NJ US 08554 ",Service VLAN Tag (S-TAG) or Backbone VLAN Tag (B-TAG) as defined in IEEE Std 802.1Q
+Ethertype,"=""22E7""",IEEE 802.1 Chair," c/o RAC Administrator , IEEE Piscataway NJ US 08554 ",Congestion Notification Message (CNM) as defined in IEEE Std 802.1Q
+Ethertype,"=""22E9""",IEEE 802.1 Chair," c/o RAC Administrator , IEEE Piscataway NJ US 08554 ",Congestion Notification Tag (CN-TAG) as defined in IEEE Std 802.1Q
+Ethertype,888E,IEEE 802.1 Chair," c/o RAC Administrator , IEEE Piscataway NJ US 08554 ",Port Access Entity (PAE) for Ethernet Access Protocol (EAP) over LAN (EAPOL) as defined in IEEE Std 802.1X
+Ethertype,88A8,IEEE 802.1 Chair," c/o RAC Administrator , IEEE Piscataway NJ US 08554 ",Service VLAN Tag (S-TAG) or Backbone VLAN Tag (B-TAG) as defined in IEEE Std 802.1Q
 Ethertype,8952,IEEE 802.1 Chair," c/o RAC Administrator , IEEE Piscataway NJ US 08554 ",Distributed Relay Control Protocol (DRCP) as defined in IEEE Std 802.1AX
-Ethertype,88e7,IEEE 802.1 Working Group,M/S P7903B12 Santa Clara CA US 95054 ,Backbone Service Instance Tag (I-TAG) as defined in IEEE Std 802.1Q
-Ethertype,88c7,IEEE 802.11 Working Group,c/o RAC Administrator Piscataway  NJ US 08854 ,RSNA Preauthentication as defined in IEEE Std 802.11
+Ethertype,"=""88E7""",IEEE 802.1 Working Group,M/S P7903B12 Santa Clara CA US 95054 ,Backbone Service Instance Tag (I-TAG) as defined in IEEE Std 802.1Q
+Ethertype,88C7,IEEE 802.11 Working Group,c/o RAC Administrator Piscataway  NJ US 08854 ,RSNA Preauthentication as defined in IEEE Std 802.11
 Ethertype,0B03,University of Berkeley,   US  ,IETF Parameter Negotiation
 Ethertype,80DD,Private,,Protocol unavailable.
 Ethertype,B6FE,EtherCAT Technology Group,Ostendstr. 196 NUremberg  DE 90482 ,"Routing functionality through branch controllers is added to the EtherCAT technology by the new EtherCAT G enhancement. IP routing is not available and VLAN based routing does not meet the requirements, so we need an own Ethertype for that purpose."
@@ -2274,9 +2274,9 @@ Ethertype,8113,Micrognosis International,160 Queen Victoria St. London EC4V 4DA 
 Ethertype,8746,Siemens  AG,Otto-Han-Ring-6 Munich  DE D-81739 ,Protocol unavailable.
 Ethertype,8861,Intel Corporation,2111 NE 25th Ave. Hillsborough OR US 97124 ,Protocol unavailable.
 Ethertype,0806,"Symbolics, Inc.",243 Vassar Street Cambridge  US 02139 ,Address Resolution Protocol - A. R. P.
-Ethertype,88e1,"HomePlug Powerline Alliance, Inc.","2400 Camino Ramon, #375 San Ramon  US 94583 ",HomePlug Specification AV MME
-Ethertype,88a2,Coraid Inc.,565 Research Dr. Athens GA US 30605 ,Advanced Technology Advancement (ATA) Protocol
-Ethertype,889a,Data Storage Institute,"DSI Building, 5 Engineering Drive 1 Kent Ridge Crescent NUS SG 117608 ",SCSI over Ethernet
+Ethertype,"=""88E1""","HomePlug Powerline Alliance, Inc.","2400 Camino Ramon, #375 San Ramon  US 94583 ",HomePlug Specification AV MME
+Ethertype,88A2,Coraid Inc.,565 Research Dr. Athens GA US 30605 ,Advanced Technology Advancement (ATA) Protocol
+Ethertype,889A,Data Storage Institute,"DSI Building, 5 Engineering Drive 1 Kent Ridge Crescent NUS SG 117608 ",SCSI over Ethernet
 Ethertype,83B2,Private,,Protocol unavailable.
 Ethertype,83B4,Private,,Protocol unavailable.
 Ethertype,83B6,Private,,Protocol unavailable.
@@ -2416,8 +2416,8 @@ Ethertype,8607,Private,,Protocol unavailable.
 Ethertype,85D8,Private,,Protocol unavailable.
 Ethertype,85DA,Private,,Protocol unavailable.
 Ethertype,85DD,Private,,Protocol unavailable.
-Ethertype,85E2,Private,,Protocol unavailable.
-Ethertype,85E7,Private,,Protocol unavailable.
+Ethertype,"=""85E2""",Private,,Protocol unavailable.
+Ethertype,"=""85E7""",Private,,Protocol unavailable.
 Ethertype,8632,Private,,Protocol unavailable.
 Ethertype,8634,Private,,Protocol unavailable.
 Ethertype,85EE,Private,,Protocol unavailable.
@@ -2448,7 +2448,7 @@ Ethertype,864A,Private,,Protocol unavailable.
 Ethertype,F4C4,iba AG,Koenigswarterstrasse 44 Fuerth Bavaria DE 90762 ,"The protocol interconnects devices for acquiring, recording, analyzing and processing measurement data."
 Ethertype,884B,Stratus Technologies,"5 Mill and Main Place, Suite 500 Maynard MA US 01754 ",Protocol unavailable.
 Ethertype,8824,"Ipsilon Networks, Inc.",2191 E. Bayshore Rd Palo Alto CA US 94303 ,Protocol unavailable.
-Ethertype,22E6,Nethra Imaging Incorporated,2855 Bowers Ave Santa Clara CA US 95051 ,http://expether.org
+Ethertype,"=""22E6""",Nethra Imaging Incorporated,2855 Bowers Ave Santa Clara CA US 95051 ,http://expether.org
 Ethertype,8901,Nokia Networks/IP Mobility Networks,P.O.BOX 370 Espoo  FI FI-00045 Nok ,Flow Layer Internal Protocol (FLIP) for inter-unit messaging.
 Ethertype,820C,"Xyplex, Inc.",330 Codman Hill Road Boxborough MA US 01719 ,Protocol unavailable.
 Ethertype,820F,"Xyplex, Inc.",330 Codman Hill Road Boxborough MA US 01719 ,Protocol unavailable.
@@ -2510,8 +2510,8 @@ Ethertype,014E,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
 Ethertype,0177,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
 Ethertype,01D9,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
 Ethertype,01DA,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,01E1,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,01E6,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
+Ethertype,"=""01E1""",Xerox (Experimental), Webster NY US  ,Protocol unavailable.
+Ethertype,"=""01E6""",Xerox (Experimental), Webster NY US  ,Protocol unavailable.
 Ethertype,01A7,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
 Ethertype,01A9,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
 Ethertype,01AE,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
@@ -2584,8 +2584,8 @@ Ethertype,80B2,Private,,Protocol unavailable.
 Ethertype,10D9,Private,,Protocol unavailable.
 Ethertype,10DA,Private,,Protocol unavailable.
 Ethertype,10DB,Private,,Protocol unavailable.
-Ethertype,10E0,Private,,Protocol unavailable.
-Ethertype,10E1,Private,,Protocol unavailable.
+Ethertype,"=""10E0""",Private,,Protocol unavailable.
+Ethertype,"=""10E1""",Private,,Protocol unavailable.
 Ethertype,80CE,Private,,Protocol unavailable.
 Ethertype,8132,Private,,Protocol unavailable.
 Ethertype,8134,Private,,Protocol unavailable.
@@ -2630,14 +2630,14 @@ Ethertype,8759,Private,,Protocol unavailable.
 Ethertype,201C,Private,,Protocol unavailable.
 Ethertype,201D,Private,,Protocol unavailable.
 Ethertype,201F,Private,,Protocol unavailable.
-Ethertype,86E3,Private,,Protocol unavailable.
-Ethertype,86E4,Private,,Protocol unavailable.
+Ethertype,"=""86E3""",Private,,Protocol unavailable.
+Ethertype,"=""86E4""",Private,,Protocol unavailable.
 Ethertype,82A3,Private,,Protocol unavailable.
 Ethertype,82A7,Private,,Protocol unavailable.
 Ethertype,205C,Private,,Protocol unavailable.
 Ethertype,80C7,Private,,Protocol unavailable.
 Ethertype,80D3,Private,,Protocol unavailable.
-Ethertype,80E2,Private,,Protocol unavailable.
+Ethertype,"=""80E2""",Private,,Protocol unavailable.
 Ethertype,80F3,Private,,Protocol unavailable.
 Ethertype,81CD,Private,,Protocol unavailable.
 Ethertype,81CE,Private,,Protocol unavailable.
@@ -2732,8 +2732,8 @@ Ethertype,8331,"Walker Richer & Quinn, Inc.", Seattle WA US  ,Protocol unavailab
 Ethertype,8332,"Walker Richer & Quinn, Inc.", Seattle WA US  ,Protocol unavailable.
 Ethertype,8336,"Walker Richer & Quinn, Inc.", Seattle WA US  ,Protocol unavailable.
 Ethertype,8338,"Walker Richer & Quinn, Inc.", Seattle WA US  ,Protocol unavailable.
-Ethertype,82E7,"Walker Richer & Quinn, Inc.", Seattle WA US  ,Protocol unavailable.
-Ethertype,88ba,IEC TC57,"3, rue de Varembre Geneva 20  CH CH-1211 ","IEC 61850 is a global standard for the use in utility communication, in particular for the information exchange between IED's in a power transmission or distribution substation.
+Ethertype,"=""82E7""","Walker Richer & Quinn, Inc.", Seattle WA US  ,Protocol unavailable.
+Ethertype,88BA,IEC TC57,"3, rue de Varembre Geneva 20  CH CH-1211 ","IEC 61850 is a global standard for the use in utility communication, in particular for the information exchange between IED's in a power transmission or distribution substation.
 
 There are three types of application services that use a specific EtherType. GOOSE uses EtherType field 88b8, GSE management services uses EtherType field 88b9. These two protocols are defined in IEC 61850-8-1. SV (Sampled Value Transmission) uses EtherType field 88ba; the protocol is defined in IEC 61850-9-1 and IEC 61850-9-2."
 Ethertype,0BAD,Banyan VINES,   US  ,Protocol unavailable.
@@ -2746,7 +2746,7 @@ http://www.silex.jp"
 Ethertype,8121,Philips International B.V.,"Building SFF-3.32, P.O Box 80002 NL-5600 JB EINDHOVEN  NL  ",Protocol unavailable.
 Ethertype,8385,"Walker Richer & Quinn, Inc.", Seattle WA US  ,Protocol unavailable.
 Ethertype,838C,"Walker Richer & Quinn, Inc.", Seattle WA US  ,Protocol unavailable.
-Ethertype,886b,Bay Networks,PO Box 58185 Santa Clara CA US 95052-8185 ,Nortel Networks proprietary protocol.
+Ethertype,886B,Bay Networks,PO Box 58185 Santa Clara CA US 95052-8185 ,Nortel Networks proprietary protocol.
 Ethertype,8115,Software Consulting Services,3162 Bike Path Nazareth PA US 18064 ,Protocol unavailable.
 Ethertype,8276,Fischer & Porter Co.,East County Line Rd Westminster PA US 18974 ,Protocol unavailable.
 Ethertype,827A,Fischer & Porter Co.,East County Line Rd Westminster PA US 18974 ,Protocol unavailable.
@@ -2774,8 +2774,8 @@ Ethertype,22ED,Huawei Technologies (Netherlands) B.V.,Karspeldreef 4 Amsterdam Z
 Ethertype,8869,BigBand Networks,475 Broadway Street Redwood City CA US 94065 ,"BigBand Networks has developed a chassis-based platform for Internet access. Platforms can be clustered together using Ethernet interconnect.  The clustering is designed to require no configuration (i.e. is plug and play.)
 
 To effect this BigBand Networks will be deploying its proprietary ""chassis discovery"" protocols over Ethernet.  These protocols require a Ethernet type."
-Ethertype,88d0,Nortel Wireless,Mesh Networks Nepean/Ottawa Ontario CA K2H-8E9 ,Nortel Proprietary Transit Link discovery protocol for WLAN mesh product.
-Ethertype,88c4,"AutoCell Laboratories, Inc.",125 Nagog Park Dr. Acton MA US 01720 ,"This Ethertype is used to identify a protocol used for automatic configuration of Wireless LANs.  For further information, please visit www.AutoCell.com."
+Ethertype,88D0,Nortel Wireless,Mesh Networks Nepean/Ottawa Ontario CA K2H-8E9 ,Nortel Proprietary Transit Link discovery protocol for WLAN mesh product.
+Ethertype,88C4,"AutoCell Laboratories, Inc.",125 Nagog Park Dr. Acton MA US 01720 ,"This Ethertype is used to identify a protocol used for automatic configuration of Wireless LANs.  For further information, please visit www.AutoCell.com."
 Ethertype,8920,XStreamHD,7900B Westpark Drive McLean VA US 22102 ,"Proprietary transport protocol distributing Full HD video and lossless audio to networked devices.
 www.XStreamHD.com"
 Ethertype,8919,Xsigo Systems,70 West Plumeria Drive San Jose CA US 95134 ,"Two protocols will be using this EtherType:
@@ -2790,41 +2790,41 @@ Ethertype,8086,"Intel Americas, Inc.",1906 Fox Drive Champaign IL US 61820 ,"808
 	Santa Clara, CA 95052-8119
 	UNITED STATES
 "
-Ethertype,890e,ads-tec GmbH,Raiffeisenstraße 14 Leinfelden BW DE 70771 ,Protocol unavailable
-Ethertype,88fa,VARAN-BUS-NUTZERORGANISATION,Buermoserstraße 10 LAMPRECHTSHAUSEN SALZBURG AT A-5112 ,"VARAN (Versatile Automation Random Access Network) 
+Ethertype,890E,ads-tec GmbH,Raiffeisenstraße 14 Leinfelden BW DE 70771 ,Protocol unavailable
+Ethertype,88FA,VARAN-BUS-NUTZERORGANISATION,Buermoserstraße 10 LAMPRECHTSHAUSEN SALZBURG AT A-5112 ,"VARAN (Versatile Automation Random Access Network) 
 is a manufacturer independent Ethernet based real-time network protocol. 
 
 The highlights are speed, openness, easy implementation and low costs. The Bus is seen as a 4GB memory area. The client access is realised by simple memory read/write commands.
 Other Ethernet protocols like TCP/IP can be transported thru the VARAN-Bus.
 The protocol is completely implemented into FPGA Hardware.
 "
-Ethertype,88f8,DMTF,225 SE Main St. Portland OR US 97214 ,"This EtherType is used to support the protocol called NC-SI (Network
+Ethertype,88F8,DMTF,225 SE Main St. Portland OR US 97214 ,"This EtherType is used to support the protocol called NC-SI (Network
 Controller - Sideband Interface) control command and response protocol
 which is defined by the DMTF NC-SI Specification to be published in
 early 2007."
-Ethertype,88ee,Metro Ethernet Forum,1300 Bristol St. N. Suite 160 Newport Beach CA US 92660 ,"Ethernet Local Management Interface (E-LMI).
+Ethertype,88EE,Metro Ethernet Forum,1300 Bristol St. N. Suite 160 Newport Beach CA US 92660 ,"Ethernet Local Management Interface (E-LMI).
 http://www.metroethernetforum.org/TechSpec.htm
 (The document number is ""MEF 16."")"
-Ethertype,88ec,"Talari Networks, Inc.",150 W.Iowa Ave #208 Sunnyvale CA US 94086 ,Talari Encapsulation Protocol is used to commnuicate between Talari systems deployed over public IP networks. Using the protocol Talari systems create a virtual overlay network to provide enterprise connectivity over public IP networks
-Ethertype,88e9,Motorola,120 Turnpike Road Southborough MA US 02062 ,"Motorola does not currently wish to disclose this protocol but may desire to do so in the future.
+Ethertype,88EC,"Talari Networks, Inc.",150 W.Iowa Ave #208 Sunnyvale CA US 94086 ,Talari Encapsulation Protocol is used to commnuicate between Talari systems deployed over public IP networks. Using the protocol Talari systems create a virtual overlay network to provide enterprise connectivity over public IP networks
+Ethertype,"=""88E9""",Motorola,120 Turnpike Road Southborough MA US 02062 ,"Motorola does not currently wish to disclose this protocol but may desire to do so in the future.
 "
-Ethertype,88e8,LVL7 Systems,"100 Perimeter Park Drive, Suite H Morrisville NC US 27560 ",LVL7 Systems Proprietary Protocol
-Ethertype,88de,"Akimbi Systems, Inc.", San Mateo CA US 94114-2060 ,"Akimbi does not currently wish to disclose it's protocols, but may desire to do so in the future."
-Ethertype,88d7,Vienna University of Technology,Treitlstraße 3/3 Vienna  AT 1040 ,"The purpose of TT Ethernet is to provide a seamless communication system for different types of distributed non-real-time and real-time applications of different criticality, from very simple uncritical data acquisition tasks, to multimedia systems and up to safety-critical control applications, such as fly-by-wire or drive-by wire.
+Ethertype,"=""88E8""",LVL7 Systems,"100 Perimeter Park Drive, Suite H Morrisville NC US 27560 ",LVL7 Systems Proprietary Protocol
+Ethertype,88DE,"Akimbi Systems, Inc.", San Mateo CA US 94114-2060 ,"Akimbi does not currently wish to disclose it's protocols, but may desire to do so in the future."
+Ethertype,88D7,Vienna University of Technology,Treitlstraße 3/3 Vienna  AT 1040 ,"The purpose of TT Ethernet is to provide a seamless communication system for different types of distributed non-real-time and real-time applications of different criticality, from very simple uncritical data acquisition tasks, to multimedia systems and up to safety-critical control applications, such as fly-by-wire or drive-by wire.
 
 The protocol details are currently under development - for details look at http://www.vmars.tuwien.ac.at
 "
-Ethertype,88c3,Infineon Technologies Corporate Research ST,M/S Geb.:  10-574 Munchen  DE D-61739 ,Protocol unavailable.
-Ethertype,88b0,"Cranite Systems, Inc.",6620 Via Del Oro San Jose CA US 95119 ,Protocol unavailable.
-Ethertype,88a3,Airspan Communications Limited,Cambridge House Uxbridge  GB UB8 1UN ,Protocol unavailable.
-Ethertype,889d,Occam Networks,77 Robin Hill Rd. Santa Barbara CA US 93117 ,Protocol unavailable.
-Ethertype,889c,Hatteras Networks,P.O. Box 10025 Research Triangle Park NC US 27709-0025 ,Protocol unavailable.
+Ethertype,88C3,Infineon Technologies Corporate Research ST,M/S Geb.:  10-574 Munchen  DE D-61739 ,Protocol unavailable.
+Ethertype,88B0,"Cranite Systems, Inc.",6620 Via Del Oro San Jose CA US 95119 ,Protocol unavailable.
+Ethertype,88A3,Airspan Communications Limited,Cambridge House Uxbridge  GB UB8 1UN ,Protocol unavailable.
+Ethertype,889D,Occam Networks,77 Robin Hill Rd. Santa Barbara CA US 93117 ,Protocol unavailable.
+Ethertype,889C,Hatteras Networks,P.O. Box 10025 Research Triangle Park NC US 27709-0025 ,Protocol unavailable.
 Ethertype,8889,PolyTrax Information Technology AG,Martin-Kollar-Str. 5 Munchen  US D-81819 ,Protocol unavailable.
 Ethertype,8887,Alloptic Inc.,6960 Koll Center Parkway Pleasanton CA US 94566 ,Protocol unavailable.
-Ethertype,887d,"Nishan Systems, Inc.",3850 North First Street San Jose CA US 95134-1702 ,Protocol unavailable.
-Ethertype,887b,Intellon Corporation,5100 West Silver Springs Blvd. Ocala FL US 34482 ,Protocol unavailable.
-Ethertype,886c,"Epigram, Inc.",870 West Maude Ave. Sunnyvale CA US 94086 ,Protocol unavailable.
-Ethertype,886a,"Electronic Theatre Controls, Inc.",3030 Laura Lane Middleton WI US 53562 ,Protocol unavailable.
+Ethertype,887D,"Nishan Systems, Inc.",3850 North First Street San Jose CA US 95134-1702 ,Protocol unavailable.
+Ethertype,887B,Intellon Corporation,5100 West Silver Springs Blvd. Ocala FL US 34482 ,Protocol unavailable.
+Ethertype,886C,"Epigram, Inc.",870 West Maude Ave. Sunnyvale CA US 94086 ,Protocol unavailable.
+Ethertype,886A,"Electronic Theatre Controls, Inc.",3030 Laura Lane Middleton WI US 53562 ,Protocol unavailable.
 Ethertype,8863,"UUNET Technologies, Inc.",3060 Williams Drive Fairafx CA US 22031-4648 ,Protocol unavailable.
 Ethertype,8F04,Xerox,   US  ,Protocol unavailable.
 Ethertype,8F0D,Xerox,   US  ,Protocol unavailable.
@@ -2944,7 +2944,7 @@ Ethertype,8230,Tandem Computers,14231 Tendem Blvd. Austin TX US 78728 - 6610 ,Pr
 Ethertype,8234,Tandem Computers,14231 Tendem Blvd. Austin TX US 78728 - 6610 ,Protocol unavailable.
 Ethertype,86A2,"Persoft, Inc.",465 Science Dr Madison WI US 53744-4953 ,Protocol unavailable.
 Ethertype,8251,The Royal Hong Kong Jockey Club,Information Sys. Dept. Happy Valley  HK  ,Protocol unavailable.
-Ethertype,81E5,System Designers Software Inc.,9 New England Executive Park Burlington MA US 01803 ,Protocol unavailable.
+Ethertype,"=""81E5""",System Designers Software Inc.,9 New England Executive Park Burlington MA US 01803 ,Protocol unavailable.
 Ethertype,8206,Hewlett Packard,Filton Rd Bristol  BS12 6QZ England GB  ,Protocol unavailable.
 Ethertype,81C2,Atlantix Corporatiion,5401 NW Broken Sound Blvd. Boca Raton FLA US 33431 ,Protocol unavailable.
 Ethertype,81C4,Atlantix Corporatiion,5401 NW Broken Sound Blvd. Boca Raton FLA US 33431 ,Protocol unavailable.
@@ -3037,26 +3037,26 @@ Ethertype,879D,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protoco
 Ethertype,879F,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
 Ethertype,87A8,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
 Ethertype,87DF,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
-Ethertype,87E0,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
+Ethertype,"=""87E0""",Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
 Ethertype,879C,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
 Ethertype,87AD,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
 Ethertype,87F5,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
 Ethertype,A8C8,IEEE 1904 Access Networks Working Group,445 Hoes Lane  Piscataway NJ US 08854-4141 ,"The Virtual Link Control (VLC) protocol for Ethernet-based subscriber access networks. The VLC protocol is specified in IEEE Std. 1904.2. For more information, visit https://www.ieee1904.org/2"
 Ethertype,A85A,"Huawei Technologies Co., Ltd."," Bantian, Longgang District, Shenzhen, 518129, P.R.C Shenzhen GUANGDONG Province CN 518000 ",This Ethertype will be used to identify a new type of protocol used for device to device communication in Wireless LAN
 Ethertype,99FE,ASAM e.V.,Leopoldstraße 236 Munich  DE 80807 ,CMP enables the recording of the data of in-vehicle communication systems via a decentralized logging network based on Ethernet as physical layer. This allows remote monitoring and control of data captured via different interfaces from the capture modules
-Ethertype,88b7,IEEE 802.1 Chair," c/o RAC Administrator , IEEE Piscataway NJ US 08554 ",OUI Extended EtherType as defined in IEEE Std 802. This EtherType value is available for public use and for prototype and vendor-specific protocol development.
-Ethertype,88e5,IEEE 802.1 Working Group,"IEEE 802.1 Chair, c/o RAC Administrator IEEE Piscataway NJ US 08854 ",Media Access Control (MAC) Security tag as defined in IEEE Std 802.1AE
+Ethertype,88B7,IEEE 802.1 Chair," c/o RAC Administrator , IEEE Piscataway NJ US 08554 ",OUI Extended EtherType as defined in IEEE Std 802. This EtherType value is available for public use and for prototype and vendor-specific protocol development.
+Ethertype,"=""88E5""",IEEE 802.1 Working Group,"IEEE 802.1 Chair, c/o RAC Administrator IEEE Piscataway NJ US 08854 ",Media Access Control (MAC) Security tag as defined in IEEE Std 802.1AE
 Ethertype,AAC5,Analog Devices Inc,1 Technology Way Norwood MA US MA02062 ,For implementation of protocol still in development
-Ethertype,0A00,Xerox, Webster NY US  ,PARC Universal Packet (PUP)
 Ethertype,0B04,University of Berkeley,   US  ,Berkeley Reserved
 Ethertype,0B02,University of Berkeley,   US  ,IEEE 802.3 compatible Sprite RPC
+Ethertype,0A00,Xerox, Webster NY US  ,PARC Universal Packet (PUP)
 Ethertype,8917,IEEE 802.21 Working Group,"IEEE 802.21 Chair, c/o RAC Administrator IEEE Piscataway NJ US 08854 ",Media Independent Service (MIS) protocol as defined in IEEE Std 802.21
 Ethertype,8741,Siemens  AG,Otto-Han-Ring-6 Munich  DE D-81739 ,Protocol unavailable.
 Ethertype,874D,Hybrid,20863 Stevens Creek Blvd. Cupertino CA US 95014-8750 ,Protocol unavailable.
 Ethertype,873D,Siemens  AG,Otto-Han-Ring-6 Munich  DE D-81739 ,Protocol unavailable.
 Ethertype,873E,Siemens  AG,Otto-Han-Ring-6 Munich  DE D-81739 ,Protocol unavailable.
 Ethertype,809B,Private,,Appletalk (Ethertalk)
-Ethertype,891d,TTTech Computertechnik AG,Schoenbrunner Strasse 7 Vienna  AT 1040 ,TTEthernet  Protocol Control Fram (TTE)
+Ethertype,891D,TTTech Computertechnik AG,Schoenbrunner Strasse 7 Vienna  AT 1040 ,TTEthernet  Protocol Control Fram (TTE)
 Ethertype,AD3F,Tibit Communications,"1 Willowbrook Court, Suite 150 Petaluma CA US 94954 ",The protocol allows PON OLTs to coordinate scheduling and other PON management functions across multiple OLTs on the same layer-2 domain.
 Ethertype,8391,Private,,Protocol unavailable.
 Ethertype,8394,Private,,Protocol unavailable.
@@ -3064,14 +3064,14 @@ Ethertype,8398,Private,,Protocol unavailable.
 Ethertype,839B,Private,,Protocol unavailable.
 Ethertype,83D8,Private,,Protocol unavailable.
 Ethertype,83DA,Private,,Protocol unavailable.
-Ethertype,83E0,Private,,Protocol unavailable.
+Ethertype,"=""83E0""",Private,,Protocol unavailable.
 Ethertype,83AD,Private,,Protocol unavailable.
 Ethertype,83AF,Private,,Protocol unavailable.
 Ethertype,83F0,Private,,Protocol unavailable.
 Ethertype,83F8,Private,,Protocol unavailable.
 Ethertype,83A2,Private,,Protocol unavailable.
 Ethertype,83A3,Private,,Protocol unavailable.
-Ethertype,83E5,Private,,Protocol unavailable.
+Ethertype,"=""83E5""",Private,,Protocol unavailable.
 Ethertype,83ED,Private,,Protocol unavailable.
 Ethertype,83BC,Private,,Protocol unavailable.
 Ethertype,8404,Private,,Protocol unavailable.
@@ -3110,10 +3110,10 @@ Ethertype,84F5,Private,,Protocol unavailable.
 Ethertype,84F6,Private,,Protocol unavailable.
 Ethertype,84F8,Private,,Protocol unavailable.
 Ethertype,84FA,Private,,Protocol unavailable.
-Ethertype,84E0,Private,,Protocol unavailable.
-Ethertype,84E1,Private,,Protocol unavailable.
-Ethertype,84E6,Private,,Protocol unavailable.
-Ethertype,84E9,Private,,Protocol unavailable.
+Ethertype,"=""84E0""",Private,,Protocol unavailable.
+Ethertype,"=""84E1""",Private,,Protocol unavailable.
+Ethertype,"=""84E6""",Private,,Protocol unavailable.
+Ethertype,"=""84E9""",Private,,Protocol unavailable.
 Ethertype,84EB,Private,,Protocol unavailable.
 Ethertype,84BB,Private,,Protocol unavailable.
 Ethertype,84BD,Private,,Protocol unavailable.
@@ -3164,7 +3164,7 @@ Ethertype,85D9,Private,,Protocol unavailable.
 Ethertype,85DB,Private,,Protocol unavailable.
 Ethertype,85DE,Private,,Protocol unavailable.
 Ethertype,85DF,Private,,Protocol unavailable.
-Ethertype,85E5,Private,,Protocol unavailable.
+Ethertype,"=""85E5""",Private,,Protocol unavailable.
 Ethertype,85F4,Private,,Protocol unavailable.
 Ethertype,85F7,Private,,Protocol unavailable.
 Ethertype,85FA,Private,,Protocol unavailable.
@@ -3184,7 +3184,7 @@ Ethertype,859E,Private,,Protocol unavailable.
 Ethertype,85A1,Private,,Protocol unavailable.
 Ethertype,85A6,Private,,Protocol unavailable.
 Ethertype,85A8,Private,,Protocol unavailable.
-Ethertype,85E9,Private,,Protocol unavailable.
+Ethertype,"=""85E9""",Private,,Protocol unavailable.
 Ethertype,85EC,Private,,Protocol unavailable.
 Ethertype,85F3,Private,,Protocol unavailable.
 Ethertype,85B0,Private,,Protocol unavailable.
@@ -3223,10 +3223,10 @@ Ethertype,AB37,IETF Routing Area,5177 Brandin Court Fremont CA US 94538 ,"Please
 "
 Ethertype,B62C,OPC Foundation,"16101 N. 82nd Street, Suite 3B Scottsdale AZ US 85260-1868 ",OPC UA over Time Sensitive Networking (TSN) adds deterministic communication capabilities to the OPC UA standard.
 Ethertype,8045,HYDRA COMPUTER SYSTEMS INC.,12 Mercer Road Natwick MA US 01760 ,Protocol unavailable.
-Ethertype,88cf,"Panasonic Mobile Communications Co.,Ltd.","600, Saedo-cho, Tsuzuki-ku Yokohama Kanagawa JP 224-8539 ","In order to manage and control the WBS not to affect the protocol between users, it is a protocol for connecting layer 2 about between ""Manager"" and WBS.
+Ethertype,88CF,"Panasonic Mobile Communications Co.,Ltd.","600, Saedo-cho, Tsuzuki-ku Yokohama Kanagawa JP 224-8539 ","In order to manage and control the WBS not to affect the protocol between users, it is a protocol for connecting layer 2 about between ""Manager"" and WBS.
 The ""Manager"" and WBS encapsulate data / management / control information transmitted on radio, and the various information by Ethernet, and transmit them to each other."
 Ethertype,EC19,AirTies Wireless Networks,"Mithat Ulu Ünlü Sokak No. 23  Esentepe, Şişli  ISTANBUL ISTANBUL TR 34394 ",proprietary
-Ethertype,891b,InfoSpark Technology Institute,"Room 1907, Quantum Plaza, 27 Zhichun Road, Haidian District, Beijing  CN 100083 ",TAEPOL (TAEP over LANs).
+Ethertype,891B,InfoSpark Technology Institute,"Room 1907, Quantum Plaza, 27 Zhichun Road, Haidian District, Beijing  CN 100083 ",TAEPOL (TAEP over LANs).
 Ethertype,D672,InMon Corp.,"1 Sansome Street, FL35 San Francisco CA US 94104 ",sFlow is is a multi-vendor measurement technology for sampling packets in Ethernet devices.
 Ethertype,8031,PCS Systemtechnik GmbH,600 Suffold St Lowell MA US 01854 ,Protocol unavailable.
 Ethertype,820B,"Xyplex, Inc.",330 Codman Hill Road Boxborough MA US 01719 ,Protocol unavailable.
@@ -3234,11 +3234,11 @@ Ethertype,821A,"Xyplex, Inc.",330 Codman Hill Road Boxborough MA US 01719 ,Proto
 Ethertype,81B8,"Xyplex, Inc.",0000 Concord MA US 0000 ,Protocol unavailable.
 Ethertype,8101,Nortel Networks,8200 Dixie Rd Brampton Ontario CA 0000 ,Protocol unavailable.
 Ethertype,8895,General Dynamics Mission Systems,150 Rustcraft Road Dedham MA US 02026 ,"This ethertype is used exclusively by networks protected by the AirFortress Security solution used in enterprise wireless networks and wireless point-to-point bridges. The AirFortress security protocol provides FIPS 140 validated data encryption above the MAC layer for all 8895 wireless or wired traffic. This protected traffic is recognized, tracked by ethertype which can then be monitored by various network management platforms. This traffic type is vendor, network, and protocol agnostic and can be implemented across a wide range of 802. compliant networking gear."
-Ethertype,9E65,ETSI,650 Route des lucioles Sophia antipolis  FR 06921 ,"LTE-WLAN Aggregation Adaptation Protocol (LWAAP), used by LTE-WLAN Aggregation (LWA) as defined in 3GPP TS 36.300 http://www.3gpp.org/DynaReport/36300.htm"
+Ethertype,"=""9E65""",ETSI,650 Route des lucioles Sophia antipolis  FR 06921 ,"LTE-WLAN Aggregation Adaptation Protocol (LWAAP), used by LTE-WLAN Aggregation (LWA) as defined in 3GPP TS 36.300 http://www.3gpp.org/DynaReport/36300.htm"
 Ethertype,81F9,"Cabletron Systems, Inc.",35 Industrial Way Rochester NH US 03867 ,Protocol unavailable.
 Ethertype,81FA,"Cabletron Systems, Inc.",35 Industrial Way Rochester NH US 03867 ,Protocol unavailable.
-Ethertype,888a,Broadcom,4385 River Green Parkway Deluth GA US 30096 ,Protocol unavailable.
-Ethertype,887c,2Wire Inc,694 Tasman Ave. Milpitas CA US 95035 ,Protocol unavailable.
+Ethertype,888A,Broadcom,4385 River Green Parkway Deluth GA US 30096 ,Protocol unavailable.
+Ethertype,887C,2Wire Inc,694 Tasman Ave. Milpitas CA US 95035 ,Protocol unavailable.
 Ethertype,8883,2Wire Inc,694 Tasman Ave. Milpitas CA US 95035 ,Protocol unavailable.
 Ethertype,8765,The University of Utah,Dept of Computer Science Salt Lake City UT US 84112 ,Protocol unavailable.
 Ethertype,0661,Dlog,Gmbh D-8037 Olching  DE  ,Protocol unavailable.
@@ -3251,7 +3251,7 @@ Ethertype,81AC,RAD Network Devices Inc.,4455 Torrance Blvd. Torrance CA US 90503
 Ethertype,8168,"Keithley Instruments, Inc.",Systems Division Cleveland OH US 44139 ,Protocol unavailable.
 Ethertype,8169,"Keithley Instruments, Inc.",Systems Division Cleveland OH US 44139 ,Protocol unavailable.
 Ethertype,816B,"Keithley Instruments, Inc.",Systems Division Cleveland OH US 44139 ,Protocol unavailable.
-Ethertype,886e,Intel Corporation,JF3-410 Hillsboro OR US 97124 ,Protocol unavailable.
+Ethertype,886E,Intel Corporation,JF3-410 Hillsboro OR US 97124 ,Protocol unavailable.
 Ethertype,8851,Juniper Networks,1133 Innovation Way Sunnyvale CA US 94089 ,Protocol unavailable.
 Ethertype,8771,Intel Corporation,2111 NE 25 Ave Hillsboro OR US 97124 ,Protocol unavailable.
 Ethertype,8772,Intel Corporation,2111 NE 25 Ave Hillsboro OR US 97124 ,Protocol unavailable.
@@ -3313,7 +3313,7 @@ Ethertype,01FD,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
 Ethertype,01FF,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
 Ethertype,01EE,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
 Ethertype,01F7,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,01E2,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
+Ethertype,"=""01E2""",Xerox (Experimental), Webster NY US  ,Protocol unavailable.
 Ethertype,01EB,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
 Ethertype,01A0,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
 Ethertype,01D6,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
@@ -3369,20 +3369,20 @@ Ethertype,10B7,Private,,Protocol unavailable.
 Ethertype,10D0,Private,,Protocol unavailable.
 Ethertype,10D6,Private,,Protocol unavailable.
 Ethertype,10DC,Private,,Protocol unavailable.
-Ethertype,10E6,Private,,Protocol unavailable.
-Ethertype,86E9,Private,,Protocol unavailable.
+Ethertype,"=""10E6""",Private,,Protocol unavailable.
+Ethertype,"=""86E9""",Private,,Protocol unavailable.
 Ethertype,86EE,Private,,Protocol unavailable.
 Ethertype,86EF,Private,,Protocol unavailable.
 Ethertype,829F,Private,,Protocol unavailable.
 Ethertype,82A0,Private,,Protocol unavailable.
 Ethertype,8152,Private,,Protocol unavailable.
-Ethertype,86E0,Private,,Protocol unavailable.
-Ethertype,86E2,Private,,Protocol unavailable.
-Ethertype,86E6,Private,,Protocol unavailable.
-Ethertype,86E7,Private,,Protocol unavailable.
+Ethertype,"=""86E0""",Private,,Protocol unavailable.
+Ethertype,"=""86E2""",Private,,Protocol unavailable.
+Ethertype,"=""86E6""",Private,,Protocol unavailable.
+Ethertype,"=""86E7""",Private,,Protocol unavailable.
 Ethertype,8067,Private,,Protocol unavailable.
 Ethertype,80F2,Private,,Protocol unavailable.
-Ethertype,81E9,Private,,Protocol unavailable.
+Ethertype,"=""81E9""",Private,,Protocol unavailable.
 Ethertype,81EC,Private,,Protocol unavailable.
 Ethertype,10FD,Private,,Protocol unavailable.
 Ethertype,10FF,Private,,Protocol unavailable.
@@ -3449,7 +3449,7 @@ Ethertype,80D4,Private,,Protocol unavailable.
 Ethertype,2078,Private,,Protocol unavailable.
 Ethertype,2079,Private,,Protocol unavailable.
 Ethertype,207D,Private,,Protocol unavailable.
-Ethertype,887e,Private,,Protocol unavailable.
+Ethertype,887E,Private,,Protocol unavailable.
 Ethertype,8076,Private,,Protocol unavailable.
 Ethertype,869E,Private,,Protocol unavailable.
 Ethertype,86A0,Private,,Protocol unavailable.
@@ -3470,10 +3470,10 @@ Ethertype,8315,"Walker Richer & Quinn, Inc.", Seattle WA US  ,Protocol unavailab
 Ethertype,8317,"Walker Richer & Quinn, Inc.", Seattle WA US  ,Protocol unavailable.
 Ethertype,831A,"Walker Richer & Quinn, Inc.", Seattle WA US  ,Protocol unavailable.
 Ethertype,831E,"Walker Richer & Quinn, Inc.", Seattle WA US  ,Protocol unavailable.
-Ethertype,82E1,"Walker Richer & Quinn, Inc.", Seattle WA US  ,Protocol unavailable.
-Ethertype,82E2,"Walker Richer & Quinn, Inc.", Seattle WA US  ,Protocol unavailable.
-Ethertype,82E4,"Walker Richer & Quinn, Inc.", Seattle WA US  ,Protocol unavailable.
-Ethertype,82E9,"Walker Richer & Quinn, Inc.", Seattle WA US  ,Protocol unavailable.
+Ethertype,"=""82E1""","Walker Richer & Quinn, Inc.", Seattle WA US  ,Protocol unavailable.
+Ethertype,"=""82E2""","Walker Richer & Quinn, Inc.", Seattle WA US  ,Protocol unavailable.
+Ethertype,"=""82E4""","Walker Richer & Quinn, Inc.", Seattle WA US  ,Protocol unavailable.
+Ethertype,"=""82E9""","Walker Richer & Quinn, Inc.", Seattle WA US  ,Protocol unavailable.
 Ethertype,82EF,"Walker Richer & Quinn, Inc.", Seattle WA US  ,Protocol unavailable.
 Ethertype,82F6,"Walker Richer & Quinn, Inc.", Seattle WA US  ,Protocol unavailable.
 Ethertype,82C4,"Walker Richer & Quinn, Inc.", Seattle WA US  ,Protocol unavailable.
@@ -3535,8 +3535,8 @@ Ethertype,894A,Endace Technologies Ltd.,85 Alexandra Street Hamilton  NZ 3204 ,"
 Endace Ethernet is used to transport Endace ERF frames across conventional ethernet networks.  Because ERF records are not a well defined standard, a dedicated ethernet assignment avoids mis-analysis.
 
 Each frame contains a subtype field, possible sequence number, a number of encapsulated records, possible meta data and the records themselves.  For subtype 0x01 the records are in ERF (Endace Record Format).  The only defined subtype at present is 0x01."
-Ethertype,88ca,Ericsson Research Canada Inc,8400 Decarie Blvd Montreal Québec CA H4P2N2 ,"TIPC  (Transparent Inter Process Communication, http://tipc.sourceforge.net/) is designed for efficient  intra cluster communication.  Main features:   1) A functional addressing scheme, providing location transparency by hiding the cluster's physical topology for the application programs. 2)Lightweight, reactive, connections:  No hidden protocol message exchange during connection setup/shutdown. Immediate connection abortion and problem report upon any kind of service failure.  3) Generic, adaptive, signalling link protocol: Retransmission, segmentation, bundling and continuity check are performed at the signaling link layer, enabling better resource usage and performance than with traditional transport layer protocols. 4)In-sequence, loss-free message delivery in both connection oriented and connectionless mode. 5) Possibility for applications to subscribe for the availability/non-availability of functional and physical addresses."
-Ethertype,9c40,Pilz GmbH & Co. KG,Felix-Wankel-Straße 2 Ostfildern Baden-Württemberg DE 73760 ,"SafetyNET p is a deterministic real-time Ethernet for the industrial environment. Established technology from the SafetyBUS p safe bus system was also considered and refined. So SafetyNET p is an Ethernet-based network for industry, which can be used for real-time and safe communication functions.
+Ethertype,88CA,Ericsson Research Canada Inc,8400 Decarie Blvd Montreal Québec CA H4P2N2 ,"TIPC  (Transparent Inter Process Communication, http://tipc.sourceforge.net/) is designed for efficient  intra cluster communication.  Main features:   1) A functional addressing scheme, providing location transparency by hiding the cluster's physical topology for the application programs. 2)Lightweight, reactive, connections:  No hidden protocol message exchange during connection setup/shutdown. Immediate connection abortion and problem report upon any kind of service failure.  3) Generic, adaptive, signalling link protocol: Retransmission, segmentation, bundling and continuity check are performed at the signaling link layer, enabling better resource usage and performance than with traditional transport layer protocols. 4)In-sequence, loss-free message delivery in both connection oriented and connectionless mode. 5) Possibility for applications to subscribe for the availability/non-availability of functional and physical addresses."
+Ethertype,9C40,Pilz GmbH & Co. KG,Felix-Wankel-Straße 2 Ostfildern Baden-Württemberg DE 73760 ,"SafetyNET p is a deterministic real-time Ethernet for the industrial environment. Established technology from the SafetyBUS p safe bus system was also considered and refined. So SafetyNET p is an Ethernet-based network for industry, which can be used for real-time and safe communication functions.
 http://www.pilz.com"
 Ethertype,8944,Carallon Ltd,"Studio G20, Shepherds Building  London GB W140DA ","High bandwidth, low latency video over Ethernet protocol. All frames
 contain a four octet packet header. First octet contains Protocol ID,
@@ -3559,45 +3559,45 @@ Company website:  http://www.vds-it.com
 Ethertype,8933,"Infinera, Inc.",169 Java Drive Sunnyvale CA US 94089 ,Infinera proprietary optical transport
 Ethertype,892D,Bachmann electronic GmbH,Kreuzackerweg 33 Feldkirch  AT 6800 ,"Payload structure = Protocol_Header (10 bytes total, where:byte#1 = sub-type, byte#4 = data_block_count);  Data_Block_Sequence (each has 24-byte block header plus variable data);
 Padding (0-32 bits, variable)."
-Ethertype,88cb,Zhejiang University,Institute of Advanced Process Control Hangzhou Zhejiang CN 310027 ,"The applying EtherType number will be used to mark EPA(Ethernet for Plant Automation) protocol,includeing application and user layers protocols,system management function block,etc,based on Ethernet or IEEE802.3 and TCP/IP protocols.
+Ethertype,88CB,Zhejiang University,Institute of Advanced Process Control Hangzhou Zhejiang CN 310027 ,"The applying EtherType number will be used to mark EPA(Ethernet for Plant Automation) protocol,includeing application and user layers protocols,system management function block,etc,based on Ethernet or IEEE802.3 and TCP/IP protocols.
 a URL for the protocol: http://www.epa.net.cn  notes:This is a chinese website,we are translating it to English.
 "
-Ethertype,88f4,Woodhead Software & electronics,50 Northland Road Waterloo Ontario CA N2V 1N3 ,This EtherType is used for real-time communication between industrial control equipment.
-Ethertype,22E5,Gigamon,598 Gibraltar Drive Milpitas California US 95035 ,Protocol unavailable.
+Ethertype,88F4,Woodhead Software & electronics,50 Northland Road Waterloo Ontario CA N2V 1N3 ,This EtherType is used for real-time communication between industrial control equipment.
+Ethertype,"=""22E5""",Gigamon,598 Gibraltar Drive Milpitas California US 95035 ,Protocol unavailable.
 Ethertype,22DF,Toshiba Corporation,Transmission Distribution & Industrial System Company Tokyo  JP 105-8001 ,"This Ethertype characterize the followings.
 (1) Token passing control is executed on the CSMA/CD at MAC sub-layer.
  This eliminates collision occurence of the CSMA/CD to acquire deterministic characteristics.
 (2) The output signal voltage at physical layer is amplified to between 8 and 16Vp-p to raise noise immunity in the electromagnetic environment inside train car."
 Ethertype,8890,Force 10 Networks,350 Holger Way San Jose CA US 95134 ,Protocol unavailable.
-Ethertype,88b3,"Cirronet, Inc.",3079 Premiere Pkwy Duluth GA US 30097 ,Protocol unavailable.
-Ethertype,891f,British Telecommunications Plc.,81 Newgate Street  London GB EC1A 7AJ ,"ITU-T Recommendation G.7041 Generic Framing Procedure (GFP)
+Ethertype,88B3,"Cirronet, Inc.",3079 Premiere Pkwy Duluth GA US 30097 ,Protocol unavailable.
+Ethertype,891F,British Telecommunications Plc.,81 Newgate Street  London GB EC1A 7AJ ,"ITU-T Recommendation G.7041 Generic Framing Procedure (GFP)
 
 http://www.itu.int/net/home/index.aspx
 "
-Ethertype,890f,MITSUBISHI ELECTRIC CORPORATION NAGOYA WORKS,"1-14, Yada-minami 5-chome, Higashi-ku Nagoya Aichi JP 461-8670 ","This protocol is especially suitable for industrial networks.
+Ethertype,890F,MITSUBISHI ELECTRIC CORPORATION NAGOYA WORKS,"1-14, Yada-minami 5-chome, Higashi-ku Nagoya Aichi JP 461-8670 ","This protocol is especially suitable for industrial networks.
 The protocol is newly developed to support real-time communications and ring topology, based on IEEE 802.3.
 Adopting the redundancy ring, the protocol provides high availability."
-Ethertype,890b,Panduit Corp,17301 Ridgeland Ave Tinley Park IL US 60477 ,Panduit Proprietary Protocol.
-Ethertype,88fd,"Beceem Communications, Inc","3960 Freedom Circle, Santa Clara Ca US 95054 ","The protocol consists of extra fields prefixing a standard IP packet all of which is then encapsulated by a standard Ethernet packet.
+Ethertype,890B,Panduit Corp,17301 Ridgeland Ave Tinley Park IL US 60477 ,Panduit Proprietary Protocol.
+Ethertype,88FD,"Beceem Communications, Inc","3960 Freedom Circle, Santa Clara Ca US 95054 ","The protocol consists of extra fields prefixing a standard IP packet all of which is then encapsulated by a standard Ethernet packet.
 
 The extra fields consist of an Identifier (16-bits), length (16-bits) and status (8-bits)."
-Ethertype,88f9,Alcatel-Lucent Italia,"Via Trento, 30 Vimercate   MONZA-BRIANZA 20871  IT  ",Alcatel Proprietary Protocol
-Ethertype,88ef,NVIDIA Corporation,2701 San Tomas Expressway Santa Clara CA US 95050 ,"NVIDIA System Management Control Protocol.
+Ethertype,88F9,Alcatel-Lucent Italia,"Via Trento, 30 Vimercate   MONZA-BRIANZA 20871  IT  ",Alcatel Proprietary Protocol
+Ethertype,88EF,NVIDIA Corporation,2701 San Tomas Expressway Santa Clara CA US 95050 ,"NVIDIA System Management Control Protocol.
 
 (No URL exists for this protocol, which is NVIDIA proprietary)"
-Ethertype,88d4,"Contemporary Control Systems, Inc.",2431 Curtiss Street Downers Grove Illinois US 60515 ,The RapidRing protocol will send a â€œlink repair requestâ€ Ethernet frame when the switch detects a link lost on one of its ports. This will be received by the root node of the network. The root node will enable its backup port and send a â€œlink repairedâ€ Ethernet message. When a non-root node switch detects a repaired link it will send a â€œnew linkâ€ Ethernet message.
-Ethertype,88c9,"Xeline Co., Ltd.","7F. Chungjin Bldg., 475-22, Seoul  KR 137-819 ",Ethernet Protocol
-Ethertype,88c5,"KoolSpan, Inc.",11134 Stephalee Lane North Bethesda MD US 20852 ,Protocol unavailable.
-Ethertype,88a6,"Cetacean Networks, Inc.",100 Arboretum Drive Portsmouth NH US 03801 ,Protocol unavailable.
-Ethertype,88a0,WideBand Corporation,401 W. Grand Gallatin MO US 64640 ,Protocol unavailable.
+Ethertype,88D4,"Contemporary Control Systems, Inc.",2431 Curtiss Street Downers Grove Illinois US 60515 ,The RapidRing protocol will send a â€œlink repair requestâ€ Ethernet frame when the switch detects a link lost on one of its ports. This will be received by the root node of the network. The root node will enable its backup port and send a â€œlink repairedâ€ Ethernet message. When a non-root node switch detects a repaired link it will send a â€œnew linkâ€ Ethernet message.
+Ethertype,88C9,"Xeline Co., Ltd.","7F. Chungjin Bldg., 475-22, Seoul  KR 137-819 ",Ethernet Protocol
+Ethertype,88C5,"KoolSpan, Inc.",11134 Stephalee Lane North Bethesda MD US 20852 ,Protocol unavailable.
+Ethertype,88A6,"Cetacean Networks, Inc.",100 Arboretum Drive Portsmouth NH US 03801 ,Protocol unavailable.
+Ethertype,88A0,WideBand Corporation,401 W. Grand Gallatin MO US 64640 ,Protocol unavailable.
 Ethertype,8893,"Mobile Internet Services, Inc.","KS Building 2F, 1-17-8, Bunkyo-ku Tokyo JP 113-0025 ",Protocol unavailable.
 Ethertype,8891,"Thunder River Technologies, Inc.",23 Corporate Plaza Ste. 250 Newport Beach CA US 92660 ,Protocol unavailable.
-Ethertype,888c,Inetcam Inc.,10171 Pacific Mesa Blvd. San Diego CA US 92121 ,Protocol unavailable.
-Ethertype,886f,Microsoft Corporation,One Microsoft Way Redmond WA US 98052 ,Protocol unavailable.
+Ethertype,888C,Inetcam Inc.,10171 Pacific Mesa Blvd. San Diego CA US 92121 ,Protocol unavailable.
+Ethertype,886F,Microsoft Corporation,One Microsoft Way Redmond WA US 98052 ,Protocol unavailable.
 Ethertype,8864,"UUNET Technologies, Inc.",3060 Williams Drive Fairafx CA US 22031-4648 ,Protocol unavailable.
 Ethertype,8866,Lucent Technologies,1100 E. Warrenville Rd. Naperville IL US 60566 ,Protocol unavailable.
 Ethertype,8865,Visual Networks,2092 Gaither Road Rockville MD US 20850 ,Protocol unavailable.
-Ethertype,885f,Digidesign,3401-A Hillview Ave. Palo Alto CA US 94034 ,Protocol unavailable.
+Ethertype,885F,Digidesign,3401-A Hillview Ave. Palo Alto CA US 94034 ,Protocol unavailable.
 Ethertype,8860,AGCS,2500 W. Utopia Rd. Phoenix AZ US 85072-2179 ,Protocol unavailable.
 Ethertype,8F00,Xerox,   US  ,Protocol unavailable.
 Ethertype,8F43,Xerox,   US  ,Protocol unavailable.
@@ -3697,8 +3697,8 @@ Ethertype,822B,Virtual Machine Research Inc.,"#28-1141 Eagleridge Dr. Port Coqui
 Ethertype,8285,Kalpana,125 Nicholson Ln San Jose CA US 95124 ,Protocol unavailable.
 Ethertype,8244,The Royal Hong Kong Jockey Club,Information Sys. Dept. Happy Valley  HK  ,Protocol unavailable.
 Ethertype,824D,The Royal Hong Kong Jockey Club,Information Sys. Dept. Happy Valley  HK  ,Protocol unavailable.
-Ethertype,81E1,System Designers Software Inc.,9 New England Executive Park Burlington MA US 01803 ,Protocol unavailable.
-Ethertype,81E2,System Designers Software Inc.,9 New England Executive Park Burlington MA US 01803 ,Protocol unavailable.
+Ethertype,"=""81E1""",System Designers Software Inc.,9 New England Executive Park Burlington MA US 01803 ,Protocol unavailable.
+Ethertype,"=""81E2""",System Designers Software Inc.,9 New England Executive Park Burlington MA US 01803 ,Protocol unavailable.
 Ethertype,4400,"Computer Generation, Inc.",3855 Presidential Pkwy Atlanta GA US 30340 ,Protocol unavailable.
 Ethertype,823B,Thomson Sintra,"525, route des Dolines BP 138-06561 Valbinne Cedex FR  ",Protocol unavailable.
 Ethertype,823C,Thomson Sintra,"525, route des Dolines BP 138-06561 Valbinne Cedex FR  ",Protocol unavailable.
@@ -3757,7 +3757,7 @@ Ethertype,7011,Olteco (Olevetti),   US  ,Protocol unavailable.
 Ethertype,7013,Olteco (Olevetti),   US  ,Protocol unavailable.
 Ethertype,6000,DEC,1925 Andover St. Tewksbury MA US 01876 ,Protocol unavailable.
 Ethertype,6006,DEC,1925 Andover St. Tewksbury MA US 01876 ,Protocol unavailable.
-Ethertype,81E0,Hewlett Packard,1501 Page Mill Road Palo Alto CA US 94304 ,Protocol unavailable.
+Ethertype,"=""81E0""",Hewlett Packard,1501 Page Mill Road Palo Alto CA US 94304 ,Protocol unavailable.
 Ethertype,8914,Brocade Communications Systems LLC,1320 Ridder Park Dr San Jose CA US 95131 ,FIP Storage Access Protocol
 Ethertype,454C,SR RESEARCH LTD,SR Research Ltd. Mississauga Ontario CA L4X 1R3 ,Protocol unavailable.
 Ethertype,8951,Nokia Solutions and Networks GmbH & Co. KG,Werinherstrasse 91 München Bavaria DE D-81541 ,BTS internal protocol for inter-unit messaging
@@ -3776,10 +3776,10 @@ Ethertype,87A5,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protoco
 Ethertype,87A7,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
 Ethertype,8797,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
 Ethertype,87DC,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
-Ethertype,87E1,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
-Ethertype,87E5,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
-Ethertype,87E7,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
-Ethertype,87E9,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
+Ethertype,"=""87E1""",Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
+Ethertype,"=""87E5""",Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
+Ethertype,"=""87E7""",Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
+Ethertype,"=""87E9""",Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
 Ethertype,87BA,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
 Ethertype,87C0,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
 Ethertype,87C4,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
@@ -3793,8 +3793,8 @@ Ethertype,8809,IEEE 802.3 Working Group,"IEEE 802.3 Chair, c/o RAC Administrator
 Ethertype,C9D1,IEEE 802.1 Chair," c/o RAC Administrator , IEEE Piscataway NJ US 08554 ",Legacy assignment (use 8870 instead) - LLC encapsulation as defined by IEEE Std 802.1AC-2016.
 Ethertype,893F,IEEE 802.1 Chair," c/o RAC Administrator , IEEE Piscataway NJ US 08554 ","Bridge Port Extension tag (E-TAG) as defined in IEEE Std 802.1BR
 "
-Ethertype,22E2,IEEE 802.1 Chair," c/o RAC Administrator , IEEE Piscataway NJ US 08554 ",MAC Status Protocol (MSP) as defined in IEEE Std 802.1Q
-Ethertype,88f6,IEEE 802.1 Chair," c/o RAC Administrator , IEEE Piscataway NJ US 08554 ",Multiple MAC Registration Protocol (MMRP) as defined in IEEE Std 802.1Q
+Ethertype,"=""22E2""",IEEE 802.1 Chair," c/o RAC Administrator , IEEE Piscataway NJ US 08554 ",MAC Status Protocol (MSP) as defined in IEEE Std 802.1Q
+Ethertype,88F6,IEEE 802.1 Chair," c/o RAC Administrator , IEEE Piscataway NJ US 08554 ",Multiple MAC Registration Protocol (MMRP) as defined in IEEE Std 802.1Q
 Ethertype,89A2,IEEE 802.1 Chair," c/o RAC Administrator , IEEE Piscataway NJ US 08554 ",Congestion Isolation Message (CIM) as defined in IEEE 802.1Qcz amendment to IEEE Std 802.1Q
 Ethertype,8902,IEEE 802.1 Chair," c/o RAC Administrator , IEEE Piscataway NJ US 08554 ",Connectivity Fault Management (CFM) Protocol Data Unit (PDU) Encapsulation as defined in IEEE 802.1Q
 Ethertype,8100,IEEE 802.1 Chair," c/o RAC Administrator , IEEE Piscataway NJ US 08554 ",Customer VLAN Tag (C-TAG) as defined in IEEE Std 802.1Q
