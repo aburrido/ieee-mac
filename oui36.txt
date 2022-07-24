@@ -6170,12 +6170,6 @@ D23000-D23FFF     (base 16)		COTT Electronics
 				Nigran  Spain  36350
 				ES
 
-70-B3-D5   (hex)		KSE GmbH
-0F6000-0F6FFF     (base 16)		KSE GmbH
-				Frühlingstraße 31-33
-				Ingolstadt    85055
-				DE
-
 70-B3-D5   (hex)		Edgeware AB
 449000-449FFF     (base 16)		Edgeware AB
 				Master Samuelsgatan 42
@@ -11996,6 +11990,12 @@ F70000-F70FFF     (base 16)		Vision Systems Safety Tech
 				Brignais    69530
 				FR
 
+70-B3-D5   (hex)		KSE GmbH
+0F6000-0F6FFF     (base 16)		KSE GmbH
+				Kaethe Paulus Strasse 6
+				Koesching    85092
+				DE
+
 70-B3-D5   (hex)		System West dba ICS Electronics
 E06000-E06FFF     (base 16)		System West dba ICS Electronics
 				7034 Commerce Circle Suite A
@@ -13207,12 +13207,6 @@ FA3000-FA3FFF     (base 16)		ELVA-1 MICROWAVE HANDELSBOLAG
 				KST B/D 4-5, Wiryeseong-daero 12-gil
 				Songpa-gu  Seoul  05636
 				KR
-
-70-B3-D5   (hex)		KSE GmbH
-D41000-D41FFF     (base 16)		KSE GmbH
-				Frühlingstraße 31-33
-				Ingolstadt    85055
-				DE
 
 70-B3-D5   (hex)		bobz GmbH
 81B000-81BFFF     (base 16)		bobz GmbH
@@ -17887,6 +17881,12 @@ FFC000-FFCFFF     (base 16)		Invendis Technologies India Pvt Ltd
 				#230 BOOHBCS Layout BTM 2nd Stage 38th MAIN 1ST CROSS
 				Bengaluru  Karnataka  560068
 				IN
+
+70-B3-D5   (hex)		KSE GmbH
+D41000-D41FFF     (base 16)		KSE GmbH
+				Kaethe Paulus Strasse 6
+				Koesching    85092
+				DE
 
 70-B3-D5   (hex)		YUYAMA MFG Co.,Ltd
 BBB000-BBBFFF     (base 16)		YUYAMA MFG Co.,Ltd
@@ -27875,12 +27875,6 @@ D27000-D27FFF     (base 16)		Light field Lab
 				Groebenzell  Bayern  82194
 				DE
 
-70-B3-D5   (hex)		KSE GmbH
-38A000-38AFFF     (base 16)		KSE GmbH
-				Frühlingstraße 31-33
-				Ingolstadt    85055
-				DE
-
 70-B3-D5   (hex)		Maytronics Ltd.
 90E000-90EFFF     (base 16)		Maytronics Ltd.
 				
@@ -29755,3 +29749,9 @@ F3D000-F3DFFF     (base 16)		Byte Lab Grupa d.o.o.
 				Medarska 69/1
 				Zagreb    10090
 				HR
+
+70-B3-D5   (hex)		KSE GmbH
+38A000-38AFFF     (base 16)		KSE GmbH
+				Kaethe Paulus Strasse 6
+				Koesching    85092
+				DE
