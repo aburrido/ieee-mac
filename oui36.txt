@@ -6062,6 +6062,12 @@ C07000-C07FFF     (base 16)		HYOSUNG Heavy Industries Corporation
 				Oakville  Ontario  L6H 6X5
 				CA
 
+8C-1F-64   (hex)		Power Electronics Espana, S.L.
+B9E000-B9EFFF     (base 16)		Power Electronics Espana, S.L.
+				C/ Leonardo Da Vinci, 24-26
+				Paterna  Valencia  46980
+				ES
+
 70-B3-D5   (hex)		EVCO SPA
 A80000-A80FFF     (base 16)		EVCO SPA
 				VIA FELTRE N. 81
@@ -11990,10 +11996,10 @@ F70000-F70FFF     (base 16)		Vision Systems Safety Tech
 				Assen    9403DR
 				NL
 
-70-B3-D5   (hex)		KSE GmbH
-0F6000-0F6FFF     (base 16)		KSE GmbH
-				Kaethe Paulus Strasse 6
-				Koesching    85092
+8C-1F-64   (hex)		FIDICA GmbH & Co. KG
+699000-699FFF     (base 16)		FIDICA GmbH & Co. KG
+				Frohnradstr. 7-9
+				Hösbach    63768
 				DE
 
 8C-1F-64   (hex)		Dyncir Soluções Tecnológicas Ltda
@@ -12001,6 +12007,12 @@ CB2000-CB2FFF     (base 16)		Dyncir Soluções Tecnológicas Ltda
 				Av. BPS, 1303, Predio J3, Sala 6
 				Itajubá  MG  37500-185
 				BR
+
+70-B3-D5   (hex)		KSE GmbH
+0F6000-0F6FFF     (base 16)		KSE GmbH
+				Kaethe Paulus Strasse 6
+				Koesching    85092
+				DE
 
 70-B3-D5   (hex)		System West dba ICS Electronics
 E06000-E06FFF     (base 16)		System West dba ICS Electronics
@@ -17894,6 +17906,12 @@ D41000-D41FFF     (base 16)		KSE GmbH
 				Koesching    85092
 				DE
 
+8C-1F-64   (hex)		Mokila Networks Pvt Ltd
+23D000-23DFFF     (base 16)		Mokila Networks Pvt Ltd
+				101, First Floor, Block 1, White HouseKundanbagh, Begumpet
+				Hyderabad  Telangana  500016
+				IN
+
 70-B3-D5   (hex)		YUYAMA MFG Co.,Ltd
 BBB000-BBBFFF     (base 16)		YUYAMA MFG Co.,Ltd
 				3-3-1
@@ -22781,12 +22799,6 @@ BDB000-BDBFFF     (base 16)		Power Electronics Espana, S.L.
 				lliria  Valencia  46160
 				ES
 
-70-B3-D5   (hex)		AADONA Communication Pvt Ltd
-ED9000-ED9FFF     (base 16)		AADONA Communication Pvt Ltd
-				1st Floor, Phoenix Tech Tower, Plot No. 14/46, IDA - Uppal
-				Hyderabad  Telangana  500039
-				IN
-
 70-B3-D5   (hex)		Eon
 E62000-E62FFF     (base 16)		Eon
 				415, Heungan-daero, Dongan-gu, Anyang-si, Gyeonggi-do, Republic of Korea
@@ -23900,11 +23912,23 @@ FB4000-FB4FFF     (base 16)		Thales Nederland BV
 				Hengelo  OV  7554 PA
 				NL
 
+70-B3-D5   (hex)		AADONA Communication Pvt Ltd
+ED9000-ED9FFF     (base 16)		AADONA Communication Pvt Ltd
+				1st Floor, Phoenix Tech Tower, Plot No. 14/46, IDA - Uppal
+				Hyderabad   Telangana  500039
+				IN
+
 8C-1F-64   (hex)		aelettronica group srl
 1A7000-1A7FFF     (base 16)		aelettronica group srl
 				via matteotti,22
 				gaggiano  milano  20083
 				IT
+
+8C-1F-64   (hex)		Zelp Ltd
+17C000-17CFFF     (base 16)		Zelp Ltd
+				102 St Pancras Way
+				London  Select  NW1 9ND
+				GB
 
 70-B3-D5   (hex)		DISMUNTEL SAL
 92C000-92CFFF     (base 16)		DISMUNTEL SAL
@@ -27833,12 +27857,6 @@ A38000-A38FFF     (base 16)		Aditec GmbH
 				Offenau  Baden-Wuerttemberg  74254
 				DE
 
-70-B3-D5   (hex)		Elektro Adrian
-FF6000-FF6FFF     (base 16)		Elektro Adrian
-				Via Garibaldi no.1
-				Predazzo  Trento  38037
-				IT
-
 70-B3-D5   (hex)		PEEK TRAFFIC
 691000-691FFF     (base 16)		PEEK TRAFFIC
 				5401 N SAM HOUSTON PKWY W
@@ -29761,6 +29779,12 @@ F3D000-F3DFFF     (base 16)		Byte Lab Grupa d.o.o.
 				Medarska 69/1
 				Zagreb    10090
 				HR
+
+70-B3-D5   (hex)		Elektro Adrian
+FF6000-FF6FFF     (base 16)		Elektro Adrian
+				Via Garibaldi no.1
+				Predazzo   Trento  38037
+				IT
 
 70-B3-D5   (hex)		KSE GmbH
 38A000-38AFFF     (base 16)		KSE GmbH

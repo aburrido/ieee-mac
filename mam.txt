@@ -10139,6 +10139,24 @@ E00000-EFFFFF     (base 16)		Suzhou LZY technology Co.,Ltd
 				Suzhou  Jiangsu  215153
 				CN
 
+C4-98-94   (hex)		BTL Industries JSC
+300000-3FFFFF     (base 16)		BTL Industries JSC
+				str. Tsar Kaloyan 8
+				Sofia  Sofia  1000
+				BG
+
+C4-98-94   (hex)		Shenzhen  Hexin Automation Technology Co.,Ltd.
+900000-9FFFFF     (base 16)		Shenzhen  Hexin Automation Technology Co.,Ltd.
+				Room 402, Building 7, Hanwei International Zone 2, No. 186, South Fourth Ring West Road, Fengtai District,
+				beijing    100160
+				CN
+
+C4-98-94   (hex)		Pliem (Shanghai) Intelligent Technology Co., Ltd
+800000-8FFFFF     (base 16)		Pliem (Shanghai) Intelligent Technology Co., Ltd
+				Room 508, No. 9, Lane 205, Gaoji Road, Songjiang District
+				Shanghai  Shanghai  201601
+				CN
+
 C4-98-94   (hex)		Metasphere Ltd
 200000-2FFFFF     (base 16)		Metasphere Ltd
 				Metasphere LtdMillfieldDorking Road
@@ -15488,17 +15506,17 @@ D4-BA-BA   (hex)		ReeR SpA
 				torino    10153
 				IT
 
-D4-BA-BA   (hex)		AADONA Communication Pvt Ltd
-D00000-DFFFFF     (base 16)		AADONA Communication Pvt Ltd
-				1st Floor, Phoenix Tech Tower, Plot No. 14/46, IDA - Uppal
-				Hyderabad  Telangana  500039
-				IN
-
 C4-98-94   (hex)		SEAVIEW TELECOM
 100000-1FFFFF     (base 16)		SEAVIEW TELECOM
 				21st Floor, Block B-1, Building 9, Shenzhen Bay Science and Technology Ecological Park, Nanshan District
 				shenzhen    518000
 				CN
+
+D4-BA-BA   (hex)		AADONA Communication Pvt Ltd
+D00000-DFFFFF     (base 16)		AADONA Communication Pvt Ltd
+				1st Floor, Phoenix Tech Tower, Plot No. 14/46, IDA - Uppal
+				Hyderabad   Telangana  500039
+				IN
 
 4C-4B-F9   (hex)		Shandong Linkotech Electronic Co., Ltd.
 600000-6FFFFF     (base 16)		Shandong Linkotech Electronic Co., Ltd.
@@ -20632,6 +20650,24 @@ C4-83-72   (hex)		Transact Technologies Inc
 				20 Bomax Drive
 				Ithaca    14850
 				US
+
+C4-98-94   (hex)		Alpine Electronics Marketing, Inc.
+400000-4FFFFF     (base 16)		Alpine Electronics Marketing, Inc.
+				1-7, Yukigaya-otsukamachi, Ota-ku
+				Tokyo    145-8501
+				JP
+
+C4-98-94   (hex)		Shanghai YVR Technology Co., Ltd.
+B00000-BFFFFF     (base 16)		Shanghai YVR Technology Co., Ltd.
+				Building #3, No.1, Caosong Rd, Songjiang District 
+				Shanghai  Shanghai  201612
+				CN
+
+C4-98-94   (hex)		Shenzhen Megmeet Drive Technology Co.,Ltd.
+000000-0FFFFF     (base 16)		Shenzhen Megmeet Drive Technology Co.,Ltd.
+				Ziguang Information Port, Langshan Road, North District, Science and Technology Park, Nanshan District, Shenzhen
+				SHENZHEN    518000
+				CN
 
 20-85-93   (hex)		Great Lite International
 700000-7FFFFF     (base 16)		Great Lite International
@@ -25877,14 +25913,26 @@ B00000-BFFFFF     (base 16)		Qingdao Vzense Technology Co., Ltd.
 				Qingdao  Shandong  266000
 				CN
 
-D4-BA-BA   (hex)		Camozzi Automation SpA
-E00000-EFFFFF     (base 16)		Camozzi Automation SpA
-				Via Eritrea 20/I
-				BRESCIA  ITALY  25080
-				IT
+C4-98-94   (hex)		Shenzhen C & D Electronics Co., Ltd.
+700000-7FFFFF     (base 16)		Shenzhen C & D Electronics Co., Ltd.
+				9th FIoor, Building 9, No.1 Qingxiang road, BaoNeng Science and TechnoIogy Industrial Park, Longhua New District
+				ShenZhen  GuangDong  518000
+				CN
+
+C4-98-94   (hex)		shenzhen lanodo technology Co., Ltd
+500000-5FFFFF     (base 16)		shenzhen lanodo technology Co., Ltd
+				Room 501 Building D, Qiaoan Industry park, No 308 Wuhe Road, Guanlan, Longhua District
+				Shenzhen  Guangdong  518000
+				CN
 
 C4-98-94   (hex)		Jiangsu AIDriving Co.,Ltd.
 D00000-DFFFFF     (base 16)		Jiangsu AIDriving Co.,Ltd.
 				Room 1401,Beidou Building,6 Huida Road,Jiangbei NewDistrict
 				Nanjing  Jiangsu  210032
 				CN
+
+D4-BA-BA   (hex)		Camozzi Automation SpA
+E00000-EFFFFF     (base 16)		Camozzi Automation SpA
+				Via Eritrea 20/I
+				BRESCIA  ITALY  25080
+				IT
