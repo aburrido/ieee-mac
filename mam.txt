@@ -5207,6 +5207,12 @@ B00000-BFFFFF     (base 16)		care.ai
 				Orlando  FL  32819
 				US
 
+C4-98-94   (hex)		Neron Informatics Pvt Ltd
+A00000-AFFFFF     (base 16)		Neron Informatics Pvt Ltd
+				PLOTE- 6, 2ND FLOOR, OPP. HDFC BANK ,SAGAR PLAZA KAUSHAMBI 
+				GHAZIABAD  Utter Pradesh  201010
+				IN
+
 4C-4B-F9   (hex)		Shenzhen dingsheng technology co., LTD
 400000-4FFFFF     (base 16)		Shenzhen dingsheng technology co., LTD
 				Floor 3, building 5, kaijeda industrial zone, no.97, huaxing road, langkou community, dalang street, longhua district
@@ -10163,6 +10169,12 @@ C4-98-94   (hex)		Metasphere Ltd
 				Tadworth  Surrey  KT20 7TD
 				GB
 
+C4-98-94   (hex)		Zhejiang Rexense loT Technology Co., Ltd
+C00000-CFFFFF     (base 16)		Zhejiang Rexense loT Technology Co., Ltd
+				6th floor, building 4, No. 6, Longzhou Road, Yuhang District
+				Hangzhou  Zhejiang  311121
+				CN
+
 20-85-93   (hex)		UNILUMIN GROUP CO.,LTD
 300000-3FFFFF     (base 16)		UNILUMIN GROUP CO.,LTD
 				No.112 Yongfu Rd.,BaoanDistrict,
@@ -14861,9 +14873,6 @@ A00000-AFFFFF     (base 16)		ShenZhen Beide Technology Co.,LTD
 				ShenZhen  GuangDong  518000
 				CN
 
-94-C9-B7   (hex)		Private
-900000-9FFFFF     (base 16)		Private
-
 94-C9-B7   (hex)		shenzhen UDD Technologies,co.,Ltd
 E00000-EFFFFF     (base 16)		shenzhen UDD Technologies,co.,Ltd
 				Unit D, 6th Floor, Jialitai Bldg., No.45 Yanshan Road, Shekou, Nanshan District, Shenzhen, China
@@ -15506,10 +15515,10 @@ D4-BA-BA   (hex)		ReeR SpA
 				torino    10153
 				IT
 
-C4-98-94   (hex)		SEAVIEW TELECOM
-100000-1FFFFF     (base 16)		SEAVIEW TELECOM
-				21st Floor, Block B-1, Building 9, Shenzhen Bay Science and Technology Ecological Park, Nanshan District
-				shenzhen    518000
+94-C9-B7   (hex)		Titanium union(shenzhen)technology co.,ltd
+900000-9FFFFF     (base 16)		Titanium union(shenzhen)technology co.,ltd
+				35F, Shenzhen Bay VC&PE Bldg, No.25, Haitian 2nd Rd, Binhai  Comm, Yuehai St., Nanshan Dist, Shenzhen
+				shenzhen  guangdong  518000
 				CN
 
 D4-BA-BA   (hex)		AADONA Communication Pvt Ltd
@@ -15517,6 +15526,12 @@ D00000-DFFFFF     (base 16)		AADONA Communication Pvt Ltd
 				1st Floor, Phoenix Tech Tower, Plot No. 14/46, IDA - Uppal
 				Hyderabad   Telangana  500039
 				IN
+
+C4-98-94   (hex)		SEAVIEW TELECOM
+100000-1FFFFF     (base 16)		SEAVIEW TELECOM
+				21st Floor, Block B-1, Building 9, Shenzhen Bay Science and Technology Ecological Park, Nanshan District
+				shenzhen    518000
+				CN
 
 4C-4B-F9   (hex)		Shandong Linkotech Electronic Co., Ltd.
 600000-6FFFFF     (base 16)		Shandong Linkotech Electronic Co., Ltd.
