@@ -5213,6 +5213,12 @@ A00000-AFFFFF     (base 16)		Neron Informatics Pvt Ltd
 				GHAZIABAD  Utter Pradesh  201010
 				IN
 
+D0-96-86   (hex)		Changsha keruijie lnformation Technology Co.,Ltd
+B00000-BFFFFF     (base 16)		Changsha keruijie lnformation Technology Co.,Ltd
+				Floor 3, building 5, North Yuemin lane, Xinmin Road, Juzizhou street, Yuelu District, Changsha
+				Changsha    410000
+				CN
+
 4C-4B-F9   (hex)		Shenzhen dingsheng technology co., LTD
 400000-4FFFFF     (base 16)		Shenzhen dingsheng technology co., LTD
 				Floor 3, building 5, kaijeda industrial zone, no.97, huaxing road, langkou community, dalang street, longhua district
@@ -25990,3 +25996,9 @@ E00000-EFFFFF     (base 16)		Camozzi Automation SpA
 
 D0-96-86   (hex)		Private
 700000-7FFFFF     (base 16)		Private
+
+D0-96-86   (hex)		ECS s.r.l.
+C00000-CFFFFF     (base 16)		ECS s.r.l.
+				Via dell'Artigianato n. 24
+				Belluno  BL  32100
+				IT
