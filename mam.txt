@@ -5213,17 +5213,23 @@ A00000-AFFFFF     (base 16)		Neron Informatics Pvt Ltd
 				GHAZIABAD  Utter Pradesh  201010
 				IN
 
+D0-96-86   (hex)		Annapurna labs
+500000-5FFFFF     (base 16)		Annapurna labs
+				Matam Scientific Industries Center,   Building 8.2
+				Mail box 15123  Haifa  3508409
+				IL
+
 D0-96-86   (hex)		Changsha keruijie lnformation Technology Co.,Ltd
 B00000-BFFFFF     (base 16)		Changsha keruijie lnformation Technology Co.,Ltd
 				Floor 3, building 5, North Yuemin lane, Xinmin Road, Juzizhou street, Yuelu District, Changsha
 				Changsha    410000
 				CN
 
-D0-96-86   (hex)		Annapurna labs
-500000-5FFFFF     (base 16)		Annapurna labs
-				Matam Scientific Industries Center,   Building 8.2
-				Mail box 15123  Haifa  3508409
-				IL
+D0-96-86   (hex)		Energiekonzepte Deutschland GmbH
+800000-8FFFFF     (base 16)		Energiekonzepte Deutschland GmbH
+				Straße des 17. Juni, 4a
+				Taucha  Saxony  04425
+				DE
 
 D0-96-86   (hex)		Houston Radar LLC
 400000-4FFFFF     (base 16)		Houston Radar LLC
@@ -10204,6 +10210,12 @@ A00000-AFFFFF     (base 16)		Hero Health Inc.
 				85 Broad St. 17th Floor
 				New York  NY  10004
 				US
+
+D0-96-86   (hex)		SERNET (SUZHOU) TECHNOLOGIES CORPORATION
+000000-0FFFFF     (base 16)		SERNET (SUZHOU) TECHNOLOGIES CORPORATION
+				NO.8 Tangzhuang Road,Suzhou Industrial Park,Su ZhouCity,JiangSu Province,China
+				Suzhou    215021
+				CN
 
 20-85-93   (hex)		UNILUMIN GROUP CO.,LTD
 300000-3FFFFF     (base 16)		UNILUMIN GROUP CO.,LTD
@@ -26011,6 +26023,18 @@ E00000-EFFFFF     (base 16)		Camozzi Automation SpA
 				Via Eritrea 20/I
 				BRESCIA  ITALY  25080
 				IT
+
+D0-96-86   (hex)		 CertusNet Information Technology Co.,LTD
+D00000-DFFFFF     (base 16)		 CertusNet Information Technology Co.,LTD
+				6th floor,Shouxiang Technology Building,51 Xueyuan Road,Haidian District,Beijing
+				Beijing  Beijing  100083
+				CN
+
+D0-96-86   (hex)		TMLake Technology Ltd.,
+200000-2FFFFF     (base 16)		TMLake Technology Ltd.,
+				RM2403, Building 1, Block B, KEGU 1st Street, BDA
+				Beijing  Beijing  100176
+				CN
 
 D0-96-86   (hex)		Private
 700000-7FFFFF     (base 16)		Private

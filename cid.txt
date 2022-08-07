@@ -148,7 +148,7 @@ BA6791                        (base 16)                     Kandou Bus SA
 
 AA-14-6B                      (hex)                         IronWiFi                                     
 AA146B                        (base 16)                     IronWiFi                                     
-                                                            5245 Brosche Rd, Orlando, FL 328075245 Brosche Rd
+                                                            5245 Brosche Rd                              
                                                             Orlando  FL  32807                           
                                                             US                                           
 
@@ -523,6 +523,12 @@ EA1ED0                        (base 16)                     ZIGPOS GmbH
                                                             Räcknitzhöhe 35a                             
                                                             Dresden  Saxony  01217                       
                                                             DE                                           
+
+3A-76-5D                      (hex)                         NewCoSemi(Beijing) Technology Co., Ltd       
+3A765D                        (base 16)                     NewCoSemi(Beijing) Technology Co., Ltd       
+                                                            Room 802, Floor 8, Building 8, Four District, East Tower, Wangjing, Chaoyang
+                                                            Beijing    100102                            
+                                                            CN                                           
 
 8A-FB-16                      (hex)                         TeraByte, Inc.                               
 8AFB16                        (base 16)                     TeraByte, Inc.                               
