@@ -26044,3 +26044,9 @@ C00000-CFFFFF     (base 16)		ECS s.r.l.
 				Via dell'Artigianato n. 24
 				Belluno  BL  32100
 				IT
+
+D0-96-86   (hex)		withnetworks
+E00000-EFFFFF     (base 16)		withnetworks
+				13, Hangang-daero 11-gil, Yongsan-gu
+				Seoul    04379
+				KR
