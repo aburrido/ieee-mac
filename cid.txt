@@ -356,6 +356,12 @@ DA9D49                        (base 16)                     Calix Inc.
                                                             Samutprakarn    10270                        
                                                             TH                                           
 
+4A-ED-1D                      (hex)                         Astera Labs Inc                              
+4AED1D                        (base 16)                     Astera Labs Inc                              
+                                                            2901 Tasman Dr, #204                         
+                                                            Santa Clara  CA  95054                       
+                                                            US                                           
+
 BA-C4-85                      (hex)                         Fraunhofer IIS                               
 BAC485                        (base 16)                     Fraunhofer IIS                               
                                                             Am Wolfsmantel 33                            

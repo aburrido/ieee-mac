@@ -6104,6 +6104,18 @@ B9E000-B9EFFF     (base 16)		Power Electronics Espana, S.L.
 				Sheffiled  South Yorkshire  S10 2QJ
 				GB
 
+8C-1F-64   (hex)		REO AG
+462000-462FFF     (base 16)		REO AG
+				Brühlerstr. 100
+				Solingen    42657
+				DE
+
+8C-1F-64   (hex)		Guan Show Technologe Co., Ltd.
+00C000-00CFFF     (base 16)		Guan Show Technologe Co., Ltd.
+				No.127, Jianguo 1st Rd., Lingya Dist.
+				 Kaohsiung City     802
+				TW
+
 70-B3-D5   (hex)		EVCO SPA
 A80000-A80FFF     (base 16)		EVCO SPA
 				VIA FELTRE N. 81
@@ -12593,9 +12605,6 @@ E0C000-E0CFFF     (base 16)		Communication Systems Solutions
 				Lincoln  NE  68516
 				US
 
-70-B3-D5   (hex)		Private
-591000-591FFF     (base 16)		Private
-
 00-1B-C5   (hex)		Corporate Systems Engineering 
 015000-015FFF     (base 16)		Corporate Systems Engineering 
 				1215 Brookville Way
@@ -18000,6 +18009,12 @@ BCC000-BCCFFF     (base 16)		Sound Health Systems
 354000-354FFF     (base 16)		Paul Tagliamonte
 				PO Box 15335
 				Washington  DC  20003
+				US
+
+70-B3-D5   (hex)		Medicomp, Inc
+591000-591FFF     (base 16)		Medicomp, Inc
+				600 Atlantis Rd
+				Melbourne  FL  32904
 				US
 
 70-B3-D5   (hex)		YUYAMA MFG Co.,Ltd
@@ -24026,6 +24041,12 @@ D53000-D53FFF     (base 16)		Gridnt
 				JiNan  ShanDong  250100
 				CN
 
+8C-1F-64   (hex)		MTU Aero Engines AG
+825000-825FFF     (base 16)		MTU Aero Engines AG
+				Dachauer Straße 665
+				München  Bavaria  80995
+				DE
+
 70-B3-D5   (hex)		DISMUNTEL SAL
 92C000-92CFFF     (base 16)		DISMUNTEL SAL
 				Pol ind cotes
@@ -29911,3 +29932,9 @@ F39000-F39FFF     (base 16)		Weinan Wins Future Technology Co.,Ltd
 				Jutrzenki 116
 				Warsaw    02-230
 				PL
+
+8C-1F-64   (hex)		Action Streamer LLC
+65D000-65DFFF     (base 16)		Action Streamer LLC
+				1776 Mentor AveSuite 179
+				Cincinnati  OH  45212
+				US
