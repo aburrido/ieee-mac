@@ -3384,13 +3384,13 @@ F8DB                          Schindler Elevator Ltd.                           
                               US                                                                                                       
 
 
-0B07                          University of Berkeley                                                                                   Berkeley Reserved
+0B01                          University of Berkeley                                                                                   Real Time Internet Protocol scheme 2
                                                                                                                                        
                                                                                                                                        
                               US                                                                                                       
 
 
-0B01                          University of Berkeley                                                                                   Real Time Internet Protocol scheme 2
+0B07                          University of Berkeley                                                                                   Berkeley Reserved
                                                                                                                                        
                                                                                                                                        
                               US                                                                                                       
@@ -3889,9 +3889,6 @@ F8DB                          Schindler Elevator Ltd.                           
                               4676 Admiralty Way                                                                                       
                               Marina del Rey  CA  90292-6696                                                                           
                               US                                                                                                       
-
-
-8921                          Private                                                                                                  Decline to disclose. Cisco Proprietary
 
 
 867A                          Private                                                                                                  Protocol unavailable.
@@ -6722,6 +6719,12 @@ F5D2                          Schweitzer Engineering Laboratories, Inc.         
 0B05                          University of Berkeley                                                                                   Berkeley Reserved
                                                                                                                                        
                                                                                                                                        
+                              US                                                                                                       
+
+
+8921                          Cisco Systems, Inc                                                                                       Decline to disclose. Cisco Proprietary
+                              3850 Zanker Rd.                                                                                          
+                              San Jose  CA  95134                                                                                      
                               US                                                                                                       
 
 
@@ -13701,12 +13704,6 @@ AAC5                          Analog Devices Inc                                
                               US                                                                                                       
 
 
-0A00                          Xerox                                                                                                    PARC Universal Packet (PUP)
-                                                                                                                                       
-                              Webster  NY                                                                                              
-                              US                                                                                                       
-
-
 0B04                          University of Berkeley                                                                                   Berkeley Reserved
                                                                                                                                        
                                                                                                                                        
@@ -13716,6 +13713,12 @@ AAC5                          Analog Devices Inc                                
 0B02                          University of Berkeley                                                                                   IEEE 802.3 compatible Sprite RPC
                                                                                                                                        
                                                                                                                                        
+                              US                                                                                                       
+
+
+0A00                          Xerox                                                                                                    PARC Universal Packet (PUP)
+                                                                                                                                       
+                              Webster  NY                                                                                              
                               US                                                                                                       
 
 
@@ -17060,12 +17063,6 @@ C9D1                          IEEE 802.1 Chair                                  
                               US                                                                                                       
 
 
-8902                          IEEE 802.1 Chair                                                                                         Connectivity Fault Management (CFM) Protocol Data Unit (PDU) Encapsulation
-                               c/o RAC Administrator , IEEE                                                                            as defined in IEEE 802.1Q                                                  
-                              Piscataway  NJ  08554                                                                                    
-                              US                                                                                                       
-
-
 8100                          IEEE 802.1 Chair                                                                                         Customer VLAN Tag (C-TAG) as defined in IEEE Std 802.1Q
                                c/o RAC Administrator , IEEE                                                                            
                               Piscataway  NJ  08554                                                                                    
@@ -17093,4 +17090,10 @@ CCE0                          Video Services Forum, Inc.                        
 BC17                          Dish Technologies Corp                                                                                   This Ethertype is used to identify a protocol used for automatic
                               94 Inverness Terrace E                                                                                   configuration of STBs on the LANs                                          
                               Englewood  CO  80111                                                                                     
+                              US                                                                                                       
+
+
+8902                          Private                                                                                                  Connectivity Fault Management (CFM) Protocol Data Unit (PDU) Encapsulation
+                               c/o RAC Administrator , IEEE                                                                            as defined in IEEE 802.1Q                                                  
+                              Piscataway  NJ  08554                                                                                    
                               US                                                                                                       
