@@ -17093,7 +17093,7 @@ BC17                          Dish Technologies Corp                            
                               US                                                                                                       
 
 
-8902                          Private                                                                                                  Connectivity Fault Management (CFM) Protocol Data Unit (PDU) Encapsulation
+8902                          IEEE 802.1 Chair                                                                                         Connectivity Fault Management (CFM) Protocol Data Unit (PDU) Encapsulation
                                c/o RAC Administrator , IEEE                                                                            as defined in IEEE 802.1Q                                                  
                               Piscataway  NJ  08554                                                                                    
                               US                                                                                                       

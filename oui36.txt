@@ -24071,6 +24071,12 @@ F56000-F56FFF     (base 16)		KC5 International Sdn Bhd
 				Prilly    1008
 				CH
 
+8C-1F-64   (hex)		Rich Source Precision IND., Co., LTD.
+0EE000-0EEFFF     (base 16)		Rich Source Precision IND., Co., LTD.
+				8F., No. 219, Sec. 2, New Taipei Blvd.
+				New Taipei City  Xinzhuang Dist  242
+				TW
+
 70-B3-D5   (hex)		DISMUNTEL SAL
 92C000-92CFFF     (base 16)		DISMUNTEL SAL
 				Pol ind cotes
@@ -29957,17 +29963,17 @@ F39000-F39FFF     (base 16)		Weinan Wins Future Technology Co.,Ltd
 				Warsaw    02-230
 				PL
 
-8C-1F-64   (hex)		Action Streamer LLC
-65D000-65DFFF     (base 16)		Action Streamer LLC
-				1776 Mentor AveSuite 179
-				Cincinnati  OH  45212
-				US
-
 8C-1F-64   (hex)		Golding Audio Ltd
 39A000-39AFFF     (base 16)		Golding Audio Ltd
 				8 Peartree Business Centre, Stanway
 				Colchester  Essex  CO30JN
 				GB
+
+8C-1F-64   (hex)		Action Streamer LLC
+65D000-65DFFF     (base 16)		Action Streamer LLC
+				1776 Mentor AveSuite 179
+				Cincinnati  OH  45212
+				US
 
 8C-1F-64   (hex)		RealD, Inc.
 44F000-44FFFF     (base 16)		RealD, Inc.
