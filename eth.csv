@@ -3801,4 +3801,4 @@ Ethertype,CCE0,"Video Services Forum, Inc.",208 84th Street 08242 Sea Isle City 
 Ethertype,0B06,University of Berkeley,   US  ,Berkeley Reserved
 Ethertype,0A01,Xerox,   US  ,PUP Address translation
 Ethertype,BC17,Dish Technologies Corp,94 Inverness Terrace E Englewood CO US 80111 ,This Ethertype is used to identify a protocol used for automatic configuration of STBs on the LANs
-Ethertype,8902,Private," c/o RAC Administrator , IEEE Piscataway NJ US 08554 ",Connectivity Fault Management (CFM) Protocol Data Unit (PDU) Encapsulation as defined in IEEE 802.1Q
+Ethertype,8902,IEEE 802.1 Chair," c/o RAC Administrator , IEEE Piscataway NJ US 08554 ",Connectivity Fault Management (CFM) Protocol Data Unit (PDU) Encapsulation as defined in IEEE 802.1Q
