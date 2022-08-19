@@ -15611,6 +15611,18 @@ D0-96-86   (hex)		EPHI B.V.
 				shenzhen  guangdong  518000
 				CN
 
+4C-74-A7   (hex)		RAONARK
+A00000-AFFFFF     (base 16)		RAONARK
+				121, Digital-ro
+				Geumcheon-gu  Seoul  08505
+				KR
+
+4C-74-A7   (hex)		COREIP TECHNOLOGY PRIVATE LIMITED
+700000-7FFFFF     (base 16)		COREIP TECHNOLOGY PRIVATE LIMITED
+				C-421, The iTHUM, Sector 62
+				Noida    201309
+				IN
+
 4C-4B-F9   (hex)		Shandong Linkotech Electronic Co., Ltd.
 600000-6FFFFF     (base 16)		Shandong Linkotech Electronic Co., Ltd.
 				22nd Floor, Building 2, Aosheng Building, No.1166 Xinyi Street, High-tech Zone
@@ -26110,3 +26122,9 @@ E00000-EFFFFF     (base 16)		withnetworks
 				32114 MALLARD AVE BUILDING 52
 				TANGENT  OR  97389
 				US
+
+4C-74-A7   (hex)		traplinked Gmbh
+B00000-BFFFFF     (base 16)		traplinked Gmbh
+				Zollhof 7
+				Nürnberg  BY  90443
+				DE
