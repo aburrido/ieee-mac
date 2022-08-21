@@ -3384,13 +3384,13 @@ F8DB                          Schindler Elevator Ltd.                           
                               US                                                                                                       
 
 
-0B01                          University of Berkeley                                                                                   Real Time Internet Protocol scheme 2
+0B07                          University of Berkeley                                                                                   Berkeley Reserved
                                                                                                                                        
                                                                                                                                        
                               US                                                                                                       
 
 
-0B07                          University of Berkeley                                                                                   Berkeley Reserved
+0B01                          University of Berkeley                                                                                   Real Time Internet Protocol scheme 2
                                                                                                                                        
                                                                                                                                        
                               US                                                                                                       
@@ -13704,6 +13704,12 @@ AAC5                          Analog Devices Inc                                
                               US                                                                                                       
 
 
+0A00                          Xerox                                                                                                    PARC Universal Packet (PUP)
+                                                                                                                                       
+                              Webster  NY                                                                                              
+                              US                                                                                                       
+
+
 0B04                          University of Berkeley                                                                                   Berkeley Reserved
                                                                                                                                        
                                                                                                                                        
@@ -13713,12 +13719,6 @@ AAC5                          Analog Devices Inc                                
 0B02                          University of Berkeley                                                                                   IEEE 802.3 compatible Sprite RPC
                                                                                                                                        
                                                                                                                                        
-                              US                                                                                                       
-
-
-0A00                          Xerox                                                                                                    PARC Universal Packet (PUP)
-                                                                                                                                       
-                              Webster  NY                                                                                              
                               US                                                                                                       
 
 
