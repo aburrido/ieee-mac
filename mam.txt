@@ -10223,6 +10223,12 @@ E00000-EFFFFF     (base 16)		Hans Sasserath GmbH & Co. KG
 				Korschenbroich    41352
 				DE
 
+4C-74-A7   (hex)		Annapurna labs
+800000-8FFFFF     (base 16)		Annapurna labs
+				Matam Scientific Industries Center,   Building 8.2
+				Mail box 15123  Haifa  3508409
+				IL
+
 20-85-93   (hex)		UNILUMIN GROUP CO.,LTD
 300000-3FFFFF     (base 16)		UNILUMIN GROUP CO.,LTD
 				No.112 Yongfu Rd.,BaoanDistrict,

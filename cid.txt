@@ -542,6 +542,12 @@ EA1ED0                        (base 16)                     ZIGPOS GmbH
                                                             Beijing    100102                            
                                                             CN                                           
 
+7A-38-4E                      (hex)                         PROFIBUS Nutzerorganisation e.V.             
+7A384E                        (base 16)                     PROFIBUS Nutzerorganisation e.V.             
+                                                            Haid-und-Neu-Straße 7                        
+                                                            Karlsruhe  Baden-Württemberg  76131          
+                                                            DE                                           
+
 8A-FB-16                      (hex)                         TeraByte, Inc.                               
 8AFB16                        (base 16)                     TeraByte, Inc.                               
                                                             10220 Lazy Bear St                           
