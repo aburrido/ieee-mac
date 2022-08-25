@@ -15629,6 +15629,12 @@ A00000-AFFFFF     (base 16)		RAONARK
 				Noida    201309
 				IN
 
+D4-61-37   (hex)		Beijing Digital China Yunke Technology Limited
+800000-8FFFFF     (base 16)		Beijing Digital China Yunke Technology Limited
+				R301, 3F, NO9, shangdi 9th street, haidian district, beijing
+				Beijing  Beijing  100085
+				CN
+
 4C-4B-F9   (hex)		Shandong Linkotech Electronic Co., Ltd.
 600000-6FFFFF     (base 16)		Shandong Linkotech Electronic Co., Ltd.
 				22nd Floor, Building 2, Aosheng Building, No.1166 Xinyi Street, High-tech Zone
@@ -20809,6 +20815,12 @@ C00000-CFFFFF     (base 16)		N3com
 				Proektiruemiy proezd 4062, 6b1, office 71
 				Moscow    115432
 				RU
+
+D4-61-37   (hex)		APPOTRONICS CO., LTD
+300000-3FFFFF     (base 16)		APPOTRONICS CO., LTD
+				22F,High-tech Zone Union Tower 63 Xuefu Road Shenzhen China
+				Shenzhen  Guangdong  518000
+				CN
 
 20-85-93   (hex)		Great Lite International
 700000-7FFFFF     (base 16)		Great Lite International
