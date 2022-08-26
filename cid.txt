@@ -752,6 +752,12 @@ BAC8C4                        (base 16)                     Transponder & Reader
                                                             Baton Rouge  LA  70814                       
                                                             US                                           
 
+DA-C4-51                      (hex)                         Takaratomy                                   
+DAC451                        (base 16)                     Takaratomy                                   
+                                                            7-9-10 Tateishi                              
+                                                            Katsushika-ku  Tokyo  124-8511               
+                                                            JP                                           
+
 DA-41-62                      (hex)                         Xperi Corporation                            
 DA4162                        (base 16)                     Xperi Corporation                            
                                                             5220 Las Virgenes Rd                         
@@ -895,3 +901,9 @@ CA1E45                        (base 16)                     ASMedia Technology I
                                                             6F, No.115, Minquan Rd.,                     
                                                             New Taipei City    23141                     
                                                             TW                                           
+
+2A-AC-53                      (hex)                         Wolfspyre Labs                               
+2AAC53                        (base 16)                     Wolfspyre Labs                               
+                                                            5007 Highland Ct #WPL-IEEE                   
+                                                            Austin  TX  78731                            
+                                                            US                                           
