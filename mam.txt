@@ -5243,6 +5243,12 @@ D00000-DFFFFF     (base 16)		ddcpersia
 				Tehran  Tehran  1511764311
 				IR
 
+D4-61-37   (hex)		MUSASHI ENGINEERING,INC.
+C00000-CFFFFF     (base 16)		MUSASHI ENGINEERING,INC.
+				8-7-4 SHIMORENJAKU
+				MITAKA-SHI  TOKYO  181-0013
+				JP
+
 4C-4B-F9   (hex)		Shenzhen dingsheng technology co., LTD
 400000-4FFFFF     (base 16)		Shenzhen dingsheng technology co., LTD
 				Floor 3, building 5, kaijeda industrial zone, no.97, huaxing road, langkou community, dalang street, longhua district
@@ -20833,6 +20839,12 @@ D4-61-37   (hex)		Robert Bosch Elektronikai Kft.
 				Robert Bosch út 1.
 				Hatvan  Heves  3000
 				HU
+
+D4-61-37   (hex)		Shenzhen smart-core technology co.,ltd.
+100000-1FFFFF     (base 16)		Shenzhen smart-core technology co.,ltd.
+				19/F., Finance & Technology Building, No.11 Keyuan Road, Nanshan Dist., Shenzhen, China
+				Shenzhen  Guangdong  518057
+				CN
 
 20-85-93   (hex)		Great Lite International
 700000-7FFFFF     (base 16)		Great Lite International
