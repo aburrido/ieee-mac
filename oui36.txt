@@ -6140,6 +6140,18 @@ C44000-C44FFF     (base 16)		Sypris Electronics
 				Tampa    33612
 				US
 
+8C-1F-64   (hex)		Pantherun Technologies Pvt Ltd
+2A1000-2A1FFF     (base 16)		Pantherun Technologies Pvt Ltd
+				311 6th main road Hal 2nd stage
+				Bangalore  Karnataka  560038
+				IN
+
+8C-1F-64   (hex)		Cronus Electronics
+B08000-B08FFF     (base 16)		Cronus Electronics
+				7 Manor RoadManor Road
+				WEYMOUTH  Dorset  DT3 5HR
+				GB
+
 70-B3-D5   (hex)		EVCO SPA
 A80000-A80FFF     (base 16)		EVCO SPA
 				VIA FELTRE N. 81
@@ -18098,6 +18110,12 @@ AF0000-AF0FFF     (base 16)		MinebeaMitsumi Inc.
 				Minato-ku  Tokyo  1080073
 				JP
 
+8C-1F-64   (hex)		TYT Electronics CO., LTD
+252000-252FFF     (base 16)		TYT Electronics CO., LTD
+				Block 39-1, Optoelectronics-information industry base, Nan’an,
+				Quanzhou  Fujian  362300
+				CN
+
 70-B3-D5   (hex)		YUYAMA MFG Co.,Ltd
 BBB000-BBBFFF     (base 16)		YUYAMA MFG Co.,Ltd
 				3-3-1
@@ -24167,6 +24185,12 @@ E94000-E94FFF     (base 16)		ZIN TECHNOLOGIES
 				Middleburg Heights  OH  44130
 				US
 
+8C-1F-64   (hex)		Aaronn Electronic GmbH
+7E2000-7E2FFF     (base 16)		Aaronn Electronic GmbH
+				Zeppelinstrasse 2
+				Puchheim    82178
+				DE
+
 70-B3-D5   (hex)		DISMUNTEL SAL
 92C000-92CFFF     (base 16)		DISMUNTEL SAL
 				Pol ind cotes
@@ -30100,3 +30124,15 @@ A60000-A60FFF     (base 16)		Active Optical Systems, LLC
 				9019 Washington Street NortheastSuite B-2
 				Albuquerque  NM  87113
 				US
+
+8C-1F-64   (hex)		VITREA Smart Home Technologies Ltd.
+CC1000-CC1FFF     (base 16)		VITREA Smart Home Technologies Ltd.
+				3 Abraham Buma Shavit, 4A
+				Rishon Lezion    7559907
+				IL
+
+8C-1F-64   (hex)		Böckelt GmbH
+9B3000-9B3FFF     (base 16)		Böckelt GmbH
+				Ludwig-Erhard-Straße6
+				Wenden  NRW  57482
+				DE
