@@ -20876,6 +20876,12 @@ E00000-EFFFFF     (base 16)		UAB Brolis sensor technology
 				Vilnius    14259
 				LT
 
+F0-22-1D   (hex)		Bulat Co., Limited
+700000-7FFFFF     (base 16)		Bulat Co., Limited
+				ROOM A1, 11/F WINNER BUILDING,36 MAN YUE STREET, HUNG HOM,KOWLOON,hongkong
+				hongkong    999077
+				HK
+
 20-85-93   (hex)		Great Lite International
 700000-7FFFFF     (base 16)		Great Lite International
 				11F., No.207-2, Sec. 3, Beixin Rd., Xindian Dist.,
@@ -26214,4 +26220,16 @@ A0-02-4A   (hex)		Dongguan Amsamotion Automation Technology Co., Ltd
 500000-5FFFFF     (base 16)		Dongguan Amsamotion Automation Technology Co., Ltd
 				Block A, Zosun Intelligence Creation Zone         
 				Dongguan  No.9 Yizhan Road, Yuanwubian Streeet Nancheng District, Gunagdong  523000
+				CN
+
+F0-22-1D   (hex)		Hangzhou Gold Electronic Equipment Co., Ltd
+A00000-AFFFFF     (base 16)		Hangzhou Gold Electronic Equipment Co., Ltd
+				Room 201, floor 2, building F, Haichuang Park, Zhongdian Haikang Group Co., Ltd., No. 198, aicheng street, Wuchang Street, Yuhang District
+				 Hangzhou  Zhejiang   310000
+				CN
+
+F0-22-1D   (hex)		Chonel Industry?shanghai?Co., Ltd.
+200000-2FFFFF     (base 16)		Chonel Industry?shanghai?Co., Ltd.
+				Room 501?Building 24?Lane 8633?Zhongchun Road?Minghang District
+				Shanghai  Shanghai  201100
 				CN
