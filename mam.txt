@@ -5249,6 +5249,12 @@ C00000-CFFFFF     (base 16)		MUSASHI ENGINEERING,INC.
 				MITAKA-SHI  TOKYO  181-0013
 				JP
 
+F0-22-1D   (hex)		THANHBINH COMPANY - E111 FACTORY
+000000-0FFFFF     (base 16)		THANHBINH COMPANY - E111 FACTORY
+				Industrial Security, Lai Yen Ward
+				Hanoi  Hoai Duc District  13200
+				VN
+
 4C-4B-F9   (hex)		Shenzhen dingsheng technology co., LTD
 400000-4FFFFF     (base 16)		Shenzhen dingsheng technology co., LTD
 				Floor 3, building 5, kaijeda industrial zone, no.97, huaxing road, langkou community, dalang street, longhua district
@@ -10235,17 +10241,23 @@ E00000-EFFFFF     (base 16)		Hans Sasserath GmbH & Co. KG
 				Mail box 15123  Haifa  3508409
 				IL
 
-D4-61-37   (hex)		Estelle AB
-500000-5FFFFF     (base 16)		Estelle AB
-				Sveavägen 124
-				Stockholm  -  113 50
-				SE
+F0-22-1D   (hex)		Synergies Intelligent Systems Inc.
+400000-4FFFFF     (base 16)		Synergies Intelligent Systems Inc.
+				11F, Number 277, Songren Rd, Xinyi District, Taipei City, Taiwan 110 
+				Taipei  Taiwan  101
+				TW
 
 D4-61-37   (hex)		Wistron Corporation
 000000-0FFFFF     (base 16)		Wistron Corporation
 				 NO.5, HSIN AN ROAD, SCIENCE-BASED INDUSTRIAL PARK, HSINCHU, TAIWAN, R.O.C.
 				Hsinchu County  Taiwan  303036
 				TW
+
+D4-61-37   (hex)		Estelle AB
+500000-5FFFFF     (base 16)		Estelle AB
+				Sveavägen 124
+				Stockholm  -  113 50
+				SE
 
 20-85-93   (hex)		UNILUMIN GROUP CO.,LTD
 300000-3FFFFF     (base 16)		UNILUMIN GROUP CO.,LTD
@@ -20881,6 +20893,12 @@ F0-22-1D   (hex)		Bulat Co., Limited
 				ROOM A1, 11/F WINNER BUILDING,36 MAN YUE STREET, HUNG HOM,KOWLOON,hongkong
 				hongkong    999077
 				HK
+
+F0-22-1D   (hex)		Shanghai Gfanxvision Intelligent Technology Co.Ltd
+900000-9FFFFF     (base 16)		Shanghai Gfanxvision Intelligent Technology Co.Ltd
+				Room 506, No. 19, No. 498, GuoShouJing Road
+				Shanghai  Pudong New Area  201203
+				CN
 
 20-85-93   (hex)		Great Lite International
 700000-7FFFFF     (base 16)		Great Lite International

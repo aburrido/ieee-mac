@@ -6146,6 +6146,12 @@ C44000-C44FFF     (base 16)		Sypris Electronics
 				Bangalore  Karnataka  560038
 				IN
 
+8C-1F-64   (hex)		Quantum Technologies Inc
+F2F000-F2FFFF     (base 16)		Quantum Technologies Inc
+				991 DISCOVERY DR NW
+				Huntsville  AL  35806
+				US
+
 8C-1F-64   (hex)		Cronus Electronics
 B08000-B08FFF     (base 16)		Cronus Electronics
 				7 Manor RoadManor Road
@@ -6157,12 +6163,6 @@ BC3000-BC3FFF     (base 16)		FoxIoT OÜ
 				Mäealuse tn 2/1
 				Tallinn  Harjumaa  12618
 				EE
-
-8C-1F-64   (hex)		Quantum Technologies Inc
-F2F000-F2FFFF     (base 16)		Quantum Technologies Inc
-				991 DISCOVERY DR NW
-				Huntsville  AL  35806
-				US
 
 70-B3-D5   (hex)		EVCO SPA
 A80000-A80FFF     (base 16)		EVCO SPA
@@ -12179,6 +12179,12 @@ F22000-F22FFF     (base 16)		Voyage Audio LLC
 				LINGFIELD    RH7 6JP
 				GB
 
+8C-1F-64   (hex)		Ingenious Technology LLC
+573000-573FFF     (base 16)		Ingenious Technology LLC
+				111 Deerwood Road, Suite 200
+				San Ramon  CA  94583
+				US
+
 70-B3-D5   (hex)		System West dba ICS Electronics
 E06000-E06FFF     (base 16)		System West dba ICS Electronics
 				7034 Commerce Circle Suite A
@@ -18156,6 +18162,12 @@ AF0000-AF0FFF     (base 16)		MinebeaMitsumi Inc.
 2A9000-2A9FFF     (base 16)		Elbit Systems of America, LLC
 				3401 Quorum Drive (Suite 380)
 				Fortworth  TX  76137
+				US
+
+8C-1F-64   (hex)		Pharsighted LLC
+46A000-46AFFF     (base 16)		Pharsighted LLC
+				7 Pepperidge Road
+				Boonton Township  NJ  07005
 				US
 
 70-B3-D5   (hex)		YUYAMA MFG Co.,Ltd
