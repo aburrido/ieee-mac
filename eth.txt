@@ -3384,13 +3384,13 @@ F8DB                          Schindler Elevator Ltd.                           
                               US                                                                                                       
 
 
-0B07                          University of Berkeley                                                                                   Berkeley Reserved
+0B01                          University of Berkeley                                                                                   Real Time Internet Protocol scheme 2
                                                                                                                                        
                                                                                                                                        
                               US                                                                                                       
 
 
-0B01                          University of Berkeley                                                                                   Real Time Internet Protocol scheme 2
+0B07                          University of Berkeley                                                                                   Berkeley Reserved
                                                                                                                                        
                                                                                                                                        
                               US                                                                                                       
@@ -13704,12 +13704,6 @@ AAC5                          Analog Devices Inc                                
                               US                                                                                                       
 
 
-0A00                          Xerox                                                                                                    PARC Universal Packet (PUP)
-                                                                                                                                       
-                              Webster  NY                                                                                              
-                              US                                                                                                       
-
-
 0B04                          University of Berkeley                                                                                   Berkeley Reserved
                                                                                                                                        
                                                                                                                                        
@@ -13722,10 +13716,22 @@ AAC5                          Analog Devices Inc                                
                               US                                                                                                       
 
 
+0A00                          Xerox                                                                                                    PARC Universal Packet (PUP)
+                                                                                                                                       
+                              Webster  NY                                                                                              
+                              US                                                                                                       
+
+
 8917                          IEEE 802.21 Working Group                                                                                Media Independent Service (MIS) protocol as defined in IEEE Std 802.21
                               IEEE 802.21 Chair, c/o RAC Administrator IEEE                                                            
                               Piscataway  NJ  08854                                                                                    
                               US                                                                                                       
+
+
+F45F                          Beijing Haiwang Network Technologies Co., Ltd                                                            This Ethertype enables IDP (Identifier Protocol), which was defined in
+                              2-2180,Building D,Block 33, No.99,Kechuang 14 Street,Beijing Economic-Technological Development Area     ITU-T Y.3075. IDP is responsible for maintaining the rules and regulations 
+                              Beijing    100176                                                                                        about how to process the address/es in the packet and modifying the address
+                              CN                                                                                                       field in the packet.                                                       
 
 
 8741                          Siemens  AG                                                                                              Protocol unavailable.

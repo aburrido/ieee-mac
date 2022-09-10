@@ -3051,6 +3051,7 @@ Ethertype,0A00,Xerox, Webster NY US  ,PARC Universal Packet (PUP)
 Ethertype,0B04,University of Berkeley,   US  ,Berkeley Reserved
 Ethertype,0B02,University of Berkeley,   US  ,IEEE 802.3 compatible Sprite RPC
 Ethertype,8917,IEEE 802.21 Working Group,"IEEE 802.21 Chair, c/o RAC Administrator IEEE Piscataway NJ US 08854 ",Media Independent Service (MIS) protocol as defined in IEEE Std 802.21
+Ethertype,F45F,"Beijing Haiwang Network Technologies Co., Ltd","2-2180,Building D,Block 33, No.99,Kechuang 14 Street,Beijing Economic-Technological Development Area Beijing  CN 100176 ","This Ethertype enables IDP (Identifier Protocol), which was defined in ITU-T Y.3075. IDP is responsible for maintaining the rules and regulations about how to process the address/es in the packet and modifying the address field in the packet."
 Ethertype,8741,Siemens  AG,Otto-Han-Ring-6 Munich  DE D-81739 ,Protocol unavailable.
 Ethertype,874D,Hybrid,20863 Stevens Creek Blvd. Cupertino CA US 95014-8750 ,Protocol unavailable.
 Ethertype,873D,Siemens  AG,Otto-Han-Ring-6 Munich  DE D-81739 ,Protocol unavailable.

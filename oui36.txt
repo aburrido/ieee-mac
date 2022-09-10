@@ -10841,9 +10841,6 @@ E44000-E44FFF     (base 16)		BrainboxAI Inc
 				Isola Vicentina  Vicenza  36033
 				IT
 
-70-B3-D5   (hex)		Private
-A31000-A31FFF     (base 16)		Private
-
 70-B3-D5   (hex)		Clockwork Dog
 5D7000-5D7FFF     (base 16)		Clockwork Dog
 				43 Philpot Street
@@ -12190,6 +12187,12 @@ BF3000-BF3FFF     (base 16)		Alphatek AS
 				Andreas Harestads vei 30
 				Randaberg  Rogaland  4070 
 				NO
+
+70-B3-D5   (hex)		Wise Ally Holdings Limited
+A31000-A31FFF     (base 16)		Wise Ally Holdings Limited
+				Unit 3203-3207 , Tower 1 , Enterprise Square Five , 38 Wang Chiu Road
+				Hong Kong  Kowloon Bay  852
+				HK
 
 70-B3-D5   (hex)		System West dba ICS Electronics
 E06000-E06FFF     (base 16)		System West dba ICS Electronics
@@ -18181,6 +18184,12 @@ AF0000-AF0FFF     (base 16)		MinebeaMitsumi Inc.
 				4275 Burton Dr
 				Santa Clara  CA  95054
 				US
+
+8C-1F-64   (hex)		qiio AG
+08E000-08EFFF     (base 16)		qiio AG
+				Am Wasser 24
+				Zurich  Zurich  8049
+				CH
 
 70-B3-D5   (hex)		YUYAMA MFG Co.,Ltd
 BBB000-BBBFFF     (base 16)		YUYAMA MFG Co.,Ltd
