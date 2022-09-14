@@ -752,8 +752,8 @@ user: p8021
 pass: go_wildcats"
 Ethertype,8910,IEEE 802.1 Working Group,"IEEE 802.1 Chair, c/o RAC Administrator IEEE Piscataway NJ US 08854  ",Encapsulated Addresses for use with the Backbone Service Instance as defined in IEEE Std 802.1Q
 Ethertype,880B,US Robotics Corporation,"1300 E. Woodfield Roar, Suite: 506 Schaumburg IL US 60173 ",PPP - IETF RFC 2637
-Ethertype,0B07,University of Berkeley,   US  ,Berkeley Reserved
 Ethertype,0B01,University of Berkeley,   US  ,Real Time Internet Protocol scheme 2
+Ethertype,0B07,University of Berkeley,   US  ,Berkeley Reserved
 Ethertype,8743,Siemens  AG,Otto-Han-Ring-6 Munich  DE D-81739 ,Protocol unavailable.
 Ethertype,8745,Siemens  AG,Otto-Han-Ring-6 Munich  DE D-81739 ,Protocol unavailable.
 Ethertype,8748,Hybrid,20863 Stevens Creek Blvd. Cupertino CA US 95014-8750 ,Protocol unavailable.
@@ -3047,9 +3047,9 @@ Ethertype,99FE,ASAM e.V.,Leopoldstraße 236 Munich  DE 80807 ,CMP enables the re
 Ethertype,88B7,IEEE 802.1 Chair," c/o RAC Administrator , IEEE Piscataway NJ US 08554 ",OUI Extended EtherType as defined in IEEE Std 802. This EtherType value is available for public use and for prototype and vendor-specific protocol development.
 Ethertype,"=""88E5""",IEEE 802.1 Working Group,"IEEE 802.1 Chair, c/o RAC Administrator IEEE Piscataway NJ US 08854 ",Media Access Control (MAC) Security tag as defined in IEEE Std 802.1AE
 Ethertype,AAC5,Analog Devices Inc,1 Technology Way Norwood MA US MA02062 ,For implementation of protocol still in development
-Ethertype,0A00,Xerox, Webster NY US  ,PARC Universal Packet (PUP)
 Ethertype,0B04,University of Berkeley,   US  ,Berkeley Reserved
 Ethertype,0B02,University of Berkeley,   US  ,IEEE 802.3 compatible Sprite RPC
+Ethertype,0A00,Xerox, Webster NY US  ,PARC Universal Packet (PUP)
 Ethertype,8917,IEEE 802.21 Working Group,"IEEE 802.21 Chair, c/o RAC Administrator IEEE Piscataway NJ US 08854 ",Media Independent Service (MIS) protocol as defined in IEEE Std 802.21
 Ethertype,F45F,"Beijing Haiwang Network Technologies Co., Ltd","2-2180,Building D,Block 33, No.99,Kechuang 14 Street,Beijing Economic-Technological Development Area Beijing  CN 100176 ","This Ethertype enables IDP (Identifier Protocol), which was defined in ITU-T Y.3075. IDP is responsible for maintaining the rules and regulations about how to process the address/es in the packet and modifying the address field in the packet."
 Ethertype,8741,Siemens  AG,Otto-Han-Ring-6 Munich  DE D-81739 ,Protocol unavailable.
