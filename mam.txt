@@ -5282,6 +5282,12 @@ E0-38-2D   (hex)		Weishi Intelligent Information Technology (Guangzhou) Co., LTD
 				Guangzhou  Guangdong  200233
 				CN
 
+E0-38-2D   (hex)		Qingdao Unovo Technologies Co., Ltd
+400000-4FFFFF     (base 16)		Qingdao Unovo Technologies Co., Ltd
+				8#-1 Household of Liandong U Valley Industrial Park
+				Qingdao  Shandong  266100
+				CN
+
 4C-4B-F9   (hex)		Shenzhen dingsheng technology co., LTD
 400000-4FFFFF     (base 16)		Shenzhen dingsheng technology co., LTD
 				Floor 3, building 5, kaijeda industrial zone, no.97, huaxing road, langkou community, dalang street, longhua district
@@ -15745,6 +15751,12 @@ A00000-AFFFFF     (base 16)		4D Photonics GmbH
 				Im Torfstich 5
 				Isernhagen    30916
 				DE
+
+E0-38-2D   (hex)		KEPLER COMMUNICATIONS INC.
+D00000-DFFFFF     (base 16)		KEPLER COMMUNICATIONS INC.
+				196 Spadina Avenue, Suite 400
+				Toronto  ON  M5T 2C2
+				CA
 
 4C-4B-F9   (hex)		Shandong Linkotech Electronic Co., Ltd.
 600000-6FFFFF     (base 16)		Shandong Linkotech Electronic Co., Ltd.
