@@ -6170,6 +6170,12 @@ BC3000-BC3FFF     (base 16)		FoxIoT OÜ
 				Maggiora  NO  28014
 				IT
 
+8C-1F-64   (hex)		Emerson Rosemount Analytical
+9B2000-9B2FFF     (base 16)		Emerson Rosemount Analytical
+				8200 Market Blvd.
+				Chanhassen  MN  55317-9687
+				US
+
 70-B3-D5   (hex)		EVCO SPA
 A80000-A80FFF     (base 16)		EVCO SPA
 				VIA FELTRE N. 81
@@ -12206,6 +12212,12 @@ FCC000-FCCFFF     (base 16)		GREDMANN TAIWAN LTD.
 				Taipei City    105603
 				TW
 
+8C-1F-64   (hex)		Spectrum FiftyNine BV
+145000-145FFF     (base 16)		Spectrum FiftyNine BV
+				Middelweg 8a
+				Molenhoek  Limb  6584ah
+				NL
+
 70-B3-D5   (hex)		System West dba ICS Electronics
 E06000-E06FFF     (base 16)		System West dba ICS Electronics
 				7034 Commerce Circle Suite A
@@ -18207,6 +18219,18 @@ AF0000-AF0FFF     (base 16)		MinebeaMitsumi Inc.
 F10000-F10FFF     (base 16)		GSP Sprachtechnologie GmbH
 				Teltowkanalstraße 1
 				Berlin    12247
+				DE
+
+8C-1F-64   (hex)		Flextronics International Kft
+3B0000-3B0FFF     (base 16)		Flextronics International Kft
+				38. Zrinyi Str.
+				Zalaegerszeg  Zala  8900
+				HU
+
+8C-1F-64   (hex)		EA Elektro-Automatik
+F57000-F57FFF     (base 16)		EA Elektro-Automatik
+				Helmholtzstraße 31-37
+				Viersen  Nordrhein-Westfalen  41747
 				DE
 
 70-B3-D5   (hex)		YUYAMA MFG Co.,Ltd
@@ -30265,3 +30289,9 @@ CC1000-CC1FFF     (base 16)		VITREA Smart Home Technologies Ltd.
 				AVENUE DU CANADA
 				HONFLEUR    14600
 				FR
+
+8C-1F-64   (hex)		ELTEK SpA
+56C000-56CFFF     (base 16)		ELTEK SpA
+				Strada Valenza 5/A
+				Casale Monferrato  Alessandria  15033
+				IT

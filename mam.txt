@@ -5270,12 +5270,6 @@ F0-22-1D   (hex)		THANHBINH COMPANY - E111 FACTORY
 				Winona  MN  55987
 				US
 
-F0-22-1D   (hex)		oToBrite Electronics, Inc.
-E00000-EFFFFF     (base 16)		oToBrite Electronics, Inc.
-				6F, No.18, Prosperity Rd. II, Science-Based Industrial Park
-				Hsinchu    30078
-				TW
-
 E0-38-2D   (hex)		Weishi Intelligent Information Technology (Guangzhou) Co., LTD
 500000-5FFFFF     (base 16)		Weishi Intelligent Information Technology (Guangzhou) Co., LTD
 				Room 1402, No. 85, Xiangxue Avenue middle, Huangpu District
@@ -5287,6 +5281,12 @@ E0-38-2D   (hex)		Qingdao Unovo Technologies Co., Ltd
 				8#-1 Household of Liandong U Valley Industrial Park
 				Qingdao  Shandong  266100
 				CN
+
+F0-22-1D   (hex)		oToBrite Electronics, Inc.
+E00000-EFFFFF     (base 16)		oToBrite Electronics, Inc.
+				6F, No.18, Prosperity Rd. II, Science-Based Industrial Park
+				Hsinchu    30078
+				TW
 
 4C-4B-F9   (hex)		Shenzhen dingsheng technology co., LTD
 400000-4FFFFF     (base 16)		Shenzhen dingsheng technology co., LTD
@@ -20991,6 +20991,12 @@ F0-22-1D   (hex)		Shanghai Gfanxvision Intelligent Technology Co.Ltd
 900000-9FFFFF     (base 16)		Shanghai Gfanxvision Intelligent Technology Co.Ltd
 				Room 506, No. 19, No. 498, GuoShouJing Road
 				Shanghai  Pudong New Area  201203
+				CN
+
+E0-38-2D   (hex)		SiLAND Chengdu Technology Co., Ltd
+C00000-CFFFFF     (base 16)		SiLAND Chengdu Technology Co., Ltd
+				Tianren Road,Chengdu Hi-tech Zone
+				ChengDu  Sichuan  610041
 				CN
 
 20-85-93   (hex)		Great Lite International
