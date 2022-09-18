@@ -10304,17 +10304,17 @@ F0-22-1D   (hex)		Synergies Intelligent Systems Inc.
 				Taipei  Taiwan  101
 				TW
 
-E0-38-2D   (hex)		Famar Fueguina S.A.
-700000-7FFFFF     (base 16)		Famar Fueguina S.A.
-				Rodney 70
-				Buenos Aires    1427
-				AR
-
 E0-38-2D   (hex)		SERCOMM PHILIPPINES INC
 B00000-BFFFFF     (base 16)		SERCOMM PHILIPPINES INC
 				Lot 1 & 5, Phase 1, Filinvest Technology Park 1, Brgy. Punta, Calamba City
 				Calamba    Lot 1
 				PH
+
+E0-38-2D   (hex)		Famar Fueguina S.A.
+700000-7FFFFF     (base 16)		Famar Fueguina S.A.
+				Rodney 70
+				Buenos Aires    1427
+				AR
 
 20-85-93   (hex)		UNILUMIN GROUP CO.,LTD
 300000-3FFFFF     (base 16)		UNILUMIN GROUP CO.,LTD
@@ -15757,6 +15757,12 @@ D00000-DFFFFF     (base 16)		KEPLER COMMUNICATIONS INC.
 				196 Spadina Avenue, Suite 400
 				Toronto  ON  M5T 2C2
 				CA
+
+E0-38-2D   (hex)		Velvac Incorporated
+900000-9FFFFF     (base 16)		Velvac Incorporated
+				2405 S. Calhoun Road
+				New Berlin  WI  53151-2709
+				US
 
 4C-4B-F9   (hex)		Shandong Linkotech Electronic Co., Ltd.
 600000-6FFFFF     (base 16)		Shandong Linkotech Electronic Co., Ltd.
