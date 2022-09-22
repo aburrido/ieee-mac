@@ -7511,12 +7511,6 @@ B7EA                          Huawei Technologies, Co., Ltd                     
                               US                                                                                                       
 
 
-8909                          Cisco Systems, Inc                                                                                       Decline to disclose.Cisco Proprietary.
-                              170 W. Tasman Drive                                                                                      
-                              San Jose  CA  95134                                                                                      
-                              US                                                                                                       
-
-
 8939                          Cisco Systems                                                                                            Generic Associated Channel (G-ACh) protocol encapsulation over
                               1414 Massachusetts Ave.                                                                                  Ethernet.                                                                  
                               Boxborough  MA  01719                                                                                    This type indicates that the Ethernet payload begins with an               
@@ -10205,6 +10199,12 @@ F1C1                          IEEE 802.1 Chair                                  
 0B03                          University of Berkeley                                                                                   IETF Parameter Negotiation
                                                                                                                                        
                                                                                                                                        
+                              US                                                                                                       
+
+
+8909                          Cisco Systems, Inc                                                                                       Cisco Metadata (CMD)
+                              170 W. Tasman Drive                                                                                      
+                              San Jose  CA  95134                                                                                      
                               US                                                                                                       
 
 
