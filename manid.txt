@@ -57,6 +57,7 @@ MANUFACTURER ID               Organization
 1109                          General Motors
 14599                         Delta Computers LLC.
 8163                          Scati Labs, S.A.
+7857                          X-SENSORS AG
 15913                         VALCOM CO.,LTD.
 12385                         TrigasDM GmbH
 5688                          Duerr Somac GmbH

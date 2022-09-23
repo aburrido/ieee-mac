@@ -5288,6 +5288,12 @@ E00000-EFFFFF     (base 16)		oToBrite Electronics, Inc.
 				Hsinchu    30078
 				TW
 
+E0-38-2D   (hex)		Annapurna labs
+100000-1FFFFF     (base 16)		Annapurna labs
+				Matam Scientific Industries Center,   Building 8.2
+				Mail box 15123  Haifa  3508409
+				IL
+
 4C-4B-F9   (hex)		Shenzhen dingsheng technology co., LTD
 400000-4FFFFF     (base 16)		Shenzhen dingsheng technology co., LTD
 				Floor 3, building 5, kaijeda industrial zone, no.97, huaxing road, langkou community, dalang street, longhua district
@@ -21005,17 +21011,17 @@ C00000-CFFFFF     (base 16)		SiLAND Chengdu Technology Co., Ltd
 				ChengDu  Sichuan  610041
 				CN
 
-E0-38-2D   (hex)		iTracxing
-600000-6FFFFF     (base 16)		iTracxing
-				 8F., No. 182, Sec. 2, Dunhua S. Rd., Da’an Dist., Taipei City 106033 , Taiwan (R.O.C.)
-				Taipei City   Da’an Dist.,  106033
-				TW
-
 E0-38-2D   (hex)		Beijing Cgprintech Technology Co.,Ltd
 000000-0FFFFF     (base 16)		Beijing Cgprintech Technology Co.,Ltd
 				3A floor, Block B, Science and Technology Wealth Center, No. 8 Xueqing Road, Haidian District, Beijing
 				Beijing  Beijing  100192
 				CN
+
+E0-38-2D   (hex)		iTracxing
+600000-6FFFFF     (base 16)		iTracxing
+				 8F., No. 182, Sec. 2, Dunhua S. Rd., Da’an Dist., Taipei City 106033 , Taiwan (R.O.C.)
+				Taipei City   Da’an Dist.,  106033
+				TW
 
 E0-38-2D   (hex)		Annapurna labs
 300000-3FFFFF     (base 16)		Annapurna labs
