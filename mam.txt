@@ -5294,6 +5294,18 @@ E0-38-2D   (hex)		Annapurna labs
 				Mail box 15123  Haifa  3508409
 				IL
 
+E0-38-2D   (hex)		Xi'an Xiangxun Technology Co., Ltd.
+200000-2FFFFF     (base 16)		Xi'an Xiangxun Technology Co., Ltd.
+				Room 112, No. 1 Workshop, AVIC Xi'an Computing Technology Research Institute, No. 15, Jinye Second Road, Xi'an
+				Xi'an  Shaanxi  710076
+				CN
+
+E0-38-2D   (hex)		Shenzhen iTest Technology Co.,Ltd
+800000-8FFFFF     (base 16)		Shenzhen iTest Technology Co.,Ltd
+				5C building 1, Tingwei Industrial Park, No.6 Liufang Road, Area 67, Xingdong community, Xin’an street, Bao’an District, Shenzhen, China
+				SHENZHEN    518000
+				CN
+
 4C-4B-F9   (hex)		Shenzhen dingsheng technology co., LTD
 400000-4FFFFF     (base 16)		Shenzhen dingsheng technology co., LTD
 				Floor 3, building 5, kaijeda industrial zone, no.97, huaxing road, langkou community, dalang street, longhua district
