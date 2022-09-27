@@ -10334,6 +10334,12 @@ E0-38-2D   (hex)		Famar Fueguina S.A.
 				Buenos Aires    1427
 				AR
 
+E0-38-2D   (hex)		Anysafe
+E00000-EFFFFF     (base 16)		Anysafe
+				512, Block W1-B, High-tech Industrial Village, No. 034, Gaoxin South Fourth Road, Yuehai Street, Nanshan District
+				Shenzhen  Guangdong  518001
+				CN
+
 20-85-93   (hex)		UNILUMIN GROUP CO.,LTD
 300000-3FFFFF     (base 16)		UNILUMIN GROUP CO.,LTD
 				No.112 Yongfu Rd.,BaoanDistrict,
@@ -26392,3 +26398,15 @@ A0-02-4A   (hex)		Dongguan Amsamotion Automation Technology Co., Ltd
 				Block A, Zosun Intelligence Creation Zone         
 				Dongguan  No.9 Yizhan Road, Yuanwubian Streeet Nancheng District, Gunagdong  523000
 				CN
+
+0C-CC-47   (hex)		Rich Source Precision IND., Co., LTD.
+A00000-AFFFFF     (base 16)		Rich Source Precision IND., Co., LTD.
+				8F., No. 219, Sec. 2, New Taipei Blvd.
+				New Taipei City  Xinzhuang Dist  242
+				TW
+
+0C-CC-47   (hex)		DMECOM TELECOM CO.,LTD.
+500000-5FFFFF     (base 16)		DMECOM TELECOM CO.,LTD.
+				1 F., No. 3, Ln. 72, Yumen Rd., Xitun Dist., Taichung City 40764, Taiwan (R.O.C.)
+				Taichung     407
+				TW
