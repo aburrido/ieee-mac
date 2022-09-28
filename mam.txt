@@ -5306,6 +5306,12 @@ E0-38-2D   (hex)		Shenzhen iTest Technology Co.,Ltd
 				SHENZHEN    518000
 				CN
 
+0C-CC-47   (hex)		Shimane Masuda Electronics CO.,LTD.
+300000-3FFFFF     (base 16)		Shimane Masuda Electronics CO.,LTD.
+				320-97 Muso
+				Masuda  Shimane  6982144
+				JP
+
 4C-4B-F9   (hex)		Shenzhen dingsheng technology co., LTD
 400000-4FFFFF     (base 16)		Shenzhen dingsheng technology co., LTD
 				Floor 3, building 5, kaijeda industrial zone, no.97, huaxing road, langkou community, dalang street, longhua district
@@ -15787,6 +15793,12 @@ E0-38-2D   (hex)		Velvac Incorporated
 				2405 S. Calhoun Road
 				New Berlin  WI  53151-2709
 				US
+
+0C-CC-47   (hex)		Shenzhen Jooan Technology  Co., Ltd
+000000-0FFFFF     (base 16)		Shenzhen Jooan Technology  Co., Ltd
+				Area B, Floor 101-2, Floor 3, Floor 5 and Floor 6 of area B, Building No. 8, Guixiang Community Plaza Road, Guanlan Street, Longhua District, Shenzhen. 
+				Shenzhen  Guangdong  518000
+				CN
 
 4C-4B-F9   (hex)		Shandong Linkotech Electronic Co., Ltd.
 600000-6FFFFF     (base 16)		Shandong Linkotech Electronic Co., Ltd.
@@ -26410,3 +26422,9 @@ A00000-AFFFFF     (base 16)		Rich Source Precision IND., Co., LTD.
 				1 F., No. 3, Ln. 72, Yumen Rd., Xitun Dist., Taichung City 40764, Taiwan (R.O.C.)
 				Taichung     407
 				TW
+
+0C-CC-47   (hex)		KUMI ELECTRONIC COMPONENTS
+C00000-CFFFFF     (base 16)		KUMI ELECTRONIC COMPONENTS
+				7/307, 302-7, 3-dan 1-ro, Gumi-si, Gyeongsangbuk-do
+				Gumi-si  Gyeongsangbuk-do  KOREA(SOUTH)  39391
+				KR
