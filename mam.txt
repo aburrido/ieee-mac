@@ -5294,12 +5294,6 @@ E0-38-2D   (hex)		Annapurna labs
 				Mail box 15123  Haifa  3508409
 				IL
 
-0C-CC-47   (hex)		Shimane Masuda Electronics CO.,LTD.
-300000-3FFFFF     (base 16)		Shimane Masuda Electronics CO.,LTD.
-				320-97 Muso
-				Masuda  Shimane  6982144
-				JP
-
 E0-38-2D   (hex)		Xi'an Xiangxun Technology Co., Ltd.
 200000-2FFFFF     (base 16)		Xi'an Xiangxun Technology Co., Ltd.
 				Room 112, No. 1 Workshop, AVIC Xi'an Computing Technology Research Institute, No. 15, Jinye Second Road, Xi'an
@@ -5311,6 +5305,12 @@ E0-38-2D   (hex)		Shenzhen iTest Technology Co.,Ltd
 				5C building 1, Tingwei Industrial Park, No.6 Liufang Road, Area 67, Xingdong community, Xin’an street, Bao’an District, Shenzhen, China
 				SHENZHEN    518000
 				CN
+
+0C-CC-47   (hex)		Shimane Masuda Electronics CO.,LTD.
+300000-3FFFFF     (base 16)		Shimane Masuda Electronics CO.,LTD.
+				320-97 Muso
+				Masuda  Shimane  6982144
+				JP
 
 0C-CC-47   (hex)		OptConnect
 900000-9FFFFF     (base 16)		OptConnect
@@ -26441,12 +26441,6 @@ A0-02-4A   (hex)		Dongguan Amsamotion Automation Technology Co., Ltd
 				Dongguan  No.9 Yizhan Road, Yuanwubian Streeet Nancheng District, Gunagdong  523000
 				CN
 
-0C-CC-47   (hex)		Sun Yan International Trading Ltd.
-200000-2FFFFF     (base 16)		Sun Yan International Trading Ltd.
-				Unit F,27/F,Maxgrand Plaza,3 Tai Yan Street, San Po Kong, Kowloon, Hong Kong, China
-				Hong Kong    999077
-				CN
-
 0C-CC-47   (hex)		Rich Source Precision IND., Co., LTD.
 A00000-AFFFFF     (base 16)		Rich Source Precision IND., Co., LTD.
 				8F., No. 219, Sec. 2, New Taipei Blvd.
@@ -26470,6 +26464,12 @@ B00000-BFFFFF     (base 16)		Spot AI, Inc.
 				1350 Old Bayshore Hwy #920
 				Burlingame  CA  94010
 				US
+
+0C-CC-47   (hex)		Sun Yan International Trading Ltd.
+200000-2FFFFF     (base 16)		Sun Yan International Trading Ltd.
+				Unit F,27/F,Maxgrand Plaza,3 Tai Yan Street, San Po Kong, Kowloon, Hong Kong, China
+				Hong Kong    999077
+				CN
 
 0C-CC-47   (hex)		Annapurna labs
 600000-6FFFFF     (base 16)		Annapurna labs
