@@ -24773,12 +24773,6 @@ C5F000-C5FFFF     (base 16)		Clean-Lasersysteme GmbH
 				Jerusalem    96951
 				IL
 
-70-B3-D5   (hex)		Preo Industries Far East Limited
-CBD000-CBDFFF     (base 16)		Preo Industries Far East Limited
-				31-39 Wo Tong Tsui Street
-				Hong Kong    999077
-				HK
-
 70-B3-D5   (hex)		Gluon Solutions Inc.
 BA6000-BA6FFF     (base 16)		Gluon Solutions Inc.
 				6951 Southfront Road
@@ -30391,3 +30385,9 @@ C12000-C12FFF     (base 16)		PHYSEC GmbH
 				Universitätsstraße 142
 				Bochum    44799
 				DE
+
+70-B3-D5   (hex)		PREO INDUSTRIES FAR EAST LTD
+CBD000-CBDFFF     (base 16)		PREO INDUSTRIES FAR EAST LTD
+				 Flat B, 26/F, Amiata Industrial building,58-64 Lei Muk Road
+				Hong Kong  Kwai Chung, N.T.  999077
+				HK
