@@ -15836,6 +15836,12 @@ E0-38-2D   (hex)		Velvac Incorporated
 				Huntingdon    PE29 6XY
 				GB
 
+84-B3-86   (hex)		ALPHA Corporation
+600000-6FFFFF     (base 16)		ALPHA Corporation
+				Product Development Department, Housing Hardware Devision
+				Yokohama  Kanagawa  236-0004
+				JP
+
 4C-4B-F9   (hex)		Shandong Linkotech Electronic Co., Ltd.
 600000-6FFFFF     (base 16)		Shandong Linkotech Electronic Co., Ltd.
 				22nd Floor, Building 2, Aosheng Building, No.1166 Xinyi Street, High-tech Zone
