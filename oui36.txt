@@ -6182,6 +6182,12 @@ BC3000-BC3FFF     (base 16)		FoxIoT OÜ
 				Hamilton  Ontario  L8P0A1
 				CA
 
+8C-1F-64   (hex)		Portrait Displays, Inc.
+5D6000-5D6FFF     (base 16)		Portrait Displays, Inc.
+				6663 OWENS DR
+				PLEASANTON    94588
+				US
+
 8C-1F-64   (hex)		GHM Messtechnik GmbH
 9E8000-9E8FFF     (base 16)		GHM Messtechnik GmbH
 				Tenter Weg, 2-8
@@ -12272,6 +12278,18 @@ A9E000-A9EFFF     (base 16)		Optimum Instruments Inc.
 				Waltham  MA  02453
 				US
 
+8C-1F-64   (hex)		ANDA TELECOM PVT LTD
+406000-406FFF     (base 16)		ANDA TELECOM PVT LTD
+				E-36 Amar Colony, Lajpat Nagar, New Delhi
+				New Delhi  Delhi  110024
+				IN
+
+8C-1F-64   (hex)		LYNKX
+EE6000-EE6FFF     (base 16)		LYNKX
+				776 route du balcon
+				Les Adrets    38190
+				FR
+
 70-B3-D5   (hex)		System West dba ICS Electronics
 E06000-E06FFF     (base 16)		System West dba ICS Electronics
 				7034 Commerce Circle Suite A
@@ -18304,6 +18322,12 @@ AF5000-AF5FFF     (base 16)		SANMINA ISRAEL MEDICAL SYSTEMS LTD
 				Gewerbering 5
 				Ried  Bavaria  86510
 				DE
+
+8C-1F-64   (hex)		Sicon srl
+187000-187FFF     (base 16)		Sicon srl
+				Via Sila 1/3
+				Isola Vicentina  Vicenza  36033
+				IT
 
 70-B3-D5   (hex)		YUYAMA MFG Co.,Ltd
 BBB000-BBBFFF     (base 16)		YUYAMA MFG Co.,Ltd
@@ -24416,6 +24440,12 @@ A9C000-A9CFFF     (base 16)		Upstart Power
 				Zalaegerszeg  Zala  8900
 				HU
 
+8C-1F-64   (hex)		Teq Diligent Product Solutions Pvt. Ltd.
+5AF000-5AFFFF     (base 16)		Teq Diligent Product Solutions Pvt. Ltd.
+				S-304, Shrinand Nagar -2, Makarba Road, Vejalpur
+				Ahmedabad  Gujarat  380051
+				IN
+
 70-B3-D5   (hex)		DISMUNTEL SAL
 92C000-92CFFF     (base 16)		DISMUNTEL SAL
 				Pol ind cotes
@@ -29867,12 +29897,6 @@ DD5000-DD5FFF     (base 16)		Cardinal Scales Manufacturing Co
 				Viersen  NRW  41747
 				DE
 
-8C-1F-64   (hex)		Rumble, Inc
-837000-837FFF     (base 16)		Rumble, Inc
-				Bluebonnet Ln
-				Austin  TX  78704
-				US
-
 8C-1F-64   (hex)		Cinetix Srl
 89E000-89EFFF     (base 16)		Cinetix Srl
 				Via Armentera, 8
@@ -30392,20 +30416,26 @@ C12000-C12FFF     (base 16)		PHYSEC GmbH
 				Bochum    44799
 				DE
 
-70-B3-D5   (hex)		PREO INDUSTRIES FAR EAST LTD
-CBD000-CBDFFF     (base 16)		PREO INDUSTRIES FAR EAST LTD
-				 Flat B, 26/F, Amiata Industrial building,58-64 Lei Muk Road
-				Hong Kong  Kwai Chung, N.T.  999077
-				HK
-
 8C-1F-64   (hex)		Taiwan Aulisa Medical Devices Technologies, Inc
 88B000-88BFFF     (base 16)		Taiwan Aulisa Medical Devices Technologies, Inc
 				10F., NO. 3-2, YUANQU ST., NANGANG DIST., TAIPEI CITY 11503, Taiwan
 				Taipei  NANGANG  115
 				TW
 
+70-B3-D5   (hex)		PREO INDUSTRIES FAR EAST LTD
+CBD000-CBDFFF     (base 16)		PREO INDUSTRIES FAR EAST LTD
+				 Flat B, 26/F, Amiata Industrial building,58-64 Lei Muk Road
+				Hong Kong  Kwai Chung, N.T.  999077
+				HK
+
 8C-1F-64   (hex)		CONTROL SYSTEMS Srl
 2D8000-2D8FFF     (base 16)		CONTROL SYSTEMS Srl
 				Via del Brolo, 14
 				Cremona  CR  26100
 				IT
+
+8C-1F-64   (hex)		runZero, Inc
+837000-837FFF     (base 16)		runZero, Inc
+				Bluebonnet Ln
+				Austin  TX  78704
+				US
