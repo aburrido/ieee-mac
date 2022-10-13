@@ -6194,6 +6194,18 @@ BC3000-BC3FFF     (base 16)		FoxIoT OÜ
 				Remscheid    42897
 				DE
 
+8C-1F-64   (hex)		CHASEO CONNECTOME
+744000-744FFF     (base 16)		CHASEO CONNECTOME
+				2floor, 14, Nambusunhwan-ro 378-gil
+				Gangnam-gu  seoul  06296
+				KR
+
+8C-1F-64   (hex)		Murata Manufacturing CO., Ltd.
+B14000-B14FFF     (base 16)		Murata Manufacturing CO., Ltd.
+				4-3-8, Minatomirai, Nishi-ku
+				Yokohama-shi  Kanagawa-ken  220-0012
+				JP
+
 70-B3-D5   (hex)		EVCO SPA
 A80000-A80FFF     (base 16)		EVCO SPA
 				VIA FELTRE N. 81
@@ -12278,17 +12290,23 @@ A9E000-A9EFFF     (base 16)		Optimum Instruments Inc.
 				Waltham  MA  02453
 				US
 
+8C-1F-64   (hex)		LYNKX
+EE6000-EE6FFF     (base 16)		LYNKX
+				776 route du balcon
+				Les Adrets    38190
+				FR
+
 8C-1F-64   (hex)		ANDA TELECOM PVT LTD
 406000-406FFF     (base 16)		ANDA TELECOM PVT LTD
 				E-36 Amar Colony, Lajpat Nagar, New Delhi
 				New Delhi  Delhi  110024
 				IN
 
-8C-1F-64   (hex)		LYNKX
-EE6000-EE6FFF     (base 16)		LYNKX
-				776 route du balcon
-				Les Adrets    38190
-				FR
+8C-1F-64   (hex)		Chakra Technology Ltd
+2BB000-2BBFFF     (base 16)		Chakra Technology Ltd
+				7F, NO. 93, SHUEI YUAN RD.
+				, TAIPEI,   TAIWAN  100
+				TW
 
 70-B3-D5   (hex)		System West dba ICS Electronics
 E06000-E06FFF     (base 16)		System West dba ICS Electronics
@@ -24434,12 +24452,6 @@ A9C000-A9CFFF     (base 16)		Upstart Power
 				Southborough  MA  01772
 				US
 
-8C-1F-64   (hex)		Flextronics International Kft
-07A000-07AFFF     (base 16)		Flextronics International Kft
-				38. Zrinyi Str.
-				Zalaegerszeg  Zala  8900
-				HU
-
 8C-1F-64   (hex)		Teq Diligent Product Solutions Pvt. Ltd.
 5AF000-5AFFFF     (base 16)		Teq Diligent Product Solutions Pvt. Ltd.
 				S-304, Shrinand Nagar -2, Makarba Road, Vejalpur
@@ -24457,6 +24469,18 @@ A9C000-A9CFFF     (base 16)		Upstart Power
 				Winnettener Straße 6
 				Dinkelsbuehl  Bavaria  91550
 				DE
+
+8C-1F-64   (hex)		Flextronics International Kft
+07A000-07AFFF     (base 16)		Flextronics International Kft
+				38. Zrinyi Str.
+				Zalaegerszeg  Zala  8900
+				HU
+
+8C-1F-64   (hex)		WAVES SYSTEM
+AC3000-AC3FFF     (base 16)		WAVES SYSTEM
+				14 rue Philippe Lebon
+				Sainte Luce Sur Loire  Loire Atlantique  44980
+				FR
 
 8C-1F-64   (hex)		EPC Energy Inc
 C51000-C51FFF     (base 16)		EPC Energy Inc
@@ -30457,3 +30481,9 @@ CBD000-CBDFFF     (base 16)		PREO INDUSTRIES FAR EAST LTD
 				Bluebonnet Ln
 				Austin  TX  78704
 				US
+
+8C-1F-64   (hex)		Taolink Technologies Corporation
+C81000-C81FFF     (base 16)		Taolink Technologies Corporation
+				Floor 5, Building 4, Shanghai Intelligent Sensing Industrial Park, 333 Huangqing Road, Jiading District
+				Shanghai    201899
+				CN
