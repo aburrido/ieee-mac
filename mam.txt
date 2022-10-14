@@ -21113,6 +21113,12 @@ E0-38-2D   (hex)		Annapurna labs
 				Mail box 15123  Haifa  3508409
 				IL
 
+84-B3-86   (hex)		Sichuan Huakun Zhenyu Intelligent Technology Co., Ltd
+100000-1FFFFF     (base 16)		Sichuan Huakun Zhenyu Intelligent Technology Co., Ltd
+				24F, Block C, Maoye Center, No. 28, North Section of Tianfu Avenue, High tech Zone, Chengdu, Sichuan
+				Chengdu  Sichuan  621050
+				CN
+
 0C-CC-47   (hex)		Foxconn Brasil Industria e Comercio Ltda
 E00000-EFFFFF     (base 16)		Foxconn Brasil Industria e Comercio Ltda
 				Av. Marginal da Rodovia dos Bandeirantes, 800 - Distrito Industrial
