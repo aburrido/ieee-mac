@@ -10364,6 +10364,12 @@ B00000-BFFFFF     (base 16)		Sineng electric CO., Ltd
 				Wu Xi City  Jiang su  214000
 				CN
 
+84-B3-86   (hex)		Palomar Products Inc
+C00000-CFFFFF     (base 16)		Palomar Products Inc
+				23042 Arroyo Vista
+				Rancho Santa Margarita  CA  92688
+				US
+
 20-85-93   (hex)		UNILUMIN GROUP CO.,LTD
 300000-3FFFFF     (base 16)		UNILUMIN GROUP CO.,LTD
 				No.112 Yongfu Rd.,BaoanDistrict,
