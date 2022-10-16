@@ -10370,6 +10370,18 @@ C00000-CFFFFF     (base 16)		Palomar Products Inc
 				Rancho Santa Margarita  CA  92688
 				US
 
+84-B3-86   (hex)		Nan Jing WZX Technology Limited
+000000-0FFFFF     (base 16)		Nan Jing WZX Technology Limited
+				1-4/F, Productivity building,NO5,High-tech Middle 2nd Road,Science and Technology Park, Nanshan District
+				Shenzhen  Guangdong  518000
+				CN
+
+84-B3-86   (hex)		FOTILE GROUP NINGBO FOTILE KITCHENWARE Co.,Ltd
+700000-7FFFFF     (base 16)		FOTILE GROUP NINGBO FOTILE KITCHENWARE Co.,Ltd
+				218 Binhai Second Road, Hangzhou Bay New Area
+				Cixi  Zhejiang  315300
+				CN
+
 20-85-93   (hex)		UNILUMIN GROUP CO.,LTD
 300000-3FFFFF     (base 16)		UNILUMIN GROUP CO.,LTD
 				No.112 Yongfu Rd.,BaoanDistrict,
