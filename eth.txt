@@ -10208,6 +10208,12 @@ F1C1                          IEEE 802.1 Chair                                  
                               US                                                                                                       
 
 
+E23B                          IEEE 802.1 Chair                                                                                         Media Access Control (MAC) Privacy protection protocol as specified in IEEE
+                               c/o RAC Administrator , IEEE                                                                            Std 802.1AE.                                                               
+                              Piscataway  NJ  08554                                                                                    
+                              US                                                                                                       
+
+
 80DD                          Private                                                                                                  Protocol unavailable.
 
 

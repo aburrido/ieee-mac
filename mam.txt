@@ -5324,6 +5324,18 @@ E0-38-2D   (hex)		Shenzhen iTest Technology Co.,Ltd
 				Kaysville  UT  84037
 				US
 
+84-B3-86   (hex)		Weiss Robotics GmbH & Co. KG
+900000-9FFFFF     (base 16)		Weiss Robotics GmbH & Co. KG
+				Karl-Heinrich-Kaeferle-Str. 8
+				Ludwigsburg    71640
+				DE
+
+C4-A5-59   (hex)		SMH Technologies SRL
+B00000-BFFFFF     (base 16)		SMH Technologies SRL
+				Via Giovanni Agnelli n.1
+				Villotta di Chions  Pordenone  33083
+				IT
+
 4C-4B-F9   (hex)		Shenzhen dingsheng technology co., LTD
 400000-4FFFFF     (base 16)		Shenzhen dingsheng technology co., LTD
 				Floor 3, building 5, kaijeda industrial zone, no.97, huaxing road, langkou community, dalang street, longhua district
@@ -15854,23 +15866,29 @@ E0-38-2D   (hex)		Velvac Incorporated
 				Huntingdon    PE29 6XY
 				GB
 
+84-B3-86   (hex)		Dongguan Amsamotion Automation Technology Co., Ltd
+D00000-DFFFFF     (base 16)		Dongguan Amsamotion Automation Technology Co., Ltd
+				Block A, Zosun Intelligence Creation Zone, No.9 Yizhan Road, Yuanwubian Street Nancheng District
+				Dongguan  Guangdong  523000
+				CN
+
 D0-14-11   (hex)		Video Security, Inc.
 800000-8FFFFF     (base 16)		Video Security, Inc.
 				80, Fengren Rd., Fengshan Dist.,
 				Kaohsiung, Taiwan, R.O.C.  Kaohsiung City  807
 				TW
 
+C4-A5-59   (hex)		METICS
+800000-8FFFFF     (base 16)		METICS
+				Koehorstmaat 7
+				Deurningen  Overijssel  7561 BM
+				NL
+
 84-B3-86   (hex)		Annapurna labs
 200000-2FFFFF     (base 16)		Annapurna labs
 				Matam Scientific Industries Center,   Building 8.2
 				Mail box 15123  Haifa  3508409
 				IL
-
-84-B3-86   (hex)		Dongguan Amsamotion Automation Technology Co., Ltd
-D00000-DFFFFF     (base 16)		Dongguan Amsamotion Automation Technology Co., Ltd
-				Block A, Zosun Intelligence Creation Zone, No.9 Yizhan Road, Yuanwubian Street Nancheng District
-				Dongguan  Guangdong  523000
-				CN
 
 4C-4B-F9   (hex)		Shandong Linkotech Electronic Co., Ltd.
 600000-6FFFFF     (base 16)		Shandong Linkotech Electronic Co., Ltd.
@@ -21148,6 +21166,12 @@ E00000-EFFFFF     (base 16)		Foxconn Brasil Industria e Comercio Ltda
 				24F, Block C, Maoye Center, No. 28, North Section of Tianfu Avenue, High tech Zone, Chengdu, Sichuan
 				Chengdu  Sichuan  621050
 				CN
+
+84-B3-86   (hex)		Phonesuite
+300000-3FFFFF     (base 16)		Phonesuite
+				400 Liberty Park Court
+				Flowood    39232
+				US
 
 20-85-93   (hex)		Great Lite International
 700000-7FFFFF     (base 16)		Great Lite International
@@ -26554,3 +26578,9 @@ A00000-AFFFFF     (base 16)		Velocio Networks, Inc.
 				5065 Commercial Circle
 				Concord  CA  94520
 				US
+
+84-B3-86   (hex)		NINGBO XINSUAN TECHNOLOGY CO.,LTD
+E00000-EFFFFF     (base 16)		NINGBO XINSUAN TECHNOLOGY CO.,LTD
+				Room 409, No. 68, Changshou East Road, Yinzhou District
+				NINGBO  ZHEJIANG  315100
+				CN
