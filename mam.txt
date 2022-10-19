@@ -5324,17 +5324,17 @@ E0-38-2D   (hex)		Shenzhen iTest Technology Co.,Ltd
 				Kaysville  UT  84037
 				US
 
-84-B3-86   (hex)		Weiss Robotics GmbH & Co. KG
-900000-9FFFFF     (base 16)		Weiss Robotics GmbH & Co. KG
-				Karl-Heinrich-Kaeferle-Str. 8
-				Ludwigsburg    71640
-				DE
-
 C4-A5-59   (hex)		SMH Technologies SRL
 B00000-BFFFFF     (base 16)		SMH Technologies SRL
 				Via Giovanni Agnelli n.1
 				Villotta di Chions  Pordenone  33083
 				IT
+
+84-B3-86   (hex)		Weiss Robotics GmbH & Co. KG
+900000-9FFFFF     (base 16)		Weiss Robotics GmbH & Co. KG
+				Karl-Heinrich-Kaeferle-Str. 8
+				Ludwigsburg    71640
+				DE
 
 4C-4B-F9   (hex)		Shenzhen dingsheng technology co., LTD
 400000-4FFFFF     (base 16)		Shenzhen dingsheng technology co., LTD
@@ -10376,12 +10376,6 @@ B00000-BFFFFF     (base 16)		Sineng electric CO., Ltd
 				Wu Xi City  Jiang su  214000
 				CN
 
-84-B3-86   (hex)		Palomar Products Inc
-C00000-CFFFFF     (base 16)		Palomar Products Inc
-				23042 Arroyo Vista
-				Rancho Santa Margarita  CA  92688
-				US
-
 84-B3-86   (hex)		Nan Jing WZX Technology Limited
 000000-0FFFFF     (base 16)		Nan Jing WZX Technology Limited
 				1-4/F, Productivity building,NO5,High-tech Middle 2nd Road,Science and Technology Park, Nanshan District
@@ -10393,6 +10387,12 @@ C00000-CFFFFF     (base 16)		Palomar Products Inc
 				218 Binhai Second Road, Hangzhou Bay New Area
 				Cixi  Zhejiang  315300
 				CN
+
+84-B3-86   (hex)		Palomar Products Inc
+C00000-CFFFFF     (base 16)		Palomar Products Inc
+				23042 Arroyo Vista
+				Rancho Santa Margarita  CA  92688
+				US
 
 20-85-93   (hex)		UNILUMIN GROUP CO.,LTD
 300000-3FFFFF     (base 16)		UNILUMIN GROUP CO.,LTD
@@ -15889,6 +15889,12 @@ C4-A5-59   (hex)		METICS
 				Matam Scientific Industries Center,   Building 8.2
 				Mail box 15123  Haifa  3508409
 				IL
+
+D4-61-37   (hex)		KunPeng Instrument (Dalian)Co.,Ltd.
+B00000-BFFFFF     (base 16)		KunPeng Instrument (Dalian)Co.,Ltd.
+				dishang 10-2 No125 Gaoneng ST
+				Dalian   LiaoNing  116000
+				CN
 
 4C-4B-F9   (hex)		Shandong Linkotech Electronic Co., Ltd.
 600000-6FFFFF     (base 16)		Shandong Linkotech Electronic Co., Ltd.
