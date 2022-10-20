@@ -21179,6 +21179,18 @@ E00000-EFFFFF     (base 16)		Foxconn Brasil Industria e Comercio Ltda
 				Flowood    39232
 				US
 
+C4-A5-59   (hex)		Moultrie Mobile
+500000-5FFFFF     (base 16)		Moultrie Mobile
+				5724 Highway 280 East
+				Birmingham  AL  35242
+				US
+
+C4-A5-59   (hex)		Annapurna labs
+600000-6FFFFF     (base 16)		Annapurna labs
+				Matam Scientific Industries Center,   Building 8.2
+				Mail box 15123  Haifa  3508409
+				IL
+
 20-85-93   (hex)		Great Lite International
 700000-7FFFFF     (base 16)		Great Lite International
 				11F., No.207-2, Sec. 3, Beixin Rd., Xindian Dist.,
