@@ -494,12 +494,6 @@ EABC04                        (base 16)                     G3-PLC Alliance
                                                             Chengdu  Sichuan  610225                     
                                                             CN                                           
 
-FA-0B-BC                      (hex)                         ASD-STAN                                     
-FA0BBC                        (base 16)                     ASD-STAN                                     
-                                                            Rue de la Science 14b                        
-                                                            Brussels    1040                             
-                                                            BE                                           
-
 6A-8E-AF                      (hex)                         Waoo                                         
 6A8EAF                        (base 16)                     Waoo                                         
                                                             True Møllevej 9                              
@@ -547,6 +541,12 @@ EA1ED0                        (base 16)                     ZIGPOS GmbH
                                                             Haid-und-Neu-Straße 7                        
                                                             Karlsruhe  Baden-Württemberg  76131          
                                                             DE                                           
+
+FA-0B-BC                      (hex)                         ASD-STAN                                     
+FA0BBC                        (base 16)                     ASD-STAN                                     
+                                                            Rue Belliard 40                              
+                                                            Brussels    1040                             
+                                                            BE                                           
 
 8A-FB-16                      (hex)                         TeraByte, Inc.                               
 8AFB16                        (base 16)                     TeraByte, Inc.                               

@@ -10394,6 +10394,12 @@ C00000-CFFFFF     (base 16)		Palomar Products Inc
 				Rancho Santa Margarita  CA  92688
 				US
 
+C4-A5-59   (hex)		Motive Technologies, Inc.
+100000-1FFFFF     (base 16)		Motive Technologies, Inc.
+				55 Hawthorne St, Ste. 400
+				San Francisco  CA  94105
+				US
+
 20-85-93   (hex)		UNILUMIN GROUP CO.,LTD
 300000-3FFFFF     (base 16)		UNILUMIN GROUP CO.,LTD
 				No.112 Yongfu Rd.,BaoanDistrict,
@@ -15896,6 +15902,18 @@ B00000-BFFFFF     (base 16)		KunPeng Instrument (Dalian)Co.,Ltd.
 				Dalian   LiaoNing  116000
 				CN
 
+C4-A5-59   (hex)		MINOLTA SECURITY
+D00000-DFFFFF     (base 16)		MINOLTA SECURITY
+				29 Park Place
+				Englewood  NJ  07631
+				US
+
+C4-A5-59   (hex)		Aviron Interactive Inc.
+700000-7FFFFF     (base 16)		Aviron Interactive Inc.
+				251 Bartley Drive. Unit 2 
+				Toronto  Ontario  M4A 2N7
+				CA
+
 4C-4B-F9   (hex)		Shandong Linkotech Electronic Co., Ltd.
 600000-6FFFFF     (base 16)		Shandong Linkotech Electronic Co., Ltd.
 				22nd Floor, Building 2, Aosheng Building, No.1166 Xinyi Street, High-tech Zone
@@ -20513,9 +20531,6 @@ D00000-DFFFFF     (base 16)		Dspread Technology (Beijing) Inc.
 				Beijing    100013
 				CN
 
-94-C9-B7   (hex)		Private
-800000-8FFFFF     (base 16)		Private
-
 08-F8-0D   (hex)		Shanghai Mininglamp AI Group Co.,Ltd
 200000-2FFFFF     (base 16)		Shanghai Mininglamp AI Group Co.,Ltd
 				29th,30th,31st and 32nd floors,701 Yunjin Road, Xuhui District
@@ -21190,6 +21205,18 @@ C4-A5-59   (hex)		Annapurna labs
 				Matam Scientific Industries Center,   Building 8.2
 				Mail box 15123  Haifa  3508409
 				IL
+
+94-C9-B7   (hex)		OSOM Products Inc
+800000-8FFFFF     (base 16)		OSOM Products Inc
+				10930 Miramonte Road
+				Cupertino  CA  95014
+				US
+
+C4-A5-59   (hex)		Hebei Far-East Communication System Engineerning Co.,Ltd.
+A00000-AFFFFF     (base 16)		Hebei Far-East Communication System Engineerning Co.,Ltd.
+				NO.21, Changsheng Street, Luquan Economic Development Zone
+				Shijiazhuang   Hebei Prov  050000
+				CN
 
 20-85-93   (hex)		Great Lite International
 700000-7FFFFF     (base 16)		Great Lite International
@@ -26602,3 +26629,15 @@ E00000-EFFFFF     (base 16)		NINGBO XINSUAN TECHNOLOGY CO.,LTD
 				Room 409, No. 68, Changshou East Road, Yinzhou District
 				NINGBO  ZHEJIANG  315100
 				CN
+
+C4-A5-59   (hex)		Shenzhen Meishifu Technology Co.,Ltd.
+900000-9FFFFF     (base 16)		Shenzhen Meishifu Technology Co.,Ltd.
+				217, Huichao Building, A3(A4), Yantian Industrial Zone, Yantian Community, Xixiang Street, Bao 'an District
+				Shenzhen  Guangdong  518000
+				CN
+
+C4-A5-59   (hex)		ALTAM SYSTEMS SL
+C00000-CFFFFF     (base 16)		ALTAM SYSTEMS SL
+				Carrer Orient 78-84, 2-8
+				Sant Cugat del Valles  Barcelona  08172
+				ES
