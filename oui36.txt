@@ -6194,17 +6194,17 @@ BC3000-BC3FFF     (base 16)		FoxIoT OÜ
 				Remscheid    42897
 				DE
 
-8C-1F-64   (hex)		CHASEO CONNECTOME
-744000-744FFF     (base 16)		CHASEO CONNECTOME
-				2floor, 14, Nambusunhwan-ro 378-gil
-				Gangnam-gu  seoul  06296
-				KR
-
 8C-1F-64   (hex)		Murata Manufacturing CO., Ltd.
 B14000-B14FFF     (base 16)		Murata Manufacturing CO., Ltd.
 				4-3-8, Minatomirai, Nishi-ku
 				Yokohama-shi  Kanagawa-ken  220-0012
 				JP
+
+8C-1F-64   (hex)		CHASEO CONNECTOME
+744000-744FFF     (base 16)		CHASEO CONNECTOME
+				2floor, 14, Nambusunhwan-ro 378-gil
+				Gangnam-gu  seoul  06296
+				KR
 
 8C-1F-64   (hex)		YUYAMA MFG Co.,Ltd
 CFA000-CFAFFF     (base 16)		YUYAMA MFG Co.,Ltd
@@ -12308,17 +12308,17 @@ A9E000-A9EFFF     (base 16)		Optimum Instruments Inc.
 				Waltham  MA  02453
 				US
 
-8C-1F-64   (hex)		LYNKX
-EE6000-EE6FFF     (base 16)		LYNKX
-				776 route du balcon
-				Les Adrets    38190
-				FR
-
 8C-1F-64   (hex)		ANDA TELECOM PVT LTD
 406000-406FFF     (base 16)		ANDA TELECOM PVT LTD
 				E-36 Amar Colony, Lajpat Nagar, New Delhi
 				New Delhi  Delhi  110024
 				IN
+
+8C-1F-64   (hex)		LYNKX
+EE6000-EE6FFF     (base 16)		LYNKX
+				776 route du balcon
+				Les Adrets    38190
+				FR
 
 8C-1F-64   (hex)		Chakra Technology Ltd
 2BB000-2BBFFF     (base 16)		Chakra Technology Ltd
@@ -12338,17 +12338,17 @@ EE6000-EE6FFF     (base 16)		LYNKX
 				Warsaw  Mazovia  02-495
 				PL
 
-8C-1F-64   (hex)		Header Rhyme
-9C0000-9C0FFF     (base 16)		Header Rhyme
-				C401, 410, Jeongseojin-ro
-				Incheon  Incheon  22689
-				KR
-
 8C-1F-64   (hex)		AI-BLOX
 3B7000-3B7FFF     (base 16)		AI-BLOX
 				Ikaroslaan 1
 				Zaventem    1930
 				BE
+
+8C-1F-64   (hex)		Header Rhyme
+9C0000-9C0FFF     (base 16)		Header Rhyme
+				C401, 410, Jeongseojin-ro
+				Incheon  Incheon  22689
+				KR
 
 70-B3-D5   (hex)		System West dba ICS Electronics
 E06000-E06FFF     (base 16)		System West dba ICS Electronics
@@ -18383,12 +18383,6 @@ AF5000-AF5FFF     (base 16)		SANMINA ISRAEL MEDICAL SYSTEMS LTD
 				Ried  Bavaria  86510
 				DE
 
-8C-1F-64   (hex)		Sicon srl
-187000-187FFF     (base 16)		Sicon srl
-				Via Sila 1/3
-				Isola Vicentina  Vicenza  36033
-				IT
-
 8C-1F-64   (hex)		DAVE SRL
 9AB000-9ABFFF     (base 16)		DAVE SRL
 				VIA TALPONEDO 29/A
@@ -18406,6 +18400,12 @@ C52000-C52FFF     (base 16)		Invendis Technologies India Pvt Ltd
 				Fulachstrasse 150
 				Schaffhausen    8200
 				CH
+
+8C-1F-64   (hex)		Sicon srl
+187000-187FFF     (base 16)		Sicon srl
+				Via Sila 1/3
+				Isola Vicentina  Vicenza  36033
+				IT
 
 8C-1F-64   (hex)		ComVetia AG
 E86000-E86FFF     (base 16)		ComVetia AG
@@ -24548,6 +24548,12 @@ A9C000-A9CFFF     (base 16)		Upstart Power
 				Dinkelsbuehl  Bavaria  91550
 				DE
 
+8C-1F-64   (hex)		EPC Energy Inc
+C51000-C51FFF     (base 16)		EPC Energy Inc
+				780 Montague Expy, Building 1, Suite 101
+				San Jose  CA  95131
+				US
+
 8C-1F-64   (hex)		Flextronics International Kft
 07A000-07AFFF     (base 16)		Flextronics International Kft
 				38. Zrinyi Str.
@@ -24559,12 +24565,6 @@ AC3000-AC3FFF     (base 16)		WAVES SYSTEM
 				14 rue Philippe Lebon
 				Sainte Luce Sur Loire  Loire Atlantique  44980
 				FR
-
-8C-1F-64   (hex)		EPC Energy Inc
-C51000-C51FFF     (base 16)		EPC Energy Inc
-				780 Montague Expy, Building 1, Suite 101
-				San Jose  CA  95131
-				US
 
 8C-1F-64   (hex)		TMY TECHNOLOGY INC.
 882000-882FFF     (base 16)		TMY TECHNOLOGY INC.
@@ -30578,10 +30578,10 @@ CBD000-CBDFFF     (base 16)		PREO INDUSTRIES FAR EAST LTD
 				Hong Kong  Kwai Chung, N.T.  999077
 				HK
 
-8C-1F-64   (hex)		Taolink Technologies Corporation
-C81000-C81FFF     (base 16)		Taolink Technologies Corporation
-				Floor 5, Building 4, Shanghai Intelligent Sensing Industrial Park, 333 Huangqing Road, Jiading District
-				Shanghai    201899
+8C-1F-64   (hex)		Quanxing Tech Co.,LTD
+B69000-B69FFF     (base 16)		Quanxing Tech Co.,LTD
+				No. 102, building 3, Qianhai Shenzhen-Hong Kong Youth Innovation & Entrepreneur Hub, Qianwan 1st Road, Nanshan District,
+				SHENZHEN  Guangdong  518066
 				CN
 
 8C-1F-64   (hex)		Texi AS
@@ -30589,6 +30589,12 @@ F09000-F09FFF     (base 16)		Texi AS
 				Abels gate 5
 				Trondheim    7030
 				NO
+
+8C-1F-64   (hex)		Taolink Technologies Corporation
+C81000-C81FFF     (base 16)		Taolink Technologies Corporation
+				Floor 5, Building 4, Shanghai Intelligent Sensing Industrial Park, 333 Huangqing Road, Jiading District
+				Shanghai    201899
+				CN
 
 8C-1F-64   (hex)		CONTROL SYSTEMS Srl
 2D8000-2D8FFF     (base 16)		CONTROL SYSTEMS Srl
@@ -30602,11 +30608,11 @@ F09000-F09FFF     (base 16)		Texi AS
 				Austin  TX  78704
 				US
 
-8C-1F-64   (hex)		Quanxing Tech Co.,LTD
-B69000-B69FFF     (base 16)		Quanxing Tech Co.,LTD
-				No. 102, building 3, Qianhai Shenzhen-Hong Kong Youth Innovation & Entrepreneur Hub, Qianwan 1st Road, Nanshan District,
-				SHENZHEN  Guangdong  518066
-				CN
+8C-1F-64   (hex)		Eagle Harbor Technologies, Inc.
+5F7000-5F7FFF     (base 16)		Eagle Harbor Technologies, Inc.
+				169 Western Ave W.
+				Seattle  WA  98119
+				US
 
 8C-1F-64   (hex)		ArgusEye TECH. INC
 9BF000-9BFFFF     (base 16)		ArgusEye TECH. INC
@@ -30619,12 +30625,6 @@ EA8000-EA8FFF     (base 16)		Zumbach Electronic AG
 				Hauptstrasse 93
 				Orpund    2552
 				CH
-
-8C-1F-64   (hex)		Eagle Harbor Technologies, Inc.
-5F7000-5F7FFF     (base 16)		Eagle Harbor Technologies, Inc.
-				169 Western Ave W.
-				Seattle  WA  98119
-				US
 
 70-B3-D5   (hex)		Earth Works
 61C000-61CFFF     (base 16)		Earth Works
