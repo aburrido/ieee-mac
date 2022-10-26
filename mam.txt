@@ -15914,17 +15914,20 @@ B00000-BFFFFF     (base 16)		KunPeng Instrument (Dalian)Co.,Ltd.
 				Dalian   LiaoNing  116000
 				CN
 
+C4-A5-59   (hex)		Aviron Interactive Inc.
+700000-7FFFFF     (base 16)		Aviron Interactive Inc.
+				251 Bartley Drive. Unit 2 
+				Toronto  Ontario  M4A 2N7
+				CA
+
 C4-A5-59   (hex)		MINOLTA SECURITY
 D00000-DFFFFF     (base 16)		MINOLTA SECURITY
 				29 Park Place
 				Englewood  NJ  07631
 				US
 
-C4-A5-59   (hex)		Aviron Interactive Inc.
-700000-7FFFFF     (base 16)		Aviron Interactive Inc.
-				251 Bartley Drive. Unit 2 
-				Toronto  Ontario  M4A 2N7
-				CA
+C4-A5-59   (hex)		Private
+400000-4FFFFF     (base 16)		Private
 
 4C-4B-F9   (hex)		Shandong Linkotech Electronic Co., Ltd.
 600000-6FFFFF     (base 16)		Shandong Linkotech Electronic Co., Ltd.
