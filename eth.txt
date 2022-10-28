@@ -3362,16 +3362,6 @@ F8DB                          Schindler Elevator Ltd.                           
                               US                                                                                                       
 
 
-8940                          IEEE 802.1 Chair                                                                                         Edge Control Protocol (ECP) defined in IEEE Std 802.1Q for use with IEEE
-                               c/o RAC Administrator , IEEE                                                                            Std                                                                        
-                              Piscataway  NJ  08554                                                                                    802.1BR                                                                    
-                              US                                                                                                       http://www.ieee802.org/1/files/private/bg-drafts/d2/802-1qbg-d2-0.pdf      
-                                                                                                                                                                                                                  
-                                                                                                                                       user:                                                                      
-                                                                                                                                       p8021                                                                      
-                                                                                                                                       pass: go_wildcats                                                          
-
-
 8910                          IEEE 802.1 Working Group                                                                                 Encapsulated Addresses for use with the Backbone Service Instance as
                               IEEE 802.1 Chair, c/o RAC Administrator IEEE                                                             defined in IEEE Std 802.1Q                                                 
                               Piscataway  NJ  08854                                                                                    
@@ -3393,6 +3383,12 @@ F8DB                          Schindler Elevator Ltd.                           
 0B07                          University of Berkeley                                                                                   Berkeley Reserved
                                                                                                                                        
                                                                                                                                        
+                              US                                                                                                       
+
+
+8940                          IEEE 802.1 Chair                                                                                         Edge Control Protocol (ECP) defined in IEEE Std 802.1Q for use with IEEE
+                               c/o RAC Administrator , IEEE                                                                            Std 802.1BR                                                                
+                              Piscataway  NJ  08554                                                                                    
                               US                                                                                                       
 
 
@@ -10184,12 +10180,6 @@ F1C1                          IEEE 802.1 Chair                                  
                               US                                                                                                       
 
 
-88E7                          IEEE 802.1 Working Group                                                                                 Backbone Service Instance Tag (I-TAG) as defined in IEEE Std 802.1Q
-                              M/S P7903B12                                                                                             
-                              Santa Clara  CA  95054                                                                                   
-                              US                                                                                                       
-
-
 88C7                          IEEE 802.11 Working Group                                                                                RSNA Preauthentication as defined in IEEE Std 802.11
                               c/o RAC Administrator                                                                                    
                               Piscataway   NJ  08854                                                                                   
@@ -10211,6 +10201,12 @@ F1C1                          IEEE 802.1 Chair                                  
 E23B                          IEEE 802.1 Chair                                                                                         Media Access Control (MAC) Privacy protection protocol as specified in IEEE
                                c/o RAC Administrator , IEEE                                                                            Std 802.1AE.                                                               
                               Piscataway  NJ  08554                                                                                    
+                              US                                                                                                       
+
+
+88E7                          IEEE 802.1 Chair                                                                                         Backbone Service Instance Tag (I-TAG) as defined in IEEE Std 802.1Q
+                              M/S P7903B12                                                                                             
+                              Santa Clara  CA  95054                                                                                   
                               US                                                                                                       
 
 

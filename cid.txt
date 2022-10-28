@@ -548,6 +548,12 @@ FA0BBC                        (base 16)                     ASD-STAN
                                                             Brussels    1040                             
                                                             BE                                           
 
+CA-3E-A6                      (hex)                         Syng, Inc.                                   
+CA3EA6                        (base 16)                     Syng, Inc.                                   
+                                                            120 Mildred Ave.                             
+                                                            Venice  CA  90291                            
+                                                            US                                           
+
 8A-FB-16                      (hex)                         TeraByte, Inc.                               
 8AFB16                        (base 16)                     TeraByte, Inc.                               
                                                             10220 Lazy Bear St                           

@@ -30679,3 +30679,9 @@ EA8000-EA8FFF     (base 16)		Zumbach Electronic AG
 				2-9-14 Aioi
 				Kofu  Yamanashi  400-0858
 				JP
+
+8C-1F-64   (hex)		Procon Electronics Pty Ltd
+DC2000-DC2FFF     (base 16)		Procon Electronics Pty Ltd
+				P O Box 164
+				Seven Hills  NSW  1730
+				AU

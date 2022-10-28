@@ -5336,11 +5336,23 @@ B00000-BFFFFF     (base 16)		SMH Technologies SRL
 				Ludwigsburg    71640
 				DE
 
+C4-A5-59   (hex)		SERNET (SUZHOU) TECHNOLOGIES CORPORATION
+E00000-EFFFFF     (base 16)		SERNET (SUZHOU) TECHNOLOGIES CORPORATION
+				NO.8 Tangzhuang Road,Suzhou Industrial Park,Su ZhouCity,JiangSu Province,China
+				Suzhou    215021
+				CN
+
 C4-A5-59   (hex)		X-speed lnformation Technology Co.,Ltd
 300000-3FFFFF     (base 16)		X-speed lnformation Technology Co.,Ltd
 				th Floor,Building 2,Xinyu Electronic Industrial Park,No.69, Zhaishan,Houshan Village, High-tech Zone,Fuzhou,Fujian ,China
 				Fuzhou    350000
 				CN
+
+70-5A-6F   (hex)		Thyracont Vacuum Instruments GmbH
+000000-0FFFFF     (base 16)		Thyracont Vacuum Instruments GmbH
+				Max-Emanuel-Str. 10
+				Passau  Bavaria  94036
+				DE
 
 4C-4B-F9   (hex)		Shenzhen dingsheng technology co., LTD
 400000-4FFFFF     (base 16)		Shenzhen dingsheng technology co., LTD
@@ -15884,17 +15896,17 @@ E0-38-2D   (hex)		Velvac Incorporated
 				Huntingdon    PE29 6XY
 				GB
 
-D0-14-11   (hex)		Video Security, Inc.
-800000-8FFFFF     (base 16)		Video Security, Inc.
-				80, Fengren Rd., Fengshan Dist.,
-				Kaohsiung, Taiwan, R.O.C.  Kaohsiung City  807
-				TW
-
 84-B3-86   (hex)		Dongguan Amsamotion Automation Technology Co., Ltd
 D00000-DFFFFF     (base 16)		Dongguan Amsamotion Automation Technology Co., Ltd
 				Block A, Zosun Intelligence Creation Zone, No.9 Yizhan Road, Yuanwubian Street Nancheng District
 				Dongguan  Guangdong  523000
 				CN
+
+D0-14-11   (hex)		Video Security, Inc.
+800000-8FFFFF     (base 16)		Video Security, Inc.
+				80, Fengren Rd., Fengshan Dist.,
+				Kaohsiung, Taiwan, R.O.C.  Kaohsiung City  807
+				TW
 
 C4-A5-59   (hex)		METICS
 800000-8FFFFF     (base 16)		METICS
@@ -15928,6 +15940,12 @@ D00000-DFFFFF     (base 16)		MINOLTA SECURITY
 
 C4-A5-59   (hex)		Private
 400000-4FFFFF     (base 16)		Private
+
+70-5A-6F   (hex)		BMR s.r.o.
+100000-1FFFFF     (base 16)		BMR s.r.o.
+				Lipovka 17
+				Rychnov nad Kneznou    51601
+				CZ
 
 4C-4B-F9   (hex)		Shandong Linkotech Electronic Co., Ltd.
 600000-6FFFFF     (base 16)		Shandong Linkotech Electronic Co., Ltd.
@@ -21185,12 +21203,6 @@ E0-38-2D   (hex)		Annapurna labs
 				Mail box 15123  Haifa  3508409
 				IL
 
-84-B3-86   (hex)		Sichuan Huakun Zhenyu Intelligent Technology Co., Ltd
-100000-1FFFFF     (base 16)		Sichuan Huakun Zhenyu Intelligent Technology Co., Ltd
-				24F, Block C, Maoye Center, No. 28, North Section of Tianfu Avenue, High tech Zone, Chengdu, Sichuan
-				Chengdu  Sichuan  621050
-				CN
-
 0C-CC-47   (hex)		Foxconn Brasil Industria e Comercio Ltda
 E00000-EFFFFF     (base 16)		Foxconn Brasil Industria e Comercio Ltda
 				Av. Marginal da Rodovia dos Bandeirantes, 800 - Distrito Industrial
@@ -21202,6 +21214,12 @@ E00000-EFFFFF     (base 16)		Foxconn Brasil Industria e Comercio Ltda
 				5550 TRIANGLE PKWY, STE 385
 				PEACHTREE CORNERS  GA  30092
 				US
+
+84-B3-86   (hex)		Sichuan Huakun Zhenyu Intelligent Technology Co., Ltd
+100000-1FFFFF     (base 16)		Sichuan Huakun Zhenyu Intelligent Technology Co., Ltd
+				24F, Block C, Maoye Center, No. 28, North Section of Tianfu Avenue, High tech Zone, Chengdu, Sichuan
+				Chengdu  Sichuan  621050
+				CN
 
 84-B3-86   (hex)		Phonesuite
 300000-3FFFFF     (base 16)		Phonesuite
@@ -26633,17 +26651,23 @@ A00000-AFFFFF     (base 16)		Velocio Networks, Inc.
 				Huntsville  AL  35803
 				US
 
+84-B3-86   (hex)		NetworX
+800000-8FFFFF     (base 16)		NetworX
+				5065 Commercial Circle
+				Concord  CA  94520
+				US
+
 84-B3-86   (hex)		NINGBO XINSUAN TECHNOLOGY CO.,LTD
 E00000-EFFFFF     (base 16)		NINGBO XINSUAN TECHNOLOGY CO.,LTD
 				Room 409, No. 68, Changshou East Road, Yinzhou District
 				NINGBO  ZHEJIANG  315100
 				CN
 
-84-B3-86   (hex)		NetworX
-800000-8FFFFF     (base 16)		NetworX
-				5065 Commercial Circle
-				Concord  CA  94520
-				US
+C4-A5-59   (hex)		Shenzhen Meishifu Technology Co.,Ltd.
+900000-9FFFFF     (base 16)		Shenzhen Meishifu Technology Co.,Ltd.
+				217, Huichao Building, A3(A4), Yantian Industrial Zone, Yantian Community, Xixiang Street, Bao 'an District
+				Shenzhen  Guangdong  518000
+				CN
 
 C4-A5-59   (hex)		ALTAM SYSTEMS SL
 C00000-CFFFFF     (base 16)		ALTAM SYSTEMS SL
@@ -26651,8 +26675,8 @@ C00000-CFFFFF     (base 16)		ALTAM SYSTEMS SL
 				Sant Cugat del Valles  Barcelona  08172
 				ES
 
-C4-A5-59   (hex)		Shenzhen Meishifu Technology Co.,Ltd.
-900000-9FFFFF     (base 16)		Shenzhen Meishifu Technology Co.,Ltd.
-				217, Huichao Building, A3(A4), Yantian Industrial Zone, Yantian Community, Xixiang Street, Bao 'an District
-				Shenzhen  Guangdong  518000
-				CN
+C4-A5-59   (hex)		Archermind Japan Co.,Ltd.
+000000-0FFFFF     (base 16)		Archermind Japan Co.,Ltd.
+				4F Shinagawa East One Tower, 2-16-1, Konan
+				Minato-ku  Tokyo  1080075
+				JP
