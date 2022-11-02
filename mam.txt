@@ -15947,6 +15947,12 @@ C4-A5-59   (hex)		Private
 				shenzhen  guangdong  518000
 				CN
 
+70-5A-6F   (hex)		Wavelab Telecom Equipment (GZ) Ltd.
+300000-3FFFFF     (base 16)		Wavelab Telecom Equipment (GZ) Ltd.
+				Room 2301, Binhe 9, Guangzhou Economic and Technological Development District
+				Guangzhou  Guangdong  510730
+				CN
+
 4C-4B-F9   (hex)		Shandong Linkotech Electronic Co., Ltd.
 600000-6FFFFF     (base 16)		Shandong Linkotech Electronic Co., Ltd.
 				22nd Floor, Building 2, Aosheng Building, No.1166 Xinyi Street, High-tech Zone
@@ -26674,6 +26680,18 @@ C00000-CFFFFF     (base 16)		ALTAM SYSTEMS SL
 				Carrer Orient 78-84, 2-8
 				Sant Cugat del Valles  Barcelona  08172
 				ES
+
+4C-74-A7   (hex)		KYOCERA CORPORATION
+E00000-EFFFFF     (base 16)		KYOCERA CORPORATION
+				3-7-1, MINATOMIRAI, NISHI-KU,
+				YOKOHAMA-SHI   KANAGAWA  2200012
+				JP
+
+70-5A-6F   (hex)		WiBASE Industrial Solutions Inc.
+700000-7FFFFF     (base 16)		WiBASE Industrial Solutions Inc.
+				17F., No.3-1, Park St., Nangang Dist.,, Taiwan R.O.C.
+				 Taipei City     115
+				TW
 
 C4-A5-59   (hex)		Archermind Japan Co.,Ltd.
 000000-0FFFFF     (base 16)		Archermind Japan Co.,Ltd.
