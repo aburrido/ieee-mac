@@ -5366,6 +5366,12 @@ E00000-EFFFFF     (base 16)		SERNET (SUZHOU) TECHNOLOGIES CORPORATION
 				Hi-Tech Park  Shenzhen   518000
 				CN
 
+70-5A-6F   (hex)		PICadvanced SA
+D00000-DFFFFF     (base 16)		PICadvanced SA
+				PCI Creative Science Park Via do Conhecimento Ed Central
+				Ilhavo  Aveiro  3830-352
+				PT
+
 4C-4B-F9   (hex)		Shenzhen dingsheng technology co., LTD
 400000-4FFFFF     (base 16)		Shenzhen dingsheng technology co., LTD
 				Floor 3, building 5, kaijeda industrial zone, no.97, huaxing road, langkou community, dalang street, longhua district
@@ -21275,6 +21281,12 @@ C4-A5-59   (hex)		Annapurna labs
 				Cupertino  CA  95014
 				US
 
+70-5A-6F   (hex)		Annapurna labs
+900000-9FFFFF     (base 16)		Annapurna labs
+				Matam Scientific Industries Center,   Building 8.2
+				Mail box 15123  Haifa  3508409
+				IL
+
 20-85-93   (hex)		Great Lite International
 700000-7FFFFF     (base 16)		Great Lite International
 				11F., No.207-2, Sec. 3, Beixin Rd., Xindian Dist.,
@@ -26699,12 +26711,6 @@ C4-A5-59   (hex)		Shenzhen Meishifu Technology Co.,Ltd.
 				Shenzhen  Guangdong  518000
 				CN
 
-C4-A5-59   (hex)		Archermind Japan Co.,Ltd.
-000000-0FFFFF     (base 16)		Archermind Japan Co.,Ltd.
-				4F Shinagawa East One Tower, 2-16-1, Konan
-				Minato-ku  Tokyo  1080075
-				JP
-
 4C-74-A7   (hex)		KYOCERA CORPORATION
 E00000-EFFFFF     (base 16)		KYOCERA CORPORATION
 				3-7-1, MINATOMIRAI, NISHI-KU,
@@ -26722,3 +26728,9 @@ E00000-EFFFFF     (base 16)		KYOCERA CORPORATION
 				8F,88, Sec. 1, Xintai 5th Rd. Xizhi
 				New Taipei    22181
 				TW
+
+C4-A5-59   (hex)		Archermind Japan Co.,Ltd.
+000000-0FFFFF     (base 16)		Archermind Japan Co.,Ltd.
+				4F Shinagawa East One Tower, 2-16-1, Konan
+				Minato-ku  Tokyo  1080075
+				JP
