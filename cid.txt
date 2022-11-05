@@ -368,6 +368,12 @@ DA9D49                        (base 16)                     Calix Inc.
                                                             Santa Clara  CA  95054                       
                                                             US                                           
 
+DA-E6-D7                      (hex)                         NVM Express, Inc.                            
+DAE6D7                        (base 16)                     NVM Express, Inc.                            
+                                                            3855 SW 153rd Drive                          
+                                                            Beaverton  OR  97003                         
+                                                            US                                           
+
 BA-C4-85                      (hex)                         Fraunhofer IIS                               
 BAC485                        (base 16)                     Fraunhofer IIS                               
                                                             Am Wolfsmantel 33                            
