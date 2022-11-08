@@ -6920,12 +6920,6 @@ A0-C5-F2   (hex)		Impulse Networks Pte Ltd
 				Boronia  Victoria  3155
 				AU
 
-A0-C5-F2   (hex)		CoolR Group Inc
-800000-8FFFFF     (base 16)		CoolR Group Inc
-				14100 Parke Long Ct Suite I
-				Chantilly  VA  20151
-				US
-
 A0-C5-F2   (hex)		Glooko inc
 C00000-CFFFFF     (base 16)		Glooko inc
 				899 W. Evelyn Avenue
@@ -10447,6 +10441,12 @@ C4-A5-59   (hex)		SHENZHEN ORFA TECH CO., LTD
 				FLAT/RM A 9F, SILVERCORP INTERNATIONAL TOWER 707-713 NATHAN ROAD MONGKOK KL
 				HONG KONG    999077
 				CN
+
+A0-C5-F2   (hex)		CoolR Group Inc
+800000-8FFFFF     (base 16)		CoolR Group Inc
+				4451 Brookfield Corporate Drive, Suite 111
+				Chantilly  VA  20151
+				US
 
 20-85-93   (hex)		UNILUMIN GROUP CO.,LTD
 300000-3FFFFF     (base 16)		UNILUMIN GROUP CO.,LTD
@@ -15982,6 +15982,12 @@ A00000-AFFFFF     (base 16)		Annapurna labs
 				Matam Scientific Industries Center,   Building 8.2
 				Mail box 15123  Haifa  3508409
 				IL
+
+70-5A-6F   (hex)		CoolR Group Inc
+C00000-CFFFFF     (base 16)		CoolR Group Inc
+				4451 Brookfield Corporate Drive, Suite 111
+				Chantilly  VA  20151
+				US
 
 4C-4B-F9   (hex)		Shandong Linkotech Electronic Co., Ltd.
 600000-6FFFFF     (base 16)		Shandong Linkotech Electronic Co., Ltd.

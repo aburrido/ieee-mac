@@ -12392,6 +12392,12 @@ C59000-C59FFF     (base 16)		Tunstall A/S
 				Stilling  Skanderborg  8660
 				DK
 
+8C-1F-64   (hex)		Embeddded Plus Plus
+62D000-62DFFF     (base 16)		Embeddded Plus Plus
+				Filmbyen 23, 2. tv.
+				Aarhus C    8000
+				DK
+
 70-B3-D5   (hex)		System West dba ICS Electronics
 E06000-E06FFF     (base 16)		System West dba ICS Electronics
 				7034 Commerce Circle Suite A
@@ -18490,6 +18496,12 @@ AFD000-AFDFFF     (base 16)		Universal Robots A/S
 				8th Floor, 99-4, Zhigu Dong Yi Road, Xike Town, Tong 'an District
 				Xiamen  Fujian  361100
 				CN
+
+8C-1F-64   (hex)		Technology for Energy Corp
+9E2000-9E2FFF     (base 16)		Technology for Energy Corp
+				10737 Lexington Dr
+				Knoxville  TN  37932
+				US
 
 70-B3-D5   (hex)		YUYAMA MFG Co.,Ltd
 BBB000-BBBFFF     (base 16)		YUYAMA MFG Co.,Ltd
@@ -24710,6 +24722,12 @@ DFB000-DFBFFF     (base 16)		Bobeesc Co.
 				MONTREAL  Quebec  H3C 2G9
 				CA
 
+8C-1F-64   (hex)		InfraChen Technology Co., Ltd.
+0BB000-0BBFFF     (base 16)		InfraChen Technology Co., Ltd.
+				14F., No. 90, Xingde Rd., Sanchong Dist.
+				New Taipei City    24158
+				TW
+
 70-B3-D5   (hex)		DISMUNTEL SAL
 92C000-92CFFF     (base 16)		DISMUNTEL SAL
 				Pol ind cotes
@@ -30752,18 +30770,6 @@ DC2000-DC2FFF     (base 16)		Procon Electronics Pty Ltd
 				Seven Hills  NSW  1730
 				AU
 
-8C-1F-64   (hex)		DI3 INFOTECH LLP
-0AA000-0AAFFF     (base 16)		DI3 INFOTECH LLP
-				406, CRYSTAL ARCADE, NEXT TO BSNL EXCHANGE, C.G ROAD, NAVRANGPURA
-				AHMEDABAD  Gujarat  380009
-				IN
-
-8C-1F-64   (hex)		Graphimecc Group SRL
-0F2000-0F2FFF     (base 16)		Graphimecc Group SRL
-				Via Nobel 2
-				San Martino Buon Albergo  Verona  37036
-				IT
-
 8C-1F-64   (hex)		Khimo
 6D9000-6D9FFF     (base 16)		Khimo
 				Siria 6101
@@ -30775,3 +30781,15 @@ DC2000-DC2FFF     (base 16)		Procon Electronics Pty Ltd
 				617, anyang Megavally, 268, Hagui-ro, Dongan-gu
 				Anyang    14056
 				KR
+
+8C-1F-64   (hex)		DI3 INFOTECH LLP
+0AA000-0AAFFF     (base 16)		DI3 INFOTECH LLP
+				406, CRYSTAL ARCADE, NEXT TO BSNL EXCHANGE, C.G ROAD, NAVRANGPURA
+				AHMEDABAD  Gujarat  380009
+				IN
+
+8C-1F-64   (hex)		Graphimecc Group SRL
+0F2000-0F2FFF     (base 16)		Graphimecc Group SRL
+				Via Nobel 2
+				San Martino Buon Albergo  Verona  37036
+				IT
