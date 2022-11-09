@@ -5360,17 +5360,23 @@ E00000-EFFFFF     (base 16)		SERNET (SUZHOU) TECHNOLOGIES CORPORATION
 				Graz  Styria  8020
 				AT
 
+70-5A-6F   (hex)		PICadvanced SA
+D00000-DFFFFF     (base 16)		PICadvanced SA
+				PCI Creative Science Park Via do Conhecimento Ed Central
+				Ilhavo  Aveiro  3830-352
+				PT
+
 70-5A-6F   (hex)		Vaiotik Co., Ltd
 400000-4FFFFF     (base 16)		Vaiotik Co., Ltd
 				GaoXinQi in
 				Hi-Tech Park  Shenzhen   518000
 				CN
 
-70-5A-6F   (hex)		PICadvanced SA
-D00000-DFFFFF     (base 16)		PICadvanced SA
-				PCI Creative Science Park Via do Conhecimento Ed Central
-				Ilhavo  Aveiro  3830-352
-				PT
+70-5A-6F   (hex)		LUAN Industry and Commerce Co., Ltd
+800000-8FFFFF     (base 16)		LUAN Industry and Commerce Co., Ltd
+				Jinying Building, No 1, Jinying Road, Tianhe District
+				Guangzhou  Guangdong  510640
+				CN
 
 4C-4B-F9   (hex)		Shenzhen dingsheng technology co., LTD
 400000-4FFFFF     (base 16)		Shenzhen dingsheng technology co., LTD
@@ -15989,6 +15995,12 @@ C00000-CFFFFF     (base 16)		CoolR Group Inc
 				Chantilly  VA  20151
 				US
 
+70-5A-6F   (hex)		Callidus trading, spol. s r.o.
+B00000-BFFFFF     (base 16)		Callidus trading, spol. s r.o.
+				Pašerových 1270/1
+				Ostrava    70900
+				CZ
+
 4C-4B-F9   (hex)		Shandong Linkotech Electronic Co., Ltd.
 600000-6FFFFF     (base 16)		Shandong Linkotech Electronic Co., Ltd.
 				22nd Floor, Building 2, Aosheng Building, No.1166 Xinyi Street, High-tech Zone
@@ -21298,6 +21310,12 @@ C4-A5-59   (hex)		Annapurna labs
 				Matam Scientific Industries Center,   Building 8.2
 				Mail box 15123  Haifa  3508409
 				IL
+
+70-5A-6F   (hex)		Hall Technologies
+E00000-EFFFFF     (base 16)		Hall Technologies
+				1234 Lakeshore Dr., Ste. 150
+				Coppell  TX  75019
+				US
 
 20-85-93   (hex)		Great Lite International
 700000-7FFFFF     (base 16)		Great Lite International
