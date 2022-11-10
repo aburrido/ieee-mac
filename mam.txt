@@ -5378,6 +5378,18 @@ D00000-DFFFFF     (base 16)		PICadvanced SA
 				Guangzhou  Guangdong  510640
 				CN
 
+8C-5D-B2   (hex)		Guandong Yuhang Automation Technology Co.,Ltd
+D00000-DFFFFF     (base 16)		Guandong Yuhang Automation Technology Co.,Ltd
+				Daliang Baojian Road N0.99
+				Foshan  Guangdong  528300
+				CN
+
+8C-5D-B2   (hex)		DAYOUPLUS
+100000-1FFFFF     (base 16)		DAYOUPLUS
+				3F 509, Dunchon-daero, Jungwon-gu, Seongnam-si, Gyeonggi-do, Republic of Korea
+				Seongnam-si  Gyeonggi-do  13217
+				KR
+
 4C-4B-F9   (hex)		Shenzhen dingsheng technology co., LTD
 400000-4FFFFF     (base 16)		Shenzhen dingsheng technology co., LTD
 				Floor 3, building 5, kaijeda industrial zone, no.97, huaxing road, langkou community, dalang street, longhua district

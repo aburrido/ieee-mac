@@ -158,6 +158,12 @@ AA146B                        (base 16)                     IronWiFi
                                                             Thornhill  Ontario  L3T2C6                   
                                                             CA                                           
 
+3A-0E-75                      (hex)                         KEVCOM LLC                                   
+3A0E75                        (base 16)                     KEVCOM LLC                                   
+                                                            12 Lark Street                               
+                                                            Greenwich  NY  12834                         
+                                                            US                                           
+
 BA-4D-EA                      (hex)                         Environexus                                  
 BA4DEA                        (base 16)                     Environexus                                  
                                                             50 Ricketts Road                             
