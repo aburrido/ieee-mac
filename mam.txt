@@ -26818,3 +26818,9 @@ C4-A5-59   (hex)		Archermind Japan Co.,Ltd.
 				Ampérova 649
 				Liberec 23  Czech republic  46312
 				CZ
+
+8C-5D-B2   (hex)		CoreTigo
+400000-4FFFFF     (base 16)		CoreTigo
+				Giborei Israel 5 Natanya
+				Natanya    4250405
+				IL
