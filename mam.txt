@@ -5402,6 +5402,12 @@ D00000-DFFFFF     (base 16)		Guandong Yuhang Automation Technology Co.,Ltd
 				Sarstedt  Lower Saxony  31157
 				DE
 
+8C-5D-B2   (hex)		SmartMore Corporation Limited
+600000-6FFFFF     (base 16)		SmartMore Corporation Limited
+				Bld 3E, No.3 Science Park East Avenue, N.T.
+				Hong Kong  Select State  HKG
+				HK
+
 4C-4B-F9   (hex)		Shenzhen dingsheng technology co., LTD
 400000-4FFFFF     (base 16)		Shenzhen dingsheng technology co., LTD
 				Floor 3, building 5, kaijeda industrial zone, no.97, huaxing road, langkou community, dalang street, longhua district
@@ -8672,12 +8678,6 @@ A00000-AFFFFF     (base 16)		IST ElektronikgesmbH
 				Neukirchen am Walde  Upper Austria  4724
 				AT
 
-A0-22-4E   (hex)		rNET Controls 
-100000-1FFFFF     (base 16)		rNET Controls 
-				8231 SW Cirrus Dr
-				Beaverton  OR  97008
-				US
-
 20-0A-0D   (hex)		Tecnint HTE SRL
 700000-7FFFFF     (base 16)		Tecnint HTE SRL
 				Via della Tecnica 16/18
@@ -10483,6 +10483,12 @@ A0-C5-F2   (hex)		CoolR Group Inc
 				Polyarnaya st.31 str.1
 				Moscow  Moscow  127282
 				RU
+
+A0-22-4E   (hex)		PoE Texas
+100000-1FFFFF     (base 16)		PoE Texas
+				11821 Buckner Rd
+				Austin  TX  78726
+				US
 
 20-85-93   (hex)		UNILUMIN GROUP CO.,LTD
 300000-3FFFFF     (base 16)		UNILUMIN GROUP CO.,LTD
@@ -21358,6 +21364,12 @@ B00000-BFFFFF     (base 16)		NADDOD
 				6 Raffles Quay, #14-06 
 				Singapore    048580
 				SG
+
+8C-5D-B2   (hex)		HEXIN Technologies Co., Ltd.
+C00000-CFFFFF     (base 16)		HEXIN Technologies Co., Ltd.
+				Room 301, No. 45 Ruiji 2nd Street, Huangpu District, 
+				Guangzhou    510799
+				CN
 
 20-85-93   (hex)		Great Lite International
 700000-7FFFFF     (base 16)		Great Lite International
