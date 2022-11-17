@@ -5336,12 +5336,6 @@ B00000-BFFFFF     (base 16)		SMH Technologies SRL
 				Ludwigsburg    71640
 				DE
 
-C4-A5-59   (hex)		SERNET (SUZHOU) TECHNOLOGIES CORPORATION
-E00000-EFFFFF     (base 16)		SERNET (SUZHOU) TECHNOLOGIES CORPORATION
-				NO.8 Tangzhuang Road,Suzhou Industrial Park,Su ZhouCity,JiangSu Province,China
-				Suzhou    215021
-				CN
-
 C4-A5-59   (hex)		X-speed lnformation Technology Co.,Ltd
 300000-3FFFFF     (base 16)		X-speed lnformation Technology Co.,Ltd
 				th Floor,Building 2,Xinyu Electronic Industrial Park,No.69, Zhaishan,Houshan Village, High-tech Zone,Fuzhou,Fujian ,China
@@ -5353,6 +5347,12 @@ C4-A5-59   (hex)		X-speed lnformation Technology Co.,Ltd
 				Max-Emanuel-Str. 10
 				Passau  Bavaria  94036
 				DE
+
+C4-A5-59   (hex)		SERNET (SUZHOU) TECHNOLOGIES CORPORATION
+E00000-EFFFFF     (base 16)		SERNET (SUZHOU) TECHNOLOGIES CORPORATION
+				NO.8 Tangzhuang Road,Suzhou Industrial Park,Su ZhouCity,JiangSu Province,China
+				Suzhou    215021
+				CN
 
 70-5A-6F   (hex)		Tyromotion GmbH
 200000-2FFFFF     (base 16)		Tyromotion GmbH
@@ -15956,17 +15956,17 @@ E0-38-2D   (hex)		Velvac Incorporated
 				Huntingdon    PE29 6XY
 				GB
 
-84-B3-86   (hex)		Dongguan Amsamotion Automation Technology Co., Ltd
-D00000-DFFFFF     (base 16)		Dongguan Amsamotion Automation Technology Co., Ltd
-				Block A, Zosun Intelligence Creation Zone, No.9 Yizhan Road, Yuanwubian Street Nancheng District
-				Dongguan  Guangdong  523000
-				CN
-
 D0-14-11   (hex)		Video Security, Inc.
 800000-8FFFFF     (base 16)		Video Security, Inc.
 				80, Fengren Rd., Fengshan Dist.,
 				Kaohsiung, Taiwan, R.O.C.  Kaohsiung City  807
 				TW
+
+84-B3-86   (hex)		Dongguan Amsamotion Automation Technology Co., Ltd
+D00000-DFFFFF     (base 16)		Dongguan Amsamotion Automation Technology Co., Ltd
+				Block A, Zosun Intelligence Creation Zone, No.9 Yizhan Road, Yuanwubian Street Nancheng District
+				Dongguan  Guangdong  523000
+				CN
 
 C4-A5-59   (hex)		METICS
 800000-8FFFFF     (base 16)		METICS
@@ -15998,14 +15998,14 @@ D00000-DFFFFF     (base 16)		MINOLTA SECURITY
 				Englewood  NJ  07631
 				US
 
-C4-A5-59   (hex)		Private
-400000-4FFFFF     (base 16)		Private
-
 70-5A-6F   (hex)		BMR s.r.o.
 100000-1FFFFF     (base 16)		BMR s.r.o.
 				Lipovka 17
 				Rychnov nad Kneznou    51601
 				CZ
+
+C4-A5-59   (hex)		Private
+400000-4FFFFF     (base 16)		Private
 
 94-C9-B7   (hex)		Titanium union(shenzhen)technology co.,ltd
 900000-9FFFFF     (base 16)		Titanium union(shenzhen)technology co.,ltd
@@ -16042,6 +16042,12 @@ B00000-BFFFFF     (base 16)		Callidus trading, spol. s r.o.
 				S Kovalevskoy str., b. 20/1
 				St. Petersburg    195256
 				RU
+
+8C-5D-B2   (hex)		Unite Audio
+500000-5FFFFF     (base 16)		Unite Audio
+				15-19 Villas Road
+				Dandenong South  VIC  3175
+				AU
 
 4C-4B-F9   (hex)		Shandong Linkotech Electronic Co., Ltd.
 600000-6FFFFF     (base 16)		Shandong Linkotech Electronic Co., Ltd.
@@ -21299,6 +21305,12 @@ E0-38-2D   (hex)		Annapurna labs
 				Mail box 15123  Haifa  3508409
 				IL
 
+84-B3-86   (hex)		Sichuan Huakun Zhenyu Intelligent Technology Co., Ltd
+100000-1FFFFF     (base 16)		Sichuan Huakun Zhenyu Intelligent Technology Co., Ltd
+				24F, Block C, Maoye Center, No. 28, North Section of Tianfu Avenue, High tech Zone, Chengdu, Sichuan
+				Chengdu  Sichuan  621050
+				CN
+
 0C-CC-47   (hex)		Foxconn Brasil Industria e Comercio Ltda
 E00000-EFFFFF     (base 16)		Foxconn Brasil Industria e Comercio Ltda
 				Av. Marginal da Rodovia dos Bandeirantes, 800 - Distrito Industrial
@@ -21310,12 +21322,6 @@ E00000-EFFFFF     (base 16)		Foxconn Brasil Industria e Comercio Ltda
 				5550 TRIANGLE PKWY, STE 385
 				PEACHTREE CORNERS  GA  30092
 				US
-
-84-B3-86   (hex)		Sichuan Huakun Zhenyu Intelligent Technology Co., Ltd
-100000-1FFFFF     (base 16)		Sichuan Huakun Zhenyu Intelligent Technology Co., Ltd
-				24F, Block C, Maoye Center, No. 28, North Section of Tianfu Avenue, High tech Zone, Chengdu, Sichuan
-				Chengdu  Sichuan  621050
-				CN
 
 84-B3-86   (hex)		Phonesuite
 300000-3FFFFF     (base 16)		Phonesuite
@@ -21359,17 +21365,35 @@ E00000-EFFFFF     (base 16)		Hall Technologies
 				Coppell  TX  75019
 				US
 
+8C-5D-B2   (hex)		HEXIN Technologies Co., Ltd.
+C00000-CFFFFF     (base 16)		HEXIN Technologies Co., Ltd.
+				Room 301, No. 45 Ruiji 2nd Street, Huangpu District, 
+				Guangzhou    510799
+				CN
+
 8C-5D-B2   (hex)		NADDOD
 B00000-BFFFFF     (base 16)		NADDOD
 				6 Raffles Quay, #14-06 
 				Singapore    048580
 				SG
 
-8C-5D-B2   (hex)		HEXIN Technologies Co., Ltd.
-C00000-CFFFFF     (base 16)		HEXIN Technologies Co., Ltd.
-				Room 301, No. 45 Ruiji 2nd Street, Huangpu District, 
-				Guangzhou    510799
+8C-5D-B2   (hex)		Surbhi Satcom Pvt Ltd
+E00000-EFFFFF     (base 16)		Surbhi Satcom Pvt Ltd
+				D-23, Sector 11
+				Noida  Uttar Pradesh  201301
+				IN
+
+8C-5D-B2   (hex)		Beijing Scistor Technology Co., Ltd
+A00000-AFFFFF     (base 16)		Beijing Scistor Technology Co., Ltd
+				Floor2,Ruipu Electronic Building,NO.5 Xiaguangli,Chaoyang District
+				Beijing  Beijing  100125
 				CN
+
+C0-EA-C3   (hex)		OLEDCOMM
+900000-9FFFFF     (base 16)		OLEDCOMM
+				10-12 avenue de l'Europe
+				Vélizy Villacoublay  Ile de France  78140
+				FR
 
 20-85-93   (hex)		Great Lite International
 700000-7FFFFF     (base 16)		Great Lite International
@@ -26771,29 +26795,29 @@ A00000-AFFFFF     (base 16)		Velocio Networks, Inc.
 				Huntsville  AL  35803
 				US
 
-84-B3-86   (hex)		NetworX
-800000-8FFFFF     (base 16)		NetworX
-				5065 Commercial Circle
-				Concord  CA  94520
-				US
-
 84-B3-86   (hex)		NINGBO XINSUAN TECHNOLOGY CO.,LTD
 E00000-EFFFFF     (base 16)		NINGBO XINSUAN TECHNOLOGY CO.,LTD
 				Room 409, No. 68, Changshou East Road, Yinzhou District
 				NINGBO  ZHEJIANG  315100
 				CN
 
-C4-A5-59   (hex)		Shenzhen Meishifu Technology Co.,Ltd.
-900000-9FFFFF     (base 16)		Shenzhen Meishifu Technology Co.,Ltd.
-				217, Huichao Building, A3(A4), Yantian Industrial Zone, Yantian Community, Xixiang Street, Bao 'an District
-				Shenzhen  Guangdong  518000
-				CN
+84-B3-86   (hex)		NetworX
+800000-8FFFFF     (base 16)		NetworX
+				5065 Commercial Circle
+				Concord  CA  94520
+				US
 
 C4-A5-59   (hex)		ALTAM SYSTEMS SL
 C00000-CFFFFF     (base 16)		ALTAM SYSTEMS SL
 				Carrer Orient 78-84, 2-8
 				Sant Cugat del Valles  Barcelona  08172
 				ES
+
+C4-A5-59   (hex)		Shenzhen Meishifu Technology Co.,Ltd.
+900000-9FFFFF     (base 16)		Shenzhen Meishifu Technology Co.,Ltd.
+				217, Huichao Building, A3(A4), Yantian Industrial Zone, Yantian Community, Xixiang Street, Bao 'an District
+				Shenzhen  Guangdong  518000
+				CN
 
 4C-74-A7   (hex)		KYOCERA CORPORATION
 E00000-EFFFFF     (base 16)		KYOCERA CORPORATION
@@ -26807,17 +26831,17 @@ E00000-EFFFFF     (base 16)		KYOCERA CORPORATION
 				 Taipei City     115
 				TW
 
-C4-A5-59   (hex)		Archermind Japan Co.,Ltd.
-000000-0FFFFF     (base 16)		Archermind Japan Co.,Ltd.
-				4F Shinagawa East One Tower, 2-16-1, Konan
-				Minato-ku  Tokyo  1080075
-				JP
-
 70-5A-6F   (hex)		Acer Connect
 500000-5FFFFF     (base 16)		Acer Connect
 				8F,88, Sec. 1, Xintai 5th Rd. Xizhi
 				New Taipei    22181
 				TW
+
+C4-A5-59   (hex)		Archermind Japan Co.,Ltd.
+000000-0FFFFF     (base 16)		Archermind Japan Co.,Ltd.
+				4F Shinagawa East One Tower, 2-16-1, Konan
+				Minato-ku  Tokyo  1080075
+				JP
 
 8C-5D-B2   (hex)		Yuzhou Zhongnan lnformation Technology Co.,Ltd
 300000-3FFFFF     (base 16)		Yuzhou Zhongnan lnformation Technology Co.,Ltd
@@ -26825,14 +26849,20 @@ C4-A5-59   (hex)		Archermind Japan Co.,Ltd.
 				Yuzhou    461670
 				CN
 
+8C-5D-B2   (hex)		CoreTigo
+400000-4FFFFF     (base 16)		CoreTigo
+				Giborei Israel 5 Natanya
+				Natanya    4250405
+				IL
+
 8C-5D-B2   (hex)		Cleartex s.r.o.
 700000-7FFFFF     (base 16)		Cleartex s.r.o.
 				Ampérova 649
 				Liberec 23  Czech republic  46312
 				CZ
 
-8C-5D-B2   (hex)		CoreTigo
-400000-4FFFFF     (base 16)		CoreTigo
-				Giborei Israel 5 Natanya
-				Natanya    4250405
-				IL
+C0-EA-C3   (hex)		Trumeter
+C00000-CFFFFF     (base 16)		Trumeter
+				Pilot Mill, Alfred Street
+				Manchester  lancashire  BL9 9JR
+				GB
