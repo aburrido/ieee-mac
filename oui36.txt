@@ -6254,17 +6254,35 @@ DA6000-DA6FFF     (base 16)		Power Electronics Espana, S.L.
 				Chandler    85286
 				US
 
-8C-1F-64   (hex)		Qtechnology A/S
-AFF000-AFFFFF     (base 16)		Qtechnology A/S
-				Valby Langgade 142, 1.
-				Valby  DK  2500
-				DK
+8C-1F-64   (hex)		KST technology
+F84000-F84FFF     (base 16)		KST technology
+				KST B/D 4-5, Wiryeseong-daero 12-gil
+				Songpa-gu  Seoul  05636
+				KR
 
 8C-1F-64   (hex)		Soha Jin
 BF1000-BF1FFF     (base 16)		Soha Jin
 				North Campus, Wenzhou University
 				Wenzhou  Zhejiang  325035
 				CN
+
+8C-1F-64   (hex)		Qtechnology A/S
+AFF000-AFFFFF     (base 16)		Qtechnology A/S
+				Valby Langgade 142, 1.
+				Valby  DK  2500
+				DK
+
+8C-1F-64   (hex)		INVENTIS S.r.l.
+36A000-36AFFF     (base 16)		INVENTIS S.r.l.
+				Corso Stati Uniti 1/3
+				Padova    35127
+				IT
+
+8C-1F-64   (hex)		UniTik Technology Co., Limited
+8E3000-8E3FFF     (base 16)		UniTik Technology Co., Limited
+				7F.-3, No. 15, Lane  360, Sec. 1, Neihu Rd., Neihu Dist.,
+				Taipei    114064
+				TW
 
 70-B3-D5   (hex)		EVCO SPA
 A80000-A80FFF     (base 16)		EVCO SPA
@@ -12440,6 +12458,18 @@ FDC000-FDCFFF     (base 16)		Nuphoton Technologies
 				Gurgaon  Haryana  122018
 				IN
 
+8C-1F-64   (hex)		LINEAGE POWER PVT LTD.,
+7DC000-7DCFFF     (base 16)		LINEAGE POWER PVT LTD.,
+				30-A1, KIADB, 1ST PHASE INDUSTRIAL ESTATE,KUMBALGODU, BANGALORE-MYSORE ROAD
+				BANGALORE  KARNATAKA  560074
+				IN
+
+8C-1F-64   (hex)		Potter Electric Signal Co. LLC
+CC5000-CC5FFF     (base 16)		Potter Electric Signal Co. LLC
+				1609 Park 370 Place
+				Hazelwood  MO  63042
+				US
+
 70-B3-D5   (hex)		System West dba ICS Electronics
 E06000-E06FFF     (base 16)		System West dba ICS Electronics
 				7034 Commerce Circle Suite A
@@ -18556,6 +18586,18 @@ B6E000-B6EFFF     (base 16)		Loop Technologies
 				35 Bryant Road
 				Hamilton  Waikato  3200
 				NZ
+
+8C-1F-64   (hex)		NEETRA SRL SB
+08D000-08DFFF     (base 16)		NEETRA SRL SB
+				SP 231 km 1,300
+				Modugno  BA  70026
+				IT
+
+8C-1F-64   (hex)		FoMa Systems GmbH
+097000-097FFF     (base 16)		FoMa Systems GmbH
+				Oskar-Sembach-Ring 11
+				Lauf    91207
+				DE
 
 70-B3-D5   (hex)		YUYAMA MFG Co.,Ltd
 BBB000-BBBFFF     (base 16)		YUYAMA MFG Co.,Ltd
@@ -24805,6 +24847,12 @@ FE9000-FE9FFF     (base 16)		ALZAJEL MODERN TELECOMMUNICATION
 				1-6-18 Sanno Hakata-ku
 				Fukuoka-shi  Fukuoka  8120015
 				JP
+
+8C-1F-64   (hex)		Enerthing GmbH
+8D0000-8D0FFF     (base 16)		Enerthing GmbH
+				An der Schusterinsel 3a
+				Leverkusen    51379
+				DE
 
 70-B3-D5   (hex)		DISMUNTEL SAL
 92C000-92CFFF     (base 16)		DISMUNTEL SAL
