@@ -18605,6 +18605,18 @@ B6E000-B6EFFF     (base 16)		Loop Technologies
 				Lauf    91207
 				DE
 
+8C-1F-64   (hex)		DONG GUAN YUNG FU ELECTRONICS LTD.
+056000-056FFF     (base 16)		DONG GUAN YUNG FU ELECTRONICS LTD.
+				No.3 LIAN SHENG INDUSTRIAL AREA,DENG WU VILLAGE,QIAO TOU TOWN
+				DONGGUAN CITY  GUANG DONG  523000
+				CN
+
+8C-1F-64   (hex)		ShenYang LeShun Technology Co.,Ltd
+AC9000-AC9FFF     (base 16)		ShenYang LeShun Technology Co.,Ltd
+				Floor 6, R&D Building, No. 37, Shenbei Road, Shenbei New District, Shenyang
+				ShenYang  LiaoNing   110000
+				CN
+
 70-B3-D5   (hex)		YUYAMA MFG Co.,Ltd
 BBB000-BBBFFF     (base 16)		YUYAMA MFG Co.,Ltd
 				3-3-1

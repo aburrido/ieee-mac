@@ -10532,6 +10532,12 @@ D00000-DFFFFF     (base 16)		Kontron Asia Technology Inc.
 				Taipei  Taiwan  11493
 				TW
 
+7C-45-F9   (hex)		Feller AG
+800000-8FFFFF     (base 16)		Feller AG
+				Bergstrasse 70
+				Horgen    8810
+				CH
+
 20-85-93   (hex)		UNILUMIN GROUP CO.,LTD
 300000-3FFFFF     (base 16)		UNILUMIN GROUP CO.,LTD
 				No.112 Yongfu Rd.,BaoanDistrict,
@@ -21455,6 +21461,12 @@ A00000-AFFFFF     (base 16)		VOLT EQUIPAMENTOS ELETRONICOS LTDA
 				SANTA RITA DO SAPUCAI  MINAS GERAIS  37540000
 				BR
 
+7C-45-F9   (hex)		Interactive Technologies, Inc.
+500000-5FFFFF     (base 16)		Interactive Technologies, Inc.
+				5295 Lake Pointe Center Drive
+				Cumming  GA  30041
+				US
+
 20-85-93   (hex)		Great Lite International
 700000-7FFFFF     (base 16)		Great Lite International
 				11F., No.207-2, Sec. 3, Beixin Rd., Xindian Dist.,
@@ -26944,3 +26956,15 @@ C0-EA-C3   (hex)		Tokoz a.s.
 				Santiniho 20/26
 				Ž?ár nad Sázavou    591 02
 				CZ
+
+7C-45-F9   (hex)		Hangzhou LUXAR Technologies Co., Ltd
+300000-3FFFFF     (base 16)		Hangzhou LUXAR Technologies Co., Ltd
+				23F, NO.17 Jugong Road, Binjiang Zone
+				Hangzhou  Zhejiang  310051
+				CN
+
+7C-45-F9   (hex)		IngDan China-chip Electronic Technology(Wuxi) Co.,Ltd.
+B00000-BFFFFF     (base 16)		IngDan China-chip Electronic Technology(Wuxi) Co.,Ltd.
+				Room 1407-1410, Building C, Huirong Business Plaza, No. 26, Hefeng Road, Xinwu District, Wuxi City
+				Wuxi    214111
+				CN
