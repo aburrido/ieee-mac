@@ -6284,6 +6284,12 @@ AFF000-AFFFFF     (base 16)		Qtechnology A/S
 				Padova    35127
 				IT
 
+8C-1F-64   (hex)		DB SAS
+77B000-77BFFF     (base 16)		DB SAS
+				13 rue du Bois BriandImpasse de la Turquoise
+				Nantes    44300
+				FR
+
 70-B3-D5   (hex)		EVCO SPA
 A80000-A80FFF     (base 16)		EVCO SPA
 				VIA FELTRE N. 81
@@ -12476,6 +12482,12 @@ ECF000-ECFFFF     (base 16)		Monnit Corporation
 				Kaysville  UT  84037
 				US
 
+8C-1F-64   (hex)		Gnewtek photoelectric technology Ltd.
+D98000-D98FFF     (base 16)		Gnewtek photoelectric technology Ltd.
+				No. 238-15, Ln. 220, Sec. 1, Minyi Rd., Wugu Dist., New Taipei City 248 , Taiwan (R.O.C.)
+				NEW TAIPEI CITY    248
+				TW
+
 70-B3-D5   (hex)		System West dba ICS Electronics
 E06000-E06FFF     (base 16)		System West dba ICS Electronics
 				7034 Commerce Circle Suite A
@@ -18616,6 +18628,12 @@ AC9000-AC9FFF     (base 16)		ShenYang LeShun Technology Co.,Ltd
 				SP 231 km 1,300
 				Modugno  BA  70026
 				IT
+
+8C-1F-64   (hex)		Alfa Proxima d.o.o.
+C5D000-C5DFFF     (base 16)		Alfa Proxima d.o.o.
+				Rozna dolina, cesta V 31
+				Ljubljana    1000
+				SI
 
 70-B3-D5   (hex)		YUYAMA MFG Co.,Ltd
 BBB000-BBBFFF     (base 16)		YUYAMA MFG Co.,Ltd
@@ -24871,6 +24889,12 @@ FE9000-FE9FFF     (base 16)		ALZAJEL MODERN TELECOMMUNICATION
 				An der Schusterinsel 3a
 				Leverkusen    51379
 				DE
+
+8C-1F-64   (hex)		miniDSP
+4AF000-4AFFFF     (base 16)		miniDSP
+				Unit 307, 13 Wang Hoi Road
+				Kowloon Bay  Kowloon  na
+				HK
 
 70-B3-D5   (hex)		DISMUNTEL SAL
 92C000-92CFFF     (base 16)		DISMUNTEL SAL

@@ -5408,6 +5408,30 @@ D00000-DFFFFF     (base 16)		Guandong Yuhang Automation Technology Co.,Ltd
 				Hong Kong  Select State  HKG
 				HK
 
+7C-45-F9   (hex)		Mobilaris Industrial Solutions
+D00000-DFFFFF     (base 16)		Mobilaris Industrial Solutions
+				Mobilaris Innovation CenterSundsbacken 6
+				LULEÅ    97242
+				SE
+
+7C-45-F9   (hex)		MIJ CO LTD
+900000-9FFFFF     (base 16)		MIJ CO LTD
+				ROOM 204 882, Baksa-ro, Seo-myeon, chuncheon-si, Gangwon-do, Republic of korea
+				chuncheon-si  Gangwon-do  24461
+				KR
+
+C0-EA-C3   (hex)		Worldpass industrial Company Limited 
+600000-6FFFFF     (base 16)		Worldpass industrial Company Limited 
+				3, Xingfa South Road, Liwu Village, Wusha District, Chang'an Town, Dongguan City,  China
+				Guang dong province    523857
+				CN
+
+C0-EA-C3   (hex)		SeongHo Information and Communication Corp.
+B00000-BFFFFF     (base 16)		SeongHo Information and Communication Corp.
+				26 Hyangmokseo-gil, Jukwang-myeon, Goseong-gun, Gangwon-do, Republic of Korea
+				 Goseong-gun  Gangwon-do  24743
+				KR
+
 C0-EA-C3   (hex)		Hangzhou Qixun Technology Co., Ltd
 300000-3FFFFF     (base 16)		Hangzhou Qixun Technology Co., Ltd
 				Room A313, Building B, Shangzao Park, Puyan Sub-district, Binjiang District
@@ -5418,18 +5442,6 @@ C0-EA-C3   (hex)		Dongguan Wecxw CO.,Ltd.
 100000-1FFFFF     (base 16)		Dongguan Wecxw CO.,Ltd.
 				Room 2201, building 1, No. 16, Keji 4th Road, Songshanhu, Dongguan City, Guangdong Province
 				Dongguan  Guangdong  523429
-				CN
-
-C0-EA-C3   (hex)		SeongHo Information and Communication Corp.
-B00000-BFFFFF     (base 16)		SeongHo Information and Communication Corp.
-				26 Hyangmokseo-gil, Jukwang-myeon, Goseong-gun, Gangwon-do, Republic of Korea
-				 Goseong-gun  Gangwon-do  24743
-				KR
-
-C0-EA-C3   (hex)		Worldpass industrial Company Limited 
-600000-6FFFFF     (base 16)		Worldpass industrial Company Limited 
-				3, Xingfa South Road, Liwu Village, Wusha District, Chang'an Town, Dongguan City,  China
-				Guang dong province    523857
 				CN
 
 4C-4B-F9   (hex)		Shenzhen dingsheng technology co., LTD
@@ -10514,12 +10526,6 @@ A0-22-4E   (hex)		PoE Texas
 				Austin  TX  78726
 				US
 
-C0-EA-C3   (hex)		Anhui Shengjiaruiduo Electronic Technology Co., Ltd.
-000000-0FFFFF     (base 16)		Anhui Shengjiaruiduo Electronic Technology Co., Ltd.
-				1-2-A33, Building A, No. 111 Bantang Road, Chaohu Economic Development Zone
-				Chaohu    238000
-				CN
-
 C0-EA-C3   (hex)		Techem Energy Services GmbH
 500000-5FFFFF     (base 16)		Techem Energy Services GmbH
 				Haupstraße 89,
@@ -10537,6 +10543,12 @@ D00000-DFFFFF     (base 16)		Kontron Asia Technology Inc.
 				Bergstrasse 70
 				Horgen    8810
 				CH
+
+C0-EA-C3   (hex)		Anhui Shengjiaruiduo Electronic Technology Co., Ltd.
+000000-0FFFFF     (base 16)		Anhui Shengjiaruiduo Electronic Technology Co., Ltd.
+				1-2-A33, Building A, No. 111 Bantang Road, Chaohu Economic Development Zone
+				Chaohu    238000
+				CN
 
 20-85-93   (hex)		UNILUMIN GROUP CO.,LTD
 300000-3FFFFF     (base 16)		UNILUMIN GROUP CO.,LTD
@@ -16097,6 +16109,12 @@ B00000-BFFFFF     (base 16)		Callidus trading, spol. s r.o.
 				Dandenong South  VIC  3175
 				AU
 
+7C-45-F9   (hex)		Hunan Shengyun Photoelectric Technology Co., LTD
+100000-1FFFFF     (base 16)		Hunan Shengyun Photoelectric Technology Co., LTD
+				Room 102, Building E8, Lugu Yuyuan, 27 Wenxuan Road, Changsha Hi-tech Development Zone
+				Changsha  Hunan  410000
+				CN
+
 C0-EA-C3   (hex)		CDSTech
 800000-8FFFFF     (base 16)		CDSTech
 				79, Bongdae-gil
@@ -21466,6 +21484,18 @@ A00000-AFFFFF     (base 16)		VOLT EQUIPAMENTOS ELETRONICOS LTDA
 				5295 Lake Pointe Center Drive
 				Cumming  GA  30041
 				US
+
+7C-45-F9   (hex)		HANK ELECTRONICS CO., LTD
+600000-6FFFFF     (base 16)		HANK ELECTRONICS CO., LTD
+				HANK Industry Park, 118 Shaxin Road, Tangxia Town
+				Dongguan  Guangdong  523900
+				CN
+
+7C-45-F9   (hex)		Xemex NV
+C00000-CFFFFF     (base 16)		Xemex NV
+				Metropoolstraat 11a
+				Schoten  Antwerp  BE-2900
+				BE
 
 20-85-93   (hex)		Great Lite International
 700000-7FFFFF     (base 16)		Great Lite International
@@ -26968,3 +26998,9 @@ B00000-BFFFFF     (base 16)		IngDan China-chip Electronic Technology(Wuxi) Co.,L
 				Room 1407-1410, Building C, Huirong Business Plaza, No. 26, Hefeng Road, Xinwu District, Wuxi City
 				Wuxi    214111
 				CN
+
+7C-45-F9   (hex)		qiio AG
+A00000-AFFFFF     (base 16)		qiio AG
+				Am Wasser 24
+				Zurich  Zurich  8049
+				CH
