@@ -566,6 +566,12 @@ CA3EA6                        (base 16)                     Syng, Inc.
                                                             Venice  CA  90291                            
                                                             US                                           
 
+8A-D2-0F                      (hex)                         Pro Optix AB                                 
+8AD20F                        (base 16)                     Pro Optix AB                                 
+                                                            Vikdalsvägen 50                              
+                                                            Nacka Strand    13152                        
+                                                            SE                                           
+
 8A-FB-16                      (hex)                         TeraByte, Inc.                               
 8AFB16                        (base 16)                     TeraByte, Inc.                               
                                                             10220 Lazy Bear St                           
