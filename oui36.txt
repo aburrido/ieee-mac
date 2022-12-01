@@ -6302,6 +6302,18 @@ A0D000-A0DFFF     (base 16)		Lumiplan Duhamel
 				Curitiba  Paraná  81460-120
 				BR
 
+8C-1F-64   (hex)		Nixer Ltd
+5E3000-5E3FFF     (base 16)		Nixer Ltd
+				45 Evelyn Road
+				Dunstable  Bedfordshire  LU5 4NG
+				GB
+
+8C-1F-64   (hex)		CLOUD TELECOM Inc.
+52E000-52EFFF     (base 16)		CLOUD TELECOM Inc.
+				6F HAT Building,11-8, Nihonbashiodenma-cho
+				 Chuo-ku  Tokyo  1030011
+				JP
+
 70-B3-D5   (hex)		EVCO SPA
 A80000-A80FFF     (base 16)		EVCO SPA
 				VIA FELTRE N. 81
@@ -18647,6 +18659,12 @@ C5D000-C5DFFF     (base 16)		Alfa Proxima d.o.o.
 				Ljubljana    1000
 				SI
 
+8C-1F-64   (hex)		SmartD Technologies Inc
+4F7000-4F7FFF     (base 16)		SmartD Technologies Inc
+				400 Montfort
+				Montreal  Qc  H3C4J9
+				CA
+
 70-B3-D5   (hex)		YUYAMA MFG Co.,Ltd
 BBB000-BBBFFF     (base 16)		YUYAMA MFG Co.,Ltd
 				3-3-1
@@ -24902,6 +24920,18 @@ FE9000-FE9FFF     (base 16)		ALZAJEL MODERN TELECOMMUNICATION
 				Leverkusen    51379
 				DE
 
+8C-1F-64   (hex)		RAB Microfluidics R&D Company Ltd
+6E4000-6E4FFF     (base 16)		RAB Microfluidics R&D Company Ltd
+				75 Beech Manor, Stoneywood
+				Dyce    AB21 9AZ
+				GB
+
+8C-1F-64   (hex)		Shenzhen Link-All Technolgy Co., Ltd
+24C000-24CFFF     (base 16)		Shenzhen Link-All Technolgy Co., Ltd
+				Floor 5th, Block 9th, Sunny Industrial Zone, Xili Town, Shenzhen, China
+				Shenzhen  Guangdong  518108
+				CN
+
 8C-1F-64   (hex)		miniDSP
 4AF000-4AFFFF     (base 16)		miniDSP
 				Unit 307, 13 Wang Hoi Road
@@ -30991,3 +31021,9 @@ CE4000-CE4FFF     (base 16)		SL USA, LLC
 				1460 Broadway
 				New york  NY  10036
 				US
+
+8C-1F-64   (hex)		PSA Technology Ltda.
+3AF000-3AFFFF     (base 16)		PSA Technology Ltda.
+				Rua Domingos de Morais, 388 CJ 131/132Vila Mariana
+				São Paulo  São Paulo  04010-000
+				BR

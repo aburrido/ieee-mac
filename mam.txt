@@ -10550,6 +10550,12 @@ C0-EA-C3   (hex)		Anhui Shengjiaruiduo Electronic Technology Co., Ltd.
 				Chaohu    238000
 				CN
 
+7C-45-F9   (hex)		Georg Fischer Piping Systems Ltd.
+700000-7FFFFF     (base 16)		Georg Fischer Piping Systems Ltd.
+				Ebnatstrasse 111
+				Schaffhausen    8201
+				CH
+
 20-85-93   (hex)		UNILUMIN GROUP CO.,LTD
 300000-3FFFFF     (base 16)		UNILUMIN GROUP CO.,LTD
 				No.112 Yongfu Rd.,BaoanDistrict,
@@ -27004,3 +27010,9 @@ A00000-AFFFFF     (base 16)		qiio AG
 				Am Wasser 24
 				Zurich  Zurich  8049
 				CH
+
+7C-45-F9   (hex)		SENSeOR
+000000-0FFFFF     (base 16)		SENSeOR
+				1198, avenue du Docteur Maurice Donat,  
+				Mougins     06250
+				FR
