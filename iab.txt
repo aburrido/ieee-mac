@@ -26066,12 +26066,6 @@ A13000-A13FFF                 (base 16)                     Talyst, Inc.
                                                             Austin  TX  78759                            
                                                             US                                           
 
-00-50-C2                      (hex)                         BiPOM Electronics, Inc.                      
-469000-469FFF                 (base 16)                     BiPOM Electronics, Inc.                      
-                                                            16301 Blue Ridge Road                        
-                                                            Missouri City  TEXAS  77489                  
-                                                            US                                           
-
 00-50-C2                      (hex)                         Funkwerk plettac electronic GmbH             
 45A000-45AFFF                 (base 16)                     Funkwerk plettac electronic GmbH             
                                                             Wuerzburger Strasse 150                      
@@ -27378,4 +27372,10 @@ DF4000-DF4FFF                 (base 16)                     Potter Electric Sign
 F48000-F48FFF                 (base 16)                     SHURE INCORPORATED                           
                                                             5800 W. TOUHY AVE.                           
                                                             NILES  IL  60714                             
+                                                            US                                           
+
+00-50-C2                      (hex)                         Bipom Electronics, Inc.                      
+469000-469FFF                 (base 16)                     Bipom Electronics, Inc.                      
+                                                            16301 Blue Ridge Road                        
+                                                            Missouri City  TEXAS  77489                  
                                                             US                                           
