@@ -6296,12 +6296,6 @@ A0D000-A0DFFF     (base 16)		Lumiplan Duhamel
 				Nantes    44300
 				FR
 
-8C-1F-64   (hex)		Landis+Gyr Equipamentos de Medição Ltda
-293000-293FFF     (base 16)		Landis+Gyr Equipamentos de Medição Ltda
-				Hasdrubal Bellegard, 400, CIC
-				Curitiba  Paraná  81460-120
-				BR
-
 8C-1F-64   (hex)		Nixer Ltd
 5E3000-5E3FFF     (base 16)		Nixer Ltd
 				45 Evelyn Road
@@ -6314,11 +6308,23 @@ A0D000-A0DFFF     (base 16)		Lumiplan Duhamel
 				 Chuo-ku  Tokyo  1030011
 				JP
 
+8C-1F-64   (hex)		Landis+Gyr Equipamentos de Medição Ltda
+293000-293FFF     (base 16)		Landis+Gyr Equipamentos de Medição Ltda
+				Hasdrubal Bellegard, 400, CIC
+				Curitiba  Paraná  81460-120
+				BR
+
 8C-1F-64   (hex)		AW-SOM Technologies LLC
 0F4000-0F4FFF     (base 16)		AW-SOM Technologies LLC
 				1284 SOM Center Rd. -Suite 145
 				Mayfield Heights  OH  44124-2048
 				US
+
+8C-1F-64   (hex)		Flextronics International Kft
+154000-154FFF     (base 16)		Flextronics International Kft
+				38. Zrinyi Str.
+				Zalaegerszeg  Zala  8900
+				HU
 
 70-B3-D5   (hex)		EVCO SPA
 A80000-A80FFF     (base 16)		EVCO SPA
@@ -12518,6 +12524,12 @@ D98000-D98FFF     (base 16)		Gnewtek photoelectric technology Ltd.
 				NEW TAIPEI CITY    248
 				TW
 
+8C-1F-64   (hex)		Sanwa Supply Inc.
+06B000-06BFFF     (base 16)		Sanwa Supply Inc.
+				1-10-1 Tamachi Kita-ku
+				Okayama  Okayama Prefecture  700-0825
+				JP
+
 70-B3-D5   (hex)		System West dba ICS Electronics
 E06000-E06FFF     (base 16)		System West dba ICS Electronics
 				7034 Commerce Circle Suite A
@@ -18676,6 +18688,18 @@ C5D000-C5DFFF     (base 16)		Alfa Proxima d.o.o.
 				Rozna dolina, cesta V 31
 				Ljubljana    1000
 				SI
+
+8C-1F-64   (hex)		Celestica Inc.
+723000-723FFF     (base 16)		Celestica Inc.
+				213 Harry Walker Pkwy South
+				Newmarket  Ontario  L3Y 8T3
+				CA
+
+8C-1F-64   (hex)		ASHIDA Electronics Pvt. Ltd
+879000-879FFF     (base 16)		ASHIDA Electronics Pvt. Ltd
+				ASHIDA House Plot No A308 Road No. 21 Wagle Ind. Estate
+				Thane  Maharashtra  400604
+				IN
 
 70-B3-D5   (hex)		YUYAMA MFG Co.,Ltd
 BBB000-BBBFFF     (base 16)		YUYAMA MFG Co.,Ltd
@@ -24949,6 +24973,18 @@ FE9000-FE9FFF     (base 16)		ALZAJEL MODERN TELECOMMUNICATION
 				Unit 307, 13 Wang Hoi Road
 				Kowloon Bay  Kowloon  na
 				HK
+
+8C-1F-64   (hex)		VA SYD
+C1E000-C1EFFF     (base 16)		VA SYD
+				Box 191
+				Malmö    201 21
+				SE
+
+8C-1F-64   (hex)		P5
+653000-653FFF     (base 16)		P5
+				Angol 38
+				Budapest    1149
+				HU
 
 70-B3-D5   (hex)		DISMUNTEL SAL
 92C000-92CFFF     (base 16)		DISMUNTEL SAL

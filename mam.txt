@@ -21539,6 +21539,12 @@ C00000-CFFFFF     (base 16)		Xemex NV
 				Berlin    13355
 				DE
 
+5C-6A-EC   (hex)		Nippon Pulse Motor Co., Ltd.
+700000-7FFFFF     (base 16)		Nippon Pulse Motor Co., Ltd.
+				2-16-13 Hongo, Bunkyo-ku
+				Tokyo    113-0033
+				JP
+
 20-85-93   (hex)		Great Lite International
 700000-7FFFFF     (base 16)		Great Lite International
 				11F., No.207-2, Sec. 3, Beixin Rd., Xindian Dist.,
