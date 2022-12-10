@@ -10580,6 +10580,12 @@ C0-EA-C3   (hex)		Anhui Shengjiaruiduo Electronic Technology Co., Ltd.
 				Melbourne  FL  32904
 				US
 
+5C-6A-EC   (hex)		Exaterra Ltd.
+500000-5FFFFF     (base 16)		Exaterra Ltd.
+				11 Amal Str.
+				Rosh-Ha'ayin    4809239
+				IL
+
 20-85-93   (hex)		UNILUMIN GROUP CO.,LTD
 300000-3FFFFF     (base 16)		UNILUMIN GROUP CO.,LTD
 				No.112 Yongfu Rd.,BaoanDistrict,
@@ -27064,3 +27070,9 @@ A00000-AFFFFF     (base 16)		Shenzhen Olax Technology CO.,Ltd
 				Room 6008, 6th Floor, Jincheng(Baode) Industrial Area, Lixin South Road No.201, FUyong,Baoan,Shenzhen.Guangdong,China
 				Shenzhen  Guangdong  518000
 				CN
+
+5C-6A-EC   (hex)		FETOCELL
+600000-6FFFFF     (base 16)		FETOCELL
+				#2506,122,Jomaru-ro 385beon-gil, Bucheon-si, Gyeonggi-do, Koera,14556
+				 Bucheon-si    14556
+				KR

@@ -380,6 +380,12 @@ DAE6D7                        (base 16)                     NVM Express, Inc.
                                                             Beaverton  OR  97003                         
                                                             US                                           
 
+CA-C2-76                      (hex)                         Saab Seaeye Ltd                              
+CAC276                        (base 16)                     Saab Seaeye Ltd                              
+                                                            20 Brunel Way                                
+                                                            Fareham  Hampshire  PO15 5SD                 
+                                                            GB                                           
+
 BA-C4-85                      (hex)                         Fraunhofer IIS                               
 BAC485                        (base 16)                     Fraunhofer IIS                               
                                                             Am Wolfsmantel 33                            
