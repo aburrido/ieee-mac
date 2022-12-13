@@ -6326,6 +6326,18 @@ A0D000-A0DFFF     (base 16)		Lumiplan Duhamel
 				Zalaegerszeg  Zala  8900
 				HU
 
+8C-1F-64   (hex)		Star Systems International Limited
+756000-756FFF     (base 16)		Star Systems International Limited
+				Unit 7B,  8/F, Vanta Industrial Centre, 21-33 Tai Lin Pai Road, Kwai Chung
+				New Territories    852
+				HK
+
+8C-1F-64   (hex)		VT100 SRL
+66D000-66DFFF     (base 16)		VT100 SRL
+				Via A. Meucci 11
+				Caldiero  ITALY  37042
+				IT
+
 70-B3-D5   (hex)		EVCO SPA
 A80000-A80FFF     (base 16)		EVCO SPA
 				VIA FELTRE N. 81
@@ -18717,6 +18729,12 @@ D7F000-D7FFFF     (base 16)		Fiberstory communications Pvt Ltd
 F4C000-F4CFFF     (base 16)		inomatic GmbH
 				Karl-Braun-Straße 12
 				Nordhorn    48531
+				DE
+
+8C-1F-64   (hex)		MB connect line GmbH Fernwartungssysteme
+591000-591FFF     (base 16)		MB connect line GmbH Fernwartungssysteme
+				Winnettener Straße 6
+				Dinkelsbuehl  Bavaria  91550
 				DE
 
 70-B3-D5   (hex)		YUYAMA MFG Co.,Ltd
