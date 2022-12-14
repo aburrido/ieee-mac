@@ -2027,12 +2027,6 @@ FEC000-FECFFF     (base 16)		Finder SpA
 				Biarritz    64200
 				FR
 
-70-B3-D5   (hex)		TIAMA
-A33000-A33FFF     (base 16)		TIAMA
-				ZA des Plattes - 1 Chemin des Plattes
-				VOURLES     69390 
-				FR
-
 70-B3-D5   (hex)		Advanced Products Corporation Pte Ltd
 CED000-CEDFFF     (base 16)		Advanced Products Corporation Pte Ltd
 				5006 Ang Mo Kio Ave 5, #05-01/12 TECHPlace II
@@ -4922,12 +4916,6 @@ A9F000-A9FFFF     (base 16)		Master Meter Inc.
 				Mansfield  TX  76063
 				US
 
-70-B3-D5   (hex)		TIAMA
-798000-798FFF     (base 16)		TIAMA
-				ZA des Plattes - 1 Chemin des Plattes
-				VOURLES     69390 
-				FR
-
 70-B3-D5   (hex)		Rapiot
 265000-265FFF     (base 16)		Rapiot
 				Eteläesplanadi 2
@@ -6320,11 +6308,11 @@ A0D000-A0DFFF     (base 16)		Lumiplan Duhamel
 				Curitiba  Paraná  81460-120
 				BR
 
-8C-1F-64   (hex)		Flextronics International Kft
-154000-154FFF     (base 16)		Flextronics International Kft
-				38. Zrinyi Str.
-				Zalaegerszeg  Zala  8900
-				HU
+8C-1F-64   (hex)		MOSCA Elektronik und Antriebstechnik GmbH
+803000-803FFF     (base 16)		MOSCA Elektronik und Antriebstechnik GmbH
+				Albert-Einstein-Straße 5
+				Buchen    74722
+				DE
 
 8C-1F-64   (hex)		Star Systems International Limited
 756000-756FFF     (base 16)		Star Systems International Limited
@@ -6337,6 +6325,24 @@ A0D000-A0DFFF     (base 16)		Lumiplan Duhamel
 				Via A. Meucci 11
 				Caldiero  ITALY  37042
 				IT
+
+8C-1F-64   (hex)		Flextronics International Kft
+154000-154FFF     (base 16)		Flextronics International Kft
+				38. Zrinyi Str.
+				Zalaegerszeg  Zala  8900
+				HU
+
+70-B3-D5   (hex)		TIAMA
+A33000-A33FFF     (base 16)		TIAMA
+				215 Chemin du Grand Revoyet
+				Saint-Genis Laval  Auvergne Rhone Alpes  69230
+				FR
+
+70-B3-D5   (hex)		TIAMA
+798000-798FFF     (base 16)		TIAMA
+				215 Chemin du Grand Revoyet
+				Saint-Genis Laval  Auvergne Rhone Alpes  69230
+				FR
 
 70-B3-D5   (hex)		EVCO SPA
 A80000-A80FFF     (base 16)		EVCO SPA
@@ -6397,12 +6403,6 @@ F94000-F94FFF     (base 16)		MB connect line GmbH Fernwartungssysteme
 				
 				    
 				
-
-70-B3-D5   (hex)		TIAMA
-4BC000-4BCFFF     (base 16)		TIAMA
-				ZA des Plattes - 1 Chemin des Plattes
-				VOURLES     69390 
-				FR
 
 70-B3-D5   (hex)		Natav Services Ltd.
 E8D000-E8DFFF     (base 16)		Natav Services Ltd.
@@ -10529,12 +10529,6 @@ FF4000-FF4FFF     (base 16)		Serveron Corporation
 				Beaverton  OR  97077
 				US
 
-70-B3-D5   (hex)		TIAMA
-8BA000-8BAFFF     (base 16)		TIAMA
-				ZA des Plattes - 1 Chemin des Plattes
-				VOURLES     69390 
-				FR
-
 70-B3-D5   (hex)		IAAN Co., Ltd
 67F000-67FFFF     (base 16)		IAAN Co., Ltd
 				4F 261 Yangjae-dong, Seocho-gu
@@ -11561,12 +11555,6 @@ C50000-C50FFF     (base 16)		Spacee
 				Addison  TX  75001
 				US
 
-8C-1F-64   (hex)		TIAMA
-63B000-63BFFF     (base 16)		TIAMA
-				ZA des Plattes - 1 Chemin des Plattes
-				VOURLES     69390 
-				FR
-
 8C-1F-64   (hex)		Luxshare Electronic Technology (Kunshan) LTD
 E98000-E98FFF     (base 16)		Luxshare Electronic Technology (Kunshan) LTD
 				No.158,Jinchang Road,Jinxi Town,Kunshan City,Jiangsu Province,215324, China
@@ -12536,17 +12524,41 @@ D98000-D98FFF     (base 16)		Gnewtek photoelectric technology Ltd.
 				NEW TAIPEI CITY    248
 				TW
 
-8C-1F-64   (hex)		Sanwa Supply Inc.
-06B000-06BFFF     (base 16)		Sanwa Supply Inc.
-				1-10-1 Tamachi Kita-ku
-				Okayama  Okayama Prefecture  700-0825
-				JP
-
 8C-1F-64   (hex)		Alpine Quantum Technologies GmbH
 475000-475FFF     (base 16)		Alpine Quantum Technologies GmbH
 				Technikerstrasse 17/1
 				Innsbruck    6020
 				AT
+
+8C-1F-64   (hex)		TIAMA
+63B000-63BFFF     (base 16)		TIAMA
+				215 Chemin du Grand Revoyet
+				Saint-Genis Laval  Auvergne Rhone Alpes  69230
+				FR
+
+8C-1F-64   (hex)		TIAMA
+0B7000-0B7FFF     (base 16)		TIAMA
+				215 Chemin du Grand Revoyet
+				Saint-Genis Laval  Auvergne Rhone Alpes  69230
+				FR
+
+70-B3-D5   (hex)		TIAMA
+4BC000-4BCFFF     (base 16)		TIAMA
+				215 Chemin du Grand Revoyet
+				Saint-Genis Laval  Auvergne Rhone Alpes  69230
+				FR
+
+70-B3-D5   (hex)		TIAMA
+8BA000-8BAFFF     (base 16)		TIAMA
+				215 Chemin du Grand Revoyet
+				Saint-Genis Laval  Auvergne Rhone Alpes  69230
+				FR
+
+8C-1F-64   (hex)		Sanwa Supply Inc.
+06B000-06BFFF     (base 16)		Sanwa Supply Inc.
+				1-10-1 Tamachi Kita-ku
+				Okayama  Okayama Prefecture  700-0825
+				JP
 
 70-B3-D5   (hex)		System West dba ICS Electronics
 E06000-E06FFF     (base 16)		System West dba ICS Electronics
@@ -14050,12 +14062,6 @@ EE3000-EE3FFF     (base 16)		Lithe Technology, LLC
 				4574 North First Avenue, Suite 100
 				Tucson  AZ  85718
 				US
-
-70-B3-D5   (hex)		TIAMA
-FA0000-FA0FFF     (base 16)		TIAMA
-				ZA des Plattes - 1 Chemin des Plattes
-				VOURLES     69390 
-				FR
 
 70-B3-D5   (hex)		Elystec Technology Co., Ltd
 D4C000-D4CFFF     (base 16)		Elystec Technology Co., Ltd
@@ -18353,12 +18359,6 @@ C04000-C04FFF     (base 16)		SANWA CORPORATION
 				BeiJing  BeiJing  100193
 				CN
 
-8C-1F-64   (hex)		TIAMA
-5EB000-5EBFFF     (base 16)		TIAMA
-				215 Chemin du Grand Revoyet 
-				Saint-Genis Laval   Auvergne Rhône Alpes  69230
-				FR
-
 8C-1F-64   (hex)		Axcend
 E62000-E62FFF     (base 16)		Axcend
 				5252 N Edgewood Dr
@@ -18725,16 +18725,28 @@ D7F000-D7FFFF     (base 16)		Fiberstory communications Pvt Ltd
 				Pune  Maharashtra  411048
 				IN
 
-8C-1F-64   (hex)		inomatic GmbH
-F4C000-F4CFFF     (base 16)		inomatic GmbH
-				Karl-Braun-Straße 12
-				Nordhorn    48531
-				DE
+8C-1F-64   (hex)		TIAMA
+5EB000-5EBFFF     (base 16)		TIAMA
+				215 Chemin du Grand Revoyet
+				Saint-Genis Laval  Auvergne Rhone Alpes  69230
+				FR
 
 8C-1F-64   (hex)		MB connect line GmbH Fernwartungssysteme
 591000-591FFF     (base 16)		MB connect line GmbH Fernwartungssysteme
 				Winnettener Straße 6
 				Dinkelsbuehl  Bavaria  91550
+				DE
+
+70-B3-D5   (hex)		TIAMA
+FA0000-FA0FFF     (base 16)		TIAMA
+				215 Chemin du Grand Revoyet
+				Saint-Genis Laval  Auvergne Rhone Alpes  69230
+				FR
+
+8C-1F-64   (hex)		inomatic GmbH
+F4C000-F4CFFF     (base 16)		inomatic GmbH
+				Karl-Braun-Straße 12
+				Nordhorn    48531
 				DE
 
 70-B3-D5   (hex)		YUYAMA MFG Co.,Ltd
@@ -19489,12 +19501,6 @@ E32000-E32FFF     (base 16)		HERUTU ELECTRONICS CORPORATION
 				Federativny prospekt, 5-1-5
 				Moscow  Moscow  111399
 				RU
-
-70-B3-D5   (hex)		TIAMA
-C4A000-C4AFFF     (base 16)		TIAMA
-				ZA des Plattes - 1 Chemin des Plattes
-				VOURLES     69390 
-				FR
 
 70-B3-D5   (hex)		Adeli
 E61000-E61FFF     (base 16)		Adeli
@@ -21076,12 +21082,6 @@ BD2000-BD2FFF     (base 16)		Burk Technology
 				Eliot Business Park
 				Nuneaton  Warwickshire  CV10 7RJ 
 				GB
-
-70-B3-D5   (hex)		TIAMA
-0C4000-0C4FFF     (base 16)		TIAMA
-				ZA des Plattes - 1 Chemin des Plattes
-				VOURLES     69390 
-				FR
 
 70-B3-D5   (hex)		CRDE
 818000-818FFF     (base 16)		CRDE
@@ -25022,11 +25022,23 @@ C1E000-C1EFFF     (base 16)		VA SYD
 				Budapest    1149
 				HU
 
+70-B3-D5   (hex)		TIAMA
+0C4000-0C4FFF     (base 16)		TIAMA
+				215 Chemin du Grand Revoyet
+				Saint-Genis Laval  Auvergne Rhone Alpes  69230
+				FR
+
 8C-1F-64   (hex)		Shanghai Sizhong Information Technology Co., Ltd
 9CB000-9CBFFF     (base 16)		Shanghai Sizhong Information Technology Co., Ltd
 				Room 402 Building 13 No.518 XinZhuan Road Caohejing Hi-tech Park,Xinqiao Town?SongJiang District,ShangHai
 				Shanghai  Shanghai  201612
 				CN
+
+70-B3-D5   (hex)		TIAMA
+C4A000-C4AFFF     (base 16)		TIAMA
+				215 Chemin du Grand Revoyet
+				Saint-Genis Laval  Auvergne Rhone Alpes  69230
+				FR
 
 70-B3-D5   (hex)		DISMUNTEL SAL
 92C000-92CFFF     (base 16)		DISMUNTEL SAL
@@ -26134,12 +26146,6 @@ F5F000-F5FFFF     (base 16)		RFRain LLC
 				6th Floor,Building 2,No.307 Liuhe Road,Binjiang District,Hangzhou 城市： Hangzhou
 				Hangzhou  Zhejiang  310000
 				CN
-
-70-B3-D5   (hex)		TIAMA
-BA3000-BA3FFF     (base 16)		TIAMA
-				ZA des Plattes - 1 Chemin des Plattes
-				VOURLES     69390 
-				FR
 
 00-1B-C5   (hex)		Triax A/S
 0BB000-0BBFFF     (base 16)		Triax A/S
@@ -30413,12 +30419,6 @@ A9A000-A9AFFF     (base 16)		Signasystems Elektronik San. ve Tic. Ltd. Sti.
 				Ankara  Sincan  06909
 				TR
 
-8C-1F-64   (hex)		TIAMA
-820000-820FFF     (base 16)		TIAMA
-				ZA des Plattes - 1 Chemin des Plattes
-				VOURLES     69390 
-				FR
-
 8C-1F-64   (hex)		AVD INNOVATION LIMITED
 0D6000-0D6FFF     (base 16)		AVD INNOVATION LIMITED
 				TuenMun
@@ -31128,6 +31128,18 @@ CE4000-CE4FFF     (base 16)		SL USA, LLC
 349000-349FFF     (base 16)		WAVES SYSTEM
 				La Ville en Bois
 				BOUAYE  Loire Atlantique  44830
+				FR
+
+8C-1F-64   (hex)		TIAMA
+820000-820FFF     (base 16)		TIAMA
+				215 Chemin du Grand Revoyet
+				Saint-Genis Laval  Auvergne Rhone Alpes  69230
+				FR
+
+70-B3-D5   (hex)		TIAMA
+BA3000-BA3FFF     (base 16)		TIAMA
+				215 Chemin du Grand Revoyet
+				Saint-Genis Laval  Auvergne Rhone Alpes  69230
 				FR
 
 8C-1F-64   (hex)		Ajeco Oy

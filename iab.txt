@@ -27376,6 +27376,6 @@ F48000-F48FFF                 (base 16)                     SHURE INCORPORATED
 
 00-50-C2                      (hex)                         Bipom Electronics, Inc.                      
 469000-469FFF                 (base 16)                     Bipom Electronics, Inc.                      
-                                                            16301 Blue Ridge Road                        
-                                                            Missouri City  TEXAS  77489                  
+                                                            9788 Clarewood Dr. 306                       
+                                                            Houston  TX  77036                           
                                                             US                                           
