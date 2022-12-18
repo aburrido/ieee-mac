@@ -10604,6 +10604,12 @@ D00000-DFFFFF     (base 16)		Kontron Asia Technology Inc.
 				Taoyuan City    338012
 				TW
 
+D0-93-95   (hex)		Zhejiang Ruiyi lntelligent Technology Co. Ltd
+000000-0FFFFF     (base 16)		Zhejiang Ruiyi lntelligent Technology Co. Ltd
+				No.77, Jing 10th Road, Yueqing Economic Development Zone, Wenzhou
+				Yueqing City  Zhejiang  325608
+				CN
+
 20-85-93   (hex)		UNILUMIN GROUP CO.,LTD
 300000-3FFFFF     (base 16)		UNILUMIN GROUP CO.,LTD
 				No.112 Yongfu Rd.,BaoanDistrict,
