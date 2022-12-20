@@ -16205,6 +16205,24 @@ C00000-CFFFFF     (base 16)		Suzhou Huaqi Intelligent Technology Co., Ltd.
 				Amsterdam    1077 ZX
 				NL
 
+D0-93-95   (hex)		T-COM LLC
+D00000-DFFFFF     (base 16)		T-COM LLC
+				Kashirskoye Shosse, 49, Building 90,
+				Apartment IV, Floor 2, Room 2A  Moscow  115409
+				RU
+
+D0-93-95   (hex)		Automatic Devices
+A00000-AFFFFF     (base 16)		Automatic Devices
+				2121 South 12th Street
+				Allentown  PA  18103
+				US
+
+D0-93-95   (hex)		BRICK4U GmbH
+C00000-CFFFFF     (base 16)		BRICK4U GmbH
+				Gerichtsstr. 11
+				Oederan  Sachsen  09569
+				DE
+
 4C-4B-F9   (hex)		Shandong Linkotech Electronic Co., Ltd.
 600000-6FFFFF     (base 16)		Shandong Linkotech Electronic Co., Ltd.
 				22nd Floor, Building 2, Aosheng Building, No.1166 Xinyi Street, High-tech Zone
