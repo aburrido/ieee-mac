@@ -5474,6 +5474,12 @@ D0-93-95   (hex)		Annapurna labs
 				Mail box 15123  Haifa  3508409
 				IL
 
+D0-93-95   (hex)		Invendis Technologies India Pvt Ltd
+B00000-BFFFFF     (base 16)		Invendis Technologies India Pvt Ltd
+				#230 BOOHBCS Layout BTM 2nd Stage 38th MAIN 1ST CROSS
+				Bengaluru  Karnataka  560068
+				IN
+
 4C-4B-F9   (hex)		Shenzhen dingsheng technology co., LTD
 400000-4FFFFF     (base 16)		Shenzhen dingsheng technology co., LTD
 				Floor 3, building 5, kaijeda industrial zone, no.97, huaxing road, langkou community, dalang street, longhua district
@@ -27166,3 +27172,9 @@ D0-93-95   (hex)		Annapurna labs
 				Matam Scientific Industries Center,   Building 8.2
 				Mail box 15123  Haifa  3508409
 				IL
+
+D0-93-95   (hex)		Nesecure Telecom Pvt Ltd
+300000-3FFFFF     (base 16)		Nesecure Telecom Pvt Ltd
+				Fl No 503, S No 126, Pl No 22/26, Prakash uday, Katraj, Pune-411046
+				Pune  Mahrashtra  411046
+				IN
