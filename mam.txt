@@ -10622,6 +10622,12 @@ D0-93-95   (hex)		Zhejiang Ruiyi lntelligent Technology Co. Ltd
 				Yueqing City  Zhejiang  325608
 				CN
 
+D0-93-95   (hex)		Hefei Siqiang Electronic Technology Co.,Ltd
+100000-1FFFFF     (base 16)		Hefei Siqiang Electronic Technology Co.,Ltd
+				No. 69, Xinqiao Road, High tech Industrial Development Zone, Lujiang County, Hefei City, Anhui Province
+				Hefei    230000
+				CN
+
 20-85-93   (hex)		UNILUMIN GROUP CO.,LTD
 300000-3FFFFF     (base 16)		UNILUMIN GROUP CO.,LTD
 				No.112 Yongfu Rd.,BaoanDistrict,
@@ -16234,6 +16240,12 @@ C00000-CFFFFF     (base 16)		BRICK4U GmbH
 				Gerichtsstr. 11
 				Oederan  Sachsen  09569
 				DE
+
+D0-93-95   (hex)		NINGBO SUNNY OPOTECH CO.,LTD
+900000-9FFFFF     (base 16)		NINGBO SUNNY OPOTECH CO.,LTD
+				67-69 Fengle Road, Yangming Street,Yuyao,Zhejiang,
+				NINGBO    315000
+				CN
 
 4C-4B-F9   (hex)		Shandong Linkotech Electronic Co., Ltd.
 600000-6FFFFF     (base 16)		Shandong Linkotech Electronic Co., Ltd.
