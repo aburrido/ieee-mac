@@ -164,6 +164,12 @@ AA146B                        (base 16)                     IronWiFi
                                                             Greenwich  NY  12834                         
                                                             US                                           
 
+8A-07-75                      (hex)                         LYOTECH LABS LLC                             
+8A0775                        (base 16)                     LYOTECH LABS LLC                             
+                                                            8 the Green suite R                          
+                                                            Dover    19901                               
+                                                            US                                           
+
 BA-4D-EA                      (hex)                         Environexus                                  
 BA4DEA                        (base 16)                     Environexus                                  
                                                             50 Ricketts Road                             
