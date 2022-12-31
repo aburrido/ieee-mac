@@ -10628,6 +10628,18 @@ D0-93-95   (hex)		Hefei Siqiang Electronic Technology Co.,Ltd
 				Hefei    230000
 				CN
 
+D0-93-95   (hex)		Shenzhen Hotack Technology Co.,Ltd
+E00000-EFFFFF     (base 16)		Shenzhen Hotack Technology Co.,Ltd
+				Unit 1501/1502/1503/1508/1509, 15th Floor, Block C, Huanzhi Center, No. 3639 Longhua Avenue, Jinglong Area, Longhua Street, Longhua District
+				Shenzhen    518000
+				CN
+
+D0-93-95   (hex)		DAESUNG CELTIC ENERSYS
+400000-4FFFFF     (base 16)		DAESUNG CELTIC ENERSYS
+				55-72, Sanggok-ro, Samseong-myeon
+				Eumseong-gun  Chungcheongbuk-do  27658
+				KR
+
 20-85-93   (hex)		UNILUMIN GROUP CO.,LTD
 300000-3FFFFF     (base 16)		UNILUMIN GROUP CO.,LTD
 				No.112 Yongfu Rd.,BaoanDistrict,
@@ -16251,6 +16263,12 @@ D0-93-95   (hex)		FungHwa i-Link Technology CO., LTD
 500000-5FFFFF     (base 16)		FungHwa i-Link Technology CO., LTD
 				1703B, Tower B, Galaxy World, Yabao RD No.1, Longgang District, Shenzhen, China
 				ShenZhen  GuangDong  518000
+				CN
+
+D0-93-95   (hex)		iSolution Technologies Co.,Ltd.
+700000-7FFFFF     (base 16)		iSolution Technologies Co.,Ltd.
+				5F,Bldg #6, Zhongguan Honghualing Industrial South Park
+				Shenzhen  Guangdong  518055
 				CN
 
 4C-4B-F9   (hex)		Shandong Linkotech Electronic Co., Ltd.
