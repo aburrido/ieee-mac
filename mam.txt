@@ -10622,12 +10622,6 @@ D0-93-95   (hex)		Zhejiang Ruiyi lntelligent Technology Co. Ltd
 				Yueqing City  Zhejiang  325608
 				CN
 
-D0-93-95   (hex)		Hefei Siqiang Electronic Technology Co.,Ltd
-100000-1FFFFF     (base 16)		Hefei Siqiang Electronic Technology Co.,Ltd
-				No. 69, Xinqiao Road, High tech Industrial Development Zone, Lujiang County, Hefei City, Anhui Province
-				Hefei    230000
-				CN
-
 D0-93-95   (hex)		Shenzhen Hotack Technology Co.,Ltd
 E00000-EFFFFF     (base 16)		Shenzhen Hotack Technology Co.,Ltd
 				Unit 1501/1502/1503/1508/1509, 15th Floor, Block C, Huanzhi Center, No. 3639 Longhua Avenue, Jinglong Area, Longhua Street, Longhua District
@@ -10639,6 +10633,18 @@ D0-93-95   (hex)		DAESUNG CELTIC ENERSYS
 				55-72, Sanggok-ro, Samseong-myeon
 				Eumseong-gun  Chungcheongbuk-do  27658
 				KR
+
+D0-93-95   (hex)		Hefei Siqiang Electronic Technology Co.,Ltd
+100000-1FFFFF     (base 16)		Hefei Siqiang Electronic Technology Co.,Ltd
+				No. 69, Xinqiao Road, High tech Industrial Development Zone, Lujiang County, Hefei City, Anhui Province
+				Hefei    230000
+				CN
+
+D0-16-F0   (hex)		OPTITERA GLOBAL NETWORKS PRIVATE LIMITED
+A00000-AFFFFF     (base 16)		OPTITERA GLOBAL NETWORKS PRIVATE LIMITED
+				B - 3D, Basement,Skipper House,62-63, Nehru Place,
+				New Delhi  Delhi  110019
+				IN
 
 20-85-93   (hex)		UNILUMIN GROUP CO.,LTD
 300000-3FFFFF     (base 16)		UNILUMIN GROUP CO.,LTD
@@ -16259,16 +16265,22 @@ A00000-AFFFFF     (base 16)		Automatic Devices
 				Allentown  PA  18103
 				US
 
+D0-93-95   (hex)		iSolution Technologies Co.,Ltd.
+700000-7FFFFF     (base 16)		iSolution Technologies Co.,Ltd.
+				5F,Bldg #6, Zhongguan Honghualing Industrial South Park
+				Shenzhen  Guangdong  518055
+				CN
+
 D0-93-95   (hex)		FungHwa i-Link Technology CO., LTD
 500000-5FFFFF     (base 16)		FungHwa i-Link Technology CO., LTD
 				1703B, Tower B, Galaxy World, Yabao RD No.1, Longgang District, Shenzhen, China
 				ShenZhen  GuangDong  518000
 				CN
 
-D0-93-95   (hex)		iSolution Technologies Co.,Ltd.
-700000-7FFFFF     (base 16)		iSolution Technologies Co.,Ltd.
-				5F,Bldg #6, Zhongguan Honghualing Industrial South Park
-				Shenzhen  Guangdong  518055
+D0-16-F0   (hex)		wuxi high information Security Technolog
+500000-5FFFFF     (base 16)		wuxi high information Security Technolog
+				9 Wuhu Boulevard,LHSIP2101
+				wuxi  jiangsu  214125
 				CN
 
 4C-4B-F9   (hex)		Shandong Linkotech Electronic Co., Ltd.
