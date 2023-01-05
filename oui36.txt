@@ -25136,6 +25136,12 @@ F79000-F79FFF     (base 16)		YUYAMA MFG Co.,Ltd
 				MEISHINGUCHI,TOYONAKA  OSAKA  561-0841
 				JP
 
+8C-1F-64   (hex)		Cool Air Incorporated
+90C000-90CFFF     (base 16)		Cool Air Incorporated
+				1544 134th Ave NEHam Lake
+				Ham Lake  MN  55304
+				US
+
 70-B3-D5   (hex)		DISMUNTEL SAL
 92C000-92CFFF     (base 16)		DISMUNTEL SAL
 				Pol ind cotes
@@ -31279,3 +31285,9 @@ D9C000-D9CFFF     (base 16)		Relcom, Inc.
 				1-4-30
 				MEISHINGUCHI,TOYONAKA  OSAKA  561-0841
 				JP
+
+8C-1F-64   (hex)		BORNICO
+439000-439FFF     (base 16)		BORNICO
+				Ma??czy?ska 25
+				Radom  Polska  26-600
+				PL

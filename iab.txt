@@ -9758,12 +9758,6 @@ A09000-A09FFF                 (base 16)                     Innovative American 
                                                             Ettlingen    76275                           
                                                             DE                                           
 
-00-50-C2                      (hex)                         Tornado Modular Systems, Ltd                 
-2FA000-2FAFFF                 (base 16)                     Tornado Modular Systems, Ltd                 
-                                                            p.b. 709                                     
-                                                            Novosibirsk    630090                        
-                                                            RU                                           
-
 00-50-C2                      (hex)                         Research Applications                        
 2DE000-2DEFFF                 (base 16)                     Research Applications                        
                                                             650 S 79th St                                
@@ -10564,6 +10558,12 @@ B04000-B04FFF                 (base 16)                     Ubiquiti Inc
                                                             685 Third Avenue, 27th Floor                 
                                                             New York  NY  New York NY 10017              
                                                             US                                           
+
+00-50-C2                      (hex)                         Tornado Modular Systems                      
+2FA000-2FAFFF                 (base 16)                     Tornado Modular Systems                      
+                                                            p.b. 709                                     
+                                                            Novosibirsk    630090                        
+                                                            RU                                           
 
 00-50-C2                      (hex)                         DEUTA-WERKE GmbH                             
 FD7000-FD7FFF                 (base 16)                     DEUTA-WERKE GmbH                             
