@@ -10664,6 +10664,12 @@ D0-16-F0   (hex)		Hydac Electronic
 				Saarbrücken  Saarland  66128
 				DE
 
+D0-16-F0   (hex)		Crystal Alarm AB
+900000-9FFFFF     (base 16)		Crystal Alarm AB
+				Första Magasinsgatan 5
+				Gävle    803 10
+				SE
+
 20-85-93   (hex)		UNILUMIN GROUP CO.,LTD
 300000-3FFFFF     (base 16)		UNILUMIN GROUP CO.,LTD
 				No.112 Yongfu Rd.,BaoanDistrict,
@@ -16301,6 +16307,18 @@ D0-16-F0   (hex)		wuxi high information Security Technolog
 				wuxi  jiangsu  214125
 				CN
 
+D0-16-F0   (hex)		Shenzhen DOOGEE Hengtong Technology CO.,LTD
+800000-8FFFFF     (base 16)		Shenzhen DOOGEE Hengtong Technology CO.,LTD
+				B, 2/F, Building A4, Silicon Valley Power Digital Industrial Park, No. 22, Dafu Industrial Zone, Guanlan Aobei Community, Guanlan Street, Longhua New District
+				Shenzhen  Guangdong  518000
+				CN
+
+D0-16-F0   (hex)		Sofinet LLC
+300000-3FFFFF     (base 16)		Sofinet LLC
+				st. Nauryzbay batyra, house 31
+				Almaty    050000
+				KZ
+
 4C-4B-F9   (hex)		Shandong Linkotech Electronic Co., Ltd.
 600000-6FFFFF     (base 16)		Shandong Linkotech Electronic Co., Ltd.
 				22nd Floor, Building 2, Aosheng Building, No.1166 Xinyi Street, High-tech Zone
@@ -21718,6 +21736,12 @@ D00000-DFFFFF     (base 16)		Top Guard Technologies
 				9200 Corporate BlvdSuite 250
 				Rockville  MD  20850
 				US
+
+D0-16-F0   (hex)		RYSE Inc.
+200000-2FFFFF     (base 16)		RYSE Inc.
+				Unit 300, 251 Spadina Ave
+				Toronto  Ontario  M5T2E2
+				CA
 
 20-85-93   (hex)		Great Lite International
 700000-7FFFFF     (base 16)		Great Lite International
@@ -27268,3 +27292,9 @@ D0-16-F0   (hex)		BEIJING XIAOYUAN WENHUA CULTURE COMMUNICATION CO., LTD.
 				Unit 1,F01,5th Floor,Building 1,No.8,Guangshun South Street,Chaoyang District
 				Beijing    100102
 				CN
+
+D0-16-F0   (hex)		worldcns inc.
+B00000-BFFFFF     (base 16)		worldcns inc.
+				174, Namjo-ro 1-gil, Jocheon-eup
+				Jeju-si  Jeju-do  63335
+				KR
