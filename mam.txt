@@ -5492,6 +5492,18 @@ D0-16-F0   (hex)		Shenzhen Lesingle Technology CO., LTD.
 				Shenzhen    Guangdong
 				CN
 
+E0-3C-1C   (hex)		Jiangsu Riying Electronics Co.,Ltd.
+800000-8FFFFF     (base 16)		Jiangsu Riying Electronics Co.,Ltd.
+				Hengshanqiao,Changzhou,Jiangsu,China
+				Changzhou    213119
+				CN
+
+D0-16-F0   (hex)		BBPOS International Limited
+E00000-EFFFFF     (base 16)		BBPOS International Limited
+				Suite 1602, Tower 2, Nina Tower, 8 Yeung Uk Road, Tsuen Wan, NT
+				Hong Kong  China  00000
+				HK
+
 4C-4B-F9   (hex)		Shenzhen dingsheng technology co., LTD
 400000-4FFFFF     (base 16)		Shenzhen dingsheng technology co., LTD
 				Floor 3, building 5, kaijeda industrial zone, no.97, huaxing road, langkou community, dalang street, longhua district
@@ -10658,17 +10670,17 @@ A00000-AFFFFF     (base 16)		OPTITERA GLOBAL NETWORKS PRIVATE LIMITED
 				New Delhi  Delhi  110019
 				IN
 
-D0-16-F0   (hex)		Hydac Electronic
-700000-7FFFFF     (base 16)		Hydac Electronic
-				Hauptstraße 27
-				Saarbrücken  Saarland  66128
-				DE
-
 D0-16-F0   (hex)		Crystal Alarm AB
 900000-9FFFFF     (base 16)		Crystal Alarm AB
 				Första Magasinsgatan 5
 				Gävle    803 10
 				SE
+
+D0-16-F0   (hex)		Hydac Electronic
+700000-7FFFFF     (base 16)		Hydac Electronic
+				Hauptstraße 27
+				Saarbrücken  Saarland  66128
+				DE
 
 20-85-93   (hex)		UNILUMIN GROUP CO.,LTD
 300000-3FFFFF     (base 16)		UNILUMIN GROUP CO.,LTD

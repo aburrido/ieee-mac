@@ -6356,6 +6356,12 @@ A31000-A31FFF     (base 16)		Zing Communications Inc
 				New Taipei    235
 				TW
 
+8C-1F-64   (hex)		Aditec GmbH
+793000-793FFF     (base 16)		Aditec GmbH
+				Talweg 17
+				Offenau  Baden-Wuerttemberg  74254
+				DE
+
 70-B3-D5   (hex)		EVCO SPA
 A80000-A80FFF     (base 16)		EVCO SPA
 				VIA FELTRE N. 81
@@ -12601,6 +12607,12 @@ F5F000-F5FFFF     (base 16)		TR7 Siber Savunma A.S.
 				LUGAR SALTO LOBO
 				RIANXO  LA CORUÑA  15920
 				ES
+
+8C-1F-64   (hex)		NanoThings Inc.
+1F5000-1F5FFF     (base 16)		NanoThings Inc.
+				1460 Broadway, Suite 14034
+				New York  NY  10036
+				US
 
 70-B3-D5   (hex)		System West dba ICS Electronics
 E06000-E06FFF     (base 16)		System West dba ICS Electronics
@@ -20675,12 +20687,6 @@ A18000-A18FFF     (base 16)		Embedded Systems Lukasz Panasiuk
 				Vantaa    01510
 				FI
 
-70-B3-D5   (hex)		LAMTEC Meß- und Regeltechnik für Feuerungen GmbH & Co. KG
-5BC000-5BCFFF     (base 16)		LAMTEC Meß- und Regeltechnik für Feuerungen GmbH & Co. KG
-				Wiesenstraße 6
-				Walldorf  Baden Württemberg  69190
-				DE
-
 70-B3-D5   (hex)		Petring Energietechnik GmbH
 CF5000-CF5FFF     (base 16)		Petring Energietechnik GmbH
 				Paderborner Str.76
@@ -25160,17 +25166,23 @@ D73000-D73FFF     (base 16)		BRS Sistemas Eletrônicos
 				Ham Lake  MN  55304
 				US
 
-8C-1F-64   (hex)		Hosch Gebäude Automation Neue Produkte GmbH
-5E7000-5E7FFF     (base 16)		Hosch Gebäude Automation Neue Produkte GmbH
-				Rheinstr 9
-				Teltow    14513
-				DE
-
 8C-1F-64   (hex)		China Information Technology Designing &Consulting Institute Co.,Ltd.
 FA4000-FA4FFF     (base 16)		China Information Technology Designing &Consulting Institute Co.,Ltd.
 				NO.9, Shouti Nanlu, Haidian District
 				Beijing  Beijing  100048
 				CN
+
+8C-1F-64   (hex)		HOSCH Gebäude Automation Neue Produkte GmbH
+5E7000-5E7FFF     (base 16)		HOSCH Gebäude Automation Neue Produkte GmbH
+				Rheinstr 9
+				Teltow    14513
+				DE
+
+70-B3-D5   (hex)		LAMTEC Mess- und Regeltechnik für Feuerungen GmbH & Co. KG
+5BC000-5BCFFF     (base 16)		LAMTEC Mess- und Regeltechnik für Feuerungen GmbH & Co. KG
+				Wiesenstraße 6
+				Walldorf  Baden Württemberg  69190
+				DE
 
 70-B3-D5   (hex)		DISMUNTEL SAL
 92C000-92CFFF     (base 16)		DISMUNTEL SAL
@@ -31321,3 +31333,9 @@ D9C000-D9CFFF     (base 16)		Relcom, Inc.
 				Ma??czy?ska 25
 				Radom  Polska  26-600
 				PL
+
+8C-1F-64   (hex)		GJD Manufacturing
+6CB000-6CBFFF     (base 16)		GJD Manufacturing
+				Unit 2, Birch Business Park, Whittle Lane
+				Heywood    OL10 2SX
+				GB
