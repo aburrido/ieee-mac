@@ -170,6 +170,12 @@ AA146B                        (base 16)                     IronWiFi
                                                             Dover    19901                               
                                                             US                                           
 
+4A-68-8D                      (hex)                         Shenzhen TCL New Technology Co., Ltd         
+4A688D                        (base 16)                     Shenzhen TCL New Technology Co., Ltd         
+                                                            B area,10 Floor, TCL Multimedia Building, TCL International E city, #1001 Zhongshan Park Road, Nanshan District
+                                                            Shenzhen  Guangdong  518052                  
+                                                            CN                                           
+
 BA-4D-EA                      (hex)                         Environexus                                  
 BA4DEA                        (base 16)                     Environexus                                  
                                                             50 Ricketts Road                             

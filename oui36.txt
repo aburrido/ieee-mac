@@ -12602,17 +12602,17 @@ F5F000-F5FFFF     (base 16)		TR7 Siber Savunma A.S.
 				Yokneam Illit     2069206
 				IL
 
-8C-1F-64   (hex)		Europe Trade
-636000-636FFF     (base 16)		Europe Trade
-				LUGAR SALTO LOBO
-				RIANXO  LA CORUÑA  15920
-				ES
-
 8C-1F-64   (hex)		NanoThings Inc.
 1F5000-1F5FFF     (base 16)		NanoThings Inc.
 				1460 Broadway, Suite 14034
 				New York  NY  10036
 				US
+
+8C-1F-64   (hex)		Europe Trade
+636000-636FFF     (base 16)		Europe Trade
+				LUGAR SALTO LOBO
+				RIANXO  LA CORUÑA  15920
+				ES
 
 70-B3-D5   (hex)		System West dba ICS Electronics
 E06000-E06FFF     (base 16)		System West dba ICS Electronics
@@ -18844,6 +18844,12 @@ A56000-A56FFF     (base 16)		Flextronics International Kft.
 				Robotnicza 68 C
 				Wroclaw  Dolnyslask  53-608
 				PL
+
+8C-1F-64   (hex)		Talleres de Escoriaza SA
+97F000-97FFFF     (base 16)		Talleres de Escoriaza SA
+				Barrio Ventas, 35
+				Irun  Gipuzkoa  20305
+				ES
 
 70-B3-D5   (hex)		YUYAMA MFG Co.,Ltd
 BBB000-BBBFFF     (base 16)		YUYAMA MFG Co.,Ltd
@@ -25183,6 +25189,12 @@ FA4000-FA4FFF     (base 16)		China Information Technology Designing &Consulting 
 				Wiesenstraße 6
 				Walldorf  Baden Württemberg  69190
 				DE
+
+8C-1F-64   (hex)		PROFITT Ltd
+40D000-40DFFF     (base 16)		PROFITT Ltd
+				office 5H, block 14-2 lit.A, Raevsky av.
+				Saint-Petersburg    194064
+				RU
 
 70-B3-D5   (hex)		DISMUNTEL SAL
 92C000-92CFFF     (base 16)		DISMUNTEL SAL
