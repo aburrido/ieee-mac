@@ -12866,12 +12866,6 @@ DBC000-DBCFFF     (base 16)		Gamber Johnson-LLC
 				Stevens Point  WI  54481
 				US
 
-70-B3-D5   (hex)		EXASCEND (Wuhan) Co., Ltd
-851000-851FFF     (base 16)		EXASCEND (Wuhan) Co., Ltd
-				West 2nd-3rd Floor, No. 2 Building, Guan Nan Industrial Park,Te 1 Hao, Gao Xing 2 Lu,Dong Hu New Technology Development District
-				Wuhan  Hubei  430000
-				CN
-
 70-B3-D5   (hex)		Niron systems & Projects
 FED000-FEDFFF     (base 16)		Niron systems & Projects
 				PO Box 8546
@@ -18845,11 +18839,35 @@ A56000-A56FFF     (base 16)		Flextronics International Kft.
 				Irun  Gipuzkoa  20305
 				ES
 
+8C-1F-64   (hex)		Clausal Computing Oy
+3BB000-3BBFFF     (base 16)		Clausal Computing Oy
+				Varastokuja 5
+				Loviisa  Uusimaa  07900
+				FI
+
+8C-1F-64   (hex)		Vigor Electric Corp.
+F50000-F50FFF     (base 16)		Vigor Electric Corp.
+				No.116, Xingzhong Rd., Danshui Dist., New Taipei City 25152, Taiwan (R.O.C.)
+				Danshui Dist.  New Taipei City  25152
+				TW
+
 70-B3-D5   (hex)		RF Code
 ADB000-ADBFFF     (base 16)		RF Code
 				9229 Waterford Centre Blvd #500
 				Austin  TX  78758
 				US
+
+70-B3-D5   (hex)		Exascend, Inc.
+851000-851FFF     (base 16)		Exascend, Inc.
+				West 2nd-3rd Floor, No. 2 Building, Guan Nan Industrial Park,Te 1 Hao, Gao Xing 2 Lu,Dong Hu New Technology Development District
+				Wuhan  Hubei  430000
+				CN
+
+8C-1F-64   (hex)		Zaruc Tecnologia LTDA
+BB3000-BB3FFF     (base 16)		Zaruc Tecnologia LTDA
+				Rua Afonso Arinos Melo Franco, 181, Parque Residencial Laranjeiras
+				Serra  Espírito Santo  29165-491
+				BR
 
 70-B3-D5   (hex)		YUYAMA MFG Co.,Ltd
 BBB000-BBBFFF     (base 16)		YUYAMA MFG Co.,Ltd
@@ -25196,6 +25214,12 @@ A51000-A51FFF     (base 16)		RF Code
 				Austin  TX  78758
 				US
 
+8C-1F-64   (hex)		L-signature
+83D000-83DFFF     (base 16)		L-signature
+				44, Charyong-ro 48beon-gil, Uichang-gu, Changwon-si
+				Gyeongsangnam-do    51391
+				KR
+
 70-B3-D5   (hex)		DISMUNTEL SAL
 92C000-92CFFF     (base 16)		DISMUNTEL SAL
 				Pol ind cotes
@@ -31351,3 +31375,9 @@ D9C000-D9CFFF     (base 16)		Relcom, Inc.
 				Unit 2, Birch Business Park, Whittle Lane
 				Heywood    OL10 2SX
 				GB
+
+8C-1F-64   (hex)		Peter Huber Kaeltemaschinenbau AG
+AA3000-AA3FFF     (base 16)		Peter Huber Kaeltemaschinenbau AG
+				Werner-von-Siemens-Str. 1
+				Offenburg  Ba-Wue  77656
+				DE
