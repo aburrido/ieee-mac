@@ -18434,12 +18434,6 @@ B56000-B56FFF                 (base 16)                     SINOVIA SA
                                                             FRESNES  VAL DE MARNE  94260                 
                                                             FR                                           
 
-00-50-C2                      (hex)                         Timberline Mfg Company                       
-B5B000-B5BFFF                 (base 16)                     Timberline Mfg Company                       
-                                                            1050 Lyons Lane                              
-                                                            Marion   IA  52302                           
-                                                            US                                           
-
 00-50-C2                      (hex)                         Trench Austria GmbH                          
 B2A000-B2AFFF                 (base 16)                     Trench Austria GmbH                          
                                                             Paschinger Straße 49                         
@@ -21558,6 +21552,12 @@ B58000-B58FFF                 (base 16)                     RealD, Inc.
 194000-194FFF                 (base 16)                     RF Code                                      
                                                             9229 Waterford Centre Blvd #500              
                                                             Austin  TX  78758                            
+                                                            US                                           
+
+00-50-C2                      (hex)                         Timberline Manufacturing                     
+B5B000-B5BFFF                 (base 16)                     Timberline Manufacturing                     
+                                                            1029 Blairs Ferry Rd                         
+                                                            Marion  IA  52302                            
                                                             US                                           
 
 00-50-C2                      (hex)                         DEUTA-WERKE GmbH                             

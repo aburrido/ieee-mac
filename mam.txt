@@ -21833,6 +21833,12 @@ B00000-BFFFFF     (base 16)		Hangzhou Uni-Ubi Co.,Ltd.
 				HangZhou  ZheJiang  311121
 				CN
 
+54-08-3B   (hex)		Annapurna labs
+100000-1FFFFF     (base 16)		Annapurna labs
+				Matam Scientific Industries Center,   Building 8.2
+				Mail box 15123  Haifa  3508409
+				IL
+
 54-08-3B   (hex)		Vector Atomic
 600000-6FFFFF     (base 16)		Vector Atomic
 				5700 Stoneridge Dr, Suite 102
