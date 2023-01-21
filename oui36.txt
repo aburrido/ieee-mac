@@ -6374,6 +6374,12 @@ EE1000-EE1FFF     (base 16)		PuS GmbH und Co. KG
 				ROVEREDO IN PIANO  PN  33080
 				IT
 
+8C-1F-64   (hex)		Albotronic
+F24000-F24FFF     (base 16)		Albotronic
+				Bunsenstr. 3
+				Oberkochen  BW  73447
+				DE
+
 70-B3-D5   (hex)		EVCO SPA
 A80000-A80FFF     (base 16)		EVCO SPA
 				VIA FELTRE N. 81
@@ -25274,6 +25280,12 @@ CAB000-CABFFF     (base 16)		Spyder Controls Corp.
 				Lacombe  AB  T4L 1Y9
 				CA
 
+8C-1F-64   (hex)		Taiko Audio B.V.
+32C000-32CFFF     (base 16)		Taiko Audio B.V.
+				Zandbreeweg 6
+				Oldenzaal  Overijssel  7577 BZ
+				NL
+
 70-B3-D5   (hex)		DISMUNTEL SAL
 92C000-92CFFF     (base 16)		DISMUNTEL SAL
 				Pol ind cotes
@@ -31452,4 +31464,10 @@ EDA000-EDAFFF     (base 16)		DEUTA-WERKE GmbH
 B7D000-B7DFFF     (base 16)		Scheurich GmbH
 				Grimmenstein 9/1
 				Wolfegg    88364
+				DE
+
+8C-1F-64   (hex)		Craft4 Digital GmbH
+289000-289FFF     (base 16)		Craft4 Digital GmbH
+				Sonnenwirtleweg 9
+				Vaihingen  Baden-Württemberg  71665
 				DE

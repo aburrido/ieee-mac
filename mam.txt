@@ -16403,6 +16403,12 @@ E0-3C-1C   (hex)		Tap Home, s.r.o.
 				Bratislava    831 02
 				SK
 
+54-08-3B   (hex)		Toray Medical Company Limited
+400000-4FFFFF     (base 16)		Toray Medical Company Limited
+				405-65,Ashitaka
+				Numazu  Shizuoka  410-0001
+				JP
+
 4C-4B-F9   (hex)		Shandong Linkotech Electronic Co., Ltd.
 600000-6FFFFF     (base 16)		Shandong Linkotech Electronic Co., Ltd.
 				22nd Floor, Building 2, Aosheng Building, No.1166 Xinyi Street, High-tech Zone
