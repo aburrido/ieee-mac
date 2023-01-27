@@ -949,3 +949,9 @@ CA1E45                        (base 16)                     ASMedia Technology I
                                                             5007 Highland Ct #WPL-IEEE                   
                                                             Austin  TX  78731                            
                                                             US                                           
+
+0A-A2-3B                      (hex)                         Vitex LLC                                    
+0AA23B                        (base 16)                     Vitex LLC                                    
+                                                            210 Sylvan Ave, Suite 25                     
+                                                            Englewood Cliffs  NJ  07632                  
+                                                            US                                           
