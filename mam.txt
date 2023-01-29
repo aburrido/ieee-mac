@@ -21851,6 +21851,12 @@ B00000-BFFFFF     (base 16)		Hangzhou Uni-Ubi Co.,Ltd.
 				Pleasanton  CA  94588
 				US
 
+54-08-3B   (hex)		Silex Ipari Automatizálási Zrt.
+A00000-AFFFFF     (base 16)		Silex Ipari Automatizálási Zrt.
+				Soroksári út.150.
+				Budapest, IX.    1095
+				HU
+
 20-85-93   (hex)		Great Lite International
 700000-7FFFFF     (base 16)		Great Lite International
 				11F., No.207-2, Sec. 3, Beixin Rd., Xindian Dist.,
