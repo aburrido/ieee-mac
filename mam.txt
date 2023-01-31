@@ -5510,17 +5510,17 @@ A00000-AFFFFF     (base 16)		MELAG Medizintechnik GmbH & Co. KG
 				Berlin  Berlin  10829
 				DE
 
-E0-3C-1C   (hex)		Awesometek Co., Ltd
-500000-5FFFFF     (base 16)		Awesometek Co., Ltd
-				17F.-11, No. 79, Sec. 1, Xintai 5th Rd., Xizhi Dist.
-				New Taipei City  Select State  22101
-				TW
-
 E0-3C-1C   (hex)		Sprintshield d.o.o.
 D00000-DFFFFF     (base 16)		Sprintshield d.o.o.
 				Ulica Marina Getaldica 3
 				Velika Gorica    10410
 				HR
+
+E0-3C-1C   (hex)		Semic Inc.
+500000-5FFFFF     (base 16)		Semic Inc.
+				13F-9, No.79, Sec. 1, Xintai 5th Rd., Xizhi Dist.
+				New Taipei City  Select State  22101
+				TW
 
 4C-4B-F9   (hex)		Shenzhen dingsheng technology co., LTD
 400000-4FFFFF     (base 16)		Shenzhen dingsheng technology co., LTD

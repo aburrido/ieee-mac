@@ -572,12 +572,6 @@ EA1ED0                        (base 16)                     ZIGPOS GmbH
                                                             Karlsruhe  Baden-Württemberg  76131          
                                                             DE                                           
 
-FA-0B-BC                      (hex)                         ASD-STAN                                     
-FA0BBC                        (base 16)                     ASD-STAN                                     
-                                                            Rue Belliard 40                              
-                                                            Brussels    1040                             
-                                                            BE                                           
-
 CA-3E-A6                      (hex)                         Syng, Inc.                                   
 CA3EA6                        (base 16)                     Syng, Inc.                                   
                                                             120 Mildred Ave.                             
@@ -589,6 +583,12 @@ CA3EA6                        (base 16)                     Syng, Inc.
                                                             Vikdalsvägen 50                              
                                                             Nacka Strand    13152                        
                                                             SE                                           
+
+FA-0B-BC                      (hex)                         CEN                                          
+FA0BBC                        (base 16)                     CEN                                          
+                                                            Rue de la Science 23                         
+                                                            Brussels    1040                             
+                                                            BE                                           
 
 8A-FB-16                      (hex)                         TeraByte, Inc.                               
 8AFB16                        (base 16)                     TeraByte, Inc.                               
