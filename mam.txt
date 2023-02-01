@@ -5522,6 +5522,12 @@ E0-3C-1C   (hex)		Semic Inc.
 				New Taipei City  Select State  22101
 				TW
 
+54-08-3B   (hex)		Korea Bus Broadcasting
+B00000-BFFFFF     (base 16)		Korea Bus Broadcasting
+				7F, 24, Bangbaejungang-ro, Seocho-gu
+				Seoul    06684
+				KR
+
 4C-4B-F9   (hex)		Shenzhen dingsheng technology co., LTD
 400000-4FFFFF     (base 16)		Shenzhen dingsheng technology co., LTD
 				Floor 3, building 5, kaijeda industrial zone, no.97, huaxing road, langkou community, dalang street, longhua district
@@ -16408,6 +16414,12 @@ E0-3C-1C   (hex)		Tap Home, s.r.o.
 				405-65,Ashitaka
 				Numazu  Shizuoka  410-0001
 				JP
+
+54-08-3B   (hex)		Dhyan Networks and Technologies, Inc
+300000-3FFFFF     (base 16)		Dhyan Networks and Technologies, Inc
+				160 Stanford Ave
+				Fremont  CA  94539-6092
+				US
 
 4C-4B-F9   (hex)		Shandong Linkotech Electronic Co., Ltd.
 600000-6FFFFF     (base 16)		Shandong Linkotech Electronic Co., Ltd.
