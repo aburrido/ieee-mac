@@ -90,6 +90,7 @@ MANUFACTURER ID               Organization
 16172                         Unity Surveillance, Inc.
 11699                         Mantracourt Electronics Ltd
 11418                         Delta Solutions LLC
+6893                          Messotron GmbH & Co. KG
 10874                         STS Sensor Technik Sirnach AG
 6644                          Siemens AG, MO MLT BG
 16284                         ZETLAB Company
