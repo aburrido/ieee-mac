@@ -10210,6 +10210,12 @@ E23B                          IEEE 802.1 Chair                                  
                               US                                                                                                       
 
 
+9AC6                          Tesla,Inc.                                                                                               TTP (Tesla Transport Protocol) over Ethernet
+                              3500 Deer Creek Rd.                                                                                      
+                              PALO ALTO  CA  94304                                                                                     
+                              US                                                                                                       
+
+
 80DD                          Private                                                                                                  Protocol unavailable.
 
 
