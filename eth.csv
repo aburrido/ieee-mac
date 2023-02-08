@@ -2259,6 +2259,7 @@ Ethertype,0B03,University of Berkeley,   US  ,IETF Parameter Negotiation
 Ethertype,8909,"Cisco Systems, Inc",170 W. Tasman Drive San Jose CA US 95134 ,Cisco Metadata (CMD)
 Ethertype,E23B,IEEE 802.1 Chair," c/o RAC Administrator , IEEE Piscataway NJ US 08554 ",Media Access Control (MAC) Privacy protection protocol as specified in IEEE Std 802.1AE.
 Ethertype,"=""88E7""",IEEE 802.1 Chair,M/S P7903B12 Santa Clara CA US 95054 ,Backbone Service Instance Tag (I-TAG) as defined in IEEE Std 802.1Q
+Ethertype,9AC6,"Tesla,Inc.",3500 Deer Creek Rd. PALO ALTO CA US 94304 ,TTP (Tesla Transport Protocol) over Ethernet
 Ethertype,80DD,Private,,Protocol unavailable.
 Ethertype,B6FE,EtherCAT Technology Group,Ostendstr. 196 NUremberg  DE 90482 ,"Routing functionality through branch controllers is added to the EtherCAT technology by the new EtherCAT G enhancement. IP routing is not available and VLAN based routing does not meet the requirements, so we need an own Ethertype for that purpose."
 Ethertype,8747,Hybrid,20863 Stevens Creek Blvd. Cupertino CA US 95014-8750 ,Protocol unavailable.

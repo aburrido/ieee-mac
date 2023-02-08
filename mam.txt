@@ -5516,23 +5516,17 @@ D00000-DFFFFF     (base 16)		Sprintshield d.o.o.
 				Velika Gorica    10410
 				HR
 
-54-08-3B   (hex)		Korea Bus Broadcasting
-B00000-BFFFFF     (base 16)		Korea Bus Broadcasting
-				7F, 24, Bangbaejungang-ro, Seocho-gu
-				Seoul    06684
-				KR
+54-08-3B   (hex)		FairPhone B.V.
+C00000-CFFFFF     (base 16)		FairPhone B.V.
+				VanDiemenstraat 200
+				Amsterdam    1013 CP
+				NL
 
 54-08-3B   (hex)		BHS Corrugated Maschinen- und Anlagenbau GmbH
 D00000-DFFFFF     (base 16)		BHS Corrugated Maschinen- und Anlagenbau GmbH
 				Paul-Engel-Strasse 1
 				Weiherhammer  Bavaria  92729
 				DE
-
-54-08-3B   (hex)		FairPhone B.V.
-C00000-CFFFFF     (base 16)		FairPhone B.V.
-				VanDiemenstraat 200
-				Amsterdam    1013 CP
-				NL
 
 54-08-3B   (hex)		Sinclair Technologies
 E00000-EFFFFF     (base 16)		Sinclair Technologies
@@ -5545,6 +5539,18 @@ E0-3C-1C   (hex)		Semic Inc.
 				17F.-6, No. 79, Sec. 1, Xintai 5th Rd., Xizhi Dist.
 				New Taipei City    22101
 				TW
+
+54-08-3B   (hex)		Korea Bus Broadcasting
+B00000-BFFFFF     (base 16)		Korea Bus Broadcasting
+				7F, 24, Bangbaejungang-ro, Seocho-gu
+				Seoul    06684
+				KR
+
+70-06-92   (hex)		Shenzhen Lingwei Technology Co., Ltd
+900000-9FFFFF     (base 16)		Shenzhen Lingwei Technology Co., Ltd
+				No. 50-1, Minqing Road, Longhua District
+				Shenzhen  Guangdong Province  518109
+				CN
 
 4C-4B-F9   (hex)		Shenzhen dingsheng technology co., LTD
 400000-4FFFFF     (base 16)		Shenzhen dingsheng technology co., LTD
@@ -10730,17 +10736,17 @@ E0-3C-1C   (hex)		Shikino High-Tech Co., Ltd.
 				Uozu-shi  TOYAMA  937-0041
 				JP
 
-54-08-3B   (hex)		NAVITUS LT
-200000-2FFFFF     (base 16)		NAVITUS LT
-				Visoriu g. 2
-				Vilnius    08300
-				LT
-
 54-08-3B   (hex)		Unicompute Technology Co.,Ltd.
 900000-9FFFFF     (base 16)		Unicompute Technology Co.,Ltd.
 				Building 10, Tian Jian Lake AloT Industrial Park, No.173 Feng Xiang West Street? High-Tech Industrial Development Zone, 
 				ZhengZhou City    450066
 				CN
+
+54-08-3B   (hex)		NAVITUS LT
+200000-2FFFFF     (base 16)		NAVITUS LT
+				Visoriu g. 2
+				Vilnius    08300
+				LT
 
 20-85-93   (hex)		UNILUMIN GROUP CO.,LTD
 300000-3FFFFF     (base 16)		UNILUMIN GROUP CO.,LTD
@@ -16448,17 +16454,17 @@ E0-3C-1C   (hex)		Tap Home, s.r.o.
 				Fremont  CA  94539-6092
 				US
 
-54-08-3B   (hex)		shenzhen HAIOT technology co.,ltd
-500000-5FFFFF     (base 16)		shenzhen HAIOT technology co.,ltd
-				No 407 Building E zhongshan load, nanshan district,shenzhen city 
-				shenzhen  guangdong  518057
-				CN
-
 8C-14-7D   (hex)		Schneider Electric - Triconex
 100000-1FFFFF     (base 16)		Schneider Electric - Triconex
 				26561 Rancho Pkwy S
 				LAKE FOREST  CA  92630
 				US
+
+54-08-3B   (hex)		shenzhen HAIOT technology co.,ltd
+500000-5FFFFF     (base 16)		shenzhen HAIOT technology co.,ltd
+				No 407 Building E zhongshan load, nanshan district,shenzhen city 
+				shenzhen  guangdong  518057
+				CN
 
 70-06-92   (hex)		Beijing Fortech Microsystems., Co., Ltd.
 100000-1FFFFF     (base 16)		Beijing Fortech Microsystems., Co., Ltd.
