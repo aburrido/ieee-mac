@@ -1,0 +1,154 @@
+MANUFACTURER ID               Organization
+(base-10)
+
+10799                         SENTHER TECHNOLOGIES
+1117                          SKC Audio
+1107                          DongHua Testing Technology Co., Ltd.
+1105                          EnvyLogic Co.,Ltd.
+106                           Dewesoft d.o.o.
+105                           IPETRONIK GmbH & Co.KG
+102                           tecsis LP
+93                            Monitran
+94                            Test GmbH
+66                            Sinocera Piezotronics, Inc.
+1097                          ETAS
+68                            VIP Sensors
+44                            Fuji Ceramics
+59                            Interface, Inc.
+54                            imc MeBsysteme GmbH
+34                            Esensors
+49                            Sensorex
+37                            Lebow
+42                            Transducer Techniques
+47                            LEM
+22                            Endevco Corporation
+12486                         Trafag AG
+9406                          Omega Engineering Inc.
+15504                         Snorble
+10156                         mg-sensor GmbH
+15095                         Soundtec GmbH
+555                           Druck- und Durchflussmessung
+83                            Dewetron GmbH
+1104                          UNIPULSE Corporation
+1101                          yurbuds Sport Earphones
+1098                          Baker-Calling, Inc.
+107                           Tovey Engineering Inc
+73                            Connection Technology Center
+108                           Ashcroft Inc
+96                            B&W Sensing Technologies
+85                            Adcon Telemetry GmbH
+100                           LLC GlobalTest
+64                            MTS Systems Corp.
+76                            The Pinax Group, Inc.
+77                            Kulite Semiconductor Products Inc
+88                            Streamline Automation, LLC
+31                            HBM
+50                            Waycon
+52                            Pressure Systems
+18                            The Modal Shop, Inc.
+57                            Lorenz Messtechnik GmbH
+23                            PCB Piezotronics, Inc.
+38                            Celesco
+41                            Watlow
+28                            Entek IRD
+32                            TEAC
+17                            Bruel & Kjaer
+1889                          PMT GmbH
+1109                          General Motors
+14599                         Delta Computers LLC.
+8163                          Scati Labs, S.A.
+7857                          X-SENSORS AG
+15913                         VALCOM CO.,LTD.
+12385                         TrigasDM GmbH
+5688                          Duerr Somac GmbH
+3123                          Humanetics Innovative Solutions, Inc
+14908                         Flintec
+1111                          DPA Microphones A/S
+1103                          LMS
+1100                          Nakamura Mfg.Co.,Ltd
+1099                          ME-Messsysteme GmbH
+80                            Microtech Gefell GmbH
+89                            NTI AG
+95                            ACO, Co., Ltd
+82                            Studio Technologies, Inc.
+84                            Natec Sensors GmbH
+98                            Proctor & Chester Measurements Ltd
+69                            Sensy SA
+78                            Showa Measuring Instruments Co., Ltd
+29                            Scitefair International, Inc.
+58                            Kyowa Electronic Instruments Co., Ltd
+27                            Oceana Sensor Technologies
+61                            Metra Mess-und Frequenztechnik Radebeul
+39                            Weed Instrument
+43                            Measurement Specialties
+55                            Futek Advanced Sensor Technology, Inc.
+40                            SensoTec
+25                            Larson Davis
+33                            RION CO.
+3824                          Nanotok LLC
+9914                          MecSense Messtechnik GmbH
+16172                         Unity Surveillance, Inc.
+11699                         Mantracourt Electronics Ltd
+11418                         Delta Solutions LLC
+6893                          Messotron GmbH & Co. KG
+10874                         STS Sensor Technik Sirnach AG
+6644                          Siemens AG, MO MLT BG
+16284                         ZETLAB Company
+1110                          Druck- und Durchflussmessung
+6457                          CHENGDU CAIC ELECTRONICS CO.,LTD
+10700                         Hangzhou Aihua Instruments Co., Ltd.
+1120                          DJB Instruments
+1119                          SIMTEC Elektronik GmbH
+1113                          Valens Semiconductor Ltd.
+103                           YMC Piezotronics, Inc.
+90                            Ridgetop Group Inc.
+92                            A.S.T. Agewandte System Technik GmbH
+97                            ETH-messtechnik gmbh
+81                            Aikoh Engineering
+70                            Druck Ltd.
+75                            Sensordata Technologies, Inc.
+63                            Mettler-Toledo GmbH Process Analytics
+67                            MSC Automotive Ltd
+51                            AVL List GmbH
+19                            Kistler Instrument Corporation
+45                            Telemonitor
+46                            Lion Precision
+53                            ONO SOKKI
+24                            G.R.A.S. Sound & Vibration
+20                            Macro Sensors
+5040                          G-SNS GmbH
+12377                         NETLINK ICT 
+2614                          OOO L Card
+3528                          HAINBUCH GmbH SPANNENDE TECHNIK
+2524                          PRÜFTECHNIK Dieter Busch AG
+5346                          MinebeaMitsumi Inc.
+9588                          Stankowitz Test Equipment GmbH
+1116                          acam-messelectronic gmbh
+1115                          MICRO-EPSILON MESSTECHNIK GmbH & Co. KG
+1112                          Veridt, Inc
+1108                          CSM GmbH
+1106                          Dynamic Systems Inc
+104                           Sentek Dynamics
+101                           L.S. Starrett Company
+91                            Fenda Technology Ltd.
+87                            SVANTEK Sp. z.o.o
+86                            LCM Systems Ltd
+99                            HEAD acoustics GmbH
+62                            Ametek Denmark A/S
+65                            Viatran Corporation
+71                            Tokyo Sokki Kenkyujo Co., Ltd
+74                            BSWA Technology Co., Ltd
+60                            Sherborne Sensors Limited
+35                            Dytran Instruments
+79                            CEA
+21                            Wilcoxon Research
+56                            Knick Elektronische Messgeraete GmbH Co. KG
+30                            National Instruments
+36                            SincoTec
+26                            Key Transducers, Inc.
+48                            RDP Electronics
+15514                         HITEC Sensor Developments
+15548                         WHITEvoid GmbH
+12081                         Fatri-UTC.Inc
+15328                         Silicon Designs, Inc. (SDI)
+3450                          Oetiker Schweiz AG
