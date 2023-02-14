@@ -5546,18 +5546,6 @@ B00000-BFFFFF     (base 16)		Korea Bus Broadcasting
 				Seoul    06684
 				KR
 
-70-06-92   (hex)		Shenzhen Lingwei Technology Co., Ltd
-900000-9FFFFF     (base 16)		Shenzhen Lingwei Technology Co., Ltd
-				No. 50-1, Minqing Road, Longhua District
-				Shenzhen  Guangdong Province  518109
-				CN
-
-70-06-92   (hex)		Fusiostor Technologies Private Limited
-400000-4FFFFF     (base 16)		Fusiostor Technologies Private Limited
-				GALA NO.7, MUNERVA IND ESTATE, BISHAN UDYOG
-				MUMBAI  Maharashtra  400080
-				IN
-
 70-06-92   (hex)		SWIT Electronics Co.,Ltd
 B00000-BFFFFF     (base 16)		SWIT Electronics Co.,Ltd
 				10 Hengtong Rd,Nanjing Economic Technological Development Zone
@@ -5568,6 +5556,24 @@ B00000-BFFFFF     (base 16)		SWIT Electronics Co.,Ltd
 600000-6FFFFF     (base 16)		Hangzhou Clounix Technology Limited
 				Floor 12, Building 2, Zichen International Center, NO.39, Jincheng Road, Xiaoshan District
 				Hangzhou  Zhejiang  311202
+				CN
+
+70-06-92   (hex)		Fusiostor Technologies Private Limited
+400000-4FFFFF     (base 16)		Fusiostor Technologies Private Limited
+				GALA NO.7, MUNERVA IND ESTATE, BISHAN UDYOG
+				MUMBAI  Maharashtra  400080
+				IN
+
+70-06-92   (hex)		Shenzhen Lingwei Technology Co., Ltd
+900000-9FFFFF     (base 16)		Shenzhen Lingwei Technology Co., Ltd
+				No. 50-1, Minqing Road, Longhua District
+				Shenzhen  Guangdong Province  518109
+				CN
+
+70-06-92   (hex)		Scud (Fujian) Electronics Co.,Ltd
+200000-2FFFFF     (base 16)		Scud (Fujian) Electronics Co.,Ltd
+				NO.98 ,EAST ROAD OF JIANGBIN ,MAWEI ZONE,FUZHOU
+				FUZHOU    350000
 				CN
 
 4C-4B-F9   (hex)		Shenzhen dingsheng technology co., LTD
@@ -27553,3 +27559,9 @@ E0-3C-1C   (hex)		Ocamar Technologies (Shanghai) Co.,Ltd.
 				2335 S Ellis St
 				Lakewood  CO  80228
 				US
+
+70-06-92   (hex)		CANAAN CREATIVE CO.,LTD.
+500000-5FFFFF     (base 16)		CANAAN CREATIVE CO.,LTD.
+				Building 1, Yard 1, No.81 Beiqing Road, Haidian District
+				Beijing    100144
+				CN
