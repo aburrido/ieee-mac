@@ -5576,6 +5576,12 @@ B00000-BFFFFF     (base 16)		SWIT Electronics Co.,Ltd
 				FUZHOU    350000
 				CN
 
+70-06-92   (hex)		Ganghsan Guanglian
+E00000-EFFFFF     (base 16)		Ganghsan Guanglian
+				3F,Block C,Building 11,Heshakeng Industrial park,Buji Town,Longgang Dist.
+				Shenzhen    518112
+				CN
+
 4C-4B-F9   (hex)		Shenzhen dingsheng technology co., LTD
 400000-4FFFFF     (base 16)		Shenzhen dingsheng technology co., LTD
 				Floor 3, building 5, kaijeda industrial zone, no.97, huaxing road, langkou community, dalang street, longhua district
