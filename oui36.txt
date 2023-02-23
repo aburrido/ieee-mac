@@ -12719,12 +12719,6 @@ A81000-A81FFF     (base 16)		3D perception AS
 				Hvalstad    1395
 				NO
 
-8C-1F-64   (hex)		Power Electronics Espana, S.L.
-0D8000-0D8FFF     (base 16)		Power Electronics Espana, S.L.
-				C/ Leonardo Da Vinci, 24-26
-				Paterna  Valencia  46980
-				ES
-
 8C-1F-64   (hex)		joint analytical systems GmbH
 31B000-31BFFF     (base 16)		joint analytical systems GmbH
 				Carl-Zeiss-Str. 49
@@ -12743,6 +12737,18 @@ DD4000-DD4FFF     (base 16)		Midlands Technical Co., Ltd.
 				Shinjuku-ku  Tokyo  1620833
 				JP
 
+8C-1F-64   (hex)		Power Electronics Espana, S.L.
+0D8000-0D8FFF     (base 16)		Power Electronics Espana, S.L.
+				C/ Leonardo Da Vinci, 24-26
+				Paterna  Valencia  46980
+				ES
+
+8C-1F-64   (hex)		CONTRALTO AUDIO SRL
+2C7000-2C7FFF     (base 16)		CONTRALTO AUDIO SRL
+				VIA FRENTANA, 17
+				CASOLI  Chieti  66043
+				IT
+
 8C-1F-64   (hex)		Eiden Co.,Ltd.
 1CE000-1CEFFF     (base 16)		Eiden Co.,Ltd.
 				2-7-1 kurigi,asao-ku,kawasaki-shi
@@ -12754,6 +12760,24 @@ DD4000-DD4FFF     (base 16)		Midlands Technical Co., Ltd.
 				Pappelallee 19
 				Seddiner See    14554
 				DE
+
+8C-1F-64   (hex)		Packetalk LLC
+D6C000-D6CFFF     (base 16)		Packetalk LLC
+				163 Stuyvesant Avenue
+				Lyndhurst  NJ  07071
+				US
+
+8C-1F-64   (hex)		Druck Ltd.
+9E0000-9E0FFF     (base 16)		Druck Ltd.
+				Firtree Lane, Groby, Leicester
+				Le6 0FH  England  
+				GB
+
+8C-1F-64   (hex)		Infinitive Group Limited
+A91000-A91FFF     (base 16)		Infinitive Group Limited
+				Unit 7, Lakeview HouseBond Avenue
+				Bletchley  Bucks  MK1 1FB
+				GB
 
 70-B3-D5   (hex)		System West dba ICS Electronics
 E06000-E06FFF     (base 16)		System West dba ICS Electronics
@@ -25499,6 +25523,12 @@ F63000-F63FFF     (base 16)		Quantum Media Systems
 				Irvine  CA  92618
 				US
 
+8C-1F-64   (hex)		V-teknik Elektronik AB
+A70000-A70FFF     (base 16)		V-teknik Elektronik AB
+				Forskaregatan 1
+				Sjöbo  Skane  275 37
+				SE
+
 70-B3-D5   (hex)		DISMUNTEL SAL
 92C000-92CFFF     (base 16)		DISMUNTEL SAL
 				Pol ind cotes
@@ -31715,14 +31745,26 @@ E24000-E24FFF     (base 16)		COMETA SAS
 				Saint martin d'Hères    38400
 				FR
 
-8C-1F-64   (hex)		IWS Global Pty Ltd
-09E000-09EFFF     (base 16)		IWS Global Pty Ltd
-				29 Oxleigh Dr
-				Perth  Western Australia  6090
-				AU
+8C-1F-64   (hex)		Red Phase Technologies Limited
+C6A000-C6AFFF     (base 16)		Red Phase Technologies Limited
+				7B Sheffield Place
+				Napier    4122
+				NZ
 
 8C-1F-64   (hex)		Pneumax Spa
 B36000-B36FFF     (base 16)		Pneumax Spa
 				via cascina barbellina, 10
 				Lurano  Bergamo  24050
 				IT
+
+8C-1F-64   (hex)		IWS Global Pty Ltd
+09E000-09EFFF     (base 16)		IWS Global Pty Ltd
+				29 Oxleigh Dr
+				Perth  Western Australia  6090
+				AU
+
+8C-1F-64   (hex)		CP contech electronic GmbH
+051000-051FFF     (base 16)		CP contech electronic GmbH
+				Westring 31a
+				Leopoldshöhe  NRW  33818
+				DE

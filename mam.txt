@@ -5582,6 +5582,12 @@ E00000-EFFFFF     (base 16)		Ganghsan Guanglian
 				FUZHOU    350000
 				CN
 
+6C-2A-DF   (hex)		JBF
+A00000-AFFFFF     (base 16)		JBF
+				via goretta 90
+				mappano  torino  10079
+				IT
+
 4C-4B-F9   (hex)		Shenzhen dingsheng technology co., LTD
 400000-4FFFFF     (base 16)		Shenzhen dingsheng technology co., LTD
 				Floor 3, building 5, kaijeda industrial zone, no.97, huaxing road, langkou community, dalang street, longhua district
@@ -16532,6 +16538,12 @@ E0-3C-1C   (hex)		Tap Home, s.r.o.
 				MYSORE  KARNATAKA  570020
 				IN
 
+6C-2A-DF   (hex)		MOBA Mobile Automation AG
+B00000-BFFFFF     (base 16)		MOBA Mobile Automation AG
+				Kapellenstr. 15
+				Limburg    65555
+				DE
+
 4C-4B-F9   (hex)		Shandong Linkotech Electronic Co., Ltd.
 600000-6FFFFF     (base 16)		Shandong Linkotech Electronic Co., Ltd.
 				22nd Floor, Building 2, Aosheng Building, No.1166 Xinyi Street, High-tech Zone
@@ -21997,6 +22009,18 @@ A00000-AFFFFF     (base 16)		Silex Ipari Automatizálási Zrt.
 				140 Cortland Ave
 				Syracuse  NY  13202
 				US
+
+6C-2A-DF   (hex)		FodicsSystem
+300000-3FFFFF     (base 16)		FodicsSystem
+				Room.301, 38-9, Digital-ro 31-gil,Guro-gu, Seoul, South Korea
+				Seoul  ??  08376
+				KR
+
+6C-2A-DF   (hex)		Sichuan Huidian Qiming Intelligent Technology Co.,Ltd
+D00000-DFFFFF     (base 16)		Sichuan Huidian Qiming Intelligent Technology Co.,Ltd
+				No. 2, 5th Floor, Building 9, No. 360, Wuke West 5th Road,Wuhou District
+				Chengdu  Sichuan  610000
+				CN
 
 6C-2A-DF   (hex)		VNETS INFORMATION TECHNOLOGY LTD.
 C00000-CFFFFF     (base 16)		VNETS INFORMATION TECHNOLOGY LTD.
@@ -27595,3 +27619,9 @@ E0-3C-1C   (hex)		Ocamar Technologies (Shanghai) Co.,Ltd.
 				2335 S Ellis St
 				Lakewood  CO  80228
 				US
+
+6C-2A-DF   (hex)		RootV
+700000-7FFFFF     (base 16)		RootV
+				Room.705, 38-9, Digital-ro 31-gil,Guro-gu, Seoul, South Korea
+				Seoul  ??  08376
+				KR
