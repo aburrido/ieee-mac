@@ -12779,6 +12779,12 @@ A91000-A91FFF     (base 16)		Infinitive Group Limited
 				Bletchley  Bucks  MK1 1FB
 				GB
 
+8C-1F-64   (hex)		Aurora Communication Technologies Corp.
+0BF000-0BFFFF     (base 16)		Aurora Communication Technologies Corp.
+				1-9078 Leslie St.
+				Richmond Hill    L4B3L8
+				CA
+
 70-B3-D5   (hex)		System West dba ICS Electronics
 E06000-E06FFF     (base 16)		System West dba ICS Electronics
 				7034 Commerce Circle Suite A
@@ -19117,6 +19123,12 @@ A77000-A77FFF     (base 16)		Rax-Tech International
 				Kaethe Paulus Strasse 6
 				Koesching    85092
 				DE
+
+8C-1F-64   (hex)		Tantec A/S
+4A0000-4A0FFF     (base 16)		Tantec A/S
+				Industrivej 6
+				Lunderskov    6640
+				DK
 
 70-B3-D5   (hex)		YUYAMA MFG Co.,Ltd
 BBB000-BBBFFF     (base 16)		YUYAMA MFG Co.,Ltd
