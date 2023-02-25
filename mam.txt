@@ -16544,6 +16544,12 @@ B00000-BFFFFF     (base 16)		MOBA Mobile Automation AG
 				Limburg    65555
 				DE
 
+6C-2A-DF   (hex)		Beijing Yisheng Chuanqi Technology Co., Ltd.
+800000-8FFFFF     (base 16)		Beijing Yisheng Chuanqi Technology Co., Ltd.
+				810, 8th Floor, Building No.186A 3, Litang Road, Changping District
+				Beijing    102200
+				CN
+
 4C-4B-F9   (hex)		Shandong Linkotech Electronic Co., Ltd.
 600000-6FFFFF     (base 16)		Shandong Linkotech Electronic Co., Ltd.
 				22nd Floor, Building 2, Aosheng Building, No.1166 Xinyi Street, High-tech Zone
@@ -22027,6 +22033,12 @@ D00000-DFFFFF     (base 16)		Sichuan Huidian Qiming Intelligent Technology Co.,L
 				No. 2, 5th Floor, Building 9, No. 360, Wuke West 5th Road,Wuhou District
 				Chengdu  Sichuan  610000
 				CN
+
+6C-2A-DF   (hex)		Simpleway Europe a.s.
+900000-9FFFFF     (base 16)		Simpleway Europe a.s.
+				Na Okraji 335/42
+				Prague    16200
+				CZ
 
 20-85-93   (hex)		Great Lite International
 700000-7FFFFF     (base 16)		Great Lite International
