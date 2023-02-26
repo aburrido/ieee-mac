@@ -5588,6 +5588,12 @@ A00000-AFFFFF     (base 16)		JBF
 				mappano  torino  10079
 				IT
 
+6C-2A-DF   (hex)		ITI Limited
+600000-6FFFFF     (base 16)		ITI Limited
+				ITI Limited Mankapur
+				Mankapur  Uttar Pradesh  271308
+				IN
+
 4C-4B-F9   (hex)		Shenzhen dingsheng technology co., LTD
 400000-4FFFFF     (base 16)		Shenzhen dingsheng technology co., LTD
 				Floor 3, building 5, kaijeda industrial zone, no.97, huaxing road, langkou community, dalang street, longhua district
@@ -27056,12 +27062,6 @@ B00000-BFFFFF     (base 16)		TelX Systems
 				DEIRA  DUBAI  48235
 				AE
 
-FC-61-79   (hex)		Signalinks Communication Technology Co.,Ltd
-100000-1FFFFF     (base 16)		Signalinks Communication Technology Co.,Ltd
-				3rd Floor, Building 6, Longxing Sciece park, East Huaning Road, Dalang Street , Longhua District, Shenzhen
-				Shenzhen  Guangdong  518000
-				CN
-
 FC-61-79   (hex)		Int'Act Pty Ltd
 D00000-DFFFFF     (base 16)		Int'Act Pty Ltd
 				4 Pine Street
@@ -27637,3 +27637,15 @@ E0-3C-1C   (hex)		Ocamar Technologies (Shanghai) Co.,Ltd.
 				Room.705, 38-9, Digital-ro 31-gil,Guro-gu, Seoul, South Korea
 				Seoul  ??  08376
 				KR
+
+FC-61-79   (hex)		Signalinks Communication Technology Co., Ltd
+100000-1FFFFF     (base 16)		Signalinks Communication Technology Co., Ltd
+				3rd Floor, Building 6, Longxing Sciece park, East Huaning Road, Dalang Street , Longhua District, Shenzhen
+				Shenzhen  Guangdong  518000
+				CN
+
+6C-2A-DF   (hex)		DAIKO ELECTRIC CO.,LTD
+200000-2FFFFF     (base 16)		DAIKO ELECTRIC CO.,LTD
+				3-2-7 Koraibashi Chuo-ku
+				Osaka-shi  Osaka-fu  541-0043
+				JP
