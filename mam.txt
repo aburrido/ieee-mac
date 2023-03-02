@@ -15032,12 +15032,6 @@ C0-FB-F9   (hex)		HAGUENET
 				The Hague    2597 LA
 				NL
 
-C0-FB-F9   (hex)		LIXIL Corporation
-100000-1FFFFF     (base 16)		LIXIL Corporation
-				2-1-1 Ojima, Koto-ku
-				Tokyo  Select Stat  136-8535
-				JP
-
 C0-FB-F9   (hex)		SHENZHEN COMIX HST CLOUD COMPUTING CO., LTD.
 B00000-BFFFFF     (base 16)		SHENZHEN COMIX HST CLOUD COMPUTING CO., LTD.
 				1408? Qiancheng Commercial Center, No. 5 Haicheng Road, Mabu Community, Xixiang Sub-district, Bao'an District
@@ -16550,17 +16544,17 @@ E0-3C-1C   (hex)		Tap Home, s.r.o.
 				MYSORE  KARNATAKA  570020
 				IN
 
-6C-2A-DF   (hex)		MOBA Mobile Automation AG
-B00000-BFFFFF     (base 16)		MOBA Mobile Automation AG
-				Kapellenstr. 15
-				Limburg    65555
-				DE
-
 6C-2A-DF   (hex)		Beijing Yisheng Chuanqi Technology Co., Ltd.
 800000-8FFFFF     (base 16)		Beijing Yisheng Chuanqi Technology Co., Ltd.
 				810, 8th Floor, Building No.186A 3, Litang Road, Changping District
 				Beijing    102200
 				CN
+
+6C-2A-DF   (hex)		MOBA Mobile Automation AG
+B00000-BFFFFF     (base 16)		MOBA Mobile Automation AG
+				Kapellenstr. 15
+				Limburg    65555
+				DE
 
 6C-2A-DF   (hex)		Ademco Inc. dba ADI Global Distribution
 000000-0FFFFF     (base 16)		Ademco Inc. dba ADI Global Distribution
@@ -16579,6 +16573,24 @@ E00000-EFFFFF     (base 16)		WeatherFlow-Tempest, Inc
 				108 Whispering Pine Dr#245
 				Scotta Valley  CA  95066
 				US
+
+B4-4D-43   (hex)		ShenZhen Launch-Wonder Technology co., LTD
+800000-8FFFFF     (base 16)		ShenZhen Launch-Wonder Technology co., LTD
+				HuiJuWanzhi Chuangyuan B building room B508,Xinan Three Road, Xin ‘an Street 28, Bao An District, Shenzhen City
+				ShenZhen  Guangdong  518000
+				CN
+
+B4-4D-43   (hex)		iLine Microsystems S.L. (B20956751)
+100000-1FFFFF     (base 16)		iLine Microsystems S.L. (B20956751)
+				(B20956751)Paseo Mikeletegi, 69, 1st floor
+				Donostia - San Sebastián  Gipuzkoa  20009
+				ES
+
+C0-FB-F9   (hex)		LIXIL Corporation
+100000-1FFFFF     (base 16)		LIXIL Corporation
+				Osaki Garden Tower, 1-1 Nishi-Shinagawa 1-chome, Shinagawa-ku
+				Tokyo    136-8535
+				JP
 
 4C-4B-F9   (hex)		Shandong Linkotech Electronic Co., Ltd.
 600000-6FFFFF     (base 16)		Shandong Linkotech Electronic Co., Ltd.
@@ -22075,6 +22087,12 @@ B00000-BFFFFF     (base 16)		Paulmann Licht GmbH
 				Quezinger Feld 2
 				Springe    31832
 				DE
+
+B4-4D-43   (hex)		SHENZHEN KOSKY TECHNOLOGY CO.,LTD.
+C00000-CFFFFF     (base 16)		SHENZHEN KOSKY TECHNOLOGY CO.,LTD.
+				5th Floor, Building A, Wanhe Technology Building, Fenghuang Street , Guangming District
+				Shenzhen  Guangdong  518107
+				CN
 
 20-85-93   (hex)		Great Lite International
 700000-7FFFFF     (base 16)		Great Lite International
