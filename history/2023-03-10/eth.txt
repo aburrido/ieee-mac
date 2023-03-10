@@ -1,0 +1,1 @@
+Ethertype                     ORGANIZATION / ADDRESS                                                                                   PROTOCOL
