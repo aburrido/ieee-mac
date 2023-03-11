@@ -22244,6 +22244,12 @@ D0-76-50   (hex)		DAIKEN AUTOMACAO LTDA
 				Sunnyvale  CA  94085
 				US
 
+90-F4-21   (hex)		ACOBA
+C00000-CFFFFF     (base 16)		ACOBA
+				91 rue du faubourg saint honore
+				PARIS  PARIS  75008
+				FR
+
 80-E4-DA   (hex)		Private
 F00000-FFFFFF     (base 16)		Private
 
@@ -27874,3 +27880,9 @@ D0-76-50   (hex)		TAPKO Technologies GmbH
 				Im Gewerbegebiet 7-9
 				Wäschenbeuren  Baden-Württemberg  73116
 				DE
+
+90-F4-21   (hex)		Catvision Ltd.
+200000-2FFFFF     (base 16)		Catvision Ltd.
+				E14 & 15 Sector 8
+				Noida  Outside of the US  201301
+				IN

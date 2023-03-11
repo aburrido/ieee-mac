@@ -2,6 +2,78 @@ CID                                                         Organization
 company_id                                                  Organization                                 
                                                             Address                                      
 
+4A-68-8D                      (hex)                         Shenzhen TCL New Technology Co., Ltd         
+4A688D                        (base 16)                     Shenzhen TCL New Technology Co., Ltd         
+                                                            B area,10 Floor, TCL Multimedia Building, TCL International E city, #1001 Zhongshan Park Road, Nanshan District
+                                                            Shenzhen  Guangdong  518052                  
+                                                            CN                                           
+
+8A-07-75                      (hex)                         LYOTECH LABS LLC                             
+8A0775                        (base 16)                     LYOTECH LABS LLC                             
+                                                            8 the Green suite R                          
+                                                            Dover    19901                               
+                                                            US                                           
+
+3A-0E-75                      (hex)                         KEVCOM LLC                                   
+3A0E75                        (base 16)                     KEVCOM LLC                                   
+                                                            12 Lark Street                               
+                                                            Greenwich  NY  12834                         
+                                                            US                                           
+
+4A-5A-A9                      (hex)                         GoCodeIT Inc                                 
+4A5AA9                        (base 16)                     GoCodeIT Inc                                 
+                                                            8171 Yonge StreetSuite 255                   
+                                                            Thornhill  Ontario  L3T2C6                   
+                                                            CA                                           
+
+AA-14-6B                      (hex)                         IronWiFi                                     
+AA146B                        (base 16)                     IronWiFi                                     
+                                                            5245 Brosche Rd                              
+                                                            Orlando  FL  32807                           
+                                                            US                                           
+
+BA-67-91                      (hex)                         Kandou Bus SA                                
+BA6791                        (base 16)                     Kandou Bus SA                                
+                                                            EPFL Innovation Park                         
+                                                            Lausanne  Vaud  1015                         
+                                                            CH                                           
+
+DA-1E-56                      (hex)                         OSNexus                                      
+DA1E56                        (base 16)                     OSNexus                                      
+                                                            11711 SE 8th Street, Suite 305               
+                                                            Bellevue  WA  98005                          
+                                                            US                                           
+
+AA-F0-19                      (hex)                         TransferJet Consortium Incorporated Association
+AAF019                        (base 16)                     TransferJet Consortium Incorporated Association
+                                                            1-7-1 Konan                                  
+                                                            Minato-ku  Tokyo  108-0075                   
+                                                            JP                                           
+
+DA-7D-2E                      (hex)                         Delta Computers LLC.                         
+DA7D2E                        (base 16)                     Delta Computers LLC.                         
+                                                            Office 22/10, room part 22, room IV, floor 3, 41A, 3-rd Parkovaya str.
+                                                            Moscow    105425                             
+                                                            RU                                           
+
+0A-8E-62                      (hex)                         Delta Solutions LLC                          
+0A8E62                        (base 16)                     Delta Solutions LLC                          
+                                                            Kolhoznaya str., 8A, Room 20, 2nd Floor      
+                                                            Lubertsy  Lubertsy City District, Moscow Region  140002
+                                                            RU                                           
+
+CA-04-5A                      (hex)                         Ossia Inc                                    
+CA045A                        (base 16)                     Ossia Inc                                    
+                                                            2683 151st Place NE                          
+                                                            Redmond  WA  98052                           
+                                                            US                                           
+
+3A-5A-27                      (hex)                         Shenzhen Longsys Electronics Co.,Ltd.        
+3A5A27                        (base 16)                     Shenzhen Longsys Electronics Co.,Ltd.        
+                                                            8F, Building 1, Financial Base, No.8 Kefa Road, High-Tech Park, Shenzhen, China
+                                                            Shenzhen  Guangdong  518000                  
+                                                            CN                                           
+
 6A-9D-A4                      (hex)                         Global Reach Technology                      
 6A9DA4                        (base 16)                     Global Reach Technology                      
                                                             Craven House                                 
@@ -19,6 +91,12 @@ company_id                                                  Organization
                                                             51 boulevard de la Tour-Maubourg             
                                                             PARIS    75700                               
                                                             FR                                           
+
+3A-F5-21                      (hex)                         Single Digits                                
+3AF521                        (base 16)                     Single Digits                                
+                                                            4 Bedford Farms Drive, Suite 210             
+                                                            Bedford  NH  03110                           
+                                                            US                                           
 
 4A-C0-3F                      (hex)                         WUHAN HIKSTORAGE TECHNOLOGY CO.,LTD          
 4AC03F                        (base 16)                     WUHAN HIKSTORAGE TECHNOLOGY CO.,LTD          
@@ -44,6 +122,12 @@ AA38C7                        (base 16)                     Kaloom inc
                                                             Montreal  Quebec  H3C 2G9                    
                                                             CA                                           
 
+CA-30-BF                      (hex)                         IEEE 802.1 Chair                             
+CA30BF                        (base 16)                     IEEE 802.1 Chair                             
+                                                             c/o RAC Administrator , IEEE                
+                                                            Piscataway  NJ  08554                        
+                                                            US                                           
+
 FA-16-19                      (hex)                         trendytech                                   
 FA1619                        (base 16)                     trendytech                                   
                                                             No.303 Hanzhongmen Street, 6th Floor Block   
@@ -68,17 +152,17 @@ FA63E1                        (base 16)                     Samsung Electronics 
                                                             Oslo    0680                                 
                                                             NO                                           
 
-DA-FF-6B                      (hex)                         Team Precision Public Company Limited        
-DAFF6B                        (base 16)                     Team Precision Public Company Limited        
-                                                            198 Moo 13 Suwansorn Rd., Dong-Khee-Lek,     
-                                                            Prachinburi  Muang  25000                    
-                                                            TH                                           
-
 7A-4B-A4                      (hex)                         Innostor Technology Corporation              
 7A4BA4                        (base 16)                     Innostor Technology Corporation              
                                                             2F., No. 8, Ln32, Xianzheng 5th St., Jhubei City, Hsinchu Country 30268, Taiwan
                                                             Jhubei  Hsinchu  30268                       
                                                             TW                                           
+
+DA-FF-6B                      (hex)                         Team Precision Public Company Limited        
+DAFF6B                        (base 16)                     Team Precision Public Company Limited        
+                                                            198 Moo 13 Suwansorn Rd., Dong-Khee-Lek,     
+                                                            Prachinburi  Muang  25000                    
+                                                            TH                                           
 
 9A-56-4B                      (hex)                         Cubix Corporation                            
 9A564B                        (base 16)                     Cubix Corporation                            
@@ -92,89 +176,89 @@ EA34B4                        (base 16)                     ThinkRF Inc.
                                                             Ottawa  Ontario  K2K 0G7                     
                                                             CA                                           
 
-3A-5A-27                      (hex)                         Shenzhen Longsys Electronics Co.,Ltd.        
-3A5A27                        (base 16)                     Shenzhen Longsys Electronics Co.,Ltd.        
-                                                            8F, Building 1, Financial Base, No.8 Kefa Road, High-Tech Park, Shenzhen, China
-                                                            Shenzhen  Guangdong  518000                  
-                                                            CN                                           
+CA-C2-76                      (hex)                         Saab Seaeye Ltd                              
+CAC276                        (base 16)                     Saab Seaeye Ltd                              
+                                                            20 Brunel Way                                
+                                                            Fareham  Hampshire  PO15 5SD                 
+                                                            GB                                           
 
-3A-F5-21                      (hex)                         Single Digits                                
-3AF521                        (base 16)                     Single Digits                                
-                                                            4 Bedford Farms Drive, Suite 210             
-                                                            Bedford  NH  03110                           
+DA-E6-D7                      (hex)                         NVM Express, Inc.                            
+DAE6D7                        (base 16)                     NVM Express, Inc.                            
+                                                            3855 SW 153rd Drive                          
+                                                            Beaverton  OR  97003                         
                                                             US                                           
 
-CA-30-BF                      (hex)                         IEEE 802.1 Chair                             
-CA30BF                        (base 16)                     IEEE 802.1 Chair                             
-                                                             c/o RAC Administrator , IEEE                
-                                                            Piscataway  NJ  08554                        
+4A-ED-1D                      (hex)                         Astera Labs Inc                              
+4AED1D                        (base 16)                     Astera Labs Inc                              
+                                                            2901 Tasman Dr, #204                         
+                                                            Santa Clara  CA  95054                       
                                                             US                                           
 
-CA-04-5A                      (hex)                         Ossia Inc                                    
-CA045A                        (base 16)                     Ossia Inc                                    
-                                                            2683 151st Place NE                          
-                                                            Redmond  WA  98052                           
+7A-3F-8C                      (hex)                         Seagate Technology Thailand Ltd.             
+7A3F8C                        (base 16)                     Seagate Technology Thailand Ltd.             
+                                                            1627 Moo 7, Teparuk Road, T. Teparuk, A.Muang
+                                                            Samutprakarn    10270                        
+                                                            TH                                           
+
+DA-9D-49                      (hex)                         Calix Inc.                                   
+DA9D49                        (base 16)                     Calix Inc.                                   
+                                                            2777 Orchard Pkwy                            
+                                                            San Jose  CA  95131                          
                                                             US                                           
 
-0A-8E-62                      (hex)                         Delta Solutions LLC                          
-0A8E62                        (base 16)                     Delta Solutions LLC                          
-                                                            Kolhoznaya str., 8A, Room 20, 2nd Floor      
-                                                            Lubertsy  Lubertsy City District, Moscow Region  140002
-                                                            RU                                           
-
-DA-7D-2E                      (hex)                         Delta Computers LLC.                         
-DA7D2E                        (base 16)                     Delta Computers LLC.                         
-                                                            Office 22/10, room part 22, room IV, floor 3, 41A, 3-rd Parkovaya str.
-                                                            Moscow    105425                             
-                                                            RU                                           
-
-AA-F0-19                      (hex)                         TransferJet Consortium Incorporated Association
-AAF019                        (base 16)                     TransferJet Consortium Incorporated Association
-                                                            1-7-1 Konan                                  
-                                                            Minato-ku  Tokyo  108-0075                   
-                                                            JP                                           
-
-DA-1E-56                      (hex)                         OSNexus                                      
-DA1E56                        (base 16)                     OSNexus                                      
-                                                            11711 SE 8th Street, Suite 305               
-                                                            Bellevue  WA  98005                          
+4A-67-04                      (hex)                         Reliable Robotics Corporation                
+4A6704                        (base 16)                     Reliable Robotics Corporation                
+                                                            950 N Rengstorff AVE STE E                   
+                                                            Mountain View  CA  94043                     
                                                             US                                           
 
-BA-67-91                      (hex)                         Kandou Bus SA                                
-BA6791                        (base 16)                     Kandou Bus SA                                
-                                                            EPFL Innovation Park                         
-                                                            Lausanne  Vaud  1015                         
-                                                            CH                                           
+4A-15-40                      (hex)                         sas de la Halle aux Fours                    
+4A1540                        (base 16)                     sas de la Halle aux Fours                    
+                                                            Avenue de la Verrerie,                       
+                                                            VIANNE  FRANCE MÉTROPOLITAINE  47230         
+                                                            FR                                           
 
-AA-14-6B                      (hex)                         IronWiFi                                     
-AA146B                        (base 16)                     IronWiFi                                     
-                                                            5245 Brosche Rd                              
-                                                            Orlando  FL  32807                           
+8A-D8-5E                      (hex)                         GigaIO Networks, Inc.                        
+8AD85E                        (base 16)                     GigaIO Networks, Inc.                        
+                                                            5924 Balfour Ct., Suite 101                  
+                                                            Carlsbad  CA  92008                          
                                                             US                                           
 
-4A-5A-A9                      (hex)                         GoCodeIT Inc                                 
-4A5AA9                        (base 16)                     GoCodeIT Inc                                 
-                                                            8171 Yonge StreetSuite 255                   
-                                                            Thornhill  Ontario  L3T2C6                   
-                                                            CA                                           
-
-3A-0E-75                      (hex)                         KEVCOM LLC                                   
-3A0E75                        (base 16)                     KEVCOM LLC                                   
-                                                            12 Lark Street                               
-                                                            Greenwich  NY  12834                         
+AA-DC-47                      (hex)                         Cachengo, Inc.                               
+AADC47                        (base 16)                     Cachengo, Inc.                               
+                                                            9575 Hwy 22                                  
+                                                            Huntingdon  TN  38344                        
                                                             US                                           
 
-8A-07-75                      (hex)                         LYOTECH LABS LLC                             
-8A0775                        (base 16)                     LYOTECH LABS LLC                             
-                                                            8 the Green suite R                          
-                                                            Dover    19901                               
+0A-36-1C                      (hex)                         Smardii                                      
+0A361C                        (base 16)                     Smardii                                      
+                                                            1221 Brickell Avenue, Suite 900              
+                                                            Miami  FL  33131                             
                                                             US                                           
 
-4A-68-8D                      (hex)                         Shenzhen TCL New Technology Co., Ltd         
-4A688D                        (base 16)                     Shenzhen TCL New Technology Co., Ltd         
-                                                            B area,10 Floor, TCL Multimedia Building, TCL International E city, #1001 Zhongshan Park Road, Nanshan District
-                                                            Shenzhen  Guangdong  518052                  
-                                                            CN                                           
+EA-2A-DB                      (hex)                         Labs Network Industrie 4. 0 e.V.             
+EA2ADB                        (base 16)                     Labs Network Industrie 4. 0 e.V.             
+                                                            Ernst-Reuter-Platz 7                         
+                                                            Berlin    10587                              
+                                                            DE                                           
+
+1A-BB-FB                      (hex)                         UHD Alliance                                 
+1ABBFB                        (base 16)                     UHD Alliance                                 
+                                                            3855 SW 153rd Drive                          
+                                                            Beaverton  OR  97003                         
+                                                            US                                           
+
+EA-11-5D                      (hex)                         AUTOVISION TECHNOLOGY INC.                   
+EA115D                        (base 16)                     AUTOVISION TECHNOLOGY INC.                   
+                                                            NO. 2-3, INDUSTRY EAST ROAD 2, SCIENCE PARK, 
+                                                            HSINCHU    30075                             
+                                                            TW                                           
+
+FA-D9-88                      (hex)                         Momentum Data Systems                        
+FAD988                        (base 16)                     Momentum Data Systems                        
+                                                            5432 Bolsa Ave Unit B                        
+                                                            Huntington Beach  CA  92649                  
+                                                            US                                           
 
 BA-4D-EA                      (hex)                         Environexus                                  
 BA4DEA                        (base 16)                     Environexus                                  
@@ -206,6 +290,12 @@ BAF21C                        (base 16)                     ISO/TC22/SC31
                                                             Berlin  Berlin  10117                        
                                                             DE                                           
 
+DA-0D-38                      (hex)                         Farpointe Data, Inc.                         
+DA0D38                        (base 16)                     Farpointe Data, Inc.                         
+                                                            1376 Borregas Ave                            
+                                                            Sunnyvale  CA  94089                         
+                                                            US                                           
+
 DA-C8-7D                      (hex)                         SE Development AB                            
 DAC87D                        (base 16)                     SE Development AB                            
                                                             Box 2096                                     
@@ -228,6 +318,18 @@ FA-2E-E9                      (hex)                         OCA Alliance, Inc.
 FA2EE9                        (base 16)                     OCA Alliance, Inc.                           
                                                             23117 39th Ave SE                            
                                                             Bothell  WA  98021                           
+                                                            US                                           
+
+3A-A3-F8                      (hex)                         IEEE 802.1 Chair                             
+3AA3F8                        (base 16)                     IEEE 802.1 Chair                             
+                                                             c/o RAC Administrator , IEEE                
+                                                            Piscataway  NJ  08554                        
+                                                            US                                           
+
+FA-94-F1                      (hex)                         IEEE 802.1 Chair                             
+FA94F1                        (base 16)                     IEEE 802.1 Chair                             
+                                                             c/o RAC Administrator , IEEE                
+                                                            Piscataway  NJ  08554                        
                                                             US                                           
 
 3A-02-92                      (hex)                         Video Electronics Standards Association      
@@ -272,17 +374,17 @@ DA28EC                        (base 16)                     HG Genuine
                                                             Hangzhou  Zhejiang  311202                   
                                                             CN                                           
 
-AA-0F-85                      (hex)                         Yamaichi Electronics                         
-AA0F85                        (base 16)                     Yamaichi Electronics                         
-                                                            475 Holger Way                               
-                                                            San Jose  CA  95134                          
-                                                            US                                           
-
 0A-87-36                      (hex)                          IEEE 1901 Working Group                     
 0A8736                        (base 16)                      IEEE 1901 Working Group                     
                                                             Progilon, WTC Business Center                
                                                             Grenoble  Rhone Alpes  F-38000               
                                                             FR                                           
+
+AA-0F-85                      (hex)                         Yamaichi Electronics                         
+AA0F85                        (base 16)                     Yamaichi Electronics                         
+                                                            475 Holger Way                               
+                                                            San Jose  CA  95134                          
+                                                            US                                           
 
 9A-D2-63                      (hex)                         FirmTek, LLC                                 
 9AD263                        (base 16)                     FirmTek, LLC                                 
@@ -296,106 +398,100 @@ AA0F85                        (base 16)                     Yamaichi Electronics
                                                             Greenwood Village  CO  80111                 
                                                             US                                           
 
-FA-D9-88                      (hex)                         Momentum Data Systems                        
-FAD988                        (base 16)                     Momentum Data Systems                        
-                                                            5432 Bolsa Ave Unit B                        
-                                                            Huntington Beach  CA  92649                  
+FA-0B-BC                      (hex)                         CEN                                          
+FA0BBC                        (base 16)                     CEN                                          
+                                                            Rue de la Science 23                         
+                                                            Brussels    1040                             
+                                                            BE                                           
+
+8A-D2-0F                      (hex)                         Pro Optix AB                                 
+8AD20F                        (base 16)                     Pro Optix AB                                 
+                                                            Vikdalsvägen 50                              
+                                                            Nacka Strand    13152                        
+                                                            SE                                           
+
+CA-3E-A6                      (hex)                         Syng, Inc.                                   
+CA3EA6                        (base 16)                     Syng, Inc.                                   
+                                                            120 Mildred Ave.                             
+                                                            Venice  CA  90291                            
                                                             US                                           
 
-EA-11-5D                      (hex)                         AUTOVISION TECHNOLOGY INC.                   
-EA115D                        (base 16)                     AUTOVISION TECHNOLOGY INC.                   
-                                                            NO. 2-3, INDUSTRY EAST ROAD 2, SCIENCE PARK, 
-                                                            HSINCHU    30075                             
-                                                            TW                                           
-
-1A-BB-FB                      (hex)                         UHD Alliance                                 
-1ABBFB                        (base 16)                     UHD Alliance                                 
-                                                            3855 SW 153rd Drive                          
-                                                            Beaverton  OR  97003                         
-                                                            US                                           
-
-EA-2A-DB                      (hex)                         Labs Network Industrie 4. 0 e.V.             
-EA2ADB                        (base 16)                     Labs Network Industrie 4. 0 e.V.             
-                                                            Ernst-Reuter-Platz 7                         
-                                                            Berlin    10587                              
+7A-38-4E                      (hex)                         PROFIBUS Nutzerorganisation e.V.             
+7A384E                        (base 16)                     PROFIBUS Nutzerorganisation e.V.             
+                                                            Haid-und-Neu-Straße 7                        
+                                                            Karlsruhe  Baden-Württemberg  76131          
                                                             DE                                           
 
-0A-36-1C                      (hex)                         Smardii                                      
-0A361C                        (base 16)                     Smardii                                      
-                                                            1221 Brickell Avenue, Suite 900              
-                                                            Miami  FL  33131                             
+3A-76-5D                      (hex)                         NewCoSemi(Beijing) Technology Co., Ltd       
+3A765D                        (base 16)                     NewCoSemi(Beijing) Technology Co., Ltd       
+                                                            Room 802, Floor 8, Building 8, Four District, East Tower, Wangjing, Chaoyang
+                                                            Beijing    100102                            
+                                                            CN                                           
+
+EA-1E-D0                      (hex)                         ZIGPOS GmbH                                  
+EA1ED0                        (base 16)                     ZIGPOS GmbH                                  
+                                                            Räcknitzhöhe 35a                             
+                                                            Dresden  Saxony  01217                       
+                                                            DE                                           
+
+0A-D9-C4                      (hex)                         Craft Designs, Inc                           
+0AD9C4                        (base 16)                     Craft Designs, Inc                           
+                                                            700 Boulevard South Suite 501                
+                                                            HUNTSVILLE  AL  35802                        
                                                             US                                           
 
-AA-DC-47                      (hex)                         Cachengo, Inc.                               
-AADC47                        (base 16)                     Cachengo, Inc.                               
-                                                            9575 Hwy 22                                  
-                                                            Huntingdon  TN  38344                        
+2A-0B-B8                      (hex)                         xFusion Digital Technologies Co., Limited    
+2A0BB8                        (base 16)                     xFusion Digital Technologies Co., Limited    
+                                                            9th Floor, Building 1, Zensun Boya Square, Longzihu Wisdom Island, Zhengdong New District
+                                                            Zhengzhou  Henan  450000                     
+                                                            CN                                           
+
+7A-4B-F3                      (hex)                         DILON TECHNOLOGIES                           
+7A4BF3                        (base 16)                     DILON TECHNOLOGIES                           
+                                                            12050 JEFFERSON AVENUE, Suite 340            
+                                                            NEWPORT NEWS  VA  23606                      
                                                             US                                           
 
-3A-A3-F8                      (hex)                         IEEE 802.1 Chair                             
-3AA3F8                        (base 16)                     IEEE 802.1 Chair                             
-                                                             c/o RAC Administrator , IEEE                
-                                                            Piscataway  NJ  08554                        
-                                                            US                                           
+6A-8E-AF                      (hex)                         Waoo                                         
+6A8EAF                        (base 16)                     Waoo                                         
+                                                            True Møllevej 9                              
+                                                            Tilst  Aarhus Municipallity  8381            
+                                                            DK                                           
 
-FA-94-F1                      (hex)                         IEEE 802.1 Chair                             
-FA94F1                        (base 16)                     IEEE 802.1 Chair                             
-                                                             c/o RAC Administrator , IEEE                
-                                                            Piscataway  NJ  08554                        
-                                                            US                                           
+7A-15-EC                      (hex)                         Yatomi Techology(ZheJiang) Co.,Ltd           
+7A15EC                        (base 16)                     Yatomi Techology(ZheJiang) Co.,Ltd           
+                                                            No8 FuYuan Road, YaoZhuang Town, JiaShan County
+                                                            YaoZhuang  ZheJiang  314117                  
+                                                            CN                                           
 
-8A-D8-5E                      (hex)                         GigaIO Networks, Inc.                        
-8AD85E                        (base 16)                     GigaIO Networks, Inc.                        
-                                                            5924 Balfour Ct., Suite 101                  
-                                                            Carlsbad  CA  92008                          
-                                                            US                                           
+4A-E0-3F                      (hex)                         Chengdu Superxon communication Technology Co. Ltd.
+4AE03F                        (base 16)                     Chengdu Superxon communication Technology Co. Ltd.
+                                                            No.666, Shaojia Street, Shuangliu District   
+                                                            Chengdu  Sichuan  610225                     
+                                                            CN                                           
 
-4A-15-40                      (hex)                         sas de la Halle aux Fours                    
-4A1540                        (base 16)                     sas de la Halle aux Fours                    
-                                                            Avenue de la Verrerie,                       
-                                                            VIANNE  FRANCE MÉTROPOLITAINE  47230         
-                                                            FR                                           
-
-DA-0D-38                      (hex)                         Farpointe Data, Inc.                         
-DA0D38                        (base 16)                     Farpointe Data, Inc.                         
-                                                            1376 Borregas Ave                            
-                                                            Sunnyvale  CA  94089                         
-                                                            US                                           
-
-4A-67-04                      (hex)                         Reliable Robotics Corporation                
-4A6704                        (base 16)                     Reliable Robotics Corporation                
-                                                            950 N Rengstorff AVE STE E                   
-                                                            Mountain View  CA  94043                     
-                                                            US                                           
-
-DA-9D-49                      (hex)                         Calix Inc.                                   
-DA9D49                        (base 16)                     Calix Inc.                                   
-                                                            2777 Orchard Pkwy                            
-                                                            San Jose  CA  95131                          
-                                                            US                                           
-
-7A-3F-8C                      (hex)                         Seagate Technology Thailand Ltd.             
-7A3F8C                        (base 16)                     Seagate Technology Thailand Ltd.             
-                                                            1627 Moo 7, Teparuk Road, T. Teparuk, A.Muang
-                                                            Samutprakarn    10270                        
-                                                            TH                                           
-
-4A-ED-1D                      (hex)                         Astera Labs Inc                              
-4AED1D                        (base 16)                     Astera Labs Inc                              
-                                                            2901 Tasman Dr, #204                         
-                                                            Santa Clara  CA  95054                       
-                                                            US                                           
-
-DA-E6-D7                      (hex)                         NVM Express, Inc.                            
-DAE6D7                        (base 16)                     NVM Express, Inc.                            
-                                                            3855 SW 153rd Drive                          
+5A-18-FF                      (hex)                         FiRa Consortium                              
+5A18FF                        (base 16)                     FiRa Consortium                              
+                                                            3855 SW 153RD Drive                          
                                                             Beaverton  OR  97003                         
                                                             US                                           
 
-CA-C2-76                      (hex)                         Saab Seaeye Ltd                              
-CAC276                        (base 16)                     Saab Seaeye Ltd                              
-                                                            20 Brunel Way                                
-                                                            Fareham  Hampshire  PO15 5SD                 
+5A-03-BA                      (hex)                         Wireless Broadband Alliance Ltd              
+5A03BA                        (base 16)                     Wireless Broadband Alliance Ltd              
+                                                            3 Tai Seng Dr #04-01                         
+                                                            Singapore    535216                          
+                                                            SG                                           
+
+EA-BC-04                      (hex)                         G3-PLC Alliance                              
+EABC04                        (base 16)                     G3-PLC Alliance                              
+                                                            34 place des Corolles                        
+                                                            Paris  PARIS LA DEFENSE CEDEX   92079        
+                                                            FR                                           
+
+3A-35-41                      (hex)                         Raspberry Pi (Trading) Ltd                   
+3A3541                        (base 16)                     Raspberry Pi (Trading) Ltd                   
+                                                            Maurice Wilkes Building, St Johns Innovation Park
+                                                            Cambridge  Cambridgeshire  CB4 0DS           
                                                             GB                                           
 
 BA-C4-85                      (hex)                         Fraunhofer IIS                               
@@ -494,101 +590,89 @@ FA556F                        (base 16)                     SymbolicIO
                                                             Edison  NJ  08837                            
                                                             US                                           
 
-3A-35-41                      (hex)                         Raspberry Pi (Trading) Ltd                   
-3A3541                        (base 16)                     Raspberry Pi (Trading) Ltd                   
-                                                            Maurice Wilkes Building, St Johns Innovation Park
-                                                            Cambridge  Cambridgeshire  CB4 0DS           
-                                                            GB                                           
+DA-C4-51                      (hex)                         Takaratomy                                   
+DAC451                        (base 16)                     Takaratomy                                   
+                                                            7-9-10 Tateishi                              
+                                                            Katsushika-ku  Tokyo  124-8511               
+                                                            JP                                           
 
-EA-BC-04                      (hex)                         G3-PLC Alliance                              
-EABC04                        (base 16)                     G3-PLC Alliance                              
-                                                            34 place des Corolles                        
-                                                            Paris  PARIS LA DEFENSE CEDEX   92079        
-                                                            FR                                           
-
-5A-03-BA                      (hex)                         Wireless Broadband Alliance Ltd              
-5A03BA                        (base 16)                     Wireless Broadband Alliance Ltd              
-                                                            3 Tai Seng Dr #04-01                         
-                                                            Singapore    535216                          
-                                                            SG                                           
-
-5A-18-FF                      (hex)                         FiRa Consortium                              
-5A18FF                        (base 16)                     FiRa Consortium                              
-                                                            3855 SW 153RD Drive                          
-                                                            Beaverton  OR  97003                         
+BA-C8-C4                      (hex)                         Transponder & Reader Engineered Systems, Inc 
+BAC8C4                        (base 16)                     Transponder & Reader Engineered Systems, Inc 
+                                                            9651 Chalma Avenue                           
+                                                            Baton Rouge  LA  70814                       
                                                             US                                           
 
-4A-E0-3F                      (hex)                         Chengdu Superxon communication Technology Co. Ltd.
-4AE03F                        (base 16)                     Chengdu Superxon communication Technology Co. Ltd.
-                                                            No.666, Shaojia Street, Shuangliu District   
-                                                            Chengdu  Sichuan  610225                     
-                                                            CN                                           
+CA-7D-DD                      (hex)                         EmOne (Thailand) Co.,Ltd.                    
+CA7DDD                        (base 16)                     EmOne (Thailand) Co.,Ltd.                    
+                                                            39/1 Soi.Sangkhom Songkhro 12                
+                                                            Lat Phrao  Bangkok  10230                    
+                                                            TH                                           
 
-6A-8E-AF                      (hex)                         Waoo                                         
-6A8EAF                        (base 16)                     Waoo                                         
-                                                            True Møllevej 9                              
-                                                            Tilst  Aarhus Municipallity  8381            
+3A-79-6E                      (hex)                         LX Semicon co.,Ltd.                          
+3A796E                        (base 16)                     LX Semicon co.,Ltd.                          
+                                                            38, Baumoe-ro, Seocho-gu                     
+                                                            Seoul    06763                               
+                                                            KR                                           
+
+6A-62-1E                      (hex)                         DIFI Consortium                              
+6A621E                        (base 16)                     DIFI Consortium                              
+                                                            445 Hoes Lane                                
+                                                            Piscataway  NJ  08854                        
+                                                            US                                           
+
+BA-63-12                      (hex)                         IDTECK                                       
+BA6312                        (base 16)                     IDTECK                                       
+                                                            4F, 61, Samjak-ro 171 beon-gil               
+                                                            Bucheon-si, Gyeonggi-do  14453  07573        
+                                                            KR                                           
+
+4A-AD-CE                      (hex)                         CODAN ARGUS AG                               
+4AADCE                        (base 16)                     CODAN ARGUS AG                               
+                                                            Oberneuhofstrasse 10                         
+                                                            Baar  Zug  6340                              
+                                                            CH                                           
+
+8A-4F-8B                      (hex)                         Irdeto                                       
+8A4F8B                        (base 16)                     Irdeto                                       
+                                                            Taurus Avenue 105                            
+                                                            Hoofddorp  Noord Holland  2132LS             
+                                                            NL                                           
+
+7A-35-EA                      (hex)                         SHARP Corporation                            
+7A35EA                        (base 16)                     SHARP Corporation                            
+                                                            1 Takumi-cho, Sakai-ku                       
+                                                            Sakai City  Osaka  590-8522                  
+                                                            JP                                           
+
+8A-94-AD                      (hex)                         Nexgen A/S                                   
+8A94AD                        (base 16)                     Nexgen A/S                                   
+                                                            Tvinggårdsvej 1 Skuderløse                   
+                                                            Haslev    4690                               
                                                             DK                                           
 
-7A-15-EC                      (hex)                         Yatomi Techology(ZheJiang) Co.,Ltd           
-7A15EC                        (base 16)                     Yatomi Techology(ZheJiang) Co.,Ltd           
-                                                            No8 FuYuan Road, YaoZhuang Town, JiaShan County
-                                                            YaoZhuang  ZheJiang  314117                  
-                                                            CN                                           
-
-7A-4B-F3                      (hex)                         DILON TECHNOLOGIES                           
-7A4BF3                        (base 16)                     DILON TECHNOLOGIES                           
-                                                            12050 JEFFERSON AVENUE, Suite 340            
-                                                            NEWPORT NEWS  VA  23606                      
+0A-2A-33                      (hex)                         DIGISTOR                                     
+0A2A33                        (base 16)                     DIGISTOR                                     
+                                                            89 Dillon Ave                                
+                                                            Campbell  CA  95008                          
                                                             US                                           
 
-2A-0B-B8                      (hex)                         xFusion Digital Technologies Co., Limited    
-2A0BB8                        (base 16)                     xFusion Digital Technologies Co., Limited    
-                                                            9th Floor, Building 1, Zensun Boya Square, Longzihu Wisdom Island, Zhengdong New District
-                                                            Zhengzhou  Henan  450000                     
+3A-72-C2                      (hex)                         HUAWEI TECHNOLOGIES CO.,LTD                  
+3A72C2                        (base 16)                     HUAWEI TECHNOLOGIES CO.,LTD                  
+                                                            No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+                                                            Dongguan    523808                           
                                                             CN                                           
 
-0A-D9-C4                      (hex)                         Craft Designs, Inc                           
-0AD9C4                        (base 16)                     Craft Designs, Inc                           
-                                                            700 Boulevard South Suite 501                
-                                                            HUNTSVILLE  AL  35802                        
+2A-A1-39                      (hex)                         POINTGUARD, LLC                              
+2AA139                        (base 16)                     POINTGUARD, LLC                              
+                                                            134 W Malvern Ave                            
+                                                            Salt Lake City  UT  84115                    
                                                             US                                           
 
-EA-1E-D0                      (hex)                         ZIGPOS GmbH                                  
-EA1ED0                        (base 16)                     ZIGPOS GmbH                                  
-                                                            Räcknitzhöhe 35a                             
-                                                            Dresden  Saxony  01217                       
-                                                            DE                                           
-
-3A-76-5D                      (hex)                         NewCoSemi(Beijing) Technology Co., Ltd       
-3A765D                        (base 16)                     NewCoSemi(Beijing) Technology Co., Ltd       
-                                                            Room 802, Floor 8, Building 8, Four District, East Tower, Wangjing, Chaoyang
-                                                            Beijing    100102                            
+CA-F2-5B                      (hex)                         Lexar Electronics(Shenzhen) Co.,Ltd.         
+CAF25B                        (base 16)                     Lexar Electronics(Shenzhen) Co.,Ltd.         
+                                                            Room EF, 5F, Building 1, Financial Base, No.8 Kefa Road, High-Tech Park, Shenzhen, China
+                                                            Shenzhen  Guangdong  518000                  
                                                             CN                                           
-
-7A-38-4E                      (hex)                         PROFIBUS Nutzerorganisation e.V.             
-7A384E                        (base 16)                     PROFIBUS Nutzerorganisation e.V.             
-                                                            Haid-und-Neu-Straße 7                        
-                                                            Karlsruhe  Baden-Württemberg  76131          
-                                                            DE                                           
-
-CA-3E-A6                      (hex)                         Syng, Inc.                                   
-CA3EA6                        (base 16)                     Syng, Inc.                                   
-                                                            120 Mildred Ave.                             
-                                                            Venice  CA  90291                            
-                                                            US                                           
-
-8A-D2-0F                      (hex)                         Pro Optix AB                                 
-8AD20F                        (base 16)                     Pro Optix AB                                 
-                                                            Vikdalsvägen 50                              
-                                                            Nacka Strand    13152                        
-                                                            SE                                           
-
-FA-0B-BC                      (hex)                         CEN                                          
-FA0BBC                        (base 16)                     CEN                                          
-                                                            Rue de la Science 23                         
-                                                            Brussels    1040                             
-                                                            BE                                           
 
 8A-FB-16                      (hex)                         TeraByte, Inc.                               
 8AFB16                        (base 16)                     TeraByte, Inc.                               
@@ -618,6 +702,12 @@ EA-DD-88                      (hex)                         IEEE PES-PSRC Workin
 EADD88                        (base 16)                     IEEE PES-PSRC Working Group H3, PC37.237     
                                                             445 Hoes Ln.                                 
                                                             Piscataway  NJ  08854                        
+                                                            US                                           
+
+4A-07-D6                      (hex)                         IEEE 802.1 Chair                             
+4A07D6                        (base 16)                     IEEE 802.1 Chair                             
+                                                             c/o RAC Administrator , IEEE                
+                                                            Piscataway  NJ  08554                        
                                                             US                                           
 
 2A-EA-15                      (hex)                         Tibit Communications                         
@@ -716,89 +806,95 @@ FA4C77                        (base 16)                     OCCITALINE
                                                             COLOMIERS    31770                           
                                                             FR                                           
 
-CA-F2-5B                      (hex)                         Lexar Electronics(Shenzhen) Co.,Ltd.         
-CAF25B                        (base 16)                     Lexar Electronics(Shenzhen) Co.,Ltd.         
-                                                            Room EF, 5F, Building 1, Financial Base, No.8 Kefa Road, High-Tech Park, Shenzhen, China
-                                                            Shenzhen  Guangdong  518000                  
+DA-19-B3                      (hex)                         LG Uplus                                     
+DA19B3                        (base 16)                     LG Uplus                                     
+                                                            80-17 Gwhak-ro, Yuseong-gu                   
+                                                            Daejeon    34132                             
+                                                            KR                                           
+
+EA-BE-A7                      (hex)                         Sonos, Inc.                                  
+EABEA7                        (base 16)                     Sonos, Inc.                                  
+                                                            614 Chapala St                               
+                                                            Santa Barbara  CA  93101                     
+                                                            US                                           
+
+0A-A2-3B                      (hex)                         Vitex LLC                                    
+0AA23B                        (base 16)                     Vitex LLC                                    
+                                                            210 Sylvan Ave, Suite 25                     
+                                                            Englewood Cliffs  NJ  07632                  
+                                                            US                                           
+
+2A-AC-53                      (hex)                         Wolfspyre Labs                               
+2AAC53                        (base 16)                     Wolfspyre Labs                               
+                                                            5007 Highland Ct #WPL-IEEE                   
+                                                            Austin  TX  78731                            
+                                                            US                                           
+
+CA-1E-45                      (hex)                         ASMedia Technology Inc.                      
+CA1E45                        (base 16)                     ASMedia Technology Inc.                      
+                                                            6F, No.115, Minquan Rd.,                     
+                                                            New Taipei City    23141                     
+                                                            TW                                           
+
+8A-0A-F7                      (hex)                         Montage Technology Co,.LTD                   
+8A0AF7                        (base 16)                     Montage Technology Co,.LTD                   
+                                                            6/F, BlockA, Technology Building,900 Yishan Road,
+                                                            Shanghai    200233                           
                                                             CN                                           
 
-2A-A1-39                      (hex)                         POINTGUARD, LLC                              
-2AA139                        (base 16)                     POINTGUARD, LLC                              
-                                                            134 W Malvern Ave                            
-                                                            Salt Lake City  UT  84115                    
+7A-4D-2F                      (hex)                         Open Compute Project                         
+7A4D2F                        (base 16)                     Open Compute Project                         
+                                                            13785 Research Blvd, Suite 125               
+                                                            Austin  TX  78750                            
                                                             US                                           
 
-0A-2A-33                      (hex)                         DIGISTOR                                     
-0A2A33                        (base 16)                     DIGISTOR                                     
-                                                            89 Dillon Ave                                
-                                                            Campbell  CA  95008                          
+BA-07-DA                      (hex)                         Infinix mobility limited                     
+BA07DA                        (base 16)                     Infinix mobility limited                     
+                                                            RMS 05-15, 13A/F SOUTH TOWER WORLD FINANCE CTR HARBOUR CITY 17 CANTON RD TST KLN HONG KONG
+                                                            HongKong  HongKong  999077                   
+                                                            HK                                           
+
+6A-E7-32                      (hex)                         UNIS-WDC Storage Co.,Ltd                     
+6AE732                        (base 16)                     UNIS-WDC Storage Co.,Ltd                     
+                                                            1202 Block B, Truth Plaza, No.7 ZhiChun Road, HaiDian District
+                                                            Beijing  Beijing  100191                     
+                                                            CN                                           
+
+AA-34-D4                      (hex)                         CDVI Wireless SpA                            
+AA34D4                        (base 16)                     CDVI Wireless SpA                            
+                                                            via Piave 23                                 
+                                                            San Pietro di Feletto  Treviso  31020        
+                                                            IT                                           
+
+CA-37-82                      (hex)                         Storbyte, Inc.                               
+CA3782                        (base 16)                     Storbyte, Inc.                               
+                                                            1800 Washington Blvd Suite 412               
+                                                            Baltimore  MD  21230                         
                                                             US                                           
 
-8A-94-AD                      (hex)                         Nexgen A/S                                   
-8A94AD                        (base 16)                     Nexgen A/S                                   
-                                                            Tvinggårdsvej 1 Skuderløse                   
-                                                            Haslev    4690                               
-                                                            DK                                           
+CA-2B-5E                      (hex)                         Suzhou Motor-comm Electronic Technology Co.,Ltd
+CA2B5E                        (base 16)                     Suzhou Motor-comm Electronic Technology Co.,Ltd
+                                                            Rm201, Bldg#4, No.78 Keling Road, Hi-Tech New District, China
+                                                            Suzhou  Jiangsu  215163                      
+                                                            CN                                           
 
-7A-35-EA                      (hex)                         SHARP Corporation                            
-7A35EA                        (base 16)                     SHARP Corporation                            
-                                                            1 Takumi-cho, Sakai-ku                       
-                                                            Sakai City  Osaka  590-8522                  
-                                                            JP                                           
+FA-66-73                      (hex)                         NELLS ELECTRONIC SYSTEMS (NES)               
+FA6673                        (base 16)                     NELLS ELECTRONIC SYSTEMS (NES)               
+                                                            THAPASYA, KALAPARAMBATH (H), MATHILAKAM P.O  
+                                                            THRISSUR  KERALA  680685                     
+                                                            IN                                           
 
-8A-4F-8B                      (hex)                         Irdeto                                       
-8A4F8B                        (base 16)                     Irdeto                                       
-                                                            Taurus Avenue 105                            
-                                                            Hoofddorp  Noord Holland  2132LS             
-                                                            NL                                           
+0A-CD-8F                      (hex)                         Cisco Systems Norway                         
+0ACD8F                        (base 16)                     Cisco Systems Norway                         
+                                                            Phillip Pedersensvei 1                       
+                                                            Lysaker    1366                              
+                                                            NO                                           
 
-4A-AD-CE                      (hex)                         CODAN ARGUS AG                               
-4AADCE                        (base 16)                     CODAN ARGUS AG                               
-                                                            Oberneuhofstrasse 10                         
-                                                            Baar  Zug  6340                              
-                                                            CH                                           
-
-4A-07-D6                      (hex)                         IEEE 802.1 Chair                             
-4A07D6                        (base 16)                     IEEE 802.1 Chair                             
-                                                             c/o RAC Administrator , IEEE                
-                                                            Piscataway  NJ  08554                        
-                                                            US                                           
-
-BA-63-12                      (hex)                         IDTECK                                       
-BA6312                        (base 16)                     IDTECK                                       
-                                                            4F, 61, Samjak-ro 171 beon-gil               
-                                                            Bucheon-si, Gyeonggi-do  14453  07573        
+4A-CA-3E                      (hex)                         ZEUS                                         
+4ACA3E                        (base 16)                     ZEUS                                         
+                                                            161-6, Gyeonggi-dong-ro                      
+                                                            OSAN  Gyeonggi  18148                        
                                                             KR                                           
-
-6A-62-1E                      (hex)                         DIFI Consortium                              
-6A621E                        (base 16)                     DIFI Consortium                              
-                                                            445 Hoes Lane                                
-                                                            Piscataway  NJ  08854                        
-                                                            US                                           
-
-3A-79-6E                      (hex)                         LX Semicon co.,Ltd.                          
-3A796E                        (base 16)                     LX Semicon co.,Ltd.                          
-                                                            38, Baumoe-ro, Seocho-gu                     
-                                                            Seoul    06763                               
-                                                            KR                                           
-
-CA-7D-DD                      (hex)                         EmOne (Thailand) Co.,Ltd.                    
-CA7DDD                        (base 16)                     EmOne (Thailand) Co.,Ltd.                    
-                                                            39/1 Soi.Sangkhom Songkhro 12                
-                                                            Lat Phrao  Bangkok  10230                    
-                                                            TH                                           
-
-BA-C8-C4                      (hex)                         Transponder & Reader Engineered Systems, Inc 
-BAC8C4                        (base 16)                     Transponder & Reader Engineered Systems, Inc 
-                                                            9651 Chalma Avenue                           
-                                                            Baton Rouge  LA  70814                       
-                                                            US                                           
-
-DA-C4-51                      (hex)                         Takaratomy                                   
-DAC451                        (base 16)                     Takaratomy                                   
-                                                            7-9-10 Tateishi                              
-                                                            Katsushika-ku  Tokyo  124-8511               
-                                                            JP                                           
 
 DA-41-62                      (hex)                         Xperi Corporation                            
 DA4162                        (base 16)                     Xperi Corporation                            
@@ -871,87 +967,3 @@ EA9FB1                        (base 16)                     Philips Internationa
                                                             Lot 202                                      
                                                             Sungai Petani  Kedah  08000                  
                                                             MY                                           
-
-4A-CA-3E                      (hex)                         ZEUS                                         
-4ACA3E                        (base 16)                     ZEUS                                         
-                                                            161-6, Gyeonggi-dong-ro                      
-                                                            OSAN  Gyeonggi  18148                        
-                                                            KR                                           
-
-EA-BE-A7                      (hex)                         Sonos, Inc.                                  
-EABEA7                        (base 16)                     Sonos, Inc.                                  
-                                                            614 Chapala St                               
-                                                            Santa Barbara  CA  93101                     
-                                                            US                                           
-
-0A-CD-8F                      (hex)                         Cisco Systems Norway                         
-0ACD8F                        (base 16)                     Cisco Systems Norway                         
-                                                            Phillip Pedersensvei 1                       
-                                                            Lysaker    1366                              
-                                                            NO                                           
-
-FA-66-73                      (hex)                         NELLS ELECTRONIC SYSTEMS (NES)               
-FA6673                        (base 16)                     NELLS ELECTRONIC SYSTEMS (NES)               
-                                                            THAPASYA, KALAPARAMBATH (H), MATHILAKAM P.O  
-                                                            THRISSUR  KERALA  680685                     
-                                                            IN                                           
-
-CA-2B-5E                      (hex)                         Suzhou Motor-comm Electronic Technology Co.,Ltd
-CA2B5E                        (base 16)                     Suzhou Motor-comm Electronic Technology Co.,Ltd
-                                                            Rm201, Bldg#4, No.78 Keling Road, Hi-Tech New District, China
-                                                            Suzhou  Jiangsu  215163                      
-                                                            CN                                           
-
-CA-37-82                      (hex)                         Storbyte, Inc.                               
-CA3782                        (base 16)                     Storbyte, Inc.                               
-                                                            1800 Washington Blvd Suite 412               
-                                                            Baltimore  MD  21230                         
-                                                            US                                           
-
-AA-34-D4                      (hex)                         CDVI Wireless SpA                            
-AA34D4                        (base 16)                     CDVI Wireless SpA                            
-                                                            via Piave 23                                 
-                                                            San Pietro di Feletto  Treviso  31020        
-                                                            IT                                           
-
-6A-E7-32                      (hex)                         UNIS-WDC Storage Co.,Ltd                     
-6AE732                        (base 16)                     UNIS-WDC Storage Co.,Ltd                     
-                                                            1202 Block B, Truth Plaza, No.7 ZhiChun Road, HaiDian District
-                                                            Beijing  Beijing  100191                     
-                                                            CN                                           
-
-BA-07-DA                      (hex)                         Infinix mobility limited                     
-BA07DA                        (base 16)                     Infinix mobility limited                     
-                                                            RMS 05-15, 13A/F SOUTH TOWER WORLD FINANCE CTR HARBOUR CITY 17 CANTON RD TST KLN HONG KONG
-                                                            HongKong  HongKong  999077                   
-                                                            HK                                           
-
-7A-4D-2F                      (hex)                         Open Compute Project                         
-7A4D2F                        (base 16)                     Open Compute Project                         
-                                                            13785 Research Blvd, Suite 125               
-                                                            Austin  TX  78750                            
-                                                            US                                           
-
-8A-0A-F7                      (hex)                         Montage Technology Co,.LTD                   
-8A0AF7                        (base 16)                     Montage Technology Co,.LTD                   
-                                                            6/F, BlockA, Technology Building,900 Yishan Road,
-                                                            Shanghai    200233                           
-                                                            CN                                           
-
-CA-1E-45                      (hex)                         ASMedia Technology Inc.                      
-CA1E45                        (base 16)                     ASMedia Technology Inc.                      
-                                                            6F, No.115, Minquan Rd.,                     
-                                                            New Taipei City    23141                     
-                                                            TW                                           
-
-2A-AC-53                      (hex)                         Wolfspyre Labs                               
-2AAC53                        (base 16)                     Wolfspyre Labs                               
-                                                            5007 Highland Ct #WPL-IEEE                   
-                                                            Austin  TX  78731                            
-                                                            US                                           
-
-0A-A2-3B                      (hex)                         Vitex LLC                                    
-0AA23B                        (base 16)                     Vitex LLC                                    
-                                                            210 Sylvan Ave, Suite 25                     
-                                                            Englewood Cliffs  NJ  07632                  
-                                                            US                                           
