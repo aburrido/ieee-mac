@@ -2256,16 +2256,11 @@ Ethertype,8053,"Stanford Telecomm., Inc.",2421 Mission College Blvd. Santa Clara
 Ethertype,8055,"Stanford Telecomm., Inc.",2421 Mission College Blvd. Santa Clara CA US 95050 ,Protocol unavailable.
 Ethertype,8059,"Stanford Telecomm., Inc.",2421 Mission College Blvd. Santa Clara CA US 95050 ,Protocol unavailable.
 Ethertype,8032,Codex Corporation,20 Cabot Blvd. Mansfield MA US 02048 ,Protocol unavailable.
+Ethertype,801C,Private,,Protocol unavailable.
+Ethertype,8010,Excelan,1599 Flicker Ave. San Jose CA US 95131 ,Protocol unavailable.
 Ethertype,8028,Metaphor,2500 Garcia Avenue Mountain View CA US 94043 ,Protocol unavailable.
 Ethertype,802D,Metaphor,2500 Garcia Avenue Mountain View CA US 94043 ,Protocol unavailable.
 Ethertype,801A,Spartacus Computers,847 Rogers St. Lowell MA US 01852-4337 ,Protocol unavailable.
-Ethertype,801C,Private,,Protocol unavailable.
-Ethertype,8010,Excelan,1599 Flicker Ave. San Jose CA US 95131 ,Protocol unavailable.
-Ethertype,8004,BBN,50 Moulton Street Cambridge MA US 02238 ,Protocol unavailable.
-Ethertype,7032,InterLan,160 Turnpike Road Chelmsford MA US 01824 ,Protocol unavailable.
-Ethertype,7033,InterLan,160 Turnpike Road Chelmsford MA US 01824 ,Protocol unavailable.
-Ethertype,7014,Olteco (Olevetti),   US  ,Protocol unavailable.
-Ethertype,5001,Intel,   US  ,Protocol unavailable.
 Ethertype,5003,Intel,   US  ,Protocol unavailable.
 Ethertype,5006,Intel,   US  ,Protocol unavailable.
 Ethertype,5007,Intel,   US  ,Protocol unavailable.
@@ -2273,6 +2268,11 @@ Ethertype,7002,Ungermann-Bass,   US  ,Protocol unavailable.
 Ethertype,7004,Ungermann-Bass,   US  ,Protocol unavailable.
 Ethertype,0802,Xerox,   US  ,Protocol unavailable.
 Ethertype,6005,DEC,1925 Andover St. Tewksbury MA US 01876 ,Protocol unavailable.
+Ethertype,8004,BBN,50 Moulton Street Cambridge MA US 02238 ,Protocol unavailable.
+Ethertype,7032,InterLan,160 Turnpike Road Chelmsford MA US 01824 ,Protocol unavailable.
+Ethertype,7033,InterLan,160 Turnpike Road Chelmsford MA US 01824 ,Protocol unavailable.
+Ethertype,7014,Olteco (Olevetti),   US  ,Protocol unavailable.
+Ethertype,5001,Intel,   US  ,Protocol unavailable.
 Ethertype,F45F,"Beijing Haiwang Network Technologies Co., Ltd","2-2180,Building D,Block 33, No.99,Kechuang 14 Street,Beijing Economic-Technological Development Area Beijing  CN 100176 ","This Ethertype enables IDP (Identifier Protocol), which was defined in ITU-T Y.3075. IDP is responsible for maintaining the rules and regulations about how to process the address/es in the packet and modifying the address field in the packet."
 Ethertype,8917,IEEE 802.21 Working Group,"IEEE 802.21 Chair, c/o RAC Administrator IEEE Piscataway NJ US 08854 ",Media Independent Service (MIS) protocol as defined in IEEE Std 802.21
 Ethertype,0B04,University of Berkeley,   US  ,Berkeley Reserved
@@ -3049,10 +3049,6 @@ Ethertype,088D,Sentry/Schlumberger,1601 Technology Drive San  US  ,Protocol unav
 Ethertype,0893,Sentry/Schlumberger,1601 Technology Drive San  US  ,Protocol unavailable.
 Ethertype,0894,Sentry/Schlumberger,1601 Technology Drive San  US  ,Protocol unavailable.
 Ethertype,0895,Sentry/Schlumberger,1601 Technology Drive San  US  ,Protocol unavailable.
-Ethertype,8026,Metaphor,2500 Garcia Avenue Mountain View CA US 94043 ,Protocol unavailable.
-Ethertype,802A,Metaphor,2500 Garcia Avenue Mountain View CA US 94043 ,Protocol unavailable.
-Ethertype,802B,Metaphor,2500 Garcia Avenue Mountain View CA US 94043 ,Protocol unavailable.
-Ethertype,801E,Sun Microsystems,2550 Gracia Ave. Mountain View CA US 94043 ,Protocol unavailable.
 Ethertype,801B,Lawrence Labs,Lawrence Livermore National Laboratory Livermore CA US 94550 ,Protocol unavailable.
 Ethertype,8011,Accutest,25 Industrial Avenue Chelmsford MA US 01824 ,Protocol unavailable.
 Ethertype,800C,Technology Concepts Inc.,730 Boston Post Road Sudbury Massachusetts US 01776 ,Protocol unavailable.
@@ -3063,6 +3059,10 @@ Ethertype,0803,Xerox,   US  ,Protocol unavailable.
 Ethertype,7034,InterLan,160 Turnpike Road Chelmsford MA US 01824 ,Protocol unavailable.
 Ethertype,7012,Olteco (Olevetti),   US  ,Protocol unavailable.
 Ethertype,7018,Olteco (Olevetti),   US  ,Protocol unavailable.
+Ethertype,8026,Metaphor,2500 Garcia Avenue Mountain View CA US 94043 ,Protocol unavailable.
+Ethertype,802A,Metaphor,2500 Garcia Avenue Mountain View CA US 94043 ,Protocol unavailable.
+Ethertype,802B,Metaphor,2500 Garcia Avenue Mountain View CA US 94043 ,Protocol unavailable.
+Ethertype,801E,Sun Microsystems,2550 Gracia Ave. Mountain View CA US 94043 ,Protocol unavailable.
 Ethertype,5008,Intel,   US  ,Protocol unavailable.
 Ethertype,6002,DEC,1925 Andover St. Tewksbury MA US 01876 ,Protocol unavailable.
 Ethertype,6007,DEC,1925 Andover St. Tewksbury MA US 01876 ,Protocol unavailable.
