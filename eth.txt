@@ -3356,15 +3356,27 @@ A580                          Siemens Gammasonics                               
                               US                                                                                                       
 
 
-801F                          Able Computers                                                                                           Protocol unavailable.
+5005                          Intel                                                                                                    Protocol unavailable.
                                                                                                                                        
                                                                                                                                        
                               US                                                                                                       
 
 
-8012                          National Semiconductor                                                                                   Protocol unavailable.
-                              2900 Semiconductor Drive                                                                                 
-                              Santa Clara  CA  95051                                                                                   
+7003                          Ungermann-Bass                                                                                           Protocol unavailable.
+                                                                                                                                       
+                                                                                                                                       
+                              US                                                                                                       
+
+
+6001                          DEC                                                                                                      Protocol unavailable.
+                              1925 Andover St.                                                                                         
+                              Tewksbury  MA  01876                                                                                     
+                              US                                                                                                       
+
+
+6009                          DEC                                                                                                      Protocol unavailable.
+                              1925 Andover St.                                                                                         
+                              Tewksbury  MA  01876                                                                                     
                               US                                                                                                       
 
 
@@ -3398,27 +3410,15 @@ A580                          Siemens Gammasonics                               
                               US                                                                                                       
 
 
-5005                          Intel                                                                                                    Protocol unavailable.
+801F                          Able Computers                                                                                           Protocol unavailable.
                                                                                                                                        
                                                                                                                                        
                               US                                                                                                       
 
 
-7003                          Ungermann-Bass                                                                                           Protocol unavailable.
-                                                                                                                                       
-                                                                                                                                       
-                              US                                                                                                       
-
-
-6001                          DEC                                                                                                      Protocol unavailable.
-                              1925 Andover St.                                                                                         
-                              Tewksbury  MA  01876                                                                                     
-                              US                                                                                                       
-
-
-6009                          DEC                                                                                                      Protocol unavailable.
-                              1925 Andover St.                                                                                         
-                              Tewksbury  MA  01876                                                                                     
+8012                          National Semiconductor                                                                                   Protocol unavailable.
+                              2900 Semiconductor Drive                                                                                 
+                              Santa Clara  CA  95051                                                                                   
                               US                                                                                                       
 
 
@@ -10225,36 +10225,6 @@ C02A                          University of Berkeley                            
                               US                                                                                                       
 
 
-7032                          InterLan                                                                                                 Protocol unavailable.
-                              160 Turnpike Road                                                                                        
-                              Chelmsford  MA  01824                                                                                    
-                              US                                                                                                       
-
-
-7033                          InterLan                                                                                                 Protocol unavailable.
-                              160 Turnpike Road                                                                                        
-                              Chelmsford  MA  01824                                                                                    
-                              US                                                                                                       
-
-
-7014                          Olteco (Olevetti)                                                                                        Protocol unavailable.
-                                                                                                                                       
-                                                                                                                                       
-                              US                                                                                                       
-
-
-5001                          Intel                                                                                                    Protocol unavailable.
-                                                                                                                                       
-                                                                                                                                       
-                              US                                                                                                       
-
-
-5003                          Intel                                                                                                    Protocol unavailable.
-                                                                                                                                       
-                                                                                                                                       
-                              US                                                                                                       
-
-
 5006                          Intel                                                                                                    Protocol unavailable.
                                                                                                                                        
                                                                                                                                        
@@ -10288,6 +10258,36 @@ C02A                          University of Berkeley                            
 6005                          DEC                                                                                                      Protocol unavailable.
                               1925 Andover St.                                                                                         
                               Tewksbury  MA  01876                                                                                     
+                              US                                                                                                       
+
+
+7032                          InterLan                                                                                                 Protocol unavailable.
+                              160 Turnpike Road                                                                                        
+                              Chelmsford  MA  01824                                                                                    
+                              US                                                                                                       
+
+
+7033                          InterLan                                                                                                 Protocol unavailable.
+                              160 Turnpike Road                                                                                        
+                              Chelmsford  MA  01824                                                                                    
+                              US                                                                                                       
+
+
+7014                          Olteco (Olevetti)                                                                                        Protocol unavailable.
+                                                                                                                                       
+                                                                                                                                       
+                              US                                                                                                       
+
+
+5001                          Intel                                                                                                    Protocol unavailable.
+                                                                                                                                       
+                                                                                                                                       
+                              US                                                                                                       
+
+
+5003                          Intel                                                                                                    Protocol unavailable.
+                                                                                                                                       
+                                                                                                                                       
                               US                                                                                                       
 
 
