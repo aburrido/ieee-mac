@@ -19304,6 +19304,12 @@ FD1000-FD1FFF     (base 16)		RedRat Ltd
 				Riga    LV-1050
 				LV
 
+8C-1F-64   (hex)		Dexter Laundry Inc.
+560000-560FFF     (base 16)		Dexter Laundry Inc.
+				2211 West Grimes Avenue
+				Fairfield  IA  52556
+				US
+
 8C-1F-64   (hex)		SD OPTICS
 C42000-C42FFF     (base 16)		SD OPTICS
 				4F, 9 Gangnam-daero 27-gil
