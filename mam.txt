@@ -10895,6 +10895,12 @@ A4-3B-FA   (hex)		Chengdu Territory Technology Co.,Ltd
 				Chengdu  Sichuan  610000
 				CN
 
+90-F4-21   (hex)		DESKO GmbH
+500000-5FFFFF     (base 16)		DESKO GmbH
+				Gottlieb-Keim-Str. 56
+				Bayreuth  Bavaria  95448
+				DE
+
 6C-2A-DF   (hex)		Ademco Inc. dba ADI Global Distribution
 000000-0FFFFF     (base 16)		Ademco Inc. dba ADI Global Distribution
 				275 Broadhollow Road Suite 400 Melville,

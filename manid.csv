@@ -7,10 +7,10 @@ MAN_ID,1117,SKC Audio,"M8 Building, No. 1, East Road, Jiuxianqiao, Chaoyang Dist
 MAN_ID,1107,"DongHua Testing Technology Co., Ltd.","LuoJia Bridge,Jingjiang City,Jiangsu Procince,P.R.China Jingjiang Jiangsu CN 214500 "
 MAN_ID,1105,"EnvyLogic Co.,Ltd.","#605,Gwanyang Doosan Ven Digm B/D Anyang-si Gyeonggi-do KR 431-810 "
 MAN_ID,106,Dewesoft d.o.o.,Gabrsko 11a Trbovlje  SI 1420 
-MAN_ID,102,tecsis LP,771-F Dearborn Park Lane Worthington OH US 43085 
 MAN_ID,105,IPETRONIK GmbH & Co.KG,Im Rollfeld 28 Baden-Baden  DE D-76532 
-MAN_ID,94,Test GmbH,Helena Rubinstein-Str. 4 Erkrath  DE 40699 
+MAN_ID,102,tecsis LP,771-F Dearborn Park Lane Worthington OH US 43085 
 MAN_ID,93,Monitran,"33 Hazlemere Road Penn, Bucks  GB HP10 8AD "
+MAN_ID,94,Test GmbH,Helena Rubinstein-Str. 4 Erkrath  DE 40699 
 MAN_ID,66,"Sinocera Piezotronics, Inc.",No. 1 Yuqi Road Yangzhou  CN  
 MAN_ID,1097,ETAS,Borsigstr. 14 Stuttgart  DE 70469 
 MAN_ID,68,VIP Sensors,27128 Paseo Espada San Juan Capistrano CA US 92675 
@@ -39,19 +39,19 @@ MAN_ID,108,Ashcroft Inc,250 East Main St Stratford CT US 06614
 MAN_ID,107,Tovey Engineering Inc,22602 N 17th Ave Phoenix AZ US 85027 
 MAN_ID,73,Connection Technology Center,7939 Rae Boulevard Victor NY US 14564 
 MAN_ID,96,B&W Sensing Technologies,566 Chunzhong Road 3F Shanghai  CN 201108 
-MAN_ID,64,MTS Systems Corp.,14000 Technology Drive Eden Prairie MN US 55344 
-MAN_ID,76,"The Pinax Group, Inc.",650 Poydras Street New Orleans LA US 70130 
-MAN_ID,77,Kulite Semiconductor Products Inc,1 Willow Tree Rd. Leonia NJ US 07607 
 MAN_ID,85,Adcon Telemetry GmbH,Inkustrasse 24 Klosterneuburg  AT 3400 
 MAN_ID,100,"LLC ""GlobalTest""",Pavlick Morozov Street 6 Nizhny Novgorod region Sarov RU 607183 
 MAN_ID,88,"Streamline Automation, LLC",3100 Fresh Way SW Huntsville AL US 35805 
+MAN_ID,64,MTS Systems Corp.,14000 Technology Drive Eden Prairie MN US 55344 
+MAN_ID,76,"The Pinax Group, Inc.",650 Poydras Street New Orleans LA US 70130 
+MAN_ID,77,Kulite Semiconductor Products Inc,1 Willow Tree Rd. Leonia NJ US 07607 
 MAN_ID,52,Pressure Systems,   US  
 MAN_ID,31,HBM,   US  
 MAN_ID,57,Lorenz Messtechnik GmbH,Obere Schlossstrasse 131 Alfdorf  DE 73553 
 MAN_ID,18,"The Modal Shop, Inc.",   US  
 MAN_ID,23,"PCB Piezotronics, Inc.",   US  
-MAN_ID,38,Celesco,   US  
 MAN_ID,50,Waycon,   US  
+MAN_ID,38,Celesco,   US  
 MAN_ID,28,Entek IRD,   US  
 MAN_ID,32,TEAC,   US  
 MAN_ID,41,Watlow,   US  
@@ -74,16 +74,16 @@ MAN_ID,1099,ME-Messsysteme GmbH,Neuendorfstr. 18a Hennigsdorf  DE 16761
 MAN_ID,80,Microtech Gefell GmbH,Georg Neumann Platz Gefell  DE 07926 
 MAN_ID,82,"Studio Technologies, Inc.",5520 W. Touhy Avenue Skolie IL US 60077 
 MAN_ID,84,Natec Sensors GmbH,Niels-Bohr-Strasse 9-11 Garching  DE 85748 
-MAN_ID,98,Proctor & Chester Measurements Ltd,"Chester House, Dalehouse Lane Warwickshire  GB CV8 2UE "
-MAN_ID,89,NTI AG,IM alten Riet 102 Europe  GB  
-MAN_ID,95,"ACO, Co., Ltd","85-1 Otsuka, Hachioji-shi Tokyo  JP 192-0352 "
 MAN_ID,69,Sensy SA,ZI Jumet - Allee Centrale Jumet  BE 6040 
 MAN_ID,78,"Showa Measuring Instruments Co., Ltd",1-17-16 Nishihokima Adati-ku Tokyo  JP 121-0812 
 MAN_ID,61,Metra Mess-und Frequenztechnik Radebeul,Meissner Str. 58  Radebeul DE D-01445 
-MAN_ID,33,RION CO.,   US  
+MAN_ID,98,Proctor & Chester Measurements Ltd,"Chester House, Dalehouse Lane Warwickshire  GB CV8 2UE "
+MAN_ID,89,NTI AG,IM alten Riet 102 Europe  GB  
+MAN_ID,95,"ACO, Co., Ltd","85-1 Otsuka, Hachioji-shi Tokyo  JP 192-0352 "
 MAN_ID,29,"Scitefair International, Inc.",   US  
 MAN_ID,58,"Kyowa Electronic Instruments Co., Ltd","3-5-1, chofugaoka, Chofu, Tokyo  JP 182-8520 "
 MAN_ID,27,Oceana Sensor Technologies,   US  
+MAN_ID,33,RION CO.,   US  
 MAN_ID,39,Weed Instrument,   US  
 MAN_ID,43,Measurement Specialties,   US  
 MAN_ID,55,"Futek Advanced Sensor Technology, Inc.",   US  
@@ -136,12 +136,12 @@ MAN_ID,101,L.S. Starrett Company,121 Crescent Street  Athol MA US 01331
 MAN_ID,91,Fenda Technology Ltd.,"Suite 906, 9F, Tower 3 Tsim Sha Tsui Kowloon HK  "
 MAN_ID,87,SVANTEK Sp. z.o.o,Plac Inwalidow 3/62 Warszawa  PL 01-514 
 MAN_ID,86,LCM Systems Ltd,"Unit 15, Newport Business Park Barry Way, Newport Isle of Wight GB PO30 5GY "
-MAN_ID,99,HEAD acoustics GmbH,Ebertstr. 30a Herzogenrath  DE 52134 
 MAN_ID,74,"BSWA Technology Co., Ltd","Postcode:  100029, Unit 620, #27, Bei San Huan Rd Beijing CN  "
 MAN_ID,62,Ametek Denmark A/S,Gydevang 32-34 Allerod  DK D-3450 
 MAN_ID,65,Viatran Corporation,300 Industrial Drive Grand Island NY US 14072 
-MAN_ID,79,CEA,CEA-DAM DASE/STGM/LCDS   FR  
 MAN_ID,71,"Tokyo Sokki Kenkyujo Co., Ltd","4-247, Aioi-cho Gumma  JP 376-0011 "
+MAN_ID,99,HEAD acoustics GmbH,Ebertstr. 30a Herzogenrath  DE 52134 
+MAN_ID,79,CEA,CEA-DAM DASE/STGM/LCDS   FR  
 MAN_ID,60,Sherborne Sensors Limited,Basepoint Enterprise Centre Stroudley Road Basingstoke GB RG24 8UP 
 MAN_ID,35,Dytran Instruments,   US  
 MAN_ID,30,National Instruments,   US  
