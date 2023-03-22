@@ -27923,11 +27923,17 @@ D0-76-50   (hex)		TAPKO Technologies GmbH
 				Wäschenbeuren  Baden-Württemberg  73116
 				DE
 
-90-F4-21   (hex)		Catvision Ltd.
-200000-2FFFFF     (base 16)		Catvision Ltd.
-				E14 & 15 Sector 8
-				Noida  Outside of the US  201301
-				IN
+90-F4-21   (hex)		BeEnergy SG GmbH
+100000-1FFFFF     (base 16)		BeEnergy SG GmbH
+				Weissenburgring 23
+				Pohlheim    35415
+				DE
+
+90-F4-21   (hex)		Mi-Jack Products
+800000-8FFFFF     (base 16)		Mi-Jack Products
+				3111 W. 167th St
+				Hazel Crest  IL  60429
+				US
 
 90-F4-21   (hex)		Twunicom Life Tech. Co., Ltd.
 900000-9FFFFF     (base 16)		Twunicom Life Tech. Co., Ltd.
@@ -27935,8 +27941,8 @@ D0-76-50   (hex)		TAPKO Technologies GmbH
 				New Taipei City    236658
 				TW
 
-90-F4-21   (hex)		BeEnergy SG GmbH
-100000-1FFFFF     (base 16)		BeEnergy SG GmbH
-				Weissenburgring 23
-				Pohlheim    35415
-				DE
+90-F4-21   (hex)		Catvision Ltd.
+200000-2FFFFF     (base 16)		Catvision Ltd.
+				E14 & 15 Sector 8
+				Noida  Outside of the US  201301
+				IN

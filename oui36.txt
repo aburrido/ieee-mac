@@ -32099,12 +32099,6 @@ B3D000-B3DFFF     (base 16)		Inras GmbH
 				Vancouver  BC  V6A3X3
 				CA
 
-8C-1F-64   (hex)		TRIPLTEK
-3D0000-3D0FFF     (base 16)		TRIPLTEK
-				12555 Biscayne Blvd
-				North Miami  FL  33181
-				US
-
 8C-1F-64   (hex)		Shanghai Stairmed Technology Co.,ltd
 20C000-20CFFF     (base 16)		Shanghai Stairmed Technology Co.,ltd
 				Floor 3,Unit 1,Buliding 4,No.160,Basheng Road,Pudong
@@ -32116,3 +32110,9 @@ D81000-D81FFF     (base 16)		Mitsubishi Electric India Pvt. Ltd.
 				EL3, J BLOCK, M.I.D.C. Bhosari
 				PUNE  Maharastra  411027
 				IN
+
+8C-1F-64   (hex)		TRIPLTEK
+3D0000-3D0FFF     (base 16)		TRIPLTEK
+				12555 Biscayne Blvd
+				North Miami  FL  33181
+				US

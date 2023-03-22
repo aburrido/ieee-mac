@@ -3422,6 +3422,12 @@ A580                          Siemens Gammasonics                               
                               US                                                                                                       
 
 
+DCD2                          IEEE 802.1 Chair                                                                                         Wake-on-LAN (WoL) as described in IEEE Std. 802
+                               c/o RAC Administrator , IEEE                                                                            
+                              Piscataway  NJ  08554                                                                                    
+                              US                                                                                                       
+
+
 8921                          Cisco Systems, Inc                                                                                       Decline to disclose. Cisco Proprietary
                               3850 Zanker Rd.                                                                                          
                               San Jose  CA  95134                                                                                      
