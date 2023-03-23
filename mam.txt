@@ -10919,12 +10919,6 @@ A00000-AFFFFF     (base 16)		Proqualit Telecom LTDA
 				Paraisópolis  Minas Gerais  37660000
 				BR
 
-90-F4-21   (hex)		Marinesync Corp
-D00000-DFFFFF     (base 16)		Marinesync Corp
-				3469 Kurtz Street
-				San Diego  CA  92110
-				US
-
 90-F4-21   (hex)		Senstar Corporation
 700000-7FFFFF     (base 16)		Senstar Corporation
 				119 John Cavanaugh Dr.
@@ -11002,12 +10996,6 @@ A00000-AFFFFF     (base 16)		UAV Navigation
 				2704/8, 7TH MAIN, YADAVGIRI
 				MYSORE  KARNATAKA  570020
 				IN
-
-8C-14-7D   (hex)		Schneider Electric - Triconex
-100000-1FFFFF     (base 16)		Schneider Electric - Triconex
-				26561 Rancho Pkwy S
-				LAKE FOREST  CA  92630
-				US
 
 6C-2A-DF   (hex)		MOBA Mobile Automation AG
 B00000-BFFFFF     (base 16)		MOBA Mobile Automation AG
@@ -16753,6 +16741,12 @@ B00000-BFFFFF     (base 16)		Jiangsu MSInfo Technology Co.,Ltd.
 				608, 1st Yinbai Road, Binhu District
 				Wuxi  Jiangsu  214000
 				CN
+
+8C-14-7D   (hex)		Private
+100000-1FFFFF     (base 16)		Private
+				26561 Rancho Pkwy S
+				LAKE FOREST  CA  92630
+				US
 
 B4-4D-43   (hex)		SERNET (SUZHOU) TECHNOLOGIES CORPORATION
 700000-7FFFFF     (base 16)		SERNET (SUZHOU) TECHNOLOGIES CORPORATION
