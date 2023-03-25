@@ -12923,6 +12923,12 @@ A0B000-A0BFFF     (base 16)		ambiHome GmbH
 				PORCIA  PORDENONE  330850
 				IT
 
+8C-1F-64   (hex)		CominTech, LLC
+BC1000-BC1FFF     (base 16)		CominTech, LLC
+				ul. Voroshilova, 2
+				Saint-Petersburg    193318
+				RU
+
 8C-1F-64   (hex)		SECURICO ELECTRONICS INDIA LTD
 4D9000-4D9FFF     (base 16)		SECURICO ELECTRONICS INDIA LTD
 				Plot No.4, 14/3, Mathura Road
