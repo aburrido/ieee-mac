@@ -5036,12 +5036,6 @@ C8-8E-D1   (hex)		ROTRONIC AG
 				North Las Vegas  NV  89081
 				US
 
-1C-21-D1   (hex)		Reliatronics Inc.
-800000-8FFFFF     (base 16)		Reliatronics Inc.
-				1858 Ranch Road 3232
-				Johnson City  TX  78636
-				US
-
 DC-44-27   (hex)		General Microsystems Sdn Bhd
 300000-3FFFFF     (base 16)		General Microsystems Sdn Bhd
 				3-17, Jalan USJ 7/3B
@@ -5632,6 +5626,24 @@ A00000-AFFFFF     (base 16)		Tanjarine
 				Room 601, Haige Wireless Technology Building, No.8 Nanxiang Third Road, Science City, Huangpu District, Guangzhou
 				Guangzhou  Guangdong  510000
 				CN
+
+B0-FF-72   (hex)		Jiangxi Xingchi Electronic Technology Co.,Ltd.
+400000-4FFFFF     (base 16)		Jiangxi Xingchi Electronic Technology Co.,Ltd.
+				Building B7, Xiaoju Industrial Park, Zhuliang Town, Nancheng County, Fuzhou City, 
+				Fuzhou    344000
+				CN
+
+B0-FF-72   (hex)		Shenzhen Ruilian Electronic Technology Co.,Ltd
+500000-5FFFFF     (base 16)		Shenzhen Ruilian Electronic Technology Co.,Ltd
+				Kanatomi Lai Business Building, Block A, 1018,49-1 Dabao Road, Xinan Street, Bao'an District,
+				Shenzhen    518101
+				CN
+
+1C-21-D1   (hex)		Cleaveland/Price, Inc.
+800000-8FFFFF     (base 16)		Cleaveland/Price, Inc.
+				14000 Route 993
+				Trafford  PA  15085
+				US
 
 B4-4D-43   (hex)		Spot AI, Inc.
 600000-6FFFFF     (base 16)		Spot AI, Inc.
@@ -10913,6 +10925,24 @@ A4-3B-FA   (hex)		Chengdu Territory Technology Co.,Ltd
 				Bayreuth  Bavaria  95448
 				DE
 
+B0-FF-72   (hex)		Hammerhead Navigation Inc.
+300000-3FFFFF     (base 16)		Hammerhead Navigation Inc.
+				1000 W Fulton Market #4
+				Chicago  IL  60607
+				US
+
+90-F4-21   (hex)		Taichitel Technology Shanghai Co.,Ltd.
+D00000-DFFFFF     (base 16)		Taichitel Technology Shanghai Co.,Ltd.
+				Room 502, Building 1, NO. 519 Yide Road, Pudong New Area, Shanghai, China
+				Shanghai    200124
+				CN
+
+B0-FF-72   (hex)		Tachyon Energy
+600000-6FFFFF     (base 16)		Tachyon Energy
+				8/4 Marii Kapnist
+				Kyiv  Kyiv  03057
+				UA
+
 90-F4-21   (hex)		Proqualit Telecom LTDA
 A00000-AFFFFF     (base 16)		Proqualit Telecom LTDA
 				Avenida João XXIII - Bloco I
@@ -10924,18 +10954,6 @@ A00000-AFFFFF     (base 16)		Proqualit Telecom LTDA
 				119 John Cavanaugh Dr.
 				Carp  ON  K0A 1L0
 				CA
-
-B0-FF-72   (hex)		Tachyon Energy
-600000-6FFFFF     (base 16)		Tachyon Energy
-				8/4 Marii Kapnist
-				Kyiv  Kyiv  03057
-				UA
-
-90-F4-21   (hex)		Taichitel Technology Shanghai Co.,Ltd.
-D00000-DFFFFF     (base 16)		Taichitel Technology Shanghai Co.,Ltd.
-				Room 502, Building 1, NO. 519 Yide Road, Pudong New Area, Shanghai, China
-				Shanghai    200124
-				CN
 
 6C-2A-DF   (hex)		Ademco Inc. dba ADI Global Distribution
 000000-0FFFFF     (base 16)		Ademco Inc. dba ADI Global Distribution
@@ -16754,17 +16772,29 @@ B00000-BFFFFF     (base 16)		Jiangsu MSInfo Technology Co.,Ltd.
 				Wuxi  Jiangsu  214000
 				CN
 
+90-F4-21   (hex)		Wuxi Sunning Smart Devices Co.,Ltd
+600000-6FFFFF     (base 16)		Wuxi Sunning Smart Devices Co.,Ltd
+				No.52, Zone C, Huigu Pioneer Park, Huishan Economic  Development Zone, Wuxi  
+				Wuxi  Jiangsu  214174
+				CN
+
+B0-FF-72   (hex)		ShenYang LeShun Technology Co.,Ltd
+000000-0FFFFF     (base 16)		ShenYang LeShun Technology Co.,Ltd
+				Floor 6, R&D Building, No. 37, Shenbei Road, Shenbei New District, Shenyang
+				ShenYang  LiaoNing   110000
+				CN
+
 8C-14-7D   (hex)		Private
 100000-1FFFFF     (base 16)		Private
 				26561 Rancho Pkwy S
 				LAKE FOREST  CA  92630
 				US
 
-90-F4-21   (hex)		Wuxi Sunning Smart Devices Co.,Ltd
-600000-6FFFFF     (base 16)		Wuxi Sunning Smart Devices Co.,Ltd
-				No.52, Zone C, Huigu Pioneer Park, Huishan Economic  Development Zone, Wuxi  
-				Wuxi  Jiangsu  214174
-				CN
+B0-FF-72   (hex)		Simple Things
+A00000-AFFFFF     (base 16)		Simple Things
+				541 Cowper St.
+				Palo Alto  CA  94301
+				US
 
 B4-4D-43   (hex)		SERNET (SUZHOU) TECHNOLOGIES CORPORATION
 700000-7FFFFF     (base 16)		SERNET (SUZHOU) TECHNOLOGIES CORPORATION
@@ -22304,11 +22334,23 @@ C00000-CFFFFF     (base 16)		ACOBA
 				PARIS  PARIS  75008
 				FR
 
+B0-FF-72   (hex)		JIUYEE?shenzhen) Medical Technology Co.,Ltd
+900000-9FFFFF     (base 16)		JIUYEE?shenzhen) Medical Technology Co.,Ltd
+				Room 1902, Building 1, Changyuan Yujingfeng Building, No. 85, Changyuan 1st Street, Changyuan Community, Taoyuan Street, Nanshan District, Shenzhen
+				Shenzhen  Guangdong  518055
+				CN
+
 90-F4-21   (hex)		Velan Studios Inc.
 E00000-EFFFFF     (base 16)		Velan Studios Inc.
 				#5 3rd StreetSte 300
 				Troy  NY  12180
 				US
+
+B0-FF-72   (hex)		BL Innovare
+700000-7FFFFF     (base 16)		BL Innovare
+				525 Cochrane Drive, Unit E
+				Markham  ON  L3R 8E3
+				CA
 
 80-E4-DA   (hex)		Private
 F00000-FFFFFF     (base 16)		Private

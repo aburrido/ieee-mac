@@ -6473,6 +6473,12 @@ A34000-A34FFF     (base 16)		Potter Electric Signal Co. LLC
 				Hazelwood  MO  63042
 				US
 
+8C-1F-64   (hex)		Kron Medidores
+3A2000-3A2FFF     (base 16)		Kron Medidores
+				Rua Alexandre de Gusmão, 278
+				São Paulo  São Paulo  04760-020
+				BR
+
 8C-1F-64   (hex)		Chemito Infotech PVT LTD
 E23000-E23FFF     (base 16)		Chemito Infotech PVT LTD
 				d1/27 ambad nashik
@@ -12929,6 +12935,12 @@ BC1000-BC1FFF     (base 16)		CominTech, LLC
 				Saint-Petersburg    193318
 				RU
 
+8C-1F-64   (hex)		Elektrotechnik & Elektronik Oltmann GmbH
+AD0000-AD0FFF     (base 16)		Elektrotechnik & Elektronik Oltmann GmbH
+				Gartenfelder Str. 29
+				Berlin    D-13599
+				DE
+
 8C-1F-64   (hex)		SECURICO ELECTRONICS INDIA LTD
 4D9000-4D9FFF     (base 16)		SECURICO ELECTRONICS INDIA LTD
 				Plot No.4, 14/3, Mathura Road
@@ -19345,6 +19357,18 @@ FD1000-FD1FFF     (base 16)		RedRat Ltd
 				596 avenue Antoine Laurent Lavoisier ZA Laprade
 				Saint Germain Laprade    43700
 				FR
+
+8C-1F-64   (hex)		AnySignal
+82F000-82FFFF     (base 16)		AnySignal
+				16421 Halldale Ave
+				Gardena  CA  90247
+				US
+
+8C-1F-64   (hex)		Opdi-tex GmbH
+5D9000-5D9FFF     (base 16)		Opdi-tex GmbH
+				Gewebering, 99
+				Eresing  Deutschland  86922
+				DE
 
 8C-1F-64   (hex)		Indra Heera Technology LLP
 0FE000-0FEFFF     (base 16)		Indra Heera Technology LLP
@@ -26138,12 +26162,6 @@ CBD000-CBDFFF     (base 16)		PREO INDUSTRIES FAR EAST LTD
 				Hong Kong  Kwai Chung, N.T.  999077
 				HK
 
-8C-1F-64   (hex)		PHYSEC GmbH
-C12000-C12FFF     (base 16)		PHYSEC GmbH
-				Universitätsstraße 142
-				Bochum    44799
-				DE
-
 8C-1F-64   (hex)		ELTEK SpA
 56C000-56CFFF     (base 16)		ELTEK SpA
 				Strada Valenza 5/A
@@ -32128,3 +32146,27 @@ D81000-D81FFF     (base 16)		Mitsubishi Electric India Pvt. Ltd.
 				12555 Biscayne Blvd
 				North Miami  FL  33181
 				US
+
+8C-1F-64   (hex)		PHYSEC GmbH
+C12000-C12FFF     (base 16)		PHYSEC GmbH
+				Suttner-Nobel-Allee 7
+				Bochum    44803
+				DE
+
+8C-1F-64   (hex)		Massachusetts Institute of Technology
+8A8000-8A8FFF     (base 16)		Massachusetts Institute of Technology
+				77 Massachusetts AveRoom W92-190
+				Cambridge  MA  02139
+				US
+
+8C-1F-64   (hex)		Magics Technologies
+924000-924FFF     (base 16)		Magics Technologies
+				Cipalstraat 3
+				Geel  Antwerp  2440
+				BE
+
+8C-1F-64   (hex)		Wartsila Voyage Limited
+49B000-49BFFF     (base 16)		Wartsila Voyage Limited
+				13-18 City Quay
+				Dublin 2    D02 ED70
+				IE
