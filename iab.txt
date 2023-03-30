@@ -8234,12 +8234,6 @@ A0F000-A0FFFF                 (base 16)                     Visualware Inc
                                                             Murten  FR  3280                             
                                                             CH                                           
 
-00-50-C2                      (hex)                         Reliatronics Inc.                            
-93B000-93BFFF                 (base 16)                     Reliatronics Inc.                            
-                                                            1858 Ranch Road 3232                         
-                                                            Johnson City  TX  78636                      
-                                                            US                                           
-
 00-50-C2                      (hex)                         Gidel                                        
 906000-906FFF                 (base 16)                     Gidel                                        
                                                             Hailan St 2                                  
@@ -10563,6 +10557,12 @@ A0F000-A0FFFF                 (base 16)                     Visualware Inc
 005000-005FFF                 (base 16)                     GD California, Inc.                          
                                                             1799 Portola Ave.                            
                                                             Livermore  CA  94550                         
+                                                            US                                           
+
+00-50-C2                      (hex)                         Cleaveland/Price, Inc.                       
+93B000-93BFFF                 (base 16)                     Cleaveland/Price, Inc.                       
+                                                            14000 Route 993                              
+                                                            Trafford  PA  15085                          
                                                             US                                           
 
 00-50-C2                      (hex)                         3D perception AS                             
