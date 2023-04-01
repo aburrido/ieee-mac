@@ -9,10 +9,10 @@ MANUFACTURER ID               Organization
 1107                          DongHua Testing Technology Co., Ltd.
 1105                          EnvyLogic Co.,Ltd.
 106                           Dewesoft d.o.o.
-102                           tecsis LP
 105                           IPETRONIK GmbH & Co.KG
-94                            Test GmbH
+102                           tecsis LP
 93                            Monitran
+94                            Test GmbH
 66                            Sinocera Piezotronics, Inc.
 1097                          ETAS
 68                            VIP Sensors
@@ -41,19 +41,19 @@ MANUFACTURER ID               Organization
 107                           Tovey Engineering Inc
 73                            Connection Technology Center
 96                            B&W Sensing Technologies
-64                            MTS Systems Corp.
-76                            The Pinax Group, Inc.
-77                            Kulite Semiconductor Products Inc
 85                            Adcon Telemetry GmbH
 100                           LLC GlobalTest
 88                            Streamline Automation, LLC
+64                            MTS Systems Corp.
+76                            The Pinax Group, Inc.
+77                            Kulite Semiconductor Products Inc
 52                            Pressure Systems
 31                            HBM
 57                            Lorenz Messtechnik GmbH
 18                            The Modal Shop, Inc.
 23                            PCB Piezotronics, Inc.
-38                            Celesco
 50                            Waycon
+38                            Celesco
 28                            Entek IRD
 32                            TEAC
 41                            Watlow
@@ -76,16 +76,16 @@ MANUFACTURER ID               Organization
 80                            Microtech Gefell GmbH
 82                            Studio Technologies, Inc.
 84                            Natec Sensors GmbH
-98                            Proctor & Chester Measurements Ltd
-89                            NTI AG
-95                            ACO, Co., Ltd
 69                            Sensy SA
 78                            Showa Measuring Instruments Co., Ltd
 61                            Metra Mess-und Frequenztechnik Radebeul
-33                            RION CO.
+98                            Proctor & Chester Measurements Ltd
+89                            NTI AG
+95                            ACO, Co., Ltd
 29                            Scitefair International, Inc.
 58                            Kyowa Electronic Instruments Co., Ltd
 27                            Oceana Sensor Technologies
+33                            RION CO.
 39                            Weed Instrument
 43                            Measurement Specialties
 55                            Futek Advanced Sensor Technology, Inc.
@@ -138,12 +138,12 @@ MANUFACTURER ID               Organization
 91                            Fenda Technology Ltd.
 87                            SVANTEK Sp. z.o.o
 86                            LCM Systems Ltd
-99                            HEAD acoustics GmbH
 74                            BSWA Technology Co., Ltd
 62                            Ametek Denmark A/S
 65                            Viatran Corporation
-79                            CEA
 71                            Tokyo Sokki Kenkyujo Co., Ltd
+99                            HEAD acoustics GmbH
+79                            CEA
 60                            Sherborne Sensors Limited
 35                            Dytran Instruments
 30                            National Instruments

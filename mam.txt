@@ -10961,17 +10961,17 @@ A00000-AFFFFF     (base 16)		Proqualit Telecom LTDA
 				Carp  ON  K0A 1L0
 				CA
 
-B0-FF-72   (hex)		ERA RF Technologies
-800000-8FFFFF     (base 16)		ERA RF Technologies
-				1 Teknopark Blvd. 9A 202
-				Pendik  Istanbul  34906
-				TR
-
 B0-FF-72   (hex)		Launch Tech Co., Ltd.
 B00000-BFFFFF     (base 16)		Launch Tech Co., Ltd.
 				Launch Industrial Park, No.4012, North of Wuhe Road, Bantian Street, Longgang District,
 				Shenzhen  Guangdong  518100
 				CN
+
+B0-FF-72   (hex)		ERA RF Technologies
+800000-8FFFFF     (base 16)		ERA RF Technologies
+				1 Teknopark Blvd. 9A 202
+				Pendik  Istanbul  34906
+				TR
 
 6C-2A-DF   (hex)		Ademco Inc. dba ADI Global Distribution
 000000-0FFFFF     (base 16)		Ademco Inc. dba ADI Global Distribution
@@ -22382,6 +22382,12 @@ D00000-DFFFFF     (base 16)		TBB Renewable (Xiamen) Co Ltd
 				Xiamen  Fujian  361027
 				CN
 
+B0-FF-72   (hex)		HANNING & KAHL GmbH & Co. KG
+E00000-EFFFFF     (base 16)		HANNING & KAHL GmbH & Co. KG
+				Rudolf-Diesel-Straße 6
+				Oerlinghausen    33813
+				DE
+
 80-E4-DA   (hex)		Private
 F00000-FFFFFF     (base 16)		Private
 
@@ -28036,3 +28042,9 @@ D0-76-50   (hex)		TAPKO Technologies GmbH
 				E14 & 15 Sector 8
 				Noida  Outside of the US  201301
 				IN
+
+B0-FF-72   (hex)		Hopewheel info.Co.,Ltd.
+C00000-CFFFFF     (base 16)		Hopewheel info.Co.,Ltd.
+				Jinnovation Park, Jiancaicheng Road, Haidian District, Beijing
+				Beijing    100096
+				CN
