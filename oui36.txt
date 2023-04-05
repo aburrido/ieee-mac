@@ -6473,17 +6473,17 @@ A34000-A34FFF     (base 16)		Potter Electric Signal Co. LLC
 				São Paulo  São Paulo  04760-020
 				BR
 
-8C-1F-64   (hex)		Magosys Systems LTD
-E74000-E74FFF     (base 16)		Magosys Systems LTD
-				Gad Feinstein 13
-				Rehovot    7638517
-				IL
-
 70-B3-D5   (hex)		RADAR
 CB1000-CB1FFF     (base 16)		RADAR
 				 15150 Avenue of Science, suite 200
 				San Diego  CA  92128
 				US
+
+8C-1F-64   (hex)		Magosys Systems LTD
+E74000-E74FFF     (base 16)		Magosys Systems LTD
+				Gad Feinstein 13
+				Rehovot    7638517
+				IL
 
 8C-1F-64   (hex)		Chemito Infotech PVT LTD
 E23000-E23FFF     (base 16)		Chemito Infotech PVT LTD
@@ -12952,6 +12952,12 @@ E4B000-E4BFFF     (base 16)		ALGAZIRA TELECOM SOLUTIONS
 				Sudan, Khartoum, Downtown,Waha Mall Offices – 4th Floor, Flat 403
 				Khartoum   Khartoum   11111
 				SD
+
+8C-1F-64   (hex)		Ltec Co.,Ltd
+AE5000-AE5FFF     (base 16)		Ltec Co.,Ltd
+				670-1 Shinpukuji
+				Chiyoda-machi Ora-gun  Gunma  370-0505
+				JP
 
 8C-1F-64   (hex)		Smart Component Technologies Ltd
 2CB000-2CBFFF     (base 16)		Smart Component Technologies Ltd
