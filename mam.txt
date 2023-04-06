@@ -5669,6 +5669,12 @@ BC-31-98   (hex)		Baisstar (Shenzhen) Intelligence Co., Ltd.
 				Shenzhen  Guangdong  518000
 				CN
 
+BC-31-98   (hex)		RADAR
+E00000-EFFFFF     (base 16)		RADAR
+				 15150 Avenue of Science, suite 200
+				San Diego  CA  92128
+				US
+
 B4-4D-43   (hex)		Spot AI, Inc.
 600000-6FFFFF     (base 16)		Spot AI, Inc.
 				1350 Old Bayshore Hwy #920
@@ -10990,6 +10996,12 @@ B0-FF-72   (hex)		ERA RF Technologies
 				1 Teknopark Blvd. 9A 202
 				Pendik  Istanbul  34906
 				TR
+
+BC-31-98   (hex)		Shanghai Sigen New Energy Technology Co., Ltd
+D00000-DFFFFF     (base 16)		Shanghai Sigen New Energy Technology Co., Ltd
+				Room 514 The 5th Floor, No.175 Weizhan Road China (Shanghai) Plilot Free Trade Zone
+				Shanghai    201306
+				CN
 
 6C-2A-DF   (hex)		Ademco Inc. dba ADI Global Distribution
 000000-0FFFFF     (base 16)		Ademco Inc. dba ADI Global Distribution
@@ -16844,6 +16856,18 @@ BC-31-98   (hex)		THINKCAR TECH CO.,LTD.
 				Shenzhen  Guangdong  518000
 				CN
 
+BC-31-98   (hex)		Zhejiang Delixi Electric Appliance Co., Ltd
+700000-7FFFFF     (base 16)		Zhejiang Delixi Electric Appliance Co., Ltd
+				Delixi Hutou Industrial Park (joint-stock company), No. 155 Zhandong Road, Dianhou Village, Liushi Town, Yueqing City, Wenzhou City
+				Wenzhou  Zhejiang  325088
+				CN
+
+BC-31-98   (hex)		JSC Megapolis-telecom region
+200000-2FFFFF     (base 16)		JSC Megapolis-telecom region
+				Dekabrkih sobitiy, 100
+				Irkutsk    664007
+				RU
+
 B4-4D-43   (hex)		SERNET (SUZHOU) TECHNOLOGIES CORPORATION
 700000-7FFFFF     (base 16)		SERNET (SUZHOU) TECHNOLOGIES CORPORATION
 				NO.8 Tangzhuang Road,Suzhou Industrial Park,Su ZhouCity,JiangSu Province,China
@@ -22417,6 +22441,18 @@ BC-31-98   (hex)		Temposonics,LLC
 				3001 Sheldon Drive
 				Cary  NC  27513
 				US
+
+BC-31-98   (hex)		Chongqing e-skybest ELECT CO.,LIMITED
+400000-4FFFFF     (base 16)		Chongqing e-skybest ELECT CO.,LIMITED
+				Second Floor, building No. 7,Phase??Standard Workshop, South District, Zitong Street Industrial Park, Tongnan District, Chongqing
+				Chongqing    400000
+				CN
+
+BC-31-98   (hex)		ntc mekhanotronnika
+600000-6FFFFF     (base 16)		ntc mekhanotronnika
+				Pionerstroya str., build 23a
+				Saint-Petersburg  Select State  198206
+				RU
 
 80-E4-DA   (hex)		Private
 F00000-FFFFFF     (base 16)		Private
@@ -28073,10 +28109,22 @@ D0-76-50   (hex)		TAPKO Technologies GmbH
 				Noida  Outside of the US  201301
 				IN
 
-B0-FF-72   (hex)		Hopewheel info.Co.,Ltd.
-C00000-CFFFFF     (base 16)		Hopewheel info.Co.,Ltd.
-				Jinnovation Park, Jiancaicheng Road, Haidian District, Beijing
-				Beijing    100096
+BC-31-98   (hex)		Innoflight, Inc.
+C00000-CFFFFF     (base 16)		Innoflight, Inc.
+				9985 Pacific Heights Blvd, Suite 250
+				San Diego  CA  92121
+				US
+
+BC-31-98   (hex)		FUJITSU COMPONENT LIMIED
+A00000-AFFFFF     (base 16)		FUJITSU COMPONENT LIMIED
+				Shinagawa Seaside Park Tower, 12-4, Higashi-shinagawa 4-chome,
+				Shinagawa-ku  Tokyo  140-0002
+				JP
+
+BC-31-98   (hex)		Shenzhen Qichang Intelligent Technology Co., Ltd.
+300000-3FFFFF     (base 16)		Shenzhen Qichang Intelligent Technology Co., Ltd.
+				Room 510, Building 7, Yunli Smart Park, Bantian Street, Longgang District
+				Shenzhen  Guangdong  518000
 				CN
 
 BC-31-98   (hex)		swiss-sonic Ultraschall AG
@@ -28085,8 +28133,8 @@ BC-31-98   (hex)		swiss-sonic Ultraschall AG
 				Arbon    9320
 				CH
 
-BC-31-98   (hex)		FUJITSU COMPONENT LIMIED
-A00000-AFFFFF     (base 16)		FUJITSU COMPONENT LIMIED
-				Shinagawa Seaside Park Tower, 12-4, Higashi-shinagawa 4-chome,
-				Shinagawa-ku  Tokyo  140-0002
-				JP
+B0-FF-72   (hex)		Hopewheel info.Co.,Ltd.
+C00000-CFFFFF     (base 16)		Hopewheel info.Co.,Ltd.
+				Jinnovation Park, Jiancaicheng Road, Haidian District, Beijing
+				Beijing    100096
+				CN
