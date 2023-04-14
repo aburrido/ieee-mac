@@ -152,3 +152,4 @@ MANUFACTURER ID               Organization
 48                            RDP Electronics
 56                            Knick Elektronische Messgeraete GmbH Co. KG
 21                            Wilcoxon Research
+6900                          Shandong Liensi Intelligent Technology Co.,Ltd

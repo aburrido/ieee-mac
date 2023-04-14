@@ -12977,17 +12977,17 @@ AE5000-AE5FFF     (base 16)		Ltec Co.,Ltd
 				Chiyoda-machi Ora-gun  Gunma  370-0505
 				JP
 
-8C-1F-64   (hex)		Engage Technologies
-1A0000-1A0FFF     (base 16)		Engage Technologies
-				7041 Boone Avenue North
-				Brooklyn Park  MN  55428
-				US
-
 8C-1F-64   (hex)		PAN Business & Consulting (ANYOS]
 98C000-98CFFF     (base 16)		PAN Business & Consulting (ANYOS]
 				LD Les Combet Hauts
 				Briatexte  Select State  81390
 				FR
+
+8C-1F-64   (hex)		Engage Technologies
+1A0000-1A0FFF     (base 16)		Engage Technologies
+				7041 Boone Avenue North
+				Brooklyn Park  MN  55428
+				US
 
 8C-1F-64   (hex)		SECURICO ELECTRONICS INDIA LTD
 4D9000-4D9FFF     (base 16)		SECURICO ELECTRONICS INDIA LTD
@@ -19435,6 +19435,18 @@ FD1000-FD1FFF     (base 16)		RedRat Ltd
 				Tower East 30F, Umeda Sky Building, 1-1-88, Oyodonaka, 
 				Kita-Ku, Osaka  Osaka  531-6030
 				JP
+
+8C-1F-64   (hex)		FRAKO Kondensatoren- und Anlagenbau GmbH
+3D5000-3D5FFF     (base 16)		FRAKO Kondensatoren- und Anlagenbau GmbH
+				Tscheulinstrasse 21 a
+				Teningen    79331
+				DE
+
+8C-1F-64   (hex)		Sigma Defense Systems LLC
+EF5000-EF5FFF     (base 16)		Sigma Defense Systems LLC
+				151 Fries Mill Rd, Suite 506B
+				Turnersville  NJ  08012
+				US
 
 8C-1F-64   (hex)		Indra Heera Technology LLP
 0FE000-0FEFFF     (base 16)		Indra Heera Technology LLP
