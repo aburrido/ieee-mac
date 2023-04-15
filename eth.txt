@@ -3422,12 +3422,6 @@ A580                          Siemens Gammasonics                               
                               US                                                                                                       
 
 
-034A                          IEEE 802.1 Chair                                                                                         Wake-on-LAN (WoL) as described in IEEE Std. 802
-                               c/o RAC Administrator , IEEE                                                                            
-                              Piscataway  NJ  08554                                                                                    
-                              US                                                                                                       
-
-
 8921                          Cisco Systems, Inc                                                                                       Decline to disclose. Cisco Proprietary
                               3850 Zanker Rd.                                                                                          
                               San Jose  CA  95134                                                                                      
@@ -13847,6 +13841,12 @@ C021                          University of Berkeley                            
 6007                          DEC                                                                                                      Protocol unavailable.
                               1925 Andover St.                                                                                         
                               Tewksbury  MA  01876                                                                                     
+                              US                                                                                                       
+
+
+0842                          IEEE 802.1 Chair                                                                                         Wake-on-LAN (WoL) as described in IEEE Std. 802
+                               c/o RAC Administrator , IEEE                                                                            
+                              Piscataway  NJ  08554                                                                                    
                               US                                                                                                       
 
 

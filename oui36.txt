@@ -19430,12 +19430,6 @@ FD1000-FD1FFF     (base 16)		RedRat Ltd
 				Smithsburg    21783
 				US
 
-8C-1F-64   (hex)		Xacti Corporation
-605000-605FFF     (base 16)		Xacti Corporation
-				Tower East 30F, Umeda Sky Building, 1-1-88, Oyodonaka, 
-				Kita-Ku, Osaka  Osaka  531-6030
-				JP
-
 8C-1F-64   (hex)		FRAKO Kondensatoren- und Anlagenbau GmbH
 3D5000-3D5FFF     (base 16)		FRAKO Kondensatoren- und Anlagenbau GmbH
 				Tscheulinstrasse 21 a
@@ -19447,6 +19441,12 @@ EF5000-EF5FFF     (base 16)		Sigma Defense Systems LLC
 				151 Fries Mill Rd, Suite 506B
 				Turnersville  NJ  08012
 				US
+
+8C-1F-64   (hex)		Xacti Corporation
+605000-605FFF     (base 16)		Xacti Corporation
+				Tower East 30F, Umeda Sky Building, 1-1-88, Oyodonaka, 
+				Kita-Ku, Osaka  Osaka  531-6030
+				JP
 
 8C-1F-64   (hex)		Indra Heera Technology LLP
 0FE000-0FEFFF     (base 16)		Indra Heera Technology LLP
@@ -25925,11 +25925,11 @@ D8F000-D8FFFF     (base 16)		DEUTA-WERKE GmbH
 				Bergisch Gladbach  North Rhine-Westphalia  51465
 				DE
 
-8C-1F-64   (hex)		SafelyYou
-0F1000-0F1FFF     (base 16)		SafelyYou
-				36 Clyde St
-				San Francisco  CA  94107
-				US
+8C-1F-64   (hex)		Phe-nX B.V.
+989000-989FFF     (base 16)		Phe-nX B.V.
+				Maccallastraat 5
+				Helmond    5708KS
+				NL
 
 8C-1F-64   (hex)		Hiwin Mikrosystem Corp.
 52A000-52AFFF     (base 16)		Hiwin Mikrosystem Corp.
@@ -32281,3 +32281,9 @@ D24000-D24FFF     (base 16)		R3 IoT Ltd.
 				Lilienthalstraße 5
 				Puchheim    82178
 				DE
+
+8C-1F-64   (hex)		ViewSonic Corp
+A3F000-A3FFFF     (base 16)		ViewSonic Corp
+				10 Point Drive Brea, CA 92821 USA
+				LA  CA  92821
+				US
