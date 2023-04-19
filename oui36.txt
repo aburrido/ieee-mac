@@ -20045,9 +20045,6 @@ CAF000-CAFFFF     (base 16)		BRS Sistemas Eletrônicos
 				Porto Alegre  RS  91380-000
 				BR
 
-70-B3-D5   (hex)		Private
-389000-389FFF     (base 16)		Private
-
 8C-1F-64   (hex)		DORLET SAU
 1BD000-1BDFFF     (base 16)		DORLET SAU
 				Albert Eistein 34
@@ -25936,6 +25933,24 @@ D8F000-D8FFFF     (base 16)		DEUTA-WERKE GmbH
 				Maccallastraat 5
 				Helmond    5708KS
 				NL
+
+70-B3-D5   (hex)		2KLIC inc.
+389000-389FFF     (base 16)		2KLIC inc.
+				1235 boulevard Dagenais ouest
+				Laval  Quebec  H7L 0A5
+				CA
+
+8C-1F-64   (hex)		MAHINDR & MAHINDRA
+5CD000-5CDFFF     (base 16)		MAHINDR & MAHINDRA
+				Electric Aggregate Plant, Gate No. – A/B, Plot No. A-1, Phase IV, Chakan MIDC, Pune, Chakan, Taluka – Khed
+				Pune  Maharashtra  410501
+				IN
+
+8C-1F-64   (hex)		TargaSystem S.r.L.
+77F000-77FFFF     (base 16)		TargaSystem S.r.L.
+				Via Circonvallazione Clodia 165-167
+				Roma    00195
+				IT
 
 8C-1F-64   (hex)		Hiwin Mikrosystem Corp.
 52A000-52AFFF     (base 16)		Hiwin Mikrosystem Corp.
