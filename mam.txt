@@ -11051,6 +11051,18 @@ C8-6B-BC   (hex)		SafelyYou
 				 Taipei   Taipei  221
 				TW
 
+58-C4-1E   (hex)		Lemco IKE
+300000-3FFFFF     (base 16)		Lemco IKE
+				Latheas 46 Acharnes
+				Athens  Attiki  13678
+				GR
+
+58-C4-1E   (hex)		Pulse Structural Monitoring Ltd
+B00000-BFFFFF     (base 16)		Pulse Structural Monitoring Ltd
+				1-7 Cherry Street
+				Woking  Hampshire  GU21 6EE
+				GB
+
 6C-2A-DF   (hex)		WeatherFlow-Tempest, Inc
 E00000-EFFFFF     (base 16)		WeatherFlow-Tempest, Inc
 				108 Whispering Pine Dr#245
@@ -16945,6 +16957,12 @@ E00000-EFFFFF     (base 16)		Waterkotte GmbH
 				Gewerkenstr. 15
 				Herne    44628
 				DE
+
+58-C4-1E   (hex)		Xiaomi EV Technology Co., Ltd.
+800000-8FFFFF     (base 16)		Xiaomi EV Technology Co., Ltd.
+				Room 618, Floor 6, Building 5, Yard 15, Kechuang Tenth Street, Beijing Economic and Technological Development Zone, Beijing
+				Beijing  Beijing  100176
+				CN
 
 B4-4D-43   (hex)		halstrup-walcher GmbH
 500000-5FFFFF     (base 16)		halstrup-walcher GmbH
@@ -28278,4 +28296,10 @@ C8-6B-BC   (hex)		Vipaks + Ltd
 500000-5FFFFF     (base 16)		Zhejiang Cainiao Supply Chain Management Co.,Ltd
 				Block B1,XIXI center,No.588 West Wenyi Road,Xihu District
 				Hangzhou  Zhejiang  310000
+				CN
+
+58-C4-1E   (hex)		JLZTLink Industry ?Shen Zhen?Co., Ltd.
+100000-1FFFFF     (base 16)		JLZTLink Industry ?Shen Zhen?Co., Ltd.
+				401, 4th Floor, Mars Building, D Building, Liancheng Fasheng Optoelectronic Smart Industrial Park, Sanwei Community, Hangcheng Street, Bao'an District,
+				Shenzhen  Guangdong  518102
 				CN
