@@ -16958,11 +16958,23 @@ E00000-EFFFFF     (base 16)		Waterkotte GmbH
 				Herne    44628
 				DE
 
+68-DA-73   (hex)		Shenzhen Xin hang xian Electronics Co., LTD
+500000-5FFFFF     (base 16)		Shenzhen Xin hang xian Electronics Co., LTD
+				410, Information Building, Baoyunda Logistics Center, Fuhua Community, Xixiang Street, Baoan District
+				Shenzhen  Guangdong  518102
+				CN
+
 58-C4-1E   (hex)		Xiaomi EV Technology Co., Ltd.
 800000-8FFFFF     (base 16)		Xiaomi EV Technology Co., Ltd.
 				Room 618, Floor 6, Building 5, Yard 15, Kechuang Tenth Street, Beijing Economic and Technological Development Zone, Beijing
 				Beijing  Beijing  100176
 				CN
+
+58-C4-1E   (hex)		Truesense Srl
+200000-2FFFFF     (base 16)		Truesense Srl
+				Viale Lombardia 217
+				Monza  MB  20900
+				IT
 
 B4-4D-43   (hex)		halstrup-walcher GmbH
 500000-5FFFFF     (base 16)		halstrup-walcher GmbH
@@ -28302,4 +28314,16 @@ C8-6B-BC   (hex)		Vipaks + Ltd
 100000-1FFFFF     (base 16)		JLZTLink Industry ?Shen Zhen?Co., Ltd.
 				401, 4th Floor, Mars Building, D Building, Liancheng Fasheng Optoelectronic Smart Industrial Park, Sanwei Community, Hangcheng Street, Bao'an District,
 				Shenzhen  Guangdong  518102
+				CN
+
+68-DA-73   (hex)		Sichuan GFS Information Technology Co.Ltd
+D00000-DFFFFF     (base 16)		Sichuan GFS Information Technology Co.Ltd
+				4th Floor, Building A, Hangli Building, No. 10, Gaopeng Avenue, High-tech Zone
+				Chengdu    610093
+				CN
+
+58-C4-1E   (hex)		Beijing Qiangyun Innovation Technology Co.,Ltd
+E00000-EFFFFF     (base 16)		Beijing Qiangyun Innovation Technology Co.,Ltd
+				Huilongguan Town,Changping District
+				Beijing    102208
 				CN
