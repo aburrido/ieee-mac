@@ -5699,6 +5699,18 @@ D00000-DFFFFF     (base 16)		Munich Electrification GmbH
 				Munich    81373
 				DE
 
+68-DA-73   (hex)		Shenzhen Haiyingzhilian Industrial Co., Ltd.
+A00000-AFFFFF     (base 16)		Shenzhen Haiyingzhilian Industrial Co., Ltd.
+				2-5/F? #8FactoryBld?Yu'an Factory Area ?LongchengIndustryPark?Gao feng Community ?Dalang Street ?LonghuaDisrict
+				Shenzhen  Guangdong  518000
+				CN
+
+68-DA-73   (hex)		Nadex Machinery(Shanghai) Co.,Ltd
+900000-9FFFFF     (base 16)		Nadex Machinery(Shanghai) Co.,Ltd
+				No. 815 Shen Fu Road Xinzhuang Industry Park
+				Shanghai    201108
+				CN
+
 B4-4D-43   (hex)		Spot AI, Inc.
 600000-6FFFFF     (base 16)		Spot AI, Inc.
 				1350 Old Bayshore Hwy #920
@@ -11062,6 +11074,12 @@ B00000-BFFFFF     (base 16)		Pulse Structural Monitoring Ltd
 				Latheas 46 Acharnes
 				Athens  Attiki  13678
 				GR
+
+68-DA-73   (hex)		DTEN Inc.
+100000-1FFFFF     (base 16)		DTEN Inc.
+				97 E Brokaw Rd, Ste 180
+				San Jose  CA  95112-1032____
+				US
 
 6C-2A-DF   (hex)		Ademco Inc. dba ADI Global Distribution
 000000-0FFFFF     (base 16)		Ademco Inc. dba ADI Global Distribution
@@ -16958,16 +16976,16 @@ E00000-EFFFFF     (base 16)		Waterkotte GmbH
 				Herne    44628
 				DE
 
-58-C4-1E   (hex)		Xiaomi EV Technology Co., Ltd.
-800000-8FFFFF     (base 16)		Xiaomi EV Technology Co., Ltd.
-				Room 618, Floor 6, Building 5, Yard 15, Kechuang Tenth Street, Beijing Economic and Technological Development Zone, Beijing
-				Beijing  Beijing  100176
-				CN
-
 68-DA-73   (hex)		Shenzhen Xin hang xian Electronics Co., LTD
 500000-5FFFFF     (base 16)		Shenzhen Xin hang xian Electronics Co., LTD
 				410, Information Building, Baoyunda Logistics Center, Fuhua Community, Xixiang Street, Baoan District
 				Shenzhen  Guangdong  518102
+				CN
+
+58-C4-1E   (hex)		Xiaomi EV Technology Co., Ltd.
+800000-8FFFFF     (base 16)		Xiaomi EV Technology Co., Ltd.
+				Room 618, Floor 6, Building 5, Yard 15, Kechuang Tenth Street, Beijing Economic and Technological Development Zone, Beijing
+				Beijing  Beijing  100176
 				CN
 
 58-C4-1E   (hex)		Truesense Srl
@@ -28327,3 +28345,9 @@ E00000-EFFFFF     (base 16)		Beijing Qiangyun Innovation Technology Co.,Ltd
 				Block B1,XIXI center,No.588 West Wenyi Road,Xihu District
 				Hangzhou  Zhejiang  310000
 				CN
+
+68-DA-73   (hex)		Softronics Ltd
+300000-3FFFFF     (base 16)		Softronics Ltd
+				1080 East Post Road
+				Marion  IA  52302
+				US

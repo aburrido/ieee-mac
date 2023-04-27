@@ -13013,6 +13013,12 @@ F53000-F53FFF     (base 16)		Beckman Coulter Inc
 				Loveland  CO  80538
 				US
 
+8C-1F-64   (hex)		LDA Audiotech
+67E000-67EFFF     (base 16)		LDA Audiotech
+				C/Severo Ochoa, 31
+				Malaga  Malaga  29590
+				ES
+
 8C-1F-64   (hex)		SECURICO ELECTRONICS INDIA LTD
 4D9000-4D9FFF     (base 16)		SECURICO ELECTRONICS INDIA LTD
 				Plot No.4, 14/3, Mathura Road
@@ -19483,6 +19489,12 @@ E1E000-E1EFFF     (base 16)		Flextronics International Kft
 				20020 State Road
 				Cerritos  CA  90703
 				US
+
+8C-1F-64   (hex)		DRIMAES INC.
+838000-838FFF     (base 16)		DRIMAES INC.
+				#301, 19, Seongsuil-ro, Seongdong-gu
+				SEOUL    04779
+				KR
 
 8C-1F-64   (hex)		Indra Heera Technology LLP
 0FE000-0FEFFF     (base 16)		Indra Heera Technology LLP
@@ -25999,6 +26011,12 @@ D8F000-D8FFFF     (base 16)		DEUTA-WERKE GmbH
 				Südfeld 9
 				Ascheberg / Herbern    58387
 				DE
+
+8C-1F-64   (hex)		Ascon Tecnologic S.r.l.
+7C7000-7C7FFF     (base 16)		Ascon Tecnologic S.r.l.
+				via Indipendenza, 56
+				Vigevano  PV  27029
+				IT
 
 8C-1F-64   (hex)		Hiwin Mikrosystem Corp.
 52A000-52AFFF     (base 16)		Hiwin Mikrosystem Corp.
