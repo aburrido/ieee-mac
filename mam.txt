@@ -11081,6 +11081,12 @@ B00000-BFFFFF     (base 16)		Pulse Structural Monitoring Ltd
 				San Jose  CA  95112-1032____
 				US
 
+68-DA-73   (hex)		Global Networks ZEN-EI Co., Ltd
+600000-6FFFFF     (base 16)		Global Networks ZEN-EI Co., Ltd
+				Yurakucho Denki Bldg, South Wing 17F
+				Tokyo    100-0006
+				JP
+
 6C-2A-DF   (hex)		Ademco Inc. dba ADI Global Distribution
 000000-0FFFFF     (base 16)		Ademco Inc. dba ADI Global Distribution
 				275 Broadhollow Road Suite 400 Melville,
@@ -28351,3 +28357,9 @@ E00000-EFFFFF     (base 16)		Beijing Qiangyun Innovation Technology Co.,Ltd
 				1080 East Post Road
 				Marion  IA  52302
 				US
+
+68-DA-73   (hex)		SHENZHEN ALLDOCUBE SCIENCE AND TECHNOLOGY CO., LTD.
+200000-2FFFFF     (base 16)		SHENZHEN ALLDOCUBE SCIENCE AND TECHNOLOGY CO., LTD.
+				1 Floor, A building,3rd factory,Yujianfeng lndusrty park,289# Huafan Road,Tongsheng community,Dalang,Longhua District,
+				shenzhen  Guangdong  518100
+				CN
