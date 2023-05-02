@@ -17006,6 +17006,12 @@ E00000-EFFFFF     (base 16)		Waterkotte GmbH
 				Monza  MB  20900
 				IT
 
+68-DA-73   (hex)		Haven Lighting
+700000-7FFFFF     (base 16)		Haven Lighting
+				2691 Circleport DriveSuite A
+				Erlanger  KY  41018
+				US
+
 B4-4D-43   (hex)		halstrup-walcher GmbH
 500000-5FFFFF     (base 16)		halstrup-walcher GmbH
 				Stegener Straße 10
