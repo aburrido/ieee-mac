@@ -146,12 +146,6 @@ E0-3C-1C   (hex)		Jiangsu Riying Electronics Co.,Ltd.
 				Changzhou    213119
 				CN
 
-D0-16-F0   (hex)		BBPOS International Limited
-E00000-EFFFFF     (base 16)		BBPOS International Limited
-				Suite 1602, Tower 2, Nina Tower, 8 Yeung Uk Road, Tsuen Wan, NT
-				Hong Kong  China  00000
-				HK
-
 E8-18-63   (hex)		Private
 F00000-FFFFFF     (base 16)		Private
 
@@ -4664,12 +4658,6 @@ B00000-BFFFFF     (base 16)		Altis Technology
 				Hong Kong    0000
 				HK
 
-CC-D3-1E   (hex)		BBPOS International Limited
-600000-6FFFFF     (base 16)		BBPOS International Limited
-				Suite 1602, Tower 2, Nina Tower, 8 Yeung Uk Road, Tsuen Wan, NT
-				Hong Kong  China  00000
-				HK
-
 C4-7C-8D   (hex)		HHCC Plant Technology Co.,Ltd.
 600000-6FFFFF     (base 16)		HHCC Plant Technology Co.,Ltd.
 				Floor 12,A build ,Shuguang Plaza, Jingshun road, Chaoyang district
@@ -5710,6 +5698,18 @@ A00000-AFFFFF     (base 16)		Shenzhen Haiyingzhilian Industrial Co., Ltd.
 				No. 815 Shen Fu Road Xinzhuang Industry Park
 				Shanghai    201108
 				CN
+
+CC-D3-1E   (hex)		BBPOS Limited
+600000-6FFFFF     (base 16)		BBPOS Limited
+				Suite 1602, Tower 2, Nina Tower, 8 Yeung Uk Road, Tsuen Wan, NT
+				Hong Kong  China  00000
+				HK
+
+D0-16-F0   (hex)		BBPOS Limited
+E00000-EFFFFF     (base 16)		BBPOS Limited
+				Suite 1602, Tower 2, Nina Tower, 8 Yeung Uk Road, Tsuen Wan, NT
+				Hong Kong  China  00000
+				HK
 
 B4-4D-43   (hex)		Spot AI, Inc.
 600000-6FFFFF     (base 16)		Spot AI, Inc.
@@ -11092,6 +11092,12 @@ B00000-BFFFFF     (base 16)		Pulse Structural Monitoring Ltd
 				Augustenborg Landevej 19
 				Sønderborg    6400
 				DK
+
+68-DA-73   (hex)		Synamedia
+E00000-EFFFFF     (base 16)		Synamedia
+				One London Rd, Staines TW18 4EX
+				Staines  Staines  TW184EX
+				GB
 
 6C-2A-DF   (hex)		WeatherFlow-Tempest, Inc
 E00000-EFFFFF     (base 16)		WeatherFlow-Tempest, Inc
@@ -23984,12 +23990,6 @@ E00000-EFFFFF     (base 16)		HEITEC AG
 				Erlangen  Please select state  91052
 				DE
 
-C8-F5-D6   (hex)		BBPOS International Limited
-300000-3FFFFF     (base 16)		BBPOS International Limited
-				Suite 1602, Tower 2, Nina Tower, 8 Yeung Uk Road, Tsuen Wan, NT
-				Hong Kong  China  00000
-				HK
-
 C8-F5-D6   (hex)		HENAN FOXSTAR DIGITAL DISPLAY Co.,Ltd.
 A00000-AFFFFF     (base 16)		HENAN FOXSTAR DIGITAL DISPLAY Co.,Ltd.
 				No. 7 Bldg., Yulong Block, Longsheng Road, Optronic Industry Area, Nanyang,Henan,P.R.China
@@ -25201,12 +25201,6 @@ B00000-BFFFFF     (base 16)		Eyeball Fintech Company
 				Rm. 545, 5F., No. 19-11, Sanchong Rd., Nangang Dist.
 				Taipei City  Taiwan  11501
 				TW
-
-10-DC-B6   (hex)		BBPOS International Limited
-C00000-CFFFFF     (base 16)		BBPOS International Limited
-				Suite 1602, Tower 2, Nina Tower, 8 Yeung Uk Road, Tsuen Wan, NT
-				Hong Kong  China  00000
-				HK
 
 10-DC-B6   (hex)		LeoLabs
 D00000-DFFFFF     (base 16)		LeoLabs
@@ -28399,3 +28393,15 @@ C00000-CFFFFF     (base 16)		Delta Surge Inc.
 				1 Floor, A building,3rd factory,Yujianfeng lndusrty park,289# Huafan Road,Tongsheng community,Dalang,Longhua District,
 				shenzhen  Guangdong  518100
 				CN
+
+10-DC-B6   (hex)		BBPOS Limited
+C00000-CFFFFF     (base 16)		BBPOS Limited
+				Suite 1602, Tower 2, Nina Tower, 8 Yeung Uk Road, Tsuen Wan, NT
+				Hong Kong  China  00000
+				HK
+
+C8-F5-D6   (hex)		BBPOS Limited
+300000-3FFFFF     (base 16)		BBPOS Limited
+				Suite 1602, Tower 2, Nina Tower, 8 Yeung Uk Road, Tsuen Wan, NT
+				Hong Kong  China  00000
+				HK
