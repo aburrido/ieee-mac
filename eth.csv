@@ -116,55 +116,6 @@ Ethertype,8779,Intel Corporation,2111 NE 25 Ave Hillsboro OR US 97124 ,Protocol 
 Ethertype,877B,Intel Corporation,2111 NE 25 Ave Hillsboro OR US 97124 ,Protocol unavailable.
 Ethertype,883E,"Cisco Systems, Inc",170 West Tasman Drive San Jose CA US 95134-1706 ,Protocol unavailable.
 Ethertype,8841,"Cisco Systems, Inc",170 West Tasman Drive San Jose CA US 95134-1706 ,Protocol unavailable.
-Ethertype,01DE,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,"=""01E8""",Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,"=""01E9""",Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,01EA,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,01F0,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,01F1,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,01F5,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,01F8,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,01F9,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,01A6,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,01AC,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,01AD,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,01B3,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,01B9,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,01BE,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,01BF,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,011E,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,011F,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,0120,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,0124,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,012A,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,012F,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,0135,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,0102,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,010A,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,010C,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,010E,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,010F,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,0116,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,0143,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,0146,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,0147,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,014A,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,014C,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,0151,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,018B,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,0196,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,0199,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,01A3,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,01C3,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,01D5,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,01D7,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,01DD,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,015A,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,0161,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,0167,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,017A,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,0185,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,0200,Private,,Protocol unavailable.
 Ethertype,8049,Private,,Protocol unavailable.
 Ethertype,8060,Private,,Protocol unavailable.
 Ethertype,0B01,Universitiy of Berkeley,   US  ,Protocol unavailable.
@@ -755,6 +706,55 @@ Ethertype,8687,"Walker Richer & Quinn, Inc.", Seattle WA US  ,Protocol unavailab
 Ethertype,8688,"Walker Richer & Quinn, Inc.", Seattle WA US  ,Protocol unavailable.
 Ethertype,868B,"Walker Richer & Quinn, Inc.", Seattle WA US  ,Protocol unavailable.
 Ethertype,8692,"Walker Richer & Quinn, Inc.", Seattle WA US  ,Protocol unavailable.
+Ethertype,0200,Private,,Invalid as an EtherType value since 1983
+Ethertype,0143,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,0146,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,0147,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,014A,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,014C,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,011E,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,011F,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,0120,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,0124,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,010A,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,010C,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,010E,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,010F,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,012A,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,012F,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,0135,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,0151,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,015A,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,0161,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,0167,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,0102,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,0116,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,017A,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,"=""01E8""",Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,"=""01E9""",Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,01EA,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,01F0,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,01F1,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,01AC,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,01AD,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,01B3,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,01B9,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,01BE,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,01BF,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,01C3,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,01F5,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,01F8,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,01F9,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,01D5,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,01D7,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,01DD,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,01DE,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,01A3,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,01A6,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,0185,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,018B,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,0196,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,0199,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
 Ethertype,8921,"Cisco Systems, Inc",3850 Zanker Rd. San Jose CA US 95134 ,Decline to disclose. Cisco Proprietary
 Ethertype,891E,CipherOptics,701 Corporate Center Drive Raleigh NC US 27607 ,"CipherOptics does not currently wish to disclose this protocol but may desire to do so in the future.
 
@@ -836,7 +836,6 @@ Ethertype,8211,"Xyplex, Inc.",330 Codman Hill Road Boxborough MA US 01719 ,Proto
 Ethertype,8213,"Xyplex, Inc.",330 Codman Hill Road Boxborough MA US 01719 ,Protocol unavailable.
 Ethertype,8214,"Xyplex, Inc.",330 Codman Hill Road Boxborough MA US 01719 ,Protocol unavailable.
 Ethertype,8215,"Xyplex, Inc.",330 Codman Hill Road Boxborough MA US 01719 ,Protocol unavailable.
-Ethertype,0400,Private,,Protocol unavailable.
 Ethertype,8918,"Hangzhou H3C Technologies Co., Limited","Oriental Electronics Bldg., #2, Chuangye RoadÂ£Â¬Shangdi Information Industry Base,Haidian District, Beijing Beijing CN 100085 ",Protocol unavailable
 Ethertype,81FB,"Cabletron Systems, Inc.",35 Industrial Way Rochester NH US 03867 ,Protocol unavailable.
 Ethertype,81FF,"Cabletron Systems, Inc.",35 Industrial Way Rochester NH US 03867 ,Protocol unavailable.
@@ -856,61 +855,13 @@ Ethertype,877F,Intel Corporation,2111 NE 25 Ave Hillsboro OR US 97124 ,Protocol 
 Ethertype,88A7,"HUAWEI TECHNOLOGIES CO.,LTD","8F, Huadian R&D Building Shenzhen Guangdong CN 518129 ",Protocol unavailable.
 Ethertype,88C1,Avaya Inc,360 Mt Kemble Ave Morristown NJ US 07960 ,Protocol unavailable.
 Ethertype,88BB,"Cisco Systems, Inc",170 W. Tasman Drive San Jose CA US 95134 ,Protocol unavailable.
-Ethertype,011D,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,0129,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,0130,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,0132,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,0133,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,0103,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,0114,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,0115,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,0119,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,011B,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,01FA,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
 Ethertype,8065,Private,,Protocol unavailable.
 Ethertype,0B03,Universitiy of Berkeley,   US  ,Protocol unavailable.
 Ethertype,0B06,Universitiy of Berkeley,   US  ,Protocol unavailable.
 Ethertype,8015,Private,,Protocol unavailable.
-Ethertype,0139,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,013A,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,013E,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,0148,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,0149,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,014D,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,0150,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
 Ethertype,8016,Private,,Protocol unavailable.
 Ethertype,80F1,"Xyvision, Inc.",101 Edgewater Drive Wakefield MA US 01880 ,Protocol unavailable.
 Ethertype,8785,Private,,Protocol unavailable.
-Ethertype,015B,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,015C,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,0160,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,016A,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,016B,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,016C,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,0174,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,0178,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,017D,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,017E,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,0184,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,0187,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,0192,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,0193,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,019E,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,019F,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,01A4,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,"=""01E0""",Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,"=""01E3""",Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,01F2,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,01F4,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,01F6,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,01C9,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,01D1,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,01D4,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,01DC,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,01AA,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,01AB,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,01BA,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,01BC,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
 Ethertype,80CA,Private,,Protocol unavailable.
 Ethertype,80CB,Private,,Protocol unavailable.
 Ethertype,80CC,Private,,Protocol unavailable.
@@ -1498,6 +1449,55 @@ Ethertype,867A,"Walker Richer & Quinn, Inc.", Seattle WA US  ,Protocol unavailab
 Ethertype,867E,"Walker Richer & Quinn, Inc.", Seattle WA US  ,Protocol unavailable.
 Ethertype,8640,"Walker Richer & Quinn, Inc.", Seattle WA US  ,Protocol unavailable.
 Ethertype,8642,"Walker Richer & Quinn, Inc.", Seattle WA US  ,Protocol unavailable.
+Ethertype,0400,Private,,Invalid as an EtherType value since 1983
+Ethertype,0129,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,0130,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,0132,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,0133,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,0114,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,0115,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,0119,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,011B,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,0148,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,0149,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,014D,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,0150,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,0160,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,016A,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,016B,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,016C,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,0139,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,013A,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,013E,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,015B,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,015C,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,011D,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,0103,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,019E,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,019F,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,01A4,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,01AA,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,01AB,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,017D,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,017E,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,0184,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,0187,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,01DC,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,"=""01E0""",Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,"=""01E3""",Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,01BC,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,01C9,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,0174,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,0178,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,01D1,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,01D4,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,0192,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,0193,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,01BA,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,01F2,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,01F4,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,01F6,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,01FA,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
 Ethertype,9AC6,"Tesla,Inc.",3500 Deer Creek Rd. PALO ALTO CA US 94304 ,TTP (Tesla Transport Protocol) over Ethernet
 Ethertype,8850,Juniper Networks,1133 Innovation Way Sunnyvale CA US 94089 ,Protocol unavailable.
 Ethertype,8852,Juniper Networks,1133 Innovation Way Sunnyvale CA US 94089 ,Protocol unavailable.
@@ -1616,64 +1616,12 @@ format of the packet that follows.  Please refer to RFC 5586 for
 details.
 "
 Ethertype,883F,"Cisco Systems, Inc",170 West Tasman Drive San Jose CA US 95134-1706 ,Protocol unavailable.
-Ethertype,016F,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,0171,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,0173,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,0176,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,017B,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,017F,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,0183,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,0189,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,0122,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,0125,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,0128,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,012B,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,012C,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,012E,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,0107,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,0108,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,0109,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,0110,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,0111,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,011A,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,0137,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,0138,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,0140,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,014F,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,0152,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,015D,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,015E,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,015F,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,0166,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,0169,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
 Ethertype,1004,Private,,Protocol unavailable.
 Ethertype,1011,Private,,Protocol unavailable.
 Ethertype,1016,Private,,Protocol unavailable.
-Ethertype,01FB,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
 Ethertype,0808,Xerox (Frame Relay ARP) RFC1701,", Webster NY US 14580 ",Protocol unavailable.
 Ethertype,8066,Private,,Protocol unavailable.
 Ethertype,0B00,Universitiy of Berkeley,   US  ,Protocol unavailable.
-Ethertype,018A,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,018D,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,018E,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,0195,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,0198,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,019D,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,01A5,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,01C7,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,01CA,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,01CF,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,01D2,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,01D8,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,01DB,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,01DF,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,"=""01E4""",Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,"=""01E5""",Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,"=""01E7""",Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,01ED,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,01A8,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,01BB,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,01C1,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
 Ethertype,8150,Private,,Protocol unavailable.
 Ethertype,807A,Private,,Protocol unavailable.
 Ethertype,807D,Private,,Protocol unavailable.
@@ -1683,7 +1631,6 @@ Ethertype,8780,Private,,Protocol unavailable.
 Ethertype,8781,Private,,Protocol unavailable.
 Ethertype,8783,Private,,Protocol unavailable.
 Ethertype,0804,Private,,Protocol unavailable.
-Ethertype,0201,Private,,Protocol unavailable.
 Ethertype,1018,Private,,Protocol unavailable.
 Ethertype,101B,Private,,Protocol unavailable.
 Ethertype,1028,Private,,Protocol unavailable.
@@ -1851,7 +1798,6 @@ Ethertype,837F,"Walker Richer & Quinn, Inc.", Seattle WA US  ,Protocol unavailab
 Ethertype,8382,"Walker Richer & Quinn, Inc.", Seattle WA US  ,Protocol unavailable.
 Ethertype,8383,"Walker Richer & Quinn, Inc.", Seattle WA US  ,Protocol unavailable.
 Ethertype,8387,"Walker Richer & Quinn, Inc.", Seattle WA US  ,Protocol unavailable.
-Ethertype,0500,University  of Berkeley,Computer Science Department Berkeley CA US 94720 ,Protocol unavailable.
 Ethertype,832E,"Walker Richer & Quinn, Inc.", Seattle WA US  ,Protocol unavailable.
 Ethertype,8337,"Walker Richer & Quinn, Inc.", Seattle WA US  ,Protocol unavailable.
 Ethertype,8339,"Walker Richer & Quinn, Inc.", Seattle WA US  ,Protocol unavailable.
@@ -2273,6 +2219,60 @@ Ethertype,8646,"Walker Richer & Quinn, Inc.", Seattle WA US  ,Protocol unavailab
 Ethertype,8651,"Walker Richer & Quinn, Inc.", Seattle WA US  ,Protocol unavailable.
 Ethertype,868D,"Walker Richer & Quinn, Inc.", Seattle WA US  ,Protocol unavailable.
 Ethertype,868F,"Walker Richer & Quinn, Inc.", Seattle WA US  ,Protocol unavailable.
+Ethertype,0500,University  of Berkeley,Computer Science Department Berkeley CA US 94720 ,Invalid as an EtherType value since 1983
+Ethertype,0201,Private,,Invalid as an EtherType value since 1983
+Ethertype,0107,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,0108,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,0109,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,016F,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,0171,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,0173,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,0176,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,017B,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,0152,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,015D,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,015E,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,015F,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,012B,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,012C,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,012E,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,0137,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,0138,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,0140,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,0122,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,0125,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,0128,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,0166,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,0169,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,0110,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,0111,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,011A,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,014F,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,018D,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,018E,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,0195,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,0198,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,01CA,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,01CF,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,01D2,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,01D8,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,017F,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,0183,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,0189,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,018A,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,01DB,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,01DF,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,"=""01E4""",Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,"=""01E5""",Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,019D,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,01A5,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,01A8,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,01BB,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,01C1,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,01C7,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,"=""01E7""",Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,01ED,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,01FB,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
 Ethertype,F45F,"Beijing Haiwang Network Technologies Co., Ltd","2-2180,Building D,Block 33, No.99,Kechuang 14 Street,Beijing Economic-Technological Development Area Beijing  CN 100176 ","This Ethertype enables IDP (Identifier Protocol), which was defined in ITU-T Y.3075. IDP is responsible for maintaining the rules and regulations about how to process the address/es in the packet and modifying the address field in the packet."
 Ethertype,8917,IEEE 802.21 Working Group,"IEEE 802.21 Chair, c/o RAC Administrator IEEE Piscataway NJ US 08854 ",Media Independent Service (MIS) protocol as defined in IEEE Std 802.21
 Ethertype,0B04,University of Berkeley,   US  ,Berkeley Reserved
@@ -2364,64 +2364,10 @@ This tag carries timestamp information as part of the Ethernet frame."
 Ethertype,883D,"Cisco Systems, Inc",170 West Tasman Drive San Jose CA US 95134-1706 ,Protocol unavailable.
 Ethertype,8843,"Cisco Systems, Inc",170 West Tasman Drive San Jose CA US 95134-1706 ,Protocol unavailable.
 Ethertype,8821,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 ,Protocol unavailable.
-Ethertype,013B,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,013C,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,013D,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,013F,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,0141,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,0142,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,0144,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,014E,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,0153,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,0105,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,010D,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,0112,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,0113,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,0117,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,0118,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,0123,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,0127,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,0131,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,0134,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,0155,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,0158,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,0163,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,0165,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,01FE,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
 Ethertype,8036,Private,,Protocol unavailable.
 Ethertype,8044,Private,,Protocol unavailable.
 Ethertype,0B04,Universitiy of Berkeley,   US  ,Protocol unavailable.
 Ethertype,8014,Private,,Protocol unavailable.
-Ethertype,01A7,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,01A9,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,01AE,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,01B0,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,01B5,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,01B6,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,01C0,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,01C2,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,0190,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,0191,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,0194,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,019A,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,019C,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,01A1,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,01A2,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,01CB,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,01CE,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,01D0,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,01D3,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,01D9,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,01DA,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,"=""01E1""",Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,"=""01E6""",Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,01EC,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,01EF,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,01F3,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,0177,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,017C,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,0181,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,0188,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
 Ethertype,806A,Private,,Protocol unavailable.
 Ethertype,806C,Private,,Protocol unavailable.
 Ethertype,807F,Private,,Protocol unavailable.
@@ -3067,6 +3013,60 @@ Ethertype,868A,"Walker Richer & Quinn, Inc.", Seattle WA US  ,Protocol unavailab
 Ethertype,868E,"Walker Richer & Quinn, Inc.", Seattle WA US  ,Protocol unavailable.
 Ethertype,8691,"Walker Richer & Quinn, Inc.", Seattle WA US  ,Protocol unavailable.
 Ethertype,80DD,Varian Associates,611 Hansen Way Palo Alto CA US 94303 ,Protocol unavailable.
+Ethertype,0105,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,013B,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,013C,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,013D,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,013F,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,0141,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,0112,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,0113,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,0117,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,0118,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,0153,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,0155,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,0158,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,0142,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,0144,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,014E,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,0177,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,017C,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,0131,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,0134,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,0123,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,0127,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,0163,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,0165,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,010D,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,01CB,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,01CE,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,01D0,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,01D3,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,01D9,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,01DA,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,019C,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,01A1,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,01A2,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,01A7,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,01A9,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,01AE,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,01B0,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,01B5,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,01B6,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,0190,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,0191,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,0194,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,019A,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,01EC,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,01EF,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,01F3,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,0181,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,0188,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,01C0,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,01C2,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,"=""01E1""",Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,"=""01E6""",Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,01FE,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
 Ethertype,8851,Juniper Networks,1133 Innovation Way Sunnyvale CA US 94089 ,Protocol unavailable.
 Ethertype,8902,IEEE 802.1 Chair," c/o RAC Administrator , IEEE Piscataway NJ US 08554 ",Connectivity Fault Management (CFM) Protocol Data Unit (PDU) Encapsulation as defined in IEEE 802.1Q
 Ethertype,0B06,University of Berkeley,   US  ,Berkeley Reserved
@@ -3168,61 +3168,8 @@ This protocol allows for aggregation of multiple network endpoints onto a single
 Ethertype,8840,"Cisco Systems, Inc",170 West Tasman Drive San Jose CA US 95134-1706 ,Protocol unavailable.
 Ethertype,8842,"Cisco Systems, Inc",170 West Tasman Drive San Jose CA US 95134-1706 ,Protocol unavailable.
 Ethertype,22EB,"Cisco Systems, Inc",170 West Tasman Drive San Jose CA US 95134 ,Protocol unavailable.
-Ethertype,0101,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,0156,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,0157,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,0159,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,0162,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,0164,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,0168,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,016D,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,016E,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,01AF,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,01B1,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,01B2,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,01B4,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,01B7,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,01B8,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,01BD,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,0170,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,0172,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,0175,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,0179,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,0180,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,0182,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,0186,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,018C,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,018F,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,0197,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,019B,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,01A0,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,0121,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,0126,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,012D,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,0136,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,0104,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,0106,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,010B,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,011C,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,0145,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,014B,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,0154,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,01C4,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,01C5,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,01C6,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,01C8,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,01CC,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,01CD,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,01D6,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,01FC,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,01FD,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,01FF,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
 Ethertype,0B05,Universitiy of Berkeley,   US  ,Protocol unavailable.
 Ethertype,0B07,Universitiy of Berkeley,   US  ,Protocol unavailable.
-Ethertype,"=""01E2""",Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,01EB,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,01EE,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,01F7,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
 Ethertype,80A2,Xerox Corporation,   US  ,Protocol unavailable.
 Ethertype,8784,Private,,Protocol unavailable.
 Ethertype,80C4,Private,,Protocol unavailable.
@@ -3820,3 +3767,56 @@ Ethertype,860A,"Walker Richer & Quinn, Inc.", Seattle WA US  ,Protocol unavailab
 Ethertype,861B,"Walker Richer & Quinn, Inc.", Seattle WA US  ,Protocol unavailable.
 Ethertype,8684,"Walker Richer & Quinn, Inc.", Seattle WA US  ,Protocol unavailable.
 Ethertype,8689,"Walker Richer & Quinn, Inc.", Seattle WA US  ,Protocol unavailable.
+Ethertype,0104,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,0106,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,0101,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,010B,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,0162,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,0164,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,0168,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,016D,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,016E,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,0180,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,0182,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,0186,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,018C,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,0154,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,0156,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,0157,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,0159,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,0170,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,0172,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,0175,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,0179,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,018F,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,0197,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,019B,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,012D,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,0136,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,0121,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,0126,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,0145,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,014B,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,011C,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,01AF,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,01B1,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,01B2,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,01B4,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,01B7,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,01B8,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,01BD,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,01C4,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,01C5,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,01C6,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,01C8,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,01F7,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,01FC,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,01FD,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,01FF,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,01CC,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,01CD,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,01D6,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,01EB,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,01EE,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,01A0,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
+Ethertype,"=""01E2""",Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983

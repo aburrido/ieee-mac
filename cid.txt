@@ -590,6 +590,12 @@ FA556F                        (base 16)                     SymbolicIO
                                                             Edison  NJ  08837                            
                                                             US                                           
 
+6A-71-E6                      (hex)                         FuelCloud                                    
+6A71E6                        (base 16)                     FuelCloud                                    
+                                                            124 SW Dennis Ave.                           
+                                                            Hillsboro  OR  97123                         
+                                                            US                                           
+
 DA-C4-51                      (hex)                         Takaratomy                                   
 DAC451                        (base 16)                     Takaratomy                                   
                                                             7-9-10 Tateishi                              
