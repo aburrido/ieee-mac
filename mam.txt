@@ -11117,6 +11117,12 @@ E00000-EFFFFF     (base 16)		Synamedia
 				Staines  Staines  TW184EX
 				GB
 
+50-48-2C   (hex)		Oliver IQ, Inc.
+700000-7FFFFF     (base 16)		Oliver IQ, Inc.
+				8911 Sandy Parkway #200
+				Sandy  UT  84070
+				US
+
 6C-2A-DF   (hex)		Ademco Inc. dba ADI Global Distribution
 000000-0FFFFF     (base 16)		Ademco Inc. dba ADI Global Distribution
 				275 Broadhollow Road Suite 400 Melville,

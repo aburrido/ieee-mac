@@ -242,17 +242,17 @@ EA2ADB                        (base 16)                     Labs Network Industr
                                                             Berlin    10587                              
                                                             DE                                           
 
-EA-11-5D                      (hex)                         AUTOVISION TECHNOLOGY INC.                   
-EA115D                        (base 16)                     AUTOVISION TECHNOLOGY INC.                   
-                                                            NO. 2-3, INDUSTRY EAST ROAD 2, SCIENCE PARK, 
-                                                            HSINCHU    30075                             
-                                                            TW                                           
-
 1A-BB-FB                      (hex)                         UHD Alliance                                 
 1ABBFB                        (base 16)                     UHD Alliance                                 
                                                             3855 SW 153rd Drive                          
                                                             Beaverton  OR  97003                         
                                                             US                                           
+
+EA-11-5D                      (hex)                         AUTOVISION TECHNOLOGY INC.                   
+EA115D                        (base 16)                     AUTOVISION TECHNOLOGY INC.                   
+                                                            NO. 2-3, INDUSTRY EAST ROAD 2, SCIENCE PARK, 
+                                                            HSINCHU    30075                             
+                                                            TW                                           
 
 FA-D9-88                      (hex)                         Momentum Data Systems                        
 FAD988                        (base 16)                     Momentum Data Systems                        
@@ -278,17 +278,17 @@ EAB89B                        (base 16)                     Thread Group, Inc.
                                                             Mountain View  CA  94043                     
                                                             US                                           
 
-BA-F2-1C                      (hex)                         ISO/TC22/SC31                                
-BAF21C                        (base 16)                     ISO/TC22/SC31                                
-                                                            Behrenstr. 35                                
-                                                            Berlin  Berlin  10117                        
-                                                            DE                                           
-
 BA-A2-D0                      (hex)                         Wireless Broadband Alliance Ltd              
 BAA2D0                        (base 16)                     Wireless Broadband Alliance Ltd              
                                                             3 Tai Seng Dr #04-01                         
                                                             Singapore    535216                          
                                                             SG                                           
+
+BA-F2-1C                      (hex)                         ISO/TC22/SC31                                
+BAF21C                        (base 16)                     ISO/TC22/SC31                                
+                                                            Behrenstr. 35                                
+                                                            Berlin  Berlin  10117                        
+                                                            DE                                           
 
 DA-0D-38                      (hex)                         Farpointe Data, Inc.                         
 DA0D38                        (base 16)                     Farpointe Data, Inc.                         
@@ -374,17 +374,17 @@ DA28EC                        (base 16)                     HG Genuine
                                                             Hangzhou  Zhejiang  311202                   
                                                             CN                                           
 
-AA-0F-85                      (hex)                         Yamaichi Electronics                         
-AA0F85                        (base 16)                     Yamaichi Electronics                         
-                                                            475 Holger Way                               
-                                                            San Jose  CA  95134                          
-                                                            US                                           
-
 0A-87-36                      (hex)                          IEEE 1901 Working Group                     
 0A8736                        (base 16)                      IEEE 1901 Working Group                     
                                                             Progilon, WTC Business Center                
                                                             Grenoble  Rhone Alpes  F-38000               
                                                             FR                                           
+
+AA-0F-85                      (hex)                         Yamaichi Electronics                         
+AA0F85                        (base 16)                     Yamaichi Electronics                         
+                                                            475 Holger Way                               
+                                                            San Jose  CA  95134                          
+                                                            US                                           
 
 9A-D2-63                      (hex)                         FirmTek, LLC                                 
 9AD263                        (base 16)                     FirmTek, LLC                                 
@@ -452,17 +452,17 @@ EA1ED0                        (base 16)                     ZIGPOS GmbH
                                                             NEWPORT NEWS  VA  23606                      
                                                             US                                           
 
-7A-15-EC                      (hex)                         Yatomi Techology(ZheJiang) Co.,Ltd           
-7A15EC                        (base 16)                     Yatomi Techology(ZheJiang) Co.,Ltd           
-                                                            No8 FuYuan Road, YaoZhuang Town, JiaShan County
-                                                            YaoZhuang  ZheJiang  314117                  
-                                                            CN                                           
-
 6A-8E-AF                      (hex)                         Waoo                                         
 6A8EAF                        (base 16)                     Waoo                                         
                                                             True Møllevej 9                              
                                                             Tilst  Aarhus Municipallity  8381            
                                                             DK                                           
+
+7A-15-EC                      (hex)                         Yatomi Techology(ZheJiang) Co.,Ltd           
+7A15EC                        (base 16)                     Yatomi Techology(ZheJiang) Co.,Ltd           
+                                                            No8 FuYuan Road, YaoZhuang Town, JiaShan County
+                                                            YaoZhuang  ZheJiang  314117                  
+                                                            CN                                           
 
 4A-E0-3F                      (hex)                         Chengdu Superxon communication Technology Co. Ltd.
 4AE03F                        (base 16)                     Chengdu Superxon communication Technology Co. Ltd.
