@@ -11117,6 +11117,12 @@ E00000-EFFFFF     (base 16)		Synamedia
 				Staines  Staines  TW184EX
 				GB
 
+50-48-2C   (hex)		Annapurna labs
+100000-1FFFFF     (base 16)		Annapurna labs
+				Matam Scientific Industries Center,   Building 8.2
+				Mail box 15123  Haifa  3508409
+				IL
+
 50-48-2C   (hex)		Oliver IQ, Inc.
 700000-7FFFFF     (base 16)		Oliver IQ, Inc.
 				8911 Sandy Parkway #200
@@ -17054,6 +17060,12 @@ E00000-EFFFFF     (base 16)		Waterkotte GmbH
 				Erlanger  KY  41018
 				US
 
+50-48-2C   (hex)		SL Process
+B00000-BFFFFF     (base 16)		SL Process
+				157 Boulevard Macdonald
+				Paris  IDF  75019
+				FR
+
 B4-4D-43   (hex)		SERNET (SUZHOU) TECHNOLOGIES CORPORATION
 700000-7FFFFF     (base 16)		SERNET (SUZHOU) TECHNOLOGIES CORPORATION
 				NO.8 Tangzhuang Road,Suzhou Industrial Park,Su ZhouCity,JiangSu Province,China
@@ -22678,6 +22690,12 @@ A00000-AFFFFF     (base 16)		GeBE Elektronik und Feinwerktechnik GmbH
 				Autovía A6 km. 17.800
 				Las Rozas  Madrid  28231
 				ES
+
+50-48-2C   (hex)		Bluefin International Inc
+500000-5FFFFF     (base 16)		Bluefin International Inc
+				2665 Pine Grove Road, Suite 400
+				Cumming  GA  30041
+				US
 
 80-E4-DA   (hex)		Private
 F00000-FFFFFF     (base 16)		Private
@@ -28458,4 +28476,10 @@ C00000-CFFFFF     (base 16)		Telecam Technology Co.,Ltd
 400000-4FFFFF     (base 16)		Hy-Line Computer Components GmbH
 				Inselkammerstr. 10
 				Unterhaching    82008
+				DE
+
+50-48-2C   (hex)		WIKA Mobile Conrol GmbH&Co.KG
+600000-6FFFFF     (base 16)		WIKA Mobile Conrol GmbH&Co.KG
+				Hertzstr. 32-34
+				Ettlingen    76275
 				DE
