@@ -4580,12 +4580,6 @@ A00000-AFFFFF     (base 16)		TeleAlarm SA
 				Shenzhen    518000
 				CN
 
-38-B8-EB   (hex)		ExaScaler Inc.
-B00000-BFFFFF     (base 16)		ExaScaler Inc.
-				Kimura Bldg. 5F, Kanda Ogawamachi 2-1
-				Chiyoda-ku  Tokyo  101-0052
-				JP
-
 D0-D9-4F   (hex)		Optigo Networks
 500000-5FFFFF     (base 16)		Optigo Networks
 				#320 – 887 Great Northern Way
@@ -5728,6 +5722,12 @@ D00000-DFFFFF     (base 16)		KIDO SPORTS CO., LTD.
 				Kido Building, 395 Gonghang-daero, Gangseo-gu
 				Seoul  Seoul  07590
 				KR
+
+38-B8-EB   (hex)		PEZY Computing K.K.
+B00000-BFFFFF     (base 16)		PEZY Computing K.K.
+				5F Chiyodaogawamachi Crosta, 1-11 Kanda Ogawamachi
+				Chiyoda-ku  Tokyo  101-0052
+				JP
 
 B4-4D-43   (hex)		Spot AI, Inc.
 600000-6FFFFF     (base 16)		Spot AI, Inc.
@@ -11140,6 +11140,12 @@ A00000-AFFFFF     (base 16)		JUNG HO
 				B-704, 22, Magokjungang 4-ro, Gangseo-gu
 				Seoul  Seoul  07631
 				KR
+
+D0-15-BB   (hex)		Listen Technologies
+500000-5FFFFF     (base 16)		Listen Technologies
+				14912 heritage crest way
+				bluffdale  UT  84065
+				US
 
 6C-2A-DF   (hex)		WeatherFlow-Tempest, Inc
 E00000-EFFFFF     (base 16)		WeatherFlow-Tempest, Inc
@@ -22709,6 +22715,12 @@ A00000-AFFFFF     (base 16)		GeBE Elektronik und Feinwerktechnik GmbH
 				Cumming  GA  30041
 				US
 
+D0-15-BB   (hex)		HONG KONG COHONEST TECHNOLOGY LIMITED
+A00000-AFFFFF     (base 16)		HONG KONG COHONEST TECHNOLOGY LIMITED
+				SHOP 185 G/F HANG WAI IND CTRNO 6 KIN TAI ST TUEN MUN NTHONG KONG;CHINA
+				HONG KONG  HONG KONG  999077
+				CN
+
 80-E4-DA   (hex)		Private
 F00000-FFFFFF     (base 16)		Private
 
@@ -28494,4 +28506,16 @@ C00000-CFFFFF     (base 16)		Telecam Technology Co.,Ltd
 600000-6FFFFF     (base 16)		WIKA Mobile Conrol GmbH&Co.KG
 				Hertzstr. 32-34
 				Ettlingen    76275
+				DE
+
+D0-15-BB   (hex)		Stellar Blu Solutions
+900000-9FFFFF     (base 16)		Stellar Blu Solutions
+				2060 Eagle Parkway
+				Ft. Worth  TX  76177
+				US
+
+D0-15-BB   (hex)		Lampuga GmbH
+D00000-DFFFFF     (base 16)		Lampuga GmbH
+				Werkstr. 11
+				Rastatt    76437
 				DE
