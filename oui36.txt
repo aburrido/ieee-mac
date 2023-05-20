@@ -10622,12 +10622,6 @@ A35000-A35FFF     (base 16)		Sicon srl
 				Isola Vicentina  Vicenza  36033
 				IT
 
-70-B3-D5   (hex)		Kranze Technology Solutions
-C1D000-C1DFFF     (base 16)		Kranze Technology Solutions
-				742 Pinecrest Dr
-				Prospect Heights  IL  60070
-				US
-
 70-B3-D5   (hex)		AML
 6E7000-6E7FFF     (base 16)		AML
 				2190 Regal Parkway
@@ -13096,6 +13090,12 @@ B6D000-B6DFFF     (base 16)		Andy-L Ltd
 				B-221, Okhla Industrial AreaPhase - 1, New Delhi - 110020, India
 				New Delhi  Delhi  110020
 				IN
+
+70-B3-D5   (hex)		Kranze Technology Solutions, Inc.
+C1D000-C1DFFF     (base 16)		Kranze Technology Solutions, Inc.
+				1794 Winthrop Dr.
+				Des Plaines  IL  60018
+				US
 
 8C-1F-64   (hex)		Smart Component Technologies Ltd
 2CB000-2CBFFF     (base 16)		Smart Component Technologies Ltd
