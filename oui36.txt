@@ -29099,12 +29099,6 @@ DB7000-DB7FFF     (base 16)		Pengo Technology Co., Ltd
 				Karlsruhe    76131
 				DE
 
-70-B3-D5   (hex)		Wireless Systems Solutions LLC
-F86000-F86FFF     (base 16)		Wireless Systems Solutions LLC
-				630 Davis Drive Suite 250
-				Morrisville  NC  27560
-				US
-
 70-B3-D5   (hex)		Elcoma
 31F000-31FFFF     (base 16)		Elcoma
 				Rua Barbosa Lima, 149
@@ -32583,4 +32577,10 @@ C4A000-C4AFFF     (base 16)		SGi Technology Group Ltd.
 476000-476FFF     (base 16)		Clair Global Corporation
 				1 Ellen Avenue
 				Lititz  PA  17543
+				US
+
+70-B3-D5   (hex)		NxGen Comm LLC
+F86000-F86FFF     (base 16)		NxGen Comm LLC
+				630 Davis Drive Suite 250
+				Morrisville  NC  27560
 				US
