@@ -13103,6 +13103,24 @@ C1D000-C1DFFF     (base 16)		Kranze Technology Solutions, Inc.
 				Newbury  Berkshire  RG14 6RS
 				GB
 
+8C-1F-64   (hex)		UNE SRL
+7E3000-7E3FFF     (base 16)		UNE SRL
+				VIA MODENA N.48/E
+				CORREGGIO  RE  42015
+				IT
+
+8C-1F-64   (hex)		MB connect line GmbH Fernwartungssysteme
+440000-440FFF     (base 16)		MB connect line GmbH Fernwartungssysteme
+				Winnettener Straße 6
+				Dinkelsbuehl  Bavaria  91550
+				DE
+
+8C-1F-64   (hex)		H2Ok Innovations
+937000-937FFF     (base 16)		H2Ok Innovations
+				444 SOMERVILLE AVE, H2Ok Innovations
+				SOMERVILLE  MA  02143
+				US
+
 8C-1F-64   (hex)		SECURICO ELECTRONICS INDIA LTD
 4D9000-4D9FFF     (base 16)		SECURICO ELECTRONICS INDIA LTD
 				Plot No.4, 14/3, Mathura Road
@@ -17762,12 +17780,6 @@ B77000-B77FFF     (base 16)		Motec Pty Ltd
 				Springfield  NJ  07081
 				US
 
-70-B3-D5   (hex)		Active Brains
-2BA000-2BAFFF     (base 16)		Active Brains
-				Yokohama Dia BLDG 8F 1-7 Kinkocho Kanagawa-ku
-				Yokohama  Kanagawa  221-0056
-				JP
-
 70-B3-D5   (hex)		OSR R&D ISRAEL LTD
 AB0000-AB0FFF     (base 16)		OSR R&D ISRAEL LTD
 				24 Magshimim St
@@ -19633,6 +19645,12 @@ BB2000-BB2FFF     (base 16)		Grupo Epelsa S.L.
 				C/ Punto Net,3
 				Alcala de Henares  Madrid  28805
 				ES
+
+70-B3-D5   (hex)		Active Brains
+2BA000-2BAFFF     (base 16)		Active Brains
+				Yokohama Mitsui Bldg.12F, 1-1-2 Takashima, Nishi-ku
+				Yokohama  Kanagawa  220-0011
+				JP
 
 8C-1F-64   (hex)		SD OPTICS
 C42000-C42FFF     (base 16)		SD OPTICS
