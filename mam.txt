@@ -5735,6 +5735,12 @@ B00000-BFFFFF     (base 16)		PEZY Computing K.K.
 				Daejeon    34155
 				KR
 
+88-A6-EF   (hex)		ShenZhen KZIot Technology LLC.
+600000-6FFFFF     (base 16)		ShenZhen KZIot Technology LLC.
+				12th Floor, Block A, Kelu Building, Baoshen Road, Songpingshan Community, Xili Street, Nanshan District,
+				Shenzhen  GuangDong  518000
+				CN
+
 B4-4D-43   (hex)		Spot AI, Inc.
 600000-6FFFFF     (base 16)		Spot AI, Inc.
 				1350 Old Bayshore Hwy #920
@@ -11170,6 +11176,12 @@ E00000-EFFFFF     (base 16)		PHYTEC EMBEDDED PVT LTD
 				Yokohama Mitsui Bldg.12F, 1-1-2 Takashima, Nishi-ku
 				Yokohama  Kanagawa  220-0011
 				JP
+
+88-A6-EF   (hex)		Enlaps
+300000-3FFFFF     (base 16)		Enlaps
+				29 chemin du vieux chene, Tarmac
+				MEYLAN    38240
+				FR
 
 6C-2A-DF   (hex)		WeatherFlow-Tempest, Inc
 E00000-EFFFFF     (base 16)		WeatherFlow-Tempest, Inc
@@ -25448,12 +25460,6 @@ A00000-AFFFFF     (base 16)		Shenzhen Haiying Wire Tech Co., Ltd.
 				Shenzhen  Guangdong  518110
 				CN
 
-B4-A2-EB   (hex)		Katerra Inc
-200000-2FFFFF     (base 16)		Katerra Inc
-				2494 Sand Hill Rd, Bldg 7, Suite 100
-				Menlo Park  CA  94025-6981
-				US
-
 8C-59-3C   (hex)		Chongqing beimoting technology co.ltd
 300000-3FFFFF     (base 16)		Chongqing beimoting technology co.ltd
 				97-2 keyuan 2nd street, jiulongpo district,
@@ -28615,3 +28621,9 @@ D0-15-BB   (hex)		Esders GmbH
 				5, Rafael Elnekave
 				Beit Shemesh    9903657
 				IL
+
+B4-A2-EB   (hex)		ONX Inc.
+200000-2FFFFF     (base 16)		ONX Inc.
+				3200 Earhart Dr
+				Carrollton  TX  75006
+				US
