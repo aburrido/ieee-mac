@@ -11195,6 +11195,12 @@ B00000-BFFFFF     (base 16)		EdgeDX
 				NOIDA  UTTAR PRADESH  201301
 				IN
 
+88-A6-EF   (hex)		Labpano Technology (Changzhou) Co., Ltd.
+500000-5FFFFF     (base 16)		Labpano Technology (Changzhou) Co., Ltd.
+				Building 4D, No.160 Xihu West Road, Wujin National Hi-tech Industrial Zone,
+				Changzhou  Jiangsu  213100
+				CN
+
 6C-2A-DF   (hex)		WeatherFlow-Tempest, Inc
 E00000-EFFFFF     (base 16)		WeatherFlow-Tempest, Inc
 				108 Whispering Pine Dr#245
@@ -17144,6 +17150,30 @@ D0-15-BB   (hex)		ShenZhen Zhongke GuanJie Data Technology Co.,Ltd.
 				Shenzhen  - None -  518000
 				CN
 
+54-91-AF   (hex)		Asiga Pty Ltd
+900000-9FFFFF     (base 16)		Asiga Pty Ltd
+				Unit 2, 19-21 Bourke Road
+				Alexandria  New South Wales  2015
+				AU
+
+88-A6-EF   (hex)		Kii Audio GmbH
+900000-9FFFFF     (base 16)		Kii Audio GmbH
+				Drosselweg 45
+				Bergisch Gladbach  NRW  51467
+				DE
+
+88-A6-EF   (hex)		PT communication Systems Pvt LTD
+400000-4FFFFF     (base 16)		PT communication Systems Pvt LTD
+				PLOT no 32, Ecotech 3Udyog Kendra, Greater Noida
+				Greater Noida  Uttar Pradesh  201308
+				IN
+
+88-A6-EF   (hex)		Shenzhen YAKO Automation Technology Co.,Ltd.
+100000-1FFFFF     (base 16)		Shenzhen YAKO Automation Technology Co.,Ltd.
+				16th Floor, Block B, Building 6, Shenzhen International Innovation Valley, Dashi 1st Road, Xili Street, Nanshan District, Shenzhen
+				Shenzhen  Guangdong  518000
+				CN
+
 B4-4D-43   (hex)		SERNET (SUZHOU) TECHNOLOGIES CORPORATION
 700000-7FFFFF     (base 16)		SERNET (SUZHOU) TECHNOLOGIES CORPORATION
 				NO.8 Tangzhuang Road,Suzhou Industrial Park,Su ZhouCity,JiangSu Province,China
@@ -22810,6 +22840,12 @@ C00000-CFFFFF     (base 16)		Shenzhen C & D Electronics Co., Ltd.
 				9th FIoor, Building 9, No.1 Qingxiang road, BaoNeng Science and TechnoIogy Industrial Park, Longhua New District
 				ShenZhen  GuangDong  518000
 				CN
+
+88-A6-EF   (hex)		Draper, Inc.
+A00000-AFFFFF     (base 16)		Draper, Inc.
+				411 S Pearl St.
+				Spiceland  IN  47385
+				US
 
 80-E4-DA   (hex)		Private
 F00000-FFFFFF     (base 16)		Private
@@ -28604,12 +28640,6 @@ D0-15-BB   (hex)		Stellar Blu Solutions
 				Ft. Worth  TX  76177
 				US
 
-D0-15-BB   (hex)		Lampuga GmbH
-D00000-DFFFFF     (base 16)		Lampuga GmbH
-				Werkstr. 11
-				Rastatt    76437
-				DE
-
 88-A6-EF   (hex)		TRUWIN
 700000-7FFFFF     (base 16)		TRUWIN
 				385, Expo-ro, Yuseong-Gu, Daejeon, South Korea
@@ -28639,3 +28669,9 @@ D0-15-BB   (hex)		Esders GmbH
 				Hammer-Tannen-Strasse 26-30
 				Haselünne    49740
 				DE
+
+88-A6-EF   (hex)		IONA Tech
+E00000-EFFFFF     (base 16)		IONA Tech
+				164 Society Dr. Unit O
+				Telluride  CO  81435
+				US
