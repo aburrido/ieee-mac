@@ -11165,6 +11165,12 @@ D0-15-BB   (hex)		ALEKTO-SYSTEMS LTD
 				Heraklion  Crete  71304
 				GR
 
+88-A6-EF   (hex)		Enlaps
+300000-3FFFFF     (base 16)		Enlaps
+				29 chemin du vieux chene, Tarmac
+				MEYLAN    38240
+				FR
+
 64-31-39   (hex)		Active Brains
 400000-4FFFFF     (base 16)		Active Brains
 				Yokohama Mitsui Bldg.12F, 1-1-2 Takashima, Nishi-ku
@@ -11183,12 +11189,6 @@ B00000-BFFFFF     (base 16)		EdgeDX
 				Seoul   Geumcheon-gu  08502
 				KR
 
-88-A6-EF   (hex)		Enlaps
-300000-3FFFFF     (base 16)		Enlaps
-				29 chemin du vieux chene, Tarmac
-				MEYLAN    38240
-				FR
-
 88-A6-EF   (hex)		METRO ELECTRONICS
 200000-2FFFFF     (base 16)		METRO ELECTRONICS
 				D-74, SECTOR 63,
@@ -11199,6 +11199,18 @@ B00000-BFFFFF     (base 16)		EdgeDX
 500000-5FFFFF     (base 16)		Labpano Technology (Changzhou) Co., Ltd.
 				Building 4D, No.160 Xihu West Road, Wujin National Hi-tech Industrial Zone,
 				Changzhou  Jiangsu  213100
+				CN
+
+54-91-AF   (hex)		Hong Telecom Equipment Service Limited
+700000-7FFFFF     (base 16)		Hong Telecom Equipment Service Limited
+				A201, 2nd Floor, East Tower, Nanshan Digital Cultural Industry Base, No. 10128 Shennan Avenue, Nanshan District,
+				Shenzhen  Guangdong  China
+				CN
+
+54-91-AF   (hex)		Hunan Quanying Electronics Co. , Ltd.
+800000-8FFFFF     (base 16)		Hunan Quanying Electronics Co. , Ltd.
+				oom 401-46, 4th Floor, Building 5, Changsha Zhongdian Software Park Phase 1, No. 39 Jianshan Road, High tech Development Zone, Changsha City, Hunan Province, China
+				Changsha  Hunan  410205
 				CN
 
 6C-2A-DF   (hex)		WeatherFlow-Tempest, Inc
@@ -17173,6 +17185,12 @@ D0-15-BB   (hex)		ShenZhen Zhongke GuanJie Data Technology Co.,Ltd.
 				16th Floor, Block B, Building 6, Shenzhen International Innovation Valley, Dashi 1st Road, Xili Street, Nanshan District, Shenzhen
 				Shenzhen  Guangdong  518000
 				CN
+
+54-91-AF   (hex)		Opal-RT Technologies Inc.
+000000-0FFFFF     (base 16)		Opal-RT Technologies Inc.
+				1751 rue Richardson, Suite 1060
+				Montreal  QC  H3K 1G6
+				CA
 
 B4-4D-43   (hex)		SERNET (SUZHOU) TECHNOLOGIES CORPORATION
 700000-7FFFFF     (base 16)		SERNET (SUZHOU) TECHNOLOGIES CORPORATION
@@ -28640,6 +28658,12 @@ D0-15-BB   (hex)		Stellar Blu Solutions
 				Ft. Worth  TX  76177
 				US
 
+88-A6-EF   (hex)		IONA Tech
+E00000-EFFFFF     (base 16)		IONA Tech
+				164 Society Dr. Unit O
+				Telluride  CO  81435
+				US
+
 88-A6-EF   (hex)		TRUWIN
 700000-7FFFFF     (base 16)		TRUWIN
 				385, Expo-ro, Yuseong-Gu, Daejeon, South Korea
@@ -28670,8 +28694,8 @@ D0-15-BB   (hex)		Esders GmbH
 				Haselünne    49740
 				DE
 
-88-A6-EF   (hex)		IONA Tech
-E00000-EFFFFF     (base 16)		IONA Tech
-				164 Society Dr. Unit O
-				Telluride  CO  81435
-				US
+54-91-AF   (hex)		DDPAI Technology Co.,Ltd
+400000-4FFFFF     (base 16)		DDPAI Technology Co.,Ltd
+				Floor 12,Yihua finance building, Nanshan software industry park, Xuefu Rd, Nanshan district
+				Shenzhen  Guangdong  518000
+				CN

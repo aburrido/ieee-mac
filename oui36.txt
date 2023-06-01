@@ -13157,6 +13157,12 @@ CD4000-CD4FFF     (base 16)		Shengli Technologies
 				Huntsville  AL  35805
 				US
 
+8C-1F-64   (hex)		Metreg Technologies GmbH
+C17000-C17FFF     (base 16)		Metreg Technologies GmbH
+				Neckaraue 9
+				Remseck    71686
+				DE
+
 8C-1F-64   (hex)		SECURICO ELECTRONICS INDIA LTD
 4D9000-4D9FFF     (base 16)		SECURICO ELECTRONICS INDIA LTD
 				Plot No.4, 14/3, Mathura Road
@@ -19693,6 +19699,18 @@ E45000-E45FFF     (base 16)		Integer.pl S.A.
 				Wielicka 28
 				Krakow    30-552
 				PL
+
+8C-1F-64   (hex)		Nepean Networks Pty Ltd
+500000-500FFF     (base 16)		Nepean Networks Pty Ltd
+				Suite 8 Level 1, 119-125 Ocean Beach Road
+				Sorrento  VI  3943
+				AU
+
+8C-1F-64   (hex)		Karl DUNGS GmbH & Co. KG
+267000-267FFF     (base 16)		Karl DUNGS GmbH & Co. KG
+				Karl-Dungs-Platz 1
+				Urbach  BW  73660
+				DE
 
 8C-1F-64   (hex)		SD OPTICS
 C42000-C42FFF     (base 16)		SD OPTICS
@@ -26269,6 +26287,18 @@ D74000-D74FFF     (base 16)		TEX COMPUTER SRL
 				11451 Belcher Rd S
 				Largo  FL  33773
 				US
+
+8C-1F-64   (hex)		Morgen Technology
+A87000-A87FFF     (base 16)		Morgen Technology
+				PO Box 598
+				Cleveland  OH  44040
+				US
+
+8C-1F-64   (hex)		SHENZHEN SMARTLOG TECHNOLOGIES CO.,LTD
+C43000-C43FFF     (base 16)		SHENZHEN SMARTLOG TECHNOLOGIES CO.,LTD
+				Building 2(floor 8), Financial Service Technology Innovation Base, No. 8 of Kefa Road, Science and Technology Park Community, Yuehai Street, Nanshan
+				shenzhen  guangdong  518057
+				CN
 
 8C-1F-64   (hex)		Hiwin Mikrosystem Corp.
 52A000-52AFFF     (base 16)		Hiwin Mikrosystem Corp.
