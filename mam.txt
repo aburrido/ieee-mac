@@ -11213,6 +11213,12 @@ B00000-BFFFFF     (base 16)		EdgeDX
 				Changsha  Hunan  410205
 				CN
 
+54-91-AF   (hex)		Star Systems International Limited
+600000-6FFFFF     (base 16)		Star Systems International Limited
+				Unit 04, 12/F Vanta Industrial Centre, 21-33 Tai Lin Pai Road
+				Kwai Chung    852
+				HK
+
 6C-2A-DF   (hex)		WeatherFlow-Tempest, Inc
 E00000-EFFFFF     (base 16)		WeatherFlow-Tempest, Inc
 				108 Whispering Pine Dr#245
@@ -28640,12 +28646,6 @@ C00000-CFFFFF     (base 16)		Telecam Technology Co.,Ltd
 				Shenzhen    518116
 				CN
 
-50-48-2C   (hex)		WIKA Mobile Conrol GmbH&Co.KG
-600000-6FFFFF     (base 16)		WIKA Mobile Conrol GmbH&Co.KG
-				Hertzstr. 32-34
-				Ettlingen    76275
-				DE
-
 D0-15-BB   (hex)		TePS'EG
 300000-3FFFFF     (base 16)		TePS'EG
 				31-14, Hangang-daero 15-gil, Yongsan-gu
@@ -28694,8 +28694,20 @@ D0-15-BB   (hex)		Esders GmbH
 				Haselünne    49740
 				DE
 
+54-91-AF   (hex)		SHENZHEN SANMI INTELLIGENT CO.,LTD
+200000-2FFFFF     (base 16)		SHENZHEN SANMI INTELLIGENT CO.,LTD
+				Room1806, Building 3, XunmeiTechnology Plaza,No.8 Keyuan RoadYuehai Street Nanshan District, Shenzhen,China
+				Shenzhen    518000
+				CN
+
 54-91-AF   (hex)		DDPAI Technology Co.,Ltd
 400000-4FFFFF     (base 16)		DDPAI Technology Co.,Ltd
 				Floor 12,Yihua finance building, Nanshan software industry park, Xuefu Rd, Nanshan district
 				Shenzhen  Guangdong  518000
 				CN
+
+50-48-2C   (hex)		WIKA Mobile Control GmbH & Co.KG
+600000-6FFFFF     (base 16)		WIKA Mobile Control GmbH & Co.KG
+				Hertzstr. 32-34
+				Ettlingen    76275
+				DE

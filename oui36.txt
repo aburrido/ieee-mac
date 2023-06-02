@@ -6569,6 +6569,12 @@ C0A000-C0AFFF     (base 16)		ACROLABS,INC
 				Boulder  CO  80301
 				US
 
+8C-1F-64   (hex)		Euklis srl
+56E000-56EFFF     (base 16)		Euklis srl
+				viale Colombo 23
+				Trezzano sul Naviglio  MI  20090
+				IT
+
 8C-1F-64   (hex)		Chemito Infotech PVT LTD
 E23000-E23FFF     (base 16)		Chemito Infotech PVT LTD
 				d1/27 ambad nashik
@@ -13139,11 +13145,11 @@ C1D000-C1DFFF     (base 16)		Kranze Technology Solutions, Inc.
 				Torrance  CA  90501
 				US
 
-8C-1F-64   (hex)		Shengli Technologies
-CD4000-CD4FFF     (base 16)		Shengli Technologies
-				4th FL, No.3766 Nanhuan Road, Binjiang District
-				Hangzhou  Zhejiang  310051
-				CN
+8C-1F-64   (hex)		Metreg Technologies GmbH
+C17000-C17FFF     (base 16)		Metreg Technologies GmbH
+				Neckaraue 9
+				Remseck    71686
+				DE
 
 8C-1F-64   (hex)		Reivax S/A Automação e Controle
 8E0000-8E0FFF     (base 16)		Reivax S/A Automação e Controle
@@ -13151,17 +13157,17 @@ CD4000-CD4FFF     (base 16)		Shengli Technologies
 				Florianópolis  Santa Catarina  88030904
 				BR
 
+8C-1F-64   (hex)		Shengli Technologies
+CD4000-CD4FFF     (base 16)		Shengli Technologies
+				4th FL, No.3766 Nanhuan Road, Binjiang District
+				Hangzhou  Zhejiang  310051
+				CN
+
 8C-1F-64   (hex)		Kinney Industries, Inc
 5A6000-5A6FFF     (base 16)		Kinney Industries, Inc
 				2514 HALL AVE NW
 				Huntsville  AL  35805
 				US
-
-8C-1F-64   (hex)		Metreg Technologies GmbH
-C17000-C17FFF     (base 16)		Metreg Technologies GmbH
-				Neckaraue 9
-				Remseck    71686
-				DE
 
 8C-1F-64   (hex)		SECURICO ELECTRONICS INDIA LTD
 4D9000-4D9FFF     (base 16)		SECURICO ELECTRONICS INDIA LTD
@@ -26300,6 +26306,12 @@ C43000-C43FFF     (base 16)		SHENZHEN SMARTLOG TECHNOLOGIES CO.,LTD
 				shenzhen  guangdong  518057
 				CN
 
+8C-1F-64   (hex)		Harvest Technology Pty Ltd
+126000-126FFF     (base 16)		Harvest Technology Pty Ltd
+				7 Turner Ave
+				Bentley  WA  6102
+				AU
+
 8C-1F-64   (hex)		Hiwin Mikrosystem Corp.
 52A000-52AFFF     (base 16)		Hiwin Mikrosystem Corp.
 				NO 6 JINGKE CENTRAL RD  TAICHUNG CITY TAIWAN 40841
@@ -29717,12 +29729,6 @@ D7C000-D7CFFF     (base 16)		D.T.S Illuminazione Srl
 				Misano Adriatico   Rimini   47843
 				IT
 
-70-B3-D5   (hex)		Star Systems International
-5EF000-5EFFFF     (base 16)		Star Systems International
-				Unit 04, 12/F Vanta Industrial Centre, 21-33 Tai Lin Pai Road
-				Kwai Chung    852
-				HK
-
 70-B3-D5   (hex)		CT Company
 2D4000-2D4FFF     (base 16)		CT Company
 				Godovikova , 9, Moscow
@@ -32699,14 +32705,20 @@ F86000-F86FFF     (base 16)		NxGen Comm LLC
 				Morrisville  NC  27560
 				US
 
+8C-1F-64   (hex)		TIRASOFT TECHNOLOGY
+598000-598FFF     (base 16)		TIRASOFT TECHNOLOGY
+				Rue Iben Charaf Nr:3 Bab Bhar Tunis
+				TUNIS    1002
+				TN
+
 8C-1F-64   (hex)		Consonance
 F91000-F91FFF     (base 16)		Consonance
 				Herut
 				Hameyasdim  Tel-Mond  40691
 				IL
 
-8C-1F-64   (hex)		TIRASOFT TECHNOLOGY
-598000-598FFF     (base 16)		TIRASOFT TECHNOLOGY
-				Rue Iben Charaf Nr:3 Bab Bhar Tunis
-				TUNIS    1002
-				TN
+70-B3-D5   (hex)		Star Systems International Limited
+5EF000-5EFFFF     (base 16)		Star Systems International Limited
+				Unit 04, 12/F Vanta Industrial Centre, 21-33 Tai Lin Pai Road
+				Kwai Chung    852
+				HK
