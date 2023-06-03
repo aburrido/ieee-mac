@@ -9770,12 +9770,6 @@ B9A000-B9AFFF     (base 16)		Potter Electric Signal Co. LLC
 				Saint-Etienne  Loire  42000
 				FR
 
-70-B3-D5   (hex)		Shengli Financial Software Development
-F22000-F22FFF     (base 16)		Shengli Financial Software Development
-				3766 Nanhuan Road, Binjiang
-				Hangzhou    310051
-				CN
-
 70-B3-D5   (hex)		Gogo BA 
 1E8000-1E8FFF     (base 16)		Gogo BA 
 				105 Edgeview Drive
@@ -13115,6 +13109,18 @@ C1D000-C1DFFF     (base 16)		Kranze Technology Solutions, Inc.
 				Des Plaines  IL  60018
 				US
 
+8C-1F-64   (hex)		Shengli Technologies
+CD4000-CD4FFF     (base 16)		Shengli Technologies
+				4th FL, No.3766 Nanhuan Road, Binjiang District
+				Hangzhou  Zhejiang  310051
+				CN
+
+8C-1F-64   (hex)		Reivax S/A Automação e Controle
+8E0000-8E0FFF     (base 16)		Reivax S/A Automação e Controle
+				Rodovia José Carlos Daux, 600
+				Florianópolis  Santa Catarina  88030904
+				BR
+
 8C-1F-64   (hex)		H2Ok Innovations
 937000-937FFF     (base 16)		H2Ok Innovations
 				444 SOMERVILLE AVE, H2Ok Innovations
@@ -13151,23 +13157,23 @@ C17000-C17FFF     (base 16)		Metreg Technologies GmbH
 				Remseck    71686
 				DE
 
-8C-1F-64   (hex)		Reivax S/A Automação e Controle
-8E0000-8E0FFF     (base 16)		Reivax S/A Automação e Controle
-				Rodovia José Carlos Daux, 600
-				Florianópolis  Santa Catarina  88030904
-				BR
-
-8C-1F-64   (hex)		Shengli Technologies
-CD4000-CD4FFF     (base 16)		Shengli Technologies
-				4th FL, No.3766 Nanhuan Road, Binjiang District
-				Hangzhou  Zhejiang  310051
-				CN
-
 8C-1F-64   (hex)		Kinney Industries, Inc
 5A6000-5A6FFF     (base 16)		Kinney Industries, Inc
 				2514 HALL AVE NW
 				Huntsville  AL  35805
 				US
+
+8C-1F-64   (hex)		Mitsubishi Electric India Pvt. Ltd.
+A89000-A89FFF     (base 16)		Mitsubishi Electric India Pvt. Ltd.
+				EL3, J BLOCK, M.I.D.C. Bhosari
+				PUNE  Maharastra  411027
+				IN
+
+70-B3-D5   (hex)		Shengli Technologies
+F22000-F22FFF     (base 16)		Shengli Technologies
+				3766 Nanhuan Road, Binjiang
+				Hangzhou    310051
+				CN
 
 8C-1F-64   (hex)		SECURICO ELECTRONICS INDIA LTD
 4D9000-4D9FFF     (base 16)		SECURICO ELECTRONICS INDIA LTD
@@ -19717,6 +19723,12 @@ E45000-E45FFF     (base 16)		Integer.pl S.A.
 				Karl-Dungs-Platz 1
 				Urbach  BW  73660
 				DE
+
+8C-1F-64   (hex)		MPT-Service project
+5BD000-5BDFFF     (base 16)		MPT-Service project
+				Polyarnaya street, 41, bld. 1
+				Moscow    127282
+				RU
 
 8C-1F-64   (hex)		SD OPTICS
 C42000-C42FFF     (base 16)		SD OPTICS
@@ -26294,23 +26306,29 @@ D74000-D74FFF     (base 16)		TEX COMPUTER SRL
 				Largo  FL  33773
 				US
 
-8C-1F-64   (hex)		Morgen Technology
-A87000-A87FFF     (base 16)		Morgen Technology
-				PO Box 598
-				Cleveland  OH  44040
-				US
-
 8C-1F-64   (hex)		SHENZHEN SMARTLOG TECHNOLOGIES CO.,LTD
 C43000-C43FFF     (base 16)		SHENZHEN SMARTLOG TECHNOLOGIES CO.,LTD
 				Building 2(floor 8), Financial Service Technology Innovation Base, No. 8 of Kefa Road, Science and Technology Park Community, Yuehai Street, Nanshan
 				shenzhen  guangdong  518057
 				CN
 
+8C-1F-64   (hex)		Ubotica Technologies
+2DF000-2DFFFF     (base 16)		Ubotica Technologies
+				DCU Alpha, Old Finglas Road, Glasnevin
+				Dublin  Dublin  D11KXN4
+				IE
+
 8C-1F-64   (hex)		Harvest Technology Pty Ltd
 126000-126FFF     (base 16)		Harvest Technology Pty Ltd
 				7 Turner Ave
 				Bentley  WA  6102
 				AU
+
+8C-1F-64   (hex)		Morgen Technology
+A87000-A87FFF     (base 16)		Morgen Technology
+				PO Box 598
+				Cleveland  OH  44040
+				US
 
 8C-1F-64   (hex)		Hiwin Mikrosystem Corp.
 52A000-52AFFF     (base 16)		Hiwin Mikrosystem Corp.
@@ -32693,6 +32711,12 @@ C4A000-C4AFFF     (base 16)		SGi Technology Group Ltd.
 				Lititz  PA  17543
 				US
 
+8C-1F-64   (hex)		Consonance
+F91000-F91FFF     (base 16)		Consonance
+				Herut
+				Hameyasdim  Tel-Mond  40691
+				IL
+
 8C-1F-64   (hex)		SHALARM SECURITY Co.,LTD
 2A8000-2A8FFF     (base 16)		SHALARM SECURITY Co.,LTD
 				8F., No. 588, Tanmei St., Neihu Dist., Taipei City 114044 , Taiwan (R.O.C.)
@@ -32705,20 +32729,14 @@ F86000-F86FFF     (base 16)		NxGen Comm LLC
 				Morrisville  NC  27560
 				US
 
-8C-1F-64   (hex)		TIRASOFT TECHNOLOGY
-598000-598FFF     (base 16)		TIRASOFT TECHNOLOGY
-				Rue Iben Charaf Nr:3 Bab Bhar Tunis
-				TUNIS    1002
-				TN
-
-8C-1F-64   (hex)		Consonance
-F91000-F91FFF     (base 16)		Consonance
-				Herut
-				Hameyasdim  Tel-Mond  40691
-				IL
-
 70-B3-D5   (hex)		Star Systems International Limited
 5EF000-5EFFFF     (base 16)		Star Systems International Limited
 				Unit 04, 12/F Vanta Industrial Centre, 21-33 Tai Lin Pai Road
 				Kwai Chung    852
 				HK
+
+8C-1F-64   (hex)		TIRASOFT TECHNOLOGY
+598000-598FFF     (base 16)		TIRASOFT TECHNOLOGY
+				Rue Iben Charaf Nr:3 Bab Bhar Tunis
+				TUNIS    1002
+				TN

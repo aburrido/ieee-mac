@@ -5729,12 +5729,6 @@ B00000-BFFFFF     (base 16)		PEZY Computing K.K.
 				Chiyoda-ku  Tokyo  101-0052
 				JP
 
-88-A6-EF   (hex)		TechPLEX Inc.
-800000-8FFFFF     (base 16)		TechPLEX Inc.
-				16, Deongmyeong-ro 71, Yuseong-gu
-				Daejeon    34155
-				KR
-
 88-A6-EF   (hex)		ShenZhen KZIot Technology LLC.
 600000-6FFFFF     (base 16)		ShenZhen KZIot Technology LLC.
 				12th Floor, Block A, Kelu Building, Baoshen Road, Songpingshan Community, Xili Street, Nanshan District,
@@ -5746,6 +5740,18 @@ D00000-DFFFFF     (base 16)		Hash Mining s.r.o.
 				Ceskomoravska 142/18
 				Praha    19000
 				CZ
+
+88-A6-EF   (hex)		TechPLEX Inc.
+800000-8FFFFF     (base 16)		TechPLEX Inc.
+				16, Deongmyeong-ro 71, Yuseong-gu
+				Daejeon    34155
+				KR
+
+54-91-AF   (hex)		DanuTech Europe Kft
+C00000-CFFFFF     (base 16)		DanuTech Europe Kft
+				Gulyás utca 24/1
+				Budapest    1112
+				HU
 
 B4-4D-43   (hex)		Spot AI, Inc.
 600000-6FFFFF     (base 16)		Spot AI, Inc.
@@ -11165,12 +11171,6 @@ D0-15-BB   (hex)		ALEKTO-SYSTEMS LTD
 				Heraklion  Crete  71304
 				GR
 
-88-A6-EF   (hex)		Enlaps
-300000-3FFFFF     (base 16)		Enlaps
-				29 chemin du vieux chene, Tarmac
-				MEYLAN    38240
-				FR
-
 64-31-39   (hex)		Active Brains
 400000-4FFFFF     (base 16)		Active Brains
 				Yokohama Mitsui Bldg.12F, 1-1-2 Takashima, Nishi-ku
@@ -11189,11 +11189,23 @@ B00000-BFFFFF     (base 16)		EdgeDX
 				Seoul   Geumcheon-gu  08502
 				KR
 
+88-A6-EF   (hex)		Enlaps
+300000-3FFFFF     (base 16)		Enlaps
+				29 chemin du vieux chene, Tarmac
+				MEYLAN    38240
+				FR
+
 88-A6-EF   (hex)		METRO ELECTRONICS
 200000-2FFFFF     (base 16)		METRO ELECTRONICS
 				D-74, SECTOR 63,
 				NOIDA  UTTAR PRADESH  201301
 				IN
+
+54-91-AF   (hex)		Hunan Quanying Electronics Co. , Ltd.
+800000-8FFFFF     (base 16)		Hunan Quanying Electronics Co. , Ltd.
+				oom 401-46, 4th Floor, Building 5, Changsha Zhongdian Software Park Phase 1, No. 39 Jianshan Road, High tech Development Zone, Changsha City, Hunan Province, China
+				Changsha  Hunan  410205
+				CN
 
 88-A6-EF   (hex)		Labpano Technology (Changzhou) Co., Ltd.
 500000-5FFFFF     (base 16)		Labpano Technology (Changzhou) Co., Ltd.
@@ -11207,17 +11219,17 @@ B00000-BFFFFF     (base 16)		EdgeDX
 				Shenzhen  Guangdong  China
 				CN
 
-54-91-AF   (hex)		Hunan Quanying Electronics Co. , Ltd.
-800000-8FFFFF     (base 16)		Hunan Quanying Electronics Co. , Ltd.
-				oom 401-46, 4th Floor, Building 5, Changsha Zhongdian Software Park Phase 1, No. 39 Jianshan Road, High tech Development Zone, Changsha City, Hunan Province, China
-				Changsha  Hunan  410205
-				CN
-
 54-91-AF   (hex)		Star Systems International Limited
 600000-6FFFFF     (base 16)		Star Systems International Limited
 				Unit 04, 12/F Vanta Industrial Centre, 21-33 Tai Lin Pai Road
 				Kwai Chung    852
 				HK
+
+54-91-AF   (hex)		4MITech
+100000-1FFFFF     (base 16)		4MITech
+				711-A,Factory world, 274,Samsung-ro,Yeongtong-gu
+				Suwon-si  Gyeonggi-do  16522
+				KR
 
 6C-2A-DF   (hex)		WeatherFlow-Tempest, Inc
 E00000-EFFFFF     (base 16)		WeatherFlow-Tempest, Inc
@@ -17168,12 +17180,6 @@ D0-15-BB   (hex)		ShenZhen Zhongke GuanJie Data Technology Co.,Ltd.
 				Shenzhen  - None -  518000
 				CN
 
-54-91-AF   (hex)		Asiga Pty Ltd
-900000-9FFFFF     (base 16)		Asiga Pty Ltd
-				Unit 2, 19-21 Bourke Road
-				Alexandria  New South Wales  2015
-				AU
-
 88-A6-EF   (hex)		Kii Audio GmbH
 900000-9FFFFF     (base 16)		Kii Audio GmbH
 				Drosselweg 45
@@ -17191,6 +17197,12 @@ D0-15-BB   (hex)		ShenZhen Zhongke GuanJie Data Technology Co.,Ltd.
 				16th Floor, Block B, Building 6, Shenzhen International Innovation Valley, Dashi 1st Road, Xili Street, Nanshan District, Shenzhen
 				Shenzhen  Guangdong  518000
 				CN
+
+54-91-AF   (hex)		Asiga Pty Ltd
+900000-9FFFFF     (base 16)		Asiga Pty Ltd
+				Unit 2, 19-21 Bourke Road
+				Alexandria  New South Wales  2015
+				AU
 
 54-91-AF   (hex)		Opal-RT Technologies Inc.
 000000-0FFFFF     (base 16)		Opal-RT Technologies Inc.
@@ -28658,12 +28670,6 @@ D0-15-BB   (hex)		Stellar Blu Solutions
 				Ft. Worth  TX  76177
 				US
 
-88-A6-EF   (hex)		IONA Tech
-E00000-EFFFFF     (base 16)		IONA Tech
-				164 Society Dr. Unit O
-				Telluride  CO  81435
-				US
-
 88-A6-EF   (hex)		TRUWIN
 700000-7FFFFF     (base 16)		TRUWIN
 				385, Expo-ro, Yuseong-Gu, Daejeon, South Korea
@@ -28694,6 +28700,12 @@ D0-15-BB   (hex)		Esders GmbH
 				Haselünne    49740
 				DE
 
+88-A6-EF   (hex)		IONA Tech
+E00000-EFFFFF     (base 16)		IONA Tech
+				164 Society Dr. Unit O
+				Telluride  CO  81435
+				US
+
 54-91-AF   (hex)		SHENZHEN SANMI INTELLIGENT CO.,LTD
 200000-2FFFFF     (base 16)		SHENZHEN SANMI INTELLIGENT CO.,LTD
 				Room1806, Building 3, XunmeiTechnology Plaza,No.8 Keyuan RoadYuehai Street Nanshan District, Shenzhen,China
@@ -28711,3 +28723,9 @@ D0-15-BB   (hex)		Esders GmbH
 				Hertzstr. 32-34
 				Ettlingen    76275
 				DE
+
+54-91-AF   (hex)		Zhuhai SHIXI Technology Co.,Ltd
+A00000-AFFFFF     (base 16)		Zhuhai SHIXI Technology Co.,Ltd
+				Room 901-903, 9/F, Creative Yunduan A, 1 Harbour, Xiangzhou Hi-tech Zone Zhuhai
+				 Zhuhai    519080
+				CN
