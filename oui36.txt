@@ -6575,6 +6575,12 @@ C0A000-C0AFFF     (base 16)		ACROLABS,INC
 				Trezzano sul Naviglio  MI  20090
 				IT
 
+8C-1F-64   (hex)		HD Link Co., Ltd.
+5F1000-5F1FFF     (base 16)		HD Link Co., Ltd.
+				No. 710, 648 Seobusaet-gil Geumcheon-gu
+				Seoul    08504
+				KR
+
 8C-1F-64   (hex)		Chemito Infotech PVT LTD
 E23000-E23FFF     (base 16)		Chemito Infotech PVT LTD
 				d1/27 ambad nashik
@@ -13163,23 +13169,29 @@ C17000-C17FFF     (base 16)		Metreg Technologies GmbH
 				Huntsville  AL  35805
 				US
 
+8C-1F-64   (hex)		Hubbell Power Systems
+694000-694FFF     (base 16)		Hubbell Power Systems
+				353 Powerville Road
+				Boonton Township  NJ  07005
+				US
+
 8C-1F-64   (hex)		Mitsubishi Electric India Pvt. Ltd.
 A89000-A89FFF     (base 16)		Mitsubishi Electric India Pvt. Ltd.
 				EL3, J BLOCK, M.I.D.C. Bhosari
 				PUNE  Maharastra  411027
 				IN
 
-70-B3-D5   (hex)		Shengli Technologies
-F22000-F22FFF     (base 16)		Shengli Technologies
-				3766 Nanhuan Road, Binjiang
-				Hangzhou    310051
-				CN
-
 8C-1F-64   (hex)		JTL Systems Ltd.
 621000-621FFF     (base 16)		JTL Systems Ltd.
 				41 Kingfisher Court
 				Newbury  Berks  RG14 5SJ
 				GB
+
+70-B3-D5   (hex)		Shengli Technologies
+F22000-F22FFF     (base 16)		Shengli Technologies
+				3766 Nanhuan Road, Binjiang
+				Hangzhou    310051
+				CN
 
 8C-1F-64   (hex)		SECURICO ELECTRONICS INDIA LTD
 4D9000-4D9FFF     (base 16)		SECURICO ELECTRONICS INDIA LTD
