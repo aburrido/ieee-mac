@@ -11237,6 +11237,12 @@ B00000-BFFFFF     (base 16)		EdgeDX
 				Suwon-si  Gyeonggi-do  16522
 				KR
 
+54-91-AF   (hex)		Hyperconn Pte. ltd
+B00000-BFFFFF     (base 16)		Hyperconn Pte. ltd
+				128 Tanjong Pagar Road Singapore(088535)
+				Singapore    088535
+				SG
+
 6C-2A-DF   (hex)		WeatherFlow-Tempest, Inc
 E00000-EFFFFF     (base 16)		WeatherFlow-Tempest, Inc
 				108 Whispering Pine Dr#245

@@ -973,3 +973,9 @@ EA9FB1                        (base 16)                     Philips Internationa
                                                             Lot 202                                      
                                                             Sungai Petani  Kedah  08000                  
                                                             MY                                           
+
+8A-7D-B3                      (hex)                         Evolv Technology, Inc.                       
+8A7DB3                        (base 16)                     Evolv Technology, Inc.                       
+                                                            500 Totten Pond Road4th Floor                
+                                                            Waltham  MA  02451                           
+                                                            US                                           
