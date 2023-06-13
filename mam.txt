@@ -5735,6 +5735,12 @@ B00000-BFFFFF     (base 16)		PEZY Computing K.K.
 				Shenzhen  GuangDong  518000
 				CN
 
+54-91-AF   (hex)		DanuTech Europe Kft
+C00000-CFFFFF     (base 16)		DanuTech Europe Kft
+				Gulyás utca 24/1
+				Budapest    1112
+				HU
+
 88-A6-EF   (hex)		Hash Mining s.r.o.
 D00000-DFFFFF     (base 16)		Hash Mining s.r.o.
 				Ceskomoravska 142/18
@@ -5747,17 +5753,23 @@ D00000-DFFFFF     (base 16)		Hash Mining s.r.o.
 				Daejeon    34155
 				KR
 
-54-91-AF   (hex)		DanuTech Europe Kft
-C00000-CFFFFF     (base 16)		DanuTech Europe Kft
-				Gulyás utca 24/1
-				Budapest    1112
-				HU
+D0-15-BB   (hex)		Bluewaves Mobility Innovation Inc
+D00000-DFFFFF     (base 16)		Bluewaves Mobility Innovation Inc
+				Unit 402-105 Gordon Baker Rd
+				Toronto   Ontario  M2H3P8
+				CA
 
 54-91-AF   (hex)		IronLink
 300000-3FFFFF     (base 16)		IronLink
 				2 Astor
 				Irvine  CA  92618
 				US
+
+48-DA-35   (hex)		Think Engineering
+100000-1FFFFF     (base 16)		Think Engineering
+				3-16-15 Jiyugaoka
+				Meguro-ku  Tokyo-to  152-0035
+				JP
 
 B4-4D-43   (hex)		Spot AI, Inc.
 600000-6FFFFF     (base 16)		Spot AI, Inc.
@@ -11177,6 +11189,12 @@ D0-15-BB   (hex)		ALEKTO-SYSTEMS LTD
 				Heraklion  Crete  71304
 				GR
 
+88-A6-EF   (hex)		Enlaps
+300000-3FFFFF     (base 16)		Enlaps
+				29 chemin du vieux chene, Tarmac
+				MEYLAN    38240
+				FR
+
 64-31-39   (hex)		Active Brains
 400000-4FFFFF     (base 16)		Active Brains
 				Yokohama Mitsui Bldg.12F, 1-1-2 Takashima, Nishi-ku
@@ -11195,17 +11213,17 @@ B00000-BFFFFF     (base 16)		EdgeDX
 				Seoul   Geumcheon-gu  08502
 				KR
 
-88-A6-EF   (hex)		Enlaps
-300000-3FFFFF     (base 16)		Enlaps
-				29 chemin du vieux chene, Tarmac
-				MEYLAN    38240
-				FR
-
 88-A6-EF   (hex)		METRO ELECTRONICS
 200000-2FFFFF     (base 16)		METRO ELECTRONICS
 				D-74, SECTOR 63,
 				NOIDA  UTTAR PRADESH  201301
 				IN
+
+54-91-AF   (hex)		Hong Telecom Equipment Service Limited
+700000-7FFFFF     (base 16)		Hong Telecom Equipment Service Limited
+				A201, 2nd Floor, East Tower, Nanshan Digital Cultural Industry Base, No. 10128 Shennan Avenue, Nanshan District,
+				Shenzhen  Guangdong  China
+				CN
 
 54-91-AF   (hex)		Hunan Quanying Electronics Co. , Ltd.
 800000-8FFFFF     (base 16)		Hunan Quanying Electronics Co. , Ltd.
@@ -11213,16 +11231,16 @@ B00000-BFFFFF     (base 16)		EdgeDX
 				Changsha  Hunan  410205
 				CN
 
+54-91-AF   (hex)		Star Systems International Limited
+600000-6FFFFF     (base 16)		Star Systems International Limited
+				Unit 04, 12/F Vanta Industrial Centre, 21-33 Tai Lin Pai Road
+				Kwai Chung    852
+				HK
+
 88-A6-EF   (hex)		Labpano Technology (Changzhou) Co., Ltd.
 500000-5FFFFF     (base 16)		Labpano Technology (Changzhou) Co., Ltd.
 				Building 4D, No.160 Xihu West Road, Wujin National Hi-tech Industrial Zone,
 				Changzhou  Jiangsu  213100
-				CN
-
-54-91-AF   (hex)		Hong Telecom Equipment Service Limited
-700000-7FFFFF     (base 16)		Hong Telecom Equipment Service Limited
-				A201, 2nd Floor, East Tower, Nanshan Digital Cultural Industry Base, No. 10128 Shennan Avenue, Nanshan District,
-				Shenzhen  Guangdong  China
 				CN
 
 54-91-AF   (hex)		4MITech
@@ -11231,17 +11249,17 @@ B00000-BFFFFF     (base 16)		EdgeDX
 				Suwon-si  Gyeonggi-do  16522
 				KR
 
-54-91-AF   (hex)		Star Systems International Limited
-600000-6FFFFF     (base 16)		Star Systems International Limited
-				Unit 04, 12/F Vanta Industrial Centre, 21-33 Tai Lin Pai Road
-				Kwai Chung    852
-				HK
-
 54-91-AF   (hex)		Hyperconn Pte. ltd
 B00000-BFFFFF     (base 16)		Hyperconn Pte. ltd
 				128 Tanjong Pagar Road Singapore(088535)
 				Singapore    088535
 				SG
+
+48-DA-35   (hex)		FLEXTRONICS INTERNATIONAL KFT 
+900000-9FFFFF     (base 16)		FLEXTRONICS INTERNATIONAL KFT 
+				Zrínyi Miklós str. 38.
+				Zalaegerszeg    8900
+				HU
 
 6C-2A-DF   (hex)		WeatherFlow-Tempest, Inc
 E00000-EFFFFF     (base 16)		WeatherFlow-Tempest, Inc
@@ -22907,6 +22925,12 @@ A00000-AFFFFF     (base 16)		Draper, Inc.
 				Spiceland  IN  47385
 				US
 
+48-DA-35   (hex)		RBS LLC
+000000-0FFFFF     (base 16)		RBS LLC
+				Pereyaslavskaya B. ul., dom 46, stroenie 2
+				Moscow    129110
+				RU
+
 54-91-AF   (hex)		Jiangxi Anbaichuan Electric Co.(ABC),Ltd
 E00000-EFFFFF     (base 16)		Jiangxi Anbaichuan Electric Co.(ABC),Ltd
 				Jinggangshan Economic Development Zone
@@ -28700,6 +28724,12 @@ D0-15-BB   (hex)		Stellar Blu Solutions
 				Ft. Worth  TX  76177
 				US
 
+88-A6-EF   (hex)		IONA Tech
+E00000-EFFFFF     (base 16)		IONA Tech
+				164 Society Dr. Unit O
+				Telluride  CO  81435
+				US
+
 88-A6-EF   (hex)		TRUWIN
 700000-7FFFFF     (base 16)		TRUWIN
 				385, Expo-ro, Yuseong-Gu, Daejeon, South Korea
@@ -28730,12 +28760,6 @@ D0-15-BB   (hex)		Esders GmbH
 				Haselünne    49740
 				DE
 
-88-A6-EF   (hex)		IONA Tech
-E00000-EFFFFF     (base 16)		IONA Tech
-				164 Society Dr. Unit O
-				Telluride  CO  81435
-				US
-
 54-91-AF   (hex)		SHENZHEN SANMI INTELLIGENT CO.,LTD
 200000-2FFFFF     (base 16)		SHENZHEN SANMI INTELLIGENT CO.,LTD
 				Room1806, Building 3, XunmeiTechnology Plaza,No.8 Keyuan RoadYuehai Street Nanshan District, Shenzhen,China
@@ -28753,6 +28777,12 @@ E00000-EFFFFF     (base 16)		IONA Tech
 				Hertzstr. 32-34
 				Ettlingen    76275
 				DE
+
+48-DA-35   (hex)		Annapurna labs
+200000-2FFFFF     (base 16)		Annapurna labs
+				Matam Scientific Industries Center,   Building 8.2
+				Mail box 15123  Haifa  3508409
+				IL
 
 54-91-AF   (hex)		Zhuhai SHIXI Technology Co.,Ltd
 A00000-AFFFFF     (base 16)		Zhuhai SHIXI Technology Co.,Ltd
