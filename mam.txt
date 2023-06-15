@@ -11249,17 +11249,17 @@ B00000-BFFFFF     (base 16)		EdgeDX
 				Kwai Chung    852
 				HK
 
-54-91-AF   (hex)		Hyperconn Pte. ltd
-B00000-BFFFFF     (base 16)		Hyperconn Pte. ltd
-				128 Tanjong Pagar Road Singapore(088535)
-				Singapore    088535
-				SG
-
 48-DA-35   (hex)		FLEXTRONICS INTERNATIONAL KFT 
 900000-9FFFFF     (base 16)		FLEXTRONICS INTERNATIONAL KFT 
 				Zrínyi Miklós str. 38.
 				Zalaegerszeg    8900
 				HU
+
+54-91-AF   (hex)		Hyperconn Pte. ltd
+B00000-BFFFFF     (base 16)		Hyperconn Pte. ltd
+				128 Tanjong Pagar Road Singapore(088535)
+				Singapore    088535
+				SG
 
 6C-2A-DF   (hex)		WeatherFlow-Tempest, Inc
 E00000-EFFFFF     (base 16)		WeatherFlow-Tempest, Inc
@@ -17252,6 +17252,12 @@ D00000-DFFFFF     (base 16)		Ningbo Joynext Technology Corporation
 				Ningbo    315040
 				CN
 
+48-DA-35   (hex)		Shenzhen Sipeed Technology Co., Ltd
+600000-6FFFFF     (base 16)		Shenzhen Sipeed Technology Co., Ltd
+				2101C, Hengfang Technology Building, Xixiang Street, Bao'an District
+				Shenzhen  Guangdong  518000
+				CN
+
 B4-4D-43   (hex)		SERNET (SUZHOU) TECHNOLOGIES CORPORATION
 700000-7FFFFF     (base 16)		SERNET (SUZHOU) TECHNOLOGIES CORPORATION
 				NO.8 Tangzhuang Road,Suzhou Industrial Park,Su ZhouCity,JiangSu Province,China
@@ -22936,6 +22942,12 @@ E00000-EFFFFF     (base 16)		Jiangxi Anbaichuan Electric Co.(ABC),Ltd
 				Jinggangshan Economic Development Zone
 				Ji’an  Jiangxi  343199
 				CN
+
+48-DA-35   (hex)		NACON LIMITED (HK) LTD
+D00000-DFFFFF     (base 16)		NACON LIMITED (HK) LTD
+				17/F, 148 ELECTRIC ROAD, NORTH POINT
+				HONG KONG    999077
+				HK
 
 80-E4-DA   (hex)		Private
 F00000-FFFFFF     (base 16)		Private
@@ -28789,3 +28801,9 @@ A00000-AFFFFF     (base 16)		Zhuhai SHIXI Technology Co.,Ltd
 				Room 901-903, 9/F, Creative Yunduan A, 1 Harbour, Xiangzhou Hi-tech Zone Zhuhai
 				 Zhuhai    519080
 				CN
+
+48-DA-35   (hex)		ERAESEEDS Co.,Ltd.
+700000-7FFFFF     (base 16)		ERAESEEDS Co.,Ltd.
+				3F, 411, Gwannak-daero, Dongan-gu
+				Anyang-si    13939
+				KR
