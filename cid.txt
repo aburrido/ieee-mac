@@ -596,6 +596,12 @@ FA556F                        (base 16)                     SymbolicIO
                                                             Hillsboro  OR  97123                         
                                                             US                                           
 
+FA-00-E7                      (hex)                         Quantum Machines ltd                         
+FA00E7                        (base 16)                     Quantum Machines ltd                         
+                                                            Hamasger 35                                  
+                                                            Tel Aviv    6721407                          
+                                                            IL                                           
+
 DA-C4-51                      (hex)                         Takaratomy                                   
 DAC451                        (base 16)                     Takaratomy                                   
                                                             7-9-10 Tateishi                              

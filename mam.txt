@@ -5771,6 +5771,12 @@ C00000-CFFFFF     (base 16)		DanuTech Europe Kft
 				Meguro-ku  Tokyo-to  152-0035
 				JP
 
+48-DA-35   (hex)		Guangzhou Xinhong Communication Technology Co.,Ltd
+C00000-CFFFFF     (base 16)		Guangzhou Xinhong Communication Technology Co.,Ltd
+				Unit 1303, Building B2, Creative Building, No. 162 Science Avenue, Guangzhou Development Zone
+				Guangzhou    51000
+				CN
+
 48-DA-35   (hex)		Xiamen Magnetic North Co., Ltd
 300000-3FFFFF     (base 16)		Xiamen Magnetic North Co., Ltd
 				Room 903?Building 2, Baitong Technology Park, 199 Fengqi Road, Jimei District
@@ -22966,6 +22972,12 @@ A00000-AFFFFF     (base 16)		Auto Meter Products Inc.
 				413 West Elm Street
 				Sycamore  IL  60178
 				US
+
+48-DA-35   (hex)		Beijing keshengte communication equipment co., ltd
+500000-5FFFFF     (base 16)		Beijing keshengte communication equipment co., ltd
+				Room 1102,Building 10, Xinqidian Jiayuan, No.5 Chang chun Qiao Road, Haidian District, Beijing
+				Beijing  Beijing  100000
+				CN
 
 80-E4-DA   (hex)		Private
 F00000-FFFFFF     (base 16)		Private
