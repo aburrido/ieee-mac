@@ -17270,6 +17270,12 @@ D00000-DFFFFF     (base 16)		Ningbo Joynext Technology Corporation
 				Shenzhen  Guangdong  518000
 				CN
 
+48-DA-35   (hex)		Vivid-Hosting, LLC.
+B00000-BFFFFF     (base 16)		Vivid-Hosting, LLC.
+				4275 Executive Square STE 206
+				La Jolla  CA  92037
+				US
+
 B4-4D-43   (hex)		SERNET (SUZHOU) TECHNOLOGIES CORPORATION
 700000-7FFFFF     (base 16)		SERNET (SUZHOU) TECHNOLOGIES CORPORATION
 				NO.8 Tangzhuang Road,Suzhou Industrial Park,Su ZhouCity,JiangSu Province,China
@@ -22955,12 +22961,6 @@ E00000-EFFFFF     (base 16)		Jiangxi Anbaichuan Electric Co.(ABC),Ltd
 				Ji’an  Jiangxi  343199
 				CN
 
-48-DA-35   (hex)		NACON LIMITED (HK) LTD
-D00000-DFFFFF     (base 16)		NACON LIMITED (HK) LTD
-				17/F, 148 ELECTRIC ROAD, NORTH POINT
-				HONG KONG    999077
-				HK
-
 48-DA-35   (hex)		Shenzhen Qianhong Technology Co.,Ltd.
 800000-8FFFFF     (base 16)		Shenzhen Qianhong Technology Co.,Ltd.
 				Fumin building, No. 44, Xinhe Community Renmin Road, Fucheng Street, Longhua District, Shenzhen City,
@@ -22973,11 +22973,23 @@ A00000-AFFFFF     (base 16)		Auto Meter Products Inc.
 				Sycamore  IL  60178
 				US
 
+48-DA-35   (hex)		Sphere Com Services Pvt Ltd
+400000-4FFFFF     (base 16)		Sphere Com Services Pvt Ltd
+				Sphere Com Services Pvt Ltd, F-16-22, pankaj plaza, plot-no-7, Sector - 12, Dwarka, New Delhi - 110075, New Delhi
+				New Delhi  Delhi  110075
+				IN
+
 48-DA-35   (hex)		Beijing keshengte communication equipment co., ltd
 500000-5FFFFF     (base 16)		Beijing keshengte communication equipment co., ltd
 				Room 1102,Building 10, Xinqidian Jiayuan, No.5 Chang chun Qiao Road, Haidian District, Beijing
 				Beijing  Beijing  100000
 				CN
+
+48-DA-35   (hex)		NACON LIMITED (HK) LTD
+D00000-DFFFFF     (base 16)		NACON LIMITED (HK) LTD
+				17/F, 148 ELECTRIC ROAD, NORTH POINT
+				HONG KONG    999077
+				HK
 
 80-E4-DA   (hex)		Private
 F00000-FFFFFF     (base 16)		Private
