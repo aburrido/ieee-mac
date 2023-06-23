@@ -19826,6 +19826,12 @@ A0E000-A0EFFF     (base 16)		Elac Americas Inc.
 				Farum    3520
 				DK
 
+8C-1F-64   (hex)		astTECS Communications Private Limited
+9DF000-9DFFFF     (base 16)		astTECS Communications Private Limited
+				No# 35, Krishna Reddy Layout,Domlur
+				Bangalore  Karnataka  560071
+				IN
+
 8C-1F-64   (hex)		SD OPTICS
 C42000-C42FFF     (base 16)		SD OPTICS
 				4F, 9 Gangnam-daero 27-gil
@@ -32885,12 +32891,6 @@ E4D000-E4DFFF     (base 16)		San Telequip (P) Ltd.,
 				Pune  Maharashtra  411045
 				IN
 
-8C-1F-64   (hex)		ENLESS WIRELESS
-2F2000-2F2FFF     (base 16)		ENLESS WIRELESS
-				45 TER AVENUE DE VERDUN
-				BRUGES    33520
-				FR
-
 8C-1F-64   (hex)		Sonel S.A.
 5B0000-5B0FFF     (base 16)		Sonel S.A.
 				Wokulskiego 11
@@ -32908,3 +32908,9 @@ E4D000-E4DFFF     (base 16)		San Telequip (P) Ltd.,
 				Prumyslova 190
 				Chrudim    537 01
 				CZ
+
+8C-1F-64   (hex)		ENLESS WIRELESS
+2F2000-2F2FFF     (base 16)		ENLESS WIRELESS
+				45 TER AVENUE DE VERDUN
+				BRUGES    33520
+				FR
