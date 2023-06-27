@@ -11285,6 +11285,12 @@ B00000-BFFFFF     (base 16)		Hyperconn Pte. ltd
 				Singapore    088535
 				SG
 
+C0-22-F1   (hex)		RCT Power GmbH
+000000-0FFFFF     (base 16)		RCT Power GmbH
+				Line-Eid-Str. 1
+				Konstanz    78467
+				DE
+
 6C-2A-DF   (hex)		WeatherFlow-Tempest, Inc
 E00000-EFFFFF     (base 16)		WeatherFlow-Tempest, Inc
 				108 Whispering Pine Dr#245
@@ -17287,6 +17293,12 @@ B00000-BFFFFF     (base 16)		Vivid-Hosting, LLC.
 				4275 Executive Square STE 206
 				La Jolla  CA  92037
 				US
+
+C0-22-F1   (hex)		UtopiaTech Private Limited
+800000-8FFFFF     (base 16)		UtopiaTech Private Limited
+				Unit No 41, Mehra Compound, Sakinaka
+				Mumbai  Maharashtra  400072
+				IN
 
 B4-4D-43   (hex)		SERNET (SUZHOU) TECHNOLOGIES CORPORATION
 700000-7FFFFF     (base 16)		SERNET (SUZHOU) TECHNOLOGIES CORPORATION
