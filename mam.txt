@@ -5795,6 +5795,18 @@ C0-22-F1   (hex)		MAHINDR & MAHINDRA
 				Pune  Maharashtra  410501
 				IN
 
+C0-22-F1   (hex)		Lafayette AB
+B00000-BFFFFF     (base 16)		Lafayette AB
+				Korpralsgatan 5B
+				41505 Gothenburg    41505
+				SE
+
+C0-22-F1   (hex)		Shenzhen Chengfenghao Electronics Co.;LTD.
+700000-7FFFFF     (base 16)		Shenzhen Chengfenghao Electronics Co.;LTD.
+				1-3F,101 Building,Unit A,No.2,Longhe industrial zone, Longgang town, Longgang district,Shenzhen, Guangdong, 518116, China 
+				Shenzhen  Guangdong  518116
+				CN
+
 B4-4D-43   (hex)		Spot AI, Inc.
 600000-6FFFFF     (base 16)		Spot AI, Inc.
 				1350 Old Bayshore Hwy #920
@@ -28903,3 +28915,9 @@ C00000-CFFFFF     (base 16)		Accelsius LLC
 				1835B Kramer Lane, Suite 180
 				Austin  TX  78758
 				US
+
+C0-22-F1   (hex)		Bosch Automotive Products (Suzhou) Co., Ltd.
+A00000-AFFFFF     (base 16)		Bosch Automotive Products (Suzhou) Co., Ltd.
+				126 Su Hong Xi Road,
+				Suzhou  Jiangsu  215021
+				CN
