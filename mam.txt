@@ -5807,6 +5807,12 @@ C0-22-F1   (hex)		Shenzhen Chengfenghao Electronics Co.;LTD.
 				Shenzhen  Guangdong  518116
 				CN
 
+C0-22-F1   (hex)		Canon Electronic Business Machines (H.K.) Co., Ltd.
+500000-5FFFFF     (base 16)		Canon Electronic Business Machines (H.K.) Co., Ltd.
+				17/F., Tower 1, Ever Gain Plaza, 82-100 Container Port Road
+				Kwai Chung    000000
+				HK
+
 B4-4D-43   (hex)		Spot AI, Inc.
 600000-6FFFFF     (base 16)		Spot AI, Inc.
 				1350 Old Bayshore Hwy #920
@@ -28921,3 +28927,9 @@ C0-22-F1   (hex)		Andritz AB
 				Köpmangatan 9
 				Örnsköldsvik  Västernorrland  89133
 				SE
+
+C0-22-F1   (hex)		COMMUP WUHAN NETWORK TECHNOLOGY CO.,LTD
+100000-1FFFFF     (base 16)		COMMUP WUHAN NETWORK TECHNOLOGY CO.,LTD
+				No.5-2, 3rd Floor, Building A, Wangjiadun Plaza Project, No.52 Changqing Road, Jianghan District, 
+				Wuhan  HuBei  430000
+				CN
