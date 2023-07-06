@@ -6629,6 +6629,12 @@ CFD000-CFDFFF     (base 16)		Smart-VOD Pty Ltd
 				Silea    31057
 				IT
 
+8C-1F-64   (hex)		IPCOMM GmbH
+096000-096FFF     (base 16)		IPCOMM GmbH
+				Walter-Bouhon-Str. 4
+				Nuremberg    90427
+				DE
+
 8C-1F-64   (hex)		Chemito Infotech PVT LTD
 E23000-E23FFF     (base 16)		Chemito Infotech PVT LTD
 				d1/27 ambad nashik
@@ -19859,11 +19865,11 @@ A0E000-A0EFFF     (base 16)		Elac Americas Inc.
 				Orange  CA  92865
 				US
 
-8C-1F-64   (hex)		Panoramic Power
-3B1000-3B1FFF     (base 16)		Panoramic Power
-				Atir Yeda 15
-				Kfar Saba    4464312
-				IL
+70-B3-D5   (hex)		RCH SPA
+294000-294FFF     (base 16)		RCH SPA
+				Via Cendon 39
+				Silea    31057
+				IT
 
 70-B3-D5   (hex)		RCH SPA
 159000-159FFF     (base 16)		RCH SPA
@@ -19883,11 +19889,11 @@ A0E000-A0EFFF     (base 16)		Elac Americas Inc.
 				Silea    31057
 				IT
 
-70-B3-D5   (hex)		RCH SPA
-294000-294FFF     (base 16)		RCH SPA
-				Via Cendon 39
-				Silea    31057
-				IT
+8C-1F-64   (hex)		Panoramic Power
+3B1000-3B1FFF     (base 16)		Panoramic Power
+				Atir Yeda 15
+				Kfar Saba    4464312
+				IL
 
 8C-1F-64   (hex)		SD OPTICS
 C42000-C42FFF     (base 16)		SD OPTICS
@@ -26531,6 +26537,12 @@ C09000-C09FFF     (base 16)		RCH SPA
 				Silea    31057
 				IT
 
+8C-1F-64   (hex)		RCH SPA
+5A7000-5A7FFF     (base 16)		RCH SPA
+				Via Cendon 39
+				Silea    31057
+				IT
+
 8C-1F-64   (hex)		Hiwin Mikrosystem Corp.
 52A000-52AFFF     (base 16)		Hiwin Mikrosystem Corp.
 				NO 6 JINGKE CENTRAL RD  TAICHUNG CITY TAIWAN 40841
@@ -32990,6 +33002,12 @@ DDB000-DDBFFF     (base 16)		Efficient Residential Heating GmbH
 				München    81379
 				DE
 
+8C-1F-64   (hex)		BTG Instruments AB
+3C8000-3C8FFF     (base 16)		BTG Instruments AB
+				Industrigatan 1-3
+				Saffle  Varmland  66132
+				SE
+
 70-B3-D5   (hex)		RCH SPA
 88E000-88EFFF     (base 16)		RCH SPA
 				Via Cendon 39
@@ -33001,3 +33019,9 @@ DDB000-DDBFFF     (base 16)		Efficient Residential Heating GmbH
 				Via Cendon 39
 				Silea    31057
 				IT
+
+8C-1F-64   (hex)		Airgain Inc.
+753000-753FFF     (base 16)		Airgain Inc.
+				3611 Valley Centre Dr, Ste 150
+				San Diego  CA  92130
+				US
