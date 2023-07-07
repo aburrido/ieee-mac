@@ -17324,6 +17324,18 @@ E00000-EFFFFF     (base 16)		Masimo Corporation
 				Irvine  CA  92618
 				US
 
+B8-4C-87   (hex)		Shenzhen Huixiangfeng Electronic Technology Co., Ltd.
+200000-2FFFFF     (base 16)		Shenzhen Huixiangfeng Electronic Technology Co., Ltd.
+				Room 707M, Haosheng Business Center, No. 4096, Dongbin Road, Nanshan Community, Nanshan Street, Nanshan District
+				Shenzhen  Guangdong  518000
+				CN
+
+B8-4C-87   (hex)		Fujian Morefun Electronic Technology Co., Ltd.
+800000-8FFFFF     (base 16)		Fujian Morefun Electronic Technology Co., Ltd.
+				Floor 4, Building 15, Fuwan Standard Plant, Jinshan Industrialoncentration Zone, No. 869, Panyu Road, Gaishan Town, Cangshan District, Fuzhou, China
+				Fuzhou  Fujian  350026
+				CN
+
 B4-4D-43   (hex)		SERNET (SUZHOU) TECHNOLOGIES CORPORATION
 700000-7FFFFF     (base 16)		SERNET (SUZHOU) TECHNOLOGIES CORPORATION
 				NO.8 Tangzhuang Road,Suzhou Industrial Park,Su ZhouCity,JiangSu Province,China
@@ -28945,3 +28957,9 @@ C0-22-F1   (hex)		COMMUP WUHAN NETWORK TECHNOLOGY CO.,LTD
 				No.5-2, 3rd Floor, Building A, Wangjiadun Plaza Project, No.52 Changqing Road, Jianghan District, 
 				Wuhan  HuBei  430000
 				CN
+
+B8-4C-87   (hex)		em-trak
+100000-1FFFFF     (base 16)		em-trak
+				wireless house,westfield industrial estateMidsomer Norton
+				Bath  Somerset  BA3 4BS
+				GB
