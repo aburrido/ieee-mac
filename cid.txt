@@ -176,6 +176,12 @@ EA34B4                        (base 16)                     ThinkRF Inc.
                                                             Ottawa  Ontario  K2K 0G7                     
                                                             CA                                           
 
+EA-27-01                      (hex)                         ACCE Technology Corp.                        
+EA2701                        (base 16)                     ACCE Technology Corp.                        
+                                                            6F.-2, No. 38, Beida Rd.,                    
+                                                            Hsinchu City    300024                       
+                                                            TW                                           
+
 CA-C2-76                      (hex)                         Saab Seaeye Ltd                              
 CAC276                        (base 16)                     Saab Seaeye Ltd                              
                                                             20 Brunel Way                                
