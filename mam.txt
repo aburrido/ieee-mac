@@ -5735,12 +5735,6 @@ B00000-BFFFFF     (base 16)		PEZY Computing K.K.
 				Shenzhen  GuangDong  518000
 				CN
 
-54-91-AF   (hex)		DanuTech Europe Kft
-C00000-CFFFFF     (base 16)		DanuTech Europe Kft
-				Gulyás utca 24/1
-				Budapest    1112
-				HU
-
 88-A6-EF   (hex)		Hash Mining s.r.o.
 D00000-DFFFFF     (base 16)		Hash Mining s.r.o.
 				Ceskomoravska 142/18
@@ -5753,17 +5747,23 @@ D00000-DFFFFF     (base 16)		Hash Mining s.r.o.
 				Daejeon    34155
 				KR
 
+54-91-AF   (hex)		IronLink
+300000-3FFFFF     (base 16)		IronLink
+				2 Astor
+				Irvine  CA  92618
+				US
+
 D0-15-BB   (hex)		Bluewaves Mobility Innovation Inc
 D00000-DFFFFF     (base 16)		Bluewaves Mobility Innovation Inc
 				Unit 402-105 Gordon Baker Rd
 				Toronto   Ontario  M2H3P8
 				CA
 
-54-91-AF   (hex)		IronLink
-300000-3FFFFF     (base 16)		IronLink
-				2 Astor
-				Irvine  CA  92618
-				US
+54-91-AF   (hex)		DanuTech Europe Kft
+C00000-CFFFFF     (base 16)		DanuTech Europe Kft
+				Gulyás utca 24/1
+				Budapest    1112
+				HU
 
 48-DA-35   (hex)		Think Engineering
 100000-1FFFFF     (base 16)		Think Engineering
@@ -5783,17 +5783,17 @@ C00000-CFFFFF     (base 16)		Guangzhou Xinhong Communication Technology Co.,Ltd
 				Xiamen  Fujian  361000
 				CN
 
-C0-22-F1   (hex)		MAHINDR & MAHINDRA
-900000-9FFFFF     (base 16)		MAHINDR & MAHINDRA
-				Electric Aggregate Plant, Gate No. – A/B, Plot No. A-1, Phase IV, Chakan MIDC, Pune, Chakan, Taluka – Khed
-				Pune  Maharashtra  410501
-				IN
-
 C0-22-F1   (hex)		TSURUGA Electric Corporation
 200000-2FFFFF     (base 16)		TSURUGA Electric Corporation
 				Minami shimiyoshi 1-3-23
 				Sumiyoshi ward  Osaka  558-0041
 				JP
+
+C0-22-F1   (hex)		MAHINDR & MAHINDRA
+900000-9FFFFF     (base 16)		MAHINDR & MAHINDRA
+				Electric Aggregate Plant, Gate No. – A/B, Plot No. A-1, Phase IV, Chakan MIDC, Pune, Chakan, Taluka – Khed
+				Pune  Maharashtra  410501
+				IN
 
 C0-22-F1   (hex)		Shenzhen Chengfenghao Electronics Co.;LTD.
 700000-7FFFFF     (base 16)		Shenzhen Chengfenghao Electronics Co.;LTD.
@@ -11243,12 +11243,6 @@ D0-15-BB   (hex)		ALEKTO-SYSTEMS LTD
 				Heraklion  Crete  71304
 				GR
 
-88-A6-EF   (hex)		Enlaps
-300000-3FFFFF     (base 16)		Enlaps
-				29 chemin du vieux chene, Tarmac
-				MEYLAN    38240
-				FR
-
 64-31-39   (hex)		Active Brains
 400000-4FFFFF     (base 16)		Active Brains
 				Yokohama Mitsui Bldg.12F, 1-1-2 Takashima, Nishi-ku
@@ -11267,17 +11261,17 @@ B00000-BFFFFF     (base 16)		EdgeDX
 				Seoul   Geumcheon-gu  08502
 				KR
 
+88-A6-EF   (hex)		Enlaps
+300000-3FFFFF     (base 16)		Enlaps
+				29 chemin du vieux chene, Tarmac
+				MEYLAN    38240
+				FR
+
 88-A6-EF   (hex)		METRO ELECTRONICS
 200000-2FFFFF     (base 16)		METRO ELECTRONICS
 				D-74, SECTOR 63,
 				NOIDA  UTTAR PRADESH  201301
 				IN
-
-54-91-AF   (hex)		Hong Telecom Equipment Service Limited
-700000-7FFFFF     (base 16)		Hong Telecom Equipment Service Limited
-				A201, 2nd Floor, East Tower, Nanshan Digital Cultural Industry Base, No. 10128 Shennan Avenue, Nanshan District,
-				Shenzhen  Guangdong  China
-				CN
 
 54-91-AF   (hex)		Hunan Quanying Electronics Co. , Ltd.
 800000-8FFFFF     (base 16)		Hunan Quanying Electronics Co. , Ltd.
@@ -11285,16 +11279,16 @@ B00000-BFFFFF     (base 16)		EdgeDX
 				Changsha  Hunan  410205
 				CN
 
-54-91-AF   (hex)		Star Systems International Limited
-600000-6FFFFF     (base 16)		Star Systems International Limited
-				Unit 04, 12/F Vanta Industrial Centre, 21-33 Tai Lin Pai Road
-				Kwai Chung    852
-				HK
-
 88-A6-EF   (hex)		Labpano Technology (Changzhou) Co., Ltd.
 500000-5FFFFF     (base 16)		Labpano Technology (Changzhou) Co., Ltd.
 				Building 4D, No.160 Xihu West Road, Wujin National Hi-tech Industrial Zone,
 				Changzhou  Jiangsu  213100
+				CN
+
+54-91-AF   (hex)		Hong Telecom Equipment Service Limited
+700000-7FFFFF     (base 16)		Hong Telecom Equipment Service Limited
+				A201, 2nd Floor, East Tower, Nanshan Digital Cultural Industry Base, No. 10128 Shennan Avenue, Nanshan District,
+				Shenzhen  Guangdong  China
 				CN
 
 54-91-AF   (hex)		4MITech
@@ -11302,6 +11296,12 @@ B00000-BFFFFF     (base 16)		EdgeDX
 				711-A,Factory world, 274,Samsung-ro,Yeongtong-gu
 				Suwon-si  Gyeonggi-do  16522
 				KR
+
+54-91-AF   (hex)		Star Systems International Limited
+600000-6FFFFF     (base 16)		Star Systems International Limited
+				Unit 04, 12/F Vanta Industrial Centre, 21-33 Tai Lin Pai Road
+				Kwai Chung    852
+				HK
 
 48-DA-35   (hex)		FLEXTRONICS INTERNATIONAL KFT 
 900000-9FFFFF     (base 16)		FLEXTRONICS INTERNATIONAL KFT 
@@ -11321,10 +11321,22 @@ C0-22-F1   (hex)		RCT Power GmbH
 				Konstanz    78467
 				DE
 
+B8-4C-87   (hex)		Beijing Yunji Technology Co., Ltd.
+B00000-BFFFFF     (base 16)		Beijing Yunji Technology Co., Ltd.
+				Floor 7?Hailong Mansion?No.1 Zhongguancun Avenue,Haidian District,Beijing
+				Beijing    100080
+				CN
+
 B8-4C-87   (hex)		Psync Labs, Inc.
 500000-5FFFFF     (base 16)		Psync Labs, Inc.
 				1825 Allison Way
 				San Jose  CA  95132
+				US
+
+B8-4C-87   (hex)		SOND
+C00000-CFFFFF     (base 16)		SOND
+				1295 Beacon St, Unit #899
+				Brookline    02446
 				US
 
 6C-2A-DF   (hex)		WeatherFlow-Tempest, Inc
@@ -17336,6 +17348,12 @@ C0-22-F1   (hex)		UtopiaTech Private Limited
 				Mumbai  Maharashtra  400072
 				IN
 
+C0-22-F1   (hex)		Masimo Corporation
+E00000-EFFFFF     (base 16)		Masimo Corporation
+				52 Discovery
+				Irvine  CA  92618
+				US
+
 B8-4C-87   (hex)		Shenzhen Huixiangfeng Electronic Technology Co., Ltd.
 200000-2FFFFF     (base 16)		Shenzhen Huixiangfeng Electronic Technology Co., Ltd.
 				Room 707M, Haosheng Business Center, No. 4096, Dongbin Road, Nanshan Community, Nanshan Street, Nanshan District
@@ -17347,12 +17365,6 @@ B8-4C-87   (hex)		Fujian Morefun Electronic Technology Co., Ltd.
 				Floor 4, Building 15, Fuwan Standard Plant, Jinshan Industrialoncentration Zone, No. 869, Panyu Road, Gaishan Town, Cangshan District, Fuzhou, China
 				Fuzhou  Fujian  350026
 				CN
-
-C0-22-F1   (hex)		Masimo Corporation
-E00000-EFFFFF     (base 16)		Masimo Corporation
-				52 Discovery
-				Irvine  CA  92618
-				US
 
 B4-4D-43   (hex)		SERNET (SUZHOU) TECHNOLOGIES CORPORATION
 700000-7FFFFF     (base 16)		SERNET (SUZHOU) TECHNOLOGIES CORPORATION
@@ -23081,11 +23093,11 @@ C0-22-F1   (hex)		Pony.AI, INC.
 				Shanghai    200000
 				CN
 
-C0-22-F1   (hex)		Spectra Technologies India Private Limited
-300000-3FFFFF     (base 16)		Spectra Technologies India Private Limited
-				8/33-C, FF, SF, Kirti Nagar Industrial Area, New Delhi
-				New Delhi  Delhi  110015
-				IN
+B8-4C-87   (hex)		HORIBA Precision Instruments (Beijing) Co.,Ltd
+600000-6FFFFF     (base 16)		HORIBA Precision Instruments (Beijing) Co.,Ltd
+				Building 1, No.3 Xixing Road, Houshayu Town, Shunyi District, Beijing, China
+				Beijing  Shunyi  101318
+				CN
 
 B8-4C-87   (hex)		Annapurna labs
 000000-0FFFFF     (base 16)		Annapurna labs
@@ -23093,11 +23105,11 @@ B8-4C-87   (hex)		Annapurna labs
 				Mail box 15123  Haifa  3508409
 				IL
 
-B8-4C-87   (hex)		HORIBA Precision Instruments (Beijing) Co.,Ltd
-600000-6FFFFF     (base 16)		HORIBA Precision Instruments (Beijing) Co.,Ltd
-				Building 1, No.3 Xixing Road, Houshayu Town, Shunyi District, Beijing, China
-				Beijing  Shunyi  101318
-				CN
+C0-22-F1   (hex)		Spectra Technologies India Private Limited
+300000-3FFFFF     (base 16)		Spectra Technologies India Private Limited
+				8/33-C, FF, SF, Kirti Nagar Industrial Area, New Delhi
+				New Delhi  Delhi  110015
+				IN
 
 80-E4-DA   (hex)		Private
 F00000-FFFFFF     (base 16)		Private
@@ -28886,12 +28898,6 @@ D0-15-BB   (hex)		Stellar Blu Solutions
 				Ft. Worth  TX  76177
 				US
 
-88-A6-EF   (hex)		IONA Tech
-E00000-EFFFFF     (base 16)		IONA Tech
-				164 Society Dr. Unit O
-				Telluride  CO  81435
-				US
-
 88-A6-EF   (hex)		TRUWIN
 700000-7FFFFF     (base 16)		TRUWIN
 				385, Expo-ro, Yuseong-Gu, Daejeon, South Korea
@@ -28922,6 +28928,12 @@ D0-15-BB   (hex)		Esders GmbH
 				Haselünne    49740
 				DE
 
+88-A6-EF   (hex)		IONA Tech
+E00000-EFFFFF     (base 16)		IONA Tech
+				164 Society Dr. Unit O
+				Telluride  CO  81435
+				US
+
 54-91-AF   (hex)		SHENZHEN SANMI INTELLIGENT CO.,LTD
 200000-2FFFFF     (base 16)		SHENZHEN SANMI INTELLIGENT CO.,LTD
 				Room1806, Building 3, XunmeiTechnology Plaza,No.8 Keyuan RoadYuehai Street Nanshan District, Shenzhen,China
@@ -28934,17 +28946,17 @@ D0-15-BB   (hex)		Esders GmbH
 				Shenzhen  Guangdong  518000
 				CN
 
-50-48-2C   (hex)		WIKA Mobile Control GmbH & Co.KG
-600000-6FFFFF     (base 16)		WIKA Mobile Control GmbH & Co.KG
-				Hertzstr. 32-34
-				Ettlingen    76275
-				DE
-
 48-DA-35   (hex)		Annapurna labs
 200000-2FFFFF     (base 16)		Annapurna labs
 				Matam Scientific Industries Center,   Building 8.2
 				Mail box 15123  Haifa  3508409
 				IL
+
+50-48-2C   (hex)		WIKA Mobile Control GmbH & Co.KG
+600000-6FFFFF     (base 16)		WIKA Mobile Control GmbH & Co.KG
+				Hertzstr. 32-34
+				Ettlingen    76275
+				DE
 
 54-91-AF   (hex)		Zhuhai SHIXI Technology Co.,Ltd
 A00000-AFFFFF     (base 16)		Zhuhai SHIXI Technology Co.,Ltd
@@ -28958,6 +28970,12 @@ A00000-AFFFFF     (base 16)		Zhuhai SHIXI Technology Co.,Ltd
 				Anyang-si    13939
 				KR
 
+C0-22-F1   (hex)		Andritz AB
+400000-4FFFFF     (base 16)		Andritz AB
+				Köpmangatan 9
+				Örnsköldsvik  Västernorrland  89133
+				SE
+
 C0-22-F1   (hex)		Envent Engineering
 D00000-DFFFFF     (base 16)		Envent Engineering
 				2721 Hopewell Pl NE
@@ -28970,22 +28988,16 @@ C00000-CFFFFF     (base 16)		Accelsius LLC
 				Austin  TX  78758
 				US
 
-C0-22-F1   (hex)		Bosch Automotive Products (Suzhou) Co., Ltd.
-A00000-AFFFFF     (base 16)		Bosch Automotive Products (Suzhou) Co., Ltd.
-				126 Su Hong Xi Road,
-				Suzhou  Jiangsu  215021
-				CN
-
-C0-22-F1   (hex)		Andritz AB
-400000-4FFFFF     (base 16)		Andritz AB
-				Köpmangatan 9
-				Örnsköldsvik  Västernorrland  89133
-				SE
-
 C0-22-F1   (hex)		COMMUP WUHAN NETWORK TECHNOLOGY CO.,LTD
 100000-1FFFFF     (base 16)		COMMUP WUHAN NETWORK TECHNOLOGY CO.,LTD
 				No.5-2, 3rd Floor, Building A, Wangjiadun Plaza Project, No.52 Changqing Road, Jianghan District, 
 				Wuhan  HuBei  430000
+				CN
+
+C0-22-F1   (hex)		Bosch Automotive Products (Suzhou) Co., Ltd.
+A00000-AFFFFF     (base 16)		Bosch Automotive Products (Suzhou) Co., Ltd.
+				126 Su Hong Xi Road,
+				Suzhou  Jiangsu  215021
 				CN
 
 B8-4C-87   (hex)		Beijing Jiyuan Automation Technology CO.,LTD
