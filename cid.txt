@@ -608,6 +608,12 @@ FA00E7                        (base 16)                     Quantum Machines ltd
                                                             Tel Aviv    6721407                          
                                                             IL                                           
 
+8A-85-2E                      (hex)                         Kampr Systems                                
+8A852E                        (base 16)                     Kampr Systems                                
+                                                            2047 Kings Lane                              
+                                                            San Mateo  CA  94402                         
+                                                            US                                           
+
 DA-C4-51                      (hex)                         Takaratomy                                   
 DAC451                        (base 16)                     Takaratomy                                   
                                                             7-9-10 Tateishi                              
