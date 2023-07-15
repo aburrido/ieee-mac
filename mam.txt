@@ -11339,6 +11339,12 @@ C00000-CFFFFF     (base 16)		SOND
 				Brookline    02446
 				US
 
+B8-4C-87   (hex)		Shenzhen Link-all Technology Co., Ltd
+300000-3FFFFF     (base 16)		Shenzhen Link-all Technology Co., Ltd
+				Floor 5th, Block 9th, Sunny Industrial Zone, Xili Town, Nanshan District, Shenzhen, China 
+				Shenzhen  Guangdong  518108
+				CN
+
 6C-2A-DF   (hex)		WeatherFlow-Tempest, Inc
 E00000-EFFFFF     (base 16)		WeatherFlow-Tempest, Inc
 				108 Whispering Pine Dr#245
@@ -17365,6 +17371,12 @@ B8-4C-87   (hex)		Fujian Morefun Electronic Technology Co., Ltd.
 				Floor 4, Building 15, Fuwan Standard Plant, Jinshan Industrialoncentration Zone, No. 869, Panyu Road, Gaishan Town, Cangshan District, Fuzhou, China
 				Fuzhou  Fujian  350026
 				CN
+
+B8-4C-87   (hex)		Altronix , Corp
+A00000-AFFFFF     (base 16)		Altronix , Corp
+				140 58th St. Bldg A, Ste 2N
+				Brooklyn  NY  11220
+				US
 
 B4-4D-43   (hex)		SERNET (SUZHOU) TECHNOLOGIES CORPORATION
 700000-7FFFFF     (base 16)		SERNET (SUZHOU) TECHNOLOGIES CORPORATION
