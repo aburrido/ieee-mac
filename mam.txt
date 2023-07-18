@@ -17627,9 +17627,6 @@ B00000-BFFFFF     (base 16)		NADDOD
 				Singapore    048580
 				SG
 
-D0-14-11   (hex)		Private
-100000-1FFFFF     (base 16)		Private
-
 C4-A5-59   (hex)		Hebei Far-East Communication System Engineerning Co.,Ltd.
 A00000-AFFFFF     (base 16)		Hebei Far-East Communication System Engineerning Co.,Ltd.
 				NO.21, Changsheng Street, Luquan Economic Development Zone
@@ -23122,6 +23119,12 @@ B8-4C-87   (hex)		HORIBA Precision Instruments (Beijing) Co.,Ltd
 				Building 1, No.3 Xixing Road, Houshayu Town, Shunyi District, Beijing, China
 				Beijing  Shunyi  101318
 				CN
+
+D0-14-11   (hex)		P.B. Elettronica srl
+100000-1FFFFF     (base 16)		P.B. Elettronica srl
+				Via Santorelli, 8
+				Grugliasco  Torino  10095
+				IT
 
 80-E4-DA   (hex)		Private
 F00000-FFFFFF     (base 16)		Private
