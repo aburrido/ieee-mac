@@ -23147,6 +23147,12 @@ D0-76-50   (hex)		ENCORED Technologies, Inc.
 				Shenzhen  Guangdong  518101
 				CN
 
+C8-5C-E2   (hex)		LYNX Technik AG
+800000-8FFFFF     (base 16)		LYNX Technik AG
+				Brunnenweg 3
+				Weiterstadt  Hessen  64331
+				DE
+
 B8-4C-87   (hex)		Private
 E00000-EFFFFF     (base 16)		Private
 
@@ -28223,12 +28229,6 @@ D00000-DFFFFF     (base 16)		Yellowbrick Data, Inc.
 				Palo Alto  CA  94306
 				US
 
-38-FD-FE   (hex)		Siemens AG, PG IE R&D
-300000-3FFFFF     (base 16)		Siemens AG, PG IE R&D
-				Siemensalle 84
-				Karlsruhe    76187
-				DE
-
 1C-88-79   (hex)		gekartel AG
 B00000-BFFFFF     (base 16)		gekartel AG
 				Julius-Otto-Straße 7
@@ -29061,4 +29061,10 @@ E00000-EFFFFF     (base 16)		Volacomm Co., Ltd
 600000-6FFFFF     (base 16)		Baudisch Electronic GmbH
 				Im Gewerbegebiet 7-9
 				Wäschenbeuren  Baden-Württemberg  73116
+				DE
+
+38-FD-FE   (hex)		Siemens AG, DI PA AE
+300000-3FFFFF     (base 16)		Siemens AG, DI PA AE
+				Siemensalle 84
+				Karlsruhe    76187
 				DE

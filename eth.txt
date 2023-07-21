@@ -15662,6 +15662,18 @@ C226                          University of Berkeley                            
                               US                                                                                                       
 
 
+6002                          DEC                                                                                                      Protocol unavailable.
+                              1925 Andover St.                                                                                         
+                              Tewksbury  MA  01876                                                                                     
+                              US                                                                                                       
+
+
+6007                          DEC                                                                                                      Protocol unavailable.
+                              1925 Andover St.                                                                                         
+                              Tewksbury  MA  01876                                                                                     
+                              US                                                                                                       
+
+
 0803                          Xerox                                                                                                    Protocol unavailable.
                                                                                                                                        
                                                                                                                                        
@@ -15689,18 +15701,6 @@ C226                          University of Berkeley                            
 5008                          Intel                                                                                                    Protocol unavailable.
                                                                                                                                        
                                                                                                                                        
-                              US                                                                                                       
-
-
-6002                          DEC                                                                                                      Protocol unavailable.
-                              1925 Andover St.                                                                                         
-                              Tewksbury  MA  01876                                                                                     
-                              US                                                                                                       
-
-
-6007                          DEC                                                                                                      Protocol unavailable.
-                              1925 Andover St.                                                                                         
-                              Tewksbury  MA  01876                                                                                     
                               US                                                                                                       
 
 
