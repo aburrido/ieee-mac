@@ -17393,6 +17393,18 @@ C8-5C-E2   (hex)		Quthc Limited
 				Huizhou City  Guangdong  516211
 				CN
 
+C8-5C-E2   (hex)		Jector Digital Corporation
+400000-4FFFFF     (base 16)		Jector Digital Corporation
+				2F.-1, No.268, Liancheng Rd., Zhonghe Dist.,
+				New Taipei City     235038
+				TW
+
+C8-5C-E2   (hex)		brinfotec
+600000-6FFFFF     (base 16)		brinfotec
+				2001HO 32, Songdogwahak-ro, Yeonsu-gu, Incheon, Republic of Korea
+				Incheon Metropolitan City    21984
+				KR
+
 D0-14-11   (hex)		P.B. Elettronica srl
 100000-1FFFFF     (base 16)		P.B. Elettronica srl
 				Via Santorelli, 8
