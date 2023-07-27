@@ -11369,6 +11369,12 @@ C8-5C-E2   (hex)		Annapurna labs
 				Mail box 15123  Haifa  3508409
 				IL
 
+C8-5C-E2   (hex)		ECOCHIP Communication Technology(shenzhen)Co.Ltd.
+300000-3FFFFF     (base 16)		ECOCHIP Communication Technology(shenzhen)Co.Ltd.
+				Yuehai Street
+				Shenzhen   guangdong  518057
+				CN
+
 B8-4C-87   (hex)		Altronix , Corp
 A00000-AFFFFF     (base 16)		Altronix , Corp
 				140 58th St. Bldg A, Ste 2N
@@ -27131,12 +27137,6 @@ DC-E5-33   (hex)		Controls Inc
 				Medina  OH  44256
 				US
 
-C4-FF-BC   (hex)		Danego BV
-000000-0FFFFF     (base 16)		Danego BV
-				Protonenlaan 24
-				Uden  NB  5405 NE
-				NL
-
 28-2C-02   (hex)		Shenzhen Neoway Technology Co.,Ltd.
 800000-8FFFFF     (base 16)		Shenzhen Neoway Technology Co.,Ltd.
 				4F-2#,Lian Jian Science & Industry Park,Huarong Road,Dalang Street,Longhua District
@@ -29098,3 +29098,15 @@ E00000-EFFFFF     (base 16)		Volacomm Co., Ltd
 				Siemensalle 84
 				Karlsruhe    76187
 				DE
+
+C8-5C-E2   (hex)		AloT Tech
+B00000-BFFFFF     (base 16)		AloT Tech
+				Room 203, Building A2, Qianhai Street, Longhua District
+				Shenzhen  Guangdong  518000
+				CN
+
+C4-FF-BC   (hex)		Danego BV
+000000-0FFFFF     (base 16)		Danego BV
+				Protonenlaan 28
+				Uden  NB  5405 NE
+				NL
