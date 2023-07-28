@@ -11369,6 +11369,12 @@ C8-5C-E2   (hex)		Annapurna labs
 				Mail box 15123  Haifa  3508409
 				IL
 
+C8-5C-E2   (hex)		Cranns Limited
+500000-5FFFFF     (base 16)		Cranns Limited
+				Flat H, 11/F, Tower 4, Tivoli Garden, Tsing Yi, N.T. Hong Kong
+				Hong Kong    000000
+				HK
+
 C8-5C-E2   (hex)		ECOCHIP Communication Technology(shenzhen)Co.Ltd.
 300000-3FFFFF     (base 16)		ECOCHIP Communication Technology(shenzhen)Co.Ltd.
 				Yuehai Street
@@ -17423,6 +17429,12 @@ C8-5C-E2   (hex)		brinfotec
 				Incheon Metropolitan City    21984
 				KR
 
+C8-5C-E2   (hex)		Wonder Education Tech Limited
+E00000-EFFFFF     (base 16)		Wonder Education Tech Limited
+				Room 2278, Building 2, No. 588, Zixing Road, Minhang District
+				Shanghai  Shanghai  200241
+				CN
+
 D0-14-11   (hex)		P.B. Elettronica srl
 100000-1FFFFF     (base 16)		P.B. Elettronica srl
 				Via Santorelli, 8
@@ -23177,17 +23189,23 @@ D0-76-50   (hex)		ENCORED Technologies, Inc.
 				Marlborough  CT  06447
 				US
 
-C8-5C-E2   (hex)		LYNX Technik AG
-800000-8FFFFF     (base 16)		LYNX Technik AG
-				Brunnenweg 3
-				Weiterstadt  Hessen  64331
-				DE
-
 C8-5C-E2   (hex)		SamabaNova Systems
 200000-2FFFFF     (base 16)		SamabaNova Systems
 				2100 Geng Rd #103
 				Palo Alto  CA  94303
 				US
+
+C8-5C-E2   (hex)		Shanghai Gaviota Intelligent Technology Co.,Ltd.
+C00000-CFFFFF     (base 16)		Shanghai Gaviota Intelligent Technology Co.,Ltd.
+				Room 1805, No. 1403, Minsheng Road, Pudong New Area, Shanghai
+				Shanghai    200135
+				CN
+
+C8-5C-E2   (hex)		LYNX Technik AG
+800000-8FFFFF     (base 16)		LYNX Technik AG
+				Brunnenweg 3
+				Weiterstadt  Hessen  64331
+				DE
 
 C8-5C-E2   (hex)		Fela Management AG 
 000000-0FFFFF     (base 16)		Fela Management AG 

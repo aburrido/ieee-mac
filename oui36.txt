@@ -20021,6 +20021,12 @@ FD1000-FD1FFF     (base 16)		RedRat Ltd
 				Porcia  Pordenone  33080
 				IT
 
+8C-1F-64   (hex)		ASiS Technologies Pte Ltd
+BFC000-BFCFFF     (base 16)		ASiS Technologies Pte Ltd
+				71 Ubi Crescent
+				Singapore    408571
+				SG
+
 8C-1F-64   (hex)		Flow Power
 82B000-82BFFF     (base 16)		Flow Power
 				Suite 2, Level 3, 18 - 20 York St
@@ -33202,3 +33208,9 @@ CFB000-CFBFFF     (base 16)		YUYAMA MFG Co.,Ltd
 				1320 W. Northwest Highway
 				Palatine    60067
 				US
+
+8C-1F-64   (hex)		eyrise B.V.
+028000-028FFF     (base 16)		eyrise B.V.
+				De Run 5432
+				Veldhoven  Noord Brabant  5504 DE
+				NL

@@ -7175,12 +7175,6 @@ D76000-D76FFF                 (base 16)                     Telvent
                                                             Alcobendas  Madrid  28108                    
                                                             US                                           
 
-00-50-C2                      (hex)                         Computech International                      
-D74000-D74FFF                 (base 16)                     Computech International                      
-                                                            525 Northern Boulevard                       
-                                                            Great Neck  NY  11021                        
-                                                            US                                           
-
 00-50-C2                      (hex)                         T-Industry, s.r.o.                           
 D99000-D99FFF                 (base 16)                     T-Industry, s.r.o.                           
                                                             Hostaky 910/49                               
@@ -10563,6 +10557,12 @@ A09000-A09FFF                 (base 16)                     Innovative American 
 005000-005FFF                 (base 16)                     GD California, Inc.                          
                                                             1799 Portola Ave.                            
                                                             Livermore  CA  94550                         
+                                                            US                                           
+
+00-50-C2                      (hex)                         Computech International                      
+D74000-D74FFF                 (base 16)                     Computech International                      
+                                                            110 Crossways Park Drive                     
+                                                            Woodbury  NY  11797                          
                                                             US                                           
 
 00-50-C2                      (hex)                         Karl DUNGS GmbH & Co. KG                     
