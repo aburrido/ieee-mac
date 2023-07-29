@@ -26582,12 +26582,6 @@ A23000-A23FFF                 (base 16)                     Agility Mfg, Inc.
                                                             SHENZHEN  GUANGDONG  518057                  
                                                             CN                                           
 
-00-50-C2                      (hex)                         Elman srl                                    
-2C5000-2C5FFF                 (base 16)                     Elman srl                                    
-                                                            Via di Valle Caia, km 4.700                  
-                                                            Pomezia  Roma  00040                         
-                                                            IT                                           
-
 00-50-C2                      (hex)                         Initial Electronic Security Systems          
 2C6000-2C6FFF                 (base 16)                     Initial Electronic Security Systems          
                                                             Shadsworth Road                              
@@ -27379,3 +27373,9 @@ A23000-A23FFF                 (base 16)                     Agility Mfg, Inc.
                                                             7900 Wisconsin Avenue                        
                                                             Bethesda  MD  20817                          
                                                             US                                           
+
+00-50-C2                      (hex)                         Elman srl                                    
+2C5000-2C5FFF                 (base 16)                     Elman srl                                    
+                                                            Via di Valle Caia, 37                        
+                                                            Pomezia  Rome   00071                        
+                                                            IT                                           

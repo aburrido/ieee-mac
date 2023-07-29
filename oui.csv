@@ -5943,7 +5943,6 @@ MA-L,000681,Goepel Electronic GmbH,Goeschwitzer Str. 58-60   DE
 MA-L,0006B1,Sonicwall,1160 Bordeaux Dr. Sunnyvale CA US 94089 
 MA-L,0006AD,KB Electronics Ltd.,150 Bluewater Rd.   CA B4B 1G9 
 MA-L,00063B,Arcturus Networks Inc.,701 Evans Ave. - Suite 300 Toronto Ontario CA M9C 1A3 
-MA-L,000633,Cross Match Technologies GmbH,Unstrutweg 4  Jena DE 07743 
 MA-L,000626,MWE GmbH,Olbrichtstraße 21   DE  
 MA-L,000606,"RapidWAN, Inc.",2085 Hamilton Ave. San Jose CA US 95125 
 MA-L,000603,Baker Hughes Inc.,2001 Rankin Rd. Houston TX US 77073 
@@ -6256,7 +6255,6 @@ MA-L,00D0D6,AETHRA TELECOMUNICAZIONI,"VIA MATTEO RICCI, 10   IT  "
 MA-L,00D063,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
 MA-L,00D0F8,FUJIAN STAR TERMINAL,"DEVICE CO., LTD. FUZHOU FUJIAN, CN CHINA 350002 "
 MA-L,00D0ED,XIOX,150 DOW STREET MANCHESTER NH US 03101 
-MA-L,00308E,"CROSS MATCH TECHNOLOGIES, INC.","3960 RCA Blvd., Suite 6001 Palm Beach FL US 33410 "
 MA-L,003027,"KERBANGO, INC.",21771 STEVENS CREEK BLVD. #100 CUPERTINO CA US 95014 
 MA-L,003033,"ORIENT TELECOM CO., LTD.",MISUNG BULDING 115-7   KR KOREA 
 MA-L,0030DD,INDIGITA CORPORATION,30 Corporate Park Drive Irvine CA US 92606 
@@ -6865,6 +6863,9 @@ MA-L,50A6D8,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014
 MA-L,68CAC4,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
 MA-L,9415B2,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
 MA-L,80F5AE,"Hangzhou Hikvision Digital Technology Co.,Ltd.",No.555 Qianmo Road  Hangzhou Zhejiang CN 310052 
+MA-L,000633,HID Global,Unstrutweg 4  Jena DE 07743 
+MA-L,00308E,HID Global,611 Center Ridge Drive Austin TX US 78753 
+MA-L,4CEA41,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
 MA-L,00749C,"Ruijie Networks Co.,LTD","19# Building,Star-net Science Plaza,Juyuanzhou, 618 Jinshan Road Fuzhou Fujian CN 350002 "
 MA-L,E01C41,Extreme Networks Headquarters,2121 RDU Center Drive  Morrisville NC US 27560 
 MA-L,BCF310,Extreme Networks Headquarters,2121 RDU Center Drive  Morrisville NC US 27560 
@@ -34210,11 +34211,11 @@ MA-L,6057C8,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014
 MA-L,D4413F,Gen IV Technology LLC,5239 Muhlhauser Road West Chester OH US 45011 
 MA-L,185D6F,N3com,"Proektiruemiy proezd 4062, 6b1, office 71 Moscow  RU 115432 "
 MA-L,00019C,Lumentum,570 West Hunt Club Road   CA  
-MA-L,3CCD73,Nebula Electronic Technology Corporation,"Room 1002, No.570 ShengXia RD, Pudong district, Shanghai Shanghai  CN 201210 "
-MA-L,3C13BB,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
+MA-L,44A038,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
+MA-L,F86DCC,Wistron Neweb Corporation,"No.20,Park Avenue II,Hsinchu Science Park Hsin-Chu R.O.C. TW 308 "
 MA-L,D0D7BE,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
 MA-L,206BF4,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
 MA-L,E82BC5,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
 MA-L,08276B,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
-MA-L,44A038,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
-MA-L,F86DCC,Wistron Neweb Corporation,"No.20,Park Avenue II,Hsinchu Science Park Hsin-Chu R.O.C. TW 308 "
+MA-L,3CCD73,Nebula Electronic Technology Corporation,"Room 1002, No.570 ShengXia RD, Pudong district, Shanghai Shanghai  CN 201210 "
+MA-L,3C13BB,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "

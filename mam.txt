@@ -10916,12 +10916,6 @@ C00000-CFFFFF     (base 16)		Bridgeport Instruments, LLC
 				Austin  TX  78759
 				US
 
-1C-CA-E3   (hex)		Bird Home Automation GmbH
-700000-7FFFFF     (base 16)		Bird Home Automation GmbH
-				Joachimsthaler Str. 12
-				Berlin  Berlin  10719
-				DE
-
 1C-CA-E3   (hex)		eSight Corporation
 D00000-DFFFFF     (base 16)		eSight Corporation
 				535 Legget Drive
@@ -11380,6 +11374,12 @@ C8-5C-E2   (hex)		ECOCHIP Communication Technology(shenzhen)Co.Ltd.
 				Yuehai Street
 				Shenzhen   guangdong  518057
 				CN
+
+1C-CA-E3   (hex)		Bird Home Automation GmbH
+700000-7FFFFF     (base 16)		Bird Home Automation GmbH
+				Uhlandstr. 165
+				Berlin  Berlin  10719
+				DE
 
 B8-4C-87   (hex)		Altronix , Corp
 A00000-AFFFFF     (base 16)		Altronix , Corp
@@ -17434,6 +17434,12 @@ E00000-EFFFFF     (base 16)		Wonder Education Tech Limited
 				Room 2278, Building 2, No. 588, Zixing Road, Minhang District
 				Shanghai  Shanghai  200241
 				CN
+
+4C-EA-41   (hex)		Atos spa
+700000-7FFFFF     (base 16)		Atos spa
+				Via alla Piana 57
+				Sesto Calende  Varese  21018
+				IT
 
 D0-14-11   (hex)		P.B. Elettronica srl
 100000-1FFFFF     (base 16)		P.B. Elettronica srl
