@@ -11375,6 +11375,12 @@ C8-5C-E2   (hex)		Annapurna labs
 				Mail box 15123  Haifa  3508409
 				IL
 
+4C-EA-41   (hex)		hogotech
+C00000-CFFFFF     (base 16)		hogotech
+				Room B501,369 Internet of Things Street, Dahua-jianghong International Innovation Park, Xixing Street, Binjiang District, Hangzhou, PRC
+				hangzhou  zhejiang  310000
+				CN
+
 1C-CA-E3   (hex)		Bird Home Automation GmbH
 700000-7FFFFF     (base 16)		Bird Home Automation GmbH
 				Uhlandstr. 165
@@ -23212,6 +23218,12 @@ C00000-CFFFFF     (base 16)		Shanghai Gaviota Intelligent Technology Co.,Ltd.
 				Room 1805, No. 1403, Minsheng Road, Pudong New Area, Shanghai
 				Shanghai    200135
 				CN
+
+4C-EA-41   (hex)		Airflying
+000000-0FFFFF     (base 16)		Airflying
+				No. 71, Shengli 6th St., 
+				 Zhubei City  Hsinchu County  302044
+				TW
 
 B8-4C-87   (hex)		Private
 E00000-EFFFFF     (base 16)		Private
