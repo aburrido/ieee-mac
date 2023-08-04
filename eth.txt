@@ -9301,12 +9301,6 @@ C111                          Soraa, Inc.                                       
                               US                                                                                                       
 
 
-FC3D                          IEEE 1914 Next Generation Fronthaul Interface  Working Group                                             IEEE P1914.3 standard describes the encapsulation and mappings of digitized
-                              445 Hoes Lane                                                                                            radio data into the Ethernet frame payload field. The protocol solution    
-                              Piscataway  NJ  08854-4141                                                                               requires the frames to be readily distinguishable from other types of      
-                              US                                                                                                       frames.                                                                    
-
-
 FC0F                          Senetas Corporation Ltd                                                                                  Proprietary protocol.
                               Level 1 / 11 Queens Road                                                                                 
                               Melbourne  VICTORIA  3004                                                                                
@@ -11635,6 +11629,12 @@ C22F                          University of Berkeley                            
 7014                          Olteco (Olevetti)                                                                                        Protocol unavailable.
                                                                                                                                        
                                                                                                                                        
+                              US                                                                                                       
+
+
+FC3D                          IEEE 1914 Next Generation Fronthaul Interface  Working Group                                             Radio over Ethernet (RoE) encapsulation per IEEE Std 1914.3.
+                              445 Hoes Lane                                                                                            
+                              Piscataway  NJ  08854-4141                                                                               
                               US                                                                                                       
 
 
