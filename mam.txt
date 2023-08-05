@@ -5843,6 +5843,12 @@ E8-6C-C7   (hex)		Trapeze Switzerland GmbH
 				Neuhausen am Rheinfall  Schaffhausen  8212
 				CH
 
+4C-EA-41   (hex)		Gopod Group Limited
+600000-6FFFFF     (base 16)		Gopod Group Limited
+				5-6/f,building 8,Lianjian Industrial Park,Longhua
+				Shenzhen    518109
+				CN
+
 B8-4C-87   (hex)		Shenzhen Link-all Technology Co., Ltd
 300000-3FFFFF     (base 16)		Shenzhen Link-all Technology Co., Ltd
 				Floor 5th, Block 9th, Sunny Industrial Zone, Xili Town, Nanshan District, Shenzhen, China 
@@ -11385,6 +11391,18 @@ C00000-CFFFFF     (base 16)		hogotech
 700000-7FFFFF     (base 16)		Bird Home Automation GmbH
 				Uhlandstr. 165
 				Berlin  Berlin  10719
+				DE
+
+4C-EA-41   (hex)		Vortex Infotech Private Limited
+A00000-AFFFFF     (base 16)		Vortex Infotech Private Limited
+				101, Corporate Arena, Sitaram Patkar Marg, Behind Mahindra Eminente Society, Goregaon west.
+				Mumbai  Maharashtra  400104
+				IN
+
+4C-EA-41   (hex)		Eltroplan Engineering GmbH
+400000-4FFFFF     (base 16)		Eltroplan Engineering GmbH
+				Vogesenstraße 7
+				Endingen    79346
 				DE
 
 B8-4C-87   (hex)		Altronix , Corp
@@ -17446,6 +17464,12 @@ E00000-EFFFFF     (base 16)		Wonder Education Tech Limited
 				Via alla Piana 57
 				Sesto Calende  Varese  21018
 				IT
+
+4C-EA-41   (hex)		HawkEye Technology Co.,Ltd
+100000-1FFFFF     (base 16)		HawkEye Technology Co.,Ltd
+				7/F,Building B4, China Wireless Valley,NO.9, Mozhou East Road, Jiangning District,Nanjing 211100, P. R. China
+				Nanjing    211100
+				CN
 
 D0-14-11   (hex)		P.B. Elettronica srl
 100000-1FFFFF     (base 16)		P.B. Elettronica srl
