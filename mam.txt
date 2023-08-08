@@ -17471,6 +17471,12 @@ E00000-EFFFFF     (base 16)		Wonder Education Tech Limited
 				Nanjing    211100
 				CN
 
+4C-EA-41   (hex)		Annapurna labs
+900000-9FFFFF     (base 16)		Annapurna labs
+				Matam Scientific Industries Center,   Building 8.2
+				Mail box 15123  Haifa  3508409
+				IL
+
 D0-14-11   (hex)		P.B. Elettronica srl
 100000-1FFFFF     (base 16)		P.B. Elettronica srl
 				Via Santorelli, 8
@@ -23247,6 +23253,18 @@ C8-5C-E2   (hex)		LYNX Technik AG
 000000-0FFFFF     (base 16)		Airflying
 				No. 71, Shengli 6th St., 
 				 Zhubei City  Hsinchu County  302044
+				TW
+
+4C-EA-41   (hex)		IntelliTrac
+800000-8FFFFF     (base 16)		IntelliTrac
+				11 Scholar Drive 
+				Bundoora  Vic  3083
+				AU
+
+4C-EA-41   (hex)		YENSHOW TECHNOLOGY CO.,LTD
+300000-3FFFFF     (base 16)		YENSHOW TECHNOLOGY CO.,LTD
+				3F., No. 369, Sec. 2, Zhongshan Rd., Zhonghe Dist., New Taipei City 23558 , Taiwan
+				New Taipei City    23558
 				TW
 
 C8-5C-E2   (hex)		Fela Management AG 
@@ -29175,4 +29193,10 @@ C4-FF-BC   (hex)		Danego BV
 B00000-BFFFFF     (base 16)		Hangzhou Hortwork Technology Co.,Ltd.
 				Room753,7/F,building1,No.17-1,Chuxin roadGongshu district,Hangzhou City, Zhe jiang Province
 				Hangzhou  Zhe jiang Province  310000
+				CN
+
+4C-EA-41   (hex)		SHENZHEN ATC Technology Co., Ltd
+200000-2FFFFF     (base 16)		SHENZHEN ATC Technology Co., Ltd
+				 Room 803, Block D, Building 16, South Station Enterprise City,Port Road,Nanhai District
+				Foshan  Guangdong  528251
 				CN
