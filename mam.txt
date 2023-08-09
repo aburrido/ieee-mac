@@ -17459,12 +17459,6 @@ E00000-EFFFFF     (base 16)		Wonder Education Tech Limited
 				Shanghai  Shanghai  200241
 				CN
 
-4C-EA-41   (hex)		Atos spa
-700000-7FFFFF     (base 16)		Atos spa
-				Via alla Piana 57
-				Sesto Calende  Varese  21018
-				IT
-
 4C-EA-41   (hex)		HawkEye Technology Co.,Ltd
 100000-1FFFFF     (base 16)		HawkEye Technology Co.,Ltd
 				7/F,Building B4, China Wireless Valley,NO.9, Mozhou East Road, Jiangning District,Nanjing 211100, P. R. China
@@ -17476,6 +17470,12 @@ E00000-EFFFFF     (base 16)		Wonder Education Tech Limited
 				Matam Scientific Industries Center,   Building 8.2
 				Mail box 15123  Haifa  3508409
 				IL
+
+4C-EA-41   (hex)		Atos spa
+700000-7FFFFF     (base 16)		Atos spa
+				Via alla Piana 57
+				Sesto Calende  Varese  21018
+				IT
 
 D0-14-11   (hex)		P.B. Elettronica srl
 100000-1FFFFF     (base 16)		P.B. Elettronica srl
