@@ -23267,6 +23267,12 @@ C8-5C-E2   (hex)		LYNX Technik AG
 				New Taipei City    23558
 				TW
 
+4C-EA-41   (hex)		Jiangsu TSD Electronics Technology Co., Ltd
+D00000-DFFFFF     (base 16)		Jiangsu TSD Electronics Technology Co., Ltd
+				No.198, East ChenFeng Road, Yushan Town, Kunshan, Jiangsu, China, 215300
+				kunshan  JiangSu  215300
+				CN
+
 C8-5C-E2   (hex)		Fela Management AG 
 000000-0FFFFF     (base 16)		Fela Management AG 
 				Basadingerstrasse 18

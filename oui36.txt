@@ -13418,17 +13418,17 @@ F98000-F98FFF     (base 16)		XPS ELETRONICA LTDA
 				Ried  Bavaria  86510
 				DE
 
-8C-1F-64   (hex)		CANON ELECTRON TUBES & DEVICES CO., LTD.
-1E7000-1E7FFF     (base 16)		CANON ELECTRON TUBES & DEVICES CO., LTD.
-				1385, Shimoishigami
-				Otawara-shi  Tochigi  324-8550
-				JP
-
 8C-1F-64   (hex)		person-AIz AS
 1B1000-1B1FFF     (base 16)		person-AIz AS
 				MARTIN LINGES VEI 25
 				Fornebu  Outside of the US  1364
 				NO
+
+8C-1F-64   (hex)		CANON ELECTRON TUBES & DEVICES CO., LTD.
+1E7000-1E7FFF     (base 16)		CANON ELECTRON TUBES & DEVICES CO., LTD.
+				1385, Shimoishigami
+				Otawara-shi  Tochigi  324-8550
+				JP
 
 8C-1F-64   (hex)		Vision Systems Safety Tech
 E6F000-E6FFFF     (base 16)		Vision Systems Safety Tech
@@ -33298,3 +33298,15 @@ CF6000-CF6FFF     (base 16)		NYBSYS Inc
 				?Israel Medical Systems Ltd. P.O.Box 102, Industrial zone, Ma'alot 24952
 				Maalot  Israel  24952
 				IL
+
+8C-1F-64   (hex)		Foxconn Technology Co., Ltd.
+119000-119FFF     (base 16)		Foxconn Technology Co., Ltd.
+				No. 53, Sec. 4, Zhongyang Rd., Tucheng Dist.,
+				New Taipei City    236040
+				TW
+
+8C-1F-64   (hex)		TIAMA
+9A9000-9A9FFF     (base 16)		TIAMA
+				215 Chemin du Grand Revoyet 
+				Saint-Genis Laval   Auvergne Rhône Alpes  69230
+				FR
