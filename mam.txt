@@ -11411,6 +11411,12 @@ A00000-AFFFFF     (base 16)		Vortex Infotech Private Limited
 				Endingen    79346
 				DE
 
+4C-EA-41   (hex)		Aztech Group DOOEL
+E00000-EFFFFF     (base 16)		Aztech Group DOOEL
+				Leninova 44/ GTC Global, lok.50/2
+				Strumica    2400
+				MK
+
 B8-4C-87   (hex)		Altronix , Corp
 A00000-AFFFFF     (base 16)		Altronix , Corp
 				140 58th St. Bldg A, Ste 2N
@@ -29199,6 +29205,12 @@ C4-FF-BC   (hex)		Danego BV
 B00000-BFFFFF     (base 16)		Hangzhou Hortwork Technology Co.,Ltd.
 				Room753,7/F,building1,No.17-1,Chuxin roadGongshu district,Hangzhou City, Zhe jiang Province
 				Hangzhou  Zhe jiang Province  310000
+				CN
+
+4C-EA-41   (hex)		WUXI LATCOS TECHNOLOGY AUTOMATION Co.Ltd.
+800000-8FFFFF     (base 16)		WUXI LATCOS TECHNOLOGY AUTOMATION Co.Ltd.
+				Room 701, Building 7, Huaqing Chuangzhiyuan, No.3 Qingyan Road, Huishan District
+				Wuxi  Jiangsu  214000
 				CN
 
 4C-EA-41   (hex)		SHENZHEN ATC Technology Co., Ltd
