@@ -5867,6 +5867,12 @@ E8-6C-C7   (hex)		Trapeze Switzerland GmbH
 				Shenzhen    518000
 				CN
 
+5C-F8-38   (hex)		Semsotec GmbH
+A00000-AFFFFF     (base 16)		Semsotec GmbH
+				Schleißheimer Str.,91a
+				Garching B München  Bavaria  85748
+				DE
+
 B8-4C-87   (hex)		Shenzhen Link-all Technology Co., Ltd
 300000-3FFFFF     (base 16)		Shenzhen Link-all Technology Co., Ltd
 				Floor 5th, Block 9th, Sunny Industrial Zone, Xili Town, Nanshan District, Shenzhen, China 
@@ -29230,3 +29236,15 @@ B00000-BFFFFF     (base 16)		Hangzhou Hortwork Technology Co.,Ltd.
 				 Room 803, Block D, Building 16, South Station Enterprise City,Port Road,Nanhai District
 				Foshan  Guangdong  528251
 				CN
+
+5C-F8-38   (hex)		Hunan Guoke supercomputer Technologu Co.,LTD
+000000-0FFFFF     (base 16)		Hunan Guoke supercomputer Technologu Co.,LTD
+				Room 13A-01, Building A, Xingwang Science Park, 280 Binhe North Road, Yuehu Street, Kaifu District, Changsha City, Hunan Province
+				Changsha    410005
+				CN
+
+5C-F8-38   (hex)		Benison Tech
+900000-9FFFFF     (base 16)		Benison Tech
+				 Akshay Tech Park, Plot No. 72 & 73 EPIP area
+				Bengaluru  Karnataka  560066
+				IN
