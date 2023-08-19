@@ -6713,6 +6713,12 @@ BFD000-BFDFFF     (base 16)		Lumentum
 				Neath    SA11 1NJ
 				GB
 
+8C-1F-64   (hex)		Monnit Corporation
+AD7000-AD7FFF     (base 16)		Monnit Corporation
+				3400 S West Temple
+				S Salt Lake  UT  84115
+				US
+
 8C-1F-64   (hex)		Jacobs Technology, Inc.
 A98000-A98FFF     (base 16)		Jacobs Technology, Inc.
 				7765 Old Telegraph Road
@@ -20111,6 +20117,12 @@ C3E000-C3EFFF     (base 16)		ISMA Microsolutions INC
 				Oslo    0504
 				NO
 
+8C-1F-64   (hex)		Arktis Radiation Detectors
+979000-979FFF     (base 16)		Arktis Radiation Detectors
+				Räffelstrasse 11
+				Zürich  Zürich Canton  8045
+				CH
+
 8C-1F-64   (hex)		Flow Power
 82B000-82BFFF     (base 16)		Flow Power
 				Suite 2, Level 3, 18 - 20 York St
@@ -33388,3 +33400,9 @@ F46000-F46FFF     (base 16)		Broadcast Tools, Inc.
 				2102 Cambridge Beltway Drswt A1
 				CHARLOTTE  NC  28273
 				US
+
+8C-1F-64   (hex)		BRS Sistemas Eletrônicos
+C29000-C29FFF     (base 16)		BRS Sistemas Eletrônicos
+				Rua Capistrano de Abreu, 68
+				Canoas  RS  92120130
+				BR

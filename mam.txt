@@ -5873,6 +5873,12 @@ A00000-AFFFFF     (base 16)		Semsotec GmbH
 				Garching B München  Bavaria  85748
 				DE
 
+5C-F8-38   (hex)		Bergische Ingenieure GmbH
+100000-1FFFFF     (base 16)		Bergische Ingenieure GmbH
+				Heide 33
+				Burscheid    51399
+				DE
+
 5C-F8-38   (hex)		The idiot company
 200000-2FFFFF     (base 16)		The idiot company
 				Staalsteden 4-3A
@@ -17512,6 +17518,12 @@ E00000-EFFFFF     (base 16)		Wonder Education Tech Limited
 				Via alla Piana 57
 				Sesto Calende  Varese  21018
 				IT
+
+5C-F8-38   (hex)		Sichuan Zhongguang Lightning Protection Technologies Co., Ltd.
+C00000-CFFFFF     (base 16)		Sichuan Zhongguang Lightning Protection Technologies Co., Ltd.
+				No.19 Tianyu Rd. Western Park, Hi-tech Zone
+				Chengdu  Sichuan  611731
+				CN
 
 D0-14-11   (hex)		P.B. Elettronica srl
 100000-1FFFFF     (base 16)		P.B. Elettronica srl
