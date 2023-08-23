@@ -5873,17 +5873,29 @@ A00000-AFFFFF     (base 16)		Semsotec GmbH
 				Garching B München  Bavaria  85748
 				DE
 
+5C-F8-38   (hex)		Bergische Ingenieure GmbH
+100000-1FFFFF     (base 16)		Bergische Ingenieure GmbH
+				Heide 33
+				Burscheid    51399
+				DE
+
 5C-F8-38   (hex)		The idiot company
 200000-2FFFFF     (base 16)		The idiot company
 				Staalsteden 4-3A
 				Enschede    7547 TA
 				NL
 
-5C-F8-38   (hex)		Bergische Ingenieure GmbH
-100000-1FFFFF     (base 16)		Bergische Ingenieure GmbH
-				Heide 33
-				Burscheid    51399
-				DE
+5C-F8-38   (hex)		Watts A\S
+D00000-DFFFFF     (base 16)		Watts A\S
+				Brogade 19D
+				Køge    4600
+				DK
+
+5C-F8-38   (hex)		T-CHIP INTELLIGENT TECHNOLOGY CO.,LTD.
+700000-7FFFFF     (base 16)		T-CHIP INTELLIGENT TECHNOLOGY CO.,LTD.
+				Room 2101, Hongyu Building, #57 Zhongshan 4Rd, East District
+				Zhongshan  Guangdong  528403
+				CN
 
 B8-4C-87   (hex)		Shenzhen Link-all Technology Co., Ltd
 300000-3FFFFF     (base 16)		Shenzhen Link-all Technology Co., Ltd
@@ -17523,6 +17535,12 @@ E00000-EFFFFF     (base 16)		Wonder Education Tech Limited
 C00000-CFFFFF     (base 16)		Sichuan Zhongguang Lightning Protection Technologies Co., Ltd.
 				No.19 Tianyu Rd. Western Park, Hi-tech Zone
 				Chengdu  Sichuan  611731
+				CN
+
+5C-F8-38   (hex)		Kunshan Baifeng Intelligent Technology Co.,Ltd
+600000-6FFFFF     (base 16)		Kunshan Baifeng Intelligent Technology Co.,Ltd
+				Building 2,Number 625, Juxiang Road, Zhangpu Town.
+				KUNSHAN  Jiangsu  215300
 				CN
 
 D0-14-11   (hex)		P.B. Elettronica srl
