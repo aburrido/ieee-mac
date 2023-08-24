@@ -13702,6 +13702,7 @@ MA-L,F037CF,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone
 MA-L,2CC8F5,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
 MA-L,AC361B,"Hon Hai Precision Industry Co.,LTD","66.Chung Shan RD, TU-CHENG Industrial , district new TAIPEI CITY,23678 , TAIWAN CHINA  TAIPEI 66.Chung Shan RD, TU-CHENG Industrial , district new TAIPEI  CN 33859 "
 MA-L,B8060D,Tuya Smart Inc.,"160 Greentree Drive, Suite 101 Dover DE US 19904 "
+MA-L,D8132A,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
 MA-L,6C8720,"New H3C Technologies Co., Ltd","466 Changhe Road, Binjiang District Hangzhou Zhejiang CN 310052 "
 MA-L,0C8D7A,RADiflow,HaBarzel St 38 Tel-Aviv  IL 6971054 
 MA-L,FCA9F5,Xiaomi Communications Co Ltd,"#019, 9th Floor, Building 6, 33 Xi'erqi Middle Road Beijing Haidian District CN 100085 "
@@ -19758,7 +19759,6 @@ MA-L,0004C3,CASTOR Informatique,"2, Rue Du Kefir 94537 Orly Cedex FR  "
 MA-L,0004B1,"Signal Technology, Inc.",3rd. Fl. Dabo Bldg. Seoul KOREA KR 138-110 
 MA-L,000483,"Deltron Technology, Inc.","8F-3, No. 125, Lane 235 Taipei TAIWAN, TW R.O.C. "
 MA-L,000482,Medialogic Corp.,"0-3, Toyamaken-Sangyou   JP  "
-MA-L,000413,snom technology GmbH,Wittestr 30 G Berlin  DE 13509 
 MA-L,000415,"Rasteme Systems Co., Ltd.",886-2 Nihongi Nakagou-mura   JP  
 MA-L,000441,"Half Dome Systems, Inc.",155 B-1 Moffet Park Drive Sunnyvale CA US 94089 
 MA-L,0004B5,Equitrac Corporation,1905 N.W. 82nd Avenue Miami FL US 33126 
@@ -20559,6 +20559,8 @@ MA-L,2800AF,Dell Inc.,One Dell Way Round Rock  TX US 78682
 MA-L,58E359,Interroll Software & Electronics GmbH,Im Südpark 183 Linz  AT 4030 
 MA-L,8C3223,"JWIPC Technology Co.,Ltd.","13/F, Haisong Building B, Tairan 9th Rd, Futian District Shenzhen Guang Dong CN 5128042 "
 MA-L,001B09,MATRIX COMSEC PRIVATE LIMITED,"394, GIDC, Makarpura, Vadodara Gujarat IN 390010 "
+MA-L,00C896,CIG SHANGHAI CO LTD,"5th Floor, Building 8 No 2388 Chenhang Road  SHANGHAI  CN 201114 "
+MA-L,000413,snom technology GmbH,Aroser Allee 66 Berlin  DE 13407 
 MA-L,B4C799,Extreme Networks Headquarters,2121 RDU Center Drive  Morrisville NC US 27560 
 MA-L,58696C,"Ruijie Networks Co.,LTD","19# Building,Star-net Science Plaza,Juyuanzhou, 618 Jinshan Road Fuzhou Fujian CN 350002 "
 MA-L,8C8394,Arcadyan Corporation,"No.8, Sec.2, Guangfu Rd. Hsinchu City Hsinchu TW 30071 "
@@ -27444,6 +27446,10 @@ MA-L,40B70E,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone
 MA-L,C8A3E8,CLOUD NETWORK TECHNOLOGY SINGAPORE PTE. LTD.,"B22 Building,NO.51 Tongle Road, Shajing Town, Jiangnan District, Nanning, Guangxi Province, China Nanning Guangxi CN 530007 "
 MA-L,D8D668,Tuya Smart Inc.,"160 Greentree Drive, Suite 101 Dover DE US 19904 "
 MA-L,FCC0CC,Yunke China Information Technology Limited,"Digital Technology Plaza,NO.9 Shangdi 9th Street,Haidian District,Beijing,China  Beijing  CN 100080 "
+MA-L,48EB65,"Henan KunLun Technologies CO.,Ltd.","10th Floor, Chuangzhi Tiandi Building,
+North Shigeng Street, Zhongdao East Road
+Longzihu Wisdom Island
+Zhengdong New District Zhengzhou Henan CN 450046 "
 MA-L,C85CE2,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
 MA-L,DCEE14,ADT Technology,"Room 325, 3rd Floor, Building F, Xinmao Science and Technology Park, Huayuan Industrial Zone Tianjin Tianjin CN 300384 "
 MA-L,10FFE0,"GIGA-BYTE TECHNOLOGY CO.,LTD.","Pin-Jen City, Taoyuan, Taiwan, R.O.C. Pin-Jen Taoyuan TW 324 "
@@ -34300,3 +34306,6 @@ MA-L,486345,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone
 MA-L,709041,"Mist Systems, Inc.","1601 South De Anza Blvd, Suite 248 Cupertino CA US 95014 "
 MA-L,94B216,Silicon Laboratories,400 West Cesar Chavez Street Austin TX US 78701 
 MA-L,98254A,Big Field Global PTE. Ltd.,"No. 12 Kallang Avenue #03-30, Aperia Singapore  SG 339511 "
+MA-L,242D6C,eero inc.,660 3rd Street San Francisco CA US 94107 
+MA-L,94A4B5,Mitsubishi Electric Corporation,"2-7-3 Marunouchi, Chiyoda-ku Tokyo  JP 100-8310 "
+MA-L,30C922,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
