@@ -5897,6 +5897,18 @@ D00000-DFFFFF     (base 16)		Watts A\S
 				Zhongshan  Guangdong  528403
 				CN
 
+F4-1A-79   (hex)		SHENZHEN XIANXIN ELECTRONICS CO., LTD.
+300000-3FFFFF     (base 16)		SHENZHEN XIANXIN ELECTRONICS CO., LTD.
+				Room 1706, Cable information Transmission Building, No.3369,Binhai Avenue,Shenzhen,China.
+				SHENZHEN  GuangDong  518000
+				CN
+
+F4-1A-79   (hex)		Avedis Zildjian Company
+700000-7FFFFF     (base 16)		Avedis Zildjian Company
+				22 Longwater Drive
+				Norwell  MA  02061
+				US
+
 5C-F8-38   (hex)		Guangzhou Duge Technology Co.,LTD
 E00000-EFFFFF     (base 16)		Guangzhou Duge Technology Co.,LTD
 				115-116,Building 2,No. 299 Jude Road,Haizhu District,Guangzhou
@@ -5908,18 +5920,6 @@ B00000-BFFFFF     (base 16)		trilogik GmbH
 				Herberner Strasse 43a
 				Greven  NRW  48268
 				DE
-
-F4-1A-79   (hex)		Avedis Zildjian Company
-700000-7FFFFF     (base 16)		Avedis Zildjian Company
-				22 Longwater Drive
-				Norwell  MA  02061
-				US
-
-F4-1A-79   (hex)		SHENZHEN XIANXIN ELECTRONICS CO., LTD.
-300000-3FFFFF     (base 16)		SHENZHEN XIANXIN ELECTRONICS CO., LTD.
-				Room 1706, Cable information Transmission Building, No.3369,Binhai Avenue,Shenzhen,China.
-				SHENZHEN  GuangDong  518000
-				CN
 
 B8-4C-87   (hex)		Shenzhen Link-all Technology Co., Ltd
 300000-3FFFFF     (base 16)		Shenzhen Link-all Technology Co., Ltd
@@ -11494,6 +11494,18 @@ F4-1A-79   (hex)		Annapurna labs
 				Matam Scientific Industries Center,   Building 8.2
 				Mail box 15123  Haifa  3508409
 				IL
+
+F4-1A-79   (hex)		HCTEK Co.,Ltd.
+200000-2FFFFF     (base 16)		HCTEK Co.,Ltd.
+				HDAVS Building, No.5,Block1,Xishan Creative Park,Xingshikou Road,Haidian District
+				BeiJing  BeiJing  100195
+				CN
+
+F4-1A-79   (hex)		Directed Electronics OE Pty Ltd
+D00000-DFFFFF     (base 16)		Directed Electronics OE Pty Ltd
+				115-119 Link Road
+				Melbourne Airport  Victoria  3045
+				AU
 
 B8-4C-87   (hex)		Altronix , Corp
 A00000-AFFFFF     (base 16)		Altronix , Corp
@@ -23387,6 +23399,18 @@ F4-1A-79   (hex)		Jide Car Rastreamento e Monitoramento LTDA
 				Shenzhen    518057
 				CN
 
+F4-1A-79   (hex)		TERZ Industrial Electronics GmbH
+900000-9FFFFF     (base 16)		TERZ Industrial Electronics GmbH
+				Gewerbepark 5a
+				Bissendorf    49143
+				DE
+
+F4-1A-79   (hex)		Shenzhen Yizhao Innovation Technology Co., Ltd.
+E00000-EFFFFF     (base 16)		Shenzhen Yizhao Innovation Technology Co., Ltd.
+				A09, Floor 9, Building C6, Hezhou Hengfeng Industrial City
+				Xixiang  Baoan District  518000
+				CN
+
 B8-4C-87   (hex)		Private
 E00000-EFFFFF     (base 16)		Private
 
@@ -29368,3 +29392,9 @@ E4-95-6E   (hex)		Bucher Automation Budapest
 				Ihasz u. 10
 				Budapest    1105
 				HU
+
+F4-1A-79   (hex)		MetCom Solutions GmbH
+000000-0FFFFF     (base 16)		MetCom Solutions GmbH
+				Marie-Curie-Str. 19
+				Mannheim  Baden-Wuerttemberg  68219
+				DE
