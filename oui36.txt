@@ -6749,6 +6749,18 @@ F1D000-F1DFFF     (base 16)		MB connect line GmbH Fernwartungssysteme
 				Dinkelsbuehl  Bavaria  91550
 				DE
 
+8C-1F-64   (hex)		ViewSonic Corp
+81F000-81FFFF     (base 16)		ViewSonic Corp
+				10 Point Drive Brea, CA 92821 USA
+				LA  CA  92821
+				US
+
+8C-1F-64   (hex)		Flextronics International Kft
+881000-881FFF     (base 16)		Flextronics International Kft
+				ZRINYI STREET 38.
+				ZALAEGERSZEG  ZALA  8900
+				HU
+
 8C-1F-64   (hex)		Jacobs Technology, Inc.
 A98000-A98FFF     (base 16)		Jacobs Technology, Inc.
 				7765 Old Telegraph Road
@@ -6802,12 +6814,6 @@ DA9000-DA9FFF     (base 16)		RCH SPA
 				P.O. Box 9359
 				Caguas  Puerto Rico  00726
 				PR
-
-8C-1F-64   (hex)		FLEXTRONICS INTERNATIONAL KFT 
-B37000-B37FFF     (base 16)		FLEXTRONICS INTERNATIONAL KFT 
-				ZRINYI STREET 38.
-				ZALAEGERSZEG  ZALA  8900
-				HU
 
 8C-1F-64   (hex)		RMDS innovation inc.
 9E4000-9E4FFF     (base 16)		RMDS innovation inc.
@@ -13508,6 +13514,18 @@ D07000-D07FFF     (base 16)		Talleres de Escoriaza SAU
 				Irun  Gipuzkoa  20305
 				ES
 
+8C-1F-64   (hex)		Rejås of Sweden AB
+93A000-93AFFF     (base 16)		Rejås of Sweden AB
+				Måbärsvägen 16
+				Norrtälje    76163
+				SE
+
+8C-1F-64   (hex)		Flextronics International Kft
+B37000-B37FFF     (base 16)		Flextronics International Kft
+				ZRINYI STREET 38.
+				ZALAEGERSZEG  ZALA  8900
+				HU
+
 8C-1F-64   (hex)		Vision Systems Safety Tech
 E6F000-E6FFFF     (base 16)		Vision Systems Safety Tech
 				5 Chemin de Chiradie
@@ -13687,12 +13705,6 @@ AAA000-AAAFFF     (base 16)		Leder Elektronik Design GmbH
 				1720 ROBERT C. JACKSON DRIVE
 				Maryville  TN  37801
 				US
-
-8C-1F-64   (hex)		FLEXTRONICS INTERNATIONAL KFT 
-09D000-09DFFF     (base 16)		FLEXTRONICS INTERNATIONAL KFT 
-				ZRINYI STREET 38.
-				ZALAEGERSZEG  ZALA  8900
-				HU
 
 8C-1F-64   (hex)		DRIMAES INC.
 838000-838FFF     (base 16)		DRIMAES INC.
@@ -20123,12 +20135,6 @@ FD1000-FD1FFF     (base 16)		RedRat Ltd
 				Riga    LV-1050
 				LV
 
-8C-1F-64   (hex)		FLEXTRONICS INTERNATIONAL KFT 
-4D7000-4D7FFF     (base 16)		FLEXTRONICS INTERNATIONAL KFT 
-				ZRINYI STREET 38.
-				ZALAEGERSZEG  ZALA  8900
-				HU
-
 8C-1F-64   (hex)		DAVE SRL
 84D000-84DFFF     (base 16)		DAVE SRL
 				Via Talponedo 29a
@@ -20176,6 +20182,18 @@ ABE000-ABEFFF     (base 16)		TAIYO DENON Corporation
 				2-23-20 Kizuki Nakahara-ku
 				Kawasaki-shi  Kanagawa-ken  211-0025
 				JP
+
+8C-1F-64   (hex)		Flextronics International Kft
+4D7000-4D7FFF     (base 16)		Flextronics International Kft
+				ZRINYI STREET 38.
+				ZALAEGERSZEG  ZALA  8900
+				HU
+
+8C-1F-64   (hex)		Flextronics International Kft
+09D000-09DFFF     (base 16)		Flextronics International Kft
+				ZRINYI STREET 38.
+				ZALAEGERSZEG  ZALA  8900
+				HU
 
 8C-1F-64   (hex)		Flow Power
 82B000-82BFFF     (base 16)		Flow Power
@@ -33490,3 +33508,9 @@ C2B000-C2BFFF     (base 16)		Wuhan Xingtuxinke ELectronic Co.,Ltd
 				NO.C3-8F,Software Park,Optics Valley,East Lake Development Zone,Wuhan,Hubei,China
 				Wuhan  Hubei  430074
 				CN
+
+8C-1F-64   (hex)		Infrared Inspection Systems
+34B000-34BFFF     (base 16)		Infrared Inspection Systems
+				708 Fiero LaneSuite 12
+				San Luis Obispo  CA  93401
+				US
