@@ -11489,17 +11489,17 @@ F4-1A-79   (hex)		Annapurna labs
 				Mail box 15123  Haifa  3508409
 				IL
 
-F4-1A-79   (hex)		HCTEK Co.,Ltd.
-200000-2FFFFF     (base 16)		HCTEK Co.,Ltd.
-				HDAVS Building, No.5,Block1,Xishan Creative Park,Xingshikou Road,Haidian District
-				BeiJing  BeiJing  100195
-				CN
-
 F4-1A-79   (hex)		Directed Electronics OE Pty Ltd
 D00000-DFFFFF     (base 16)		Directed Electronics OE Pty Ltd
 				115-119 Link Road
 				Melbourne Airport  Victoria  3045
 				AU
+
+F4-1A-79   (hex)		HCTEK Co.,Ltd.
+200000-2FFFFF     (base 16)		HCTEK Co.,Ltd.
+				HDAVS Building, No.5,Block1,Xishan Creative Park,Xingshikou Road,Haidian District
+				BeiJing  BeiJing  100195
+				CN
 
 48-DA-35   (hex)		Flextronics International Kft
 900000-9FFFFF     (base 16)		Flextronics International Kft
@@ -23411,16 +23411,28 @@ F4-1A-79   (hex)		TERZ Industrial Electronics GmbH
 				Bissendorf    49143
 				DE
 
+90-A9-F7   (hex)		SkyLine Limited Technologies Co., Ltd
+C00000-CFFFFF     (base 16)		SkyLine Limited Technologies Co., Ltd
+				No.172 ZhongShan Rd, GuLou
+				NanJing  JiangSu  210002
+				CN
+
 F4-1A-79   (hex)		Shenzhen Yizhao Innovation Technology Co., Ltd.
 E00000-EFFFFF     (base 16)		Shenzhen Yizhao Innovation Technology Co., Ltd.
 				A09, Floor 9, Building C6, Hezhou Hengfeng Industrial City
 				Xixiang  Baoan District  518000
 				CN
 
-90-A9-F7   (hex)		SkyLine Limited Technologies Co., Ltd
-C00000-CFFFFF     (base 16)		SkyLine Limited Technologies Co., Ltd
-				No.172 ZhongShan Rd, GuLou
-				NanJing  JiangSu  210002
+90-A9-F7   (hex)		Suzhou Lingchen Acquisition Computer
+200000-2FFFFF     (base 16)		Suzhou Lingchen Acquisition Computer
+				No.55 Juhua Road,Huayang village, WangTing town, Xiangcheng District, Suzhou
+				Suzhou  Jiangsu  215000
+				CN
+
+90-A9-F7   (hex)		Shanghai Jiehezhi Technology Co., Ltd.
+D00000-DFFFFF     (base 16)		Shanghai Jiehezhi Technology Co., Ltd.
+				Room 901-1725, Building 4, No. 2377 Shenkun Road, Minhang District
+				Shanghai    200000
 				CN
 
 C8-5C-E2   (hex)		Fela Management AG 
