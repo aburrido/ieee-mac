@@ -17609,6 +17609,18 @@ C00000-CFFFFF     (base 16)		Sichuan Zhongguang Lightning Protection Technologie
 				Shenzhen  Guangdong  518000
 				CN
 
+90-A9-F7   (hex)		BAODING FORLINX EMBEDDEDTECHNOLOGY CO., LTD
+800000-8FFFFF     (base 16)		BAODING FORLINX EMBEDDEDTECHNOLOGY CO., LTD
+				No. 2699 Xiangyang North Street, Jingxiu District
+				Baoding  Hebei   071000
+				CN
+
+90-A9-F7   (hex)		Suzhou Etag-Technology Corporation
+300000-3FFFFF     (base 16)		Suzhou Etag-Technology Corporation
+				Room 1506,building E, Nanotechnology University Sciene park, No.388 Ruoshuiroad,Suzhou industrial park
+				Suzhou  Jiangsu  215123
+				CN
+
 D0-14-11   (hex)		P.B. Elettronica srl
 100000-1FFFFF     (base 16)		P.B. Elettronica srl
 				Via Santorelli, 8
@@ -29399,12 +29411,6 @@ E4-95-6E   (hex)		Bucher Automation Budapest
 				Budapest    1105
 				HU
 
-F4-1A-79   (hex)		eddylab GmbH
-600000-6FFFFF     (base 16)		eddylab GmbH
-				Ludwig-Ganghofer-Str. 40
-				Otterfing  BY  83624
-				DE
-
 F4-1A-79   (hex)		Shenzhen High Speed Technology Co., Ltd
 B00000-BFFFFF     (base 16)		Shenzhen High Speed Technology Co., Ltd
 				Plant D401-5, No.3 Keji Road, Zhukeng Community, Longtian Street, Pingshan District
@@ -29417,6 +29423,12 @@ C00000-CFFFFF     (base 16)		TA Technology (Shanghai) Co., Ltd
 				Beijing  China  100192
 				CN
 
+F4-1A-79   (hex)		eddylab GmbH
+600000-6FFFFF     (base 16)		eddylab GmbH
+				Ludwig-Ganghofer-Str. 40
+				Otterfing  BY  83624
+				DE
+
 F4-1A-79   (hex)		Meta-Bounds Inc.
 500000-5FFFFF     (base 16)		Meta-Bounds Inc.
 				Room 501, 5th Floor, Building 3, Harbor No.1 Science and Technology Park, No. 1 Jintang Road, Tangjiawan Town, Zhuhai, Guangdong.
@@ -29428,3 +29440,9 @@ F4-1A-79   (hex)		MetCom Solutions GmbH
 				Marie-Curie-Str. 19
 				Mannheim  Baden-Wuerttemberg  68219
 				DE
+
+90-A9-F7   (hex)		Shenzhen Eevin Technology Co.,Ltd
+600000-6FFFFF     (base 16)		Shenzhen Eevin Technology Co.,Ltd
+				Room 1501,Block A,Building 7,International Innovation Valley, Xili Street
+				Shenzhen  Guangdong Province  518000
+				CN

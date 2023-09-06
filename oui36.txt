@@ -6743,10 +6743,10 @@ E00000-E00FFF     (base 16)		DVB-TECH S.R.L.
 				TURBIGO  MI  20029
 				IT
 
-8C-1F-64   (hex)		MB connect line GmbH Fernwartungssysteme
-F1D000-F1DFFF     (base 16)		MB connect line GmbH Fernwartungssysteme
-				Winnettener Straße 6
-				Dinkelsbuehl  Bavaria  91550
+8C-1F-64   (hex)		TECHKON GmbH
+487000-487FFF     (base 16)		TECHKON GmbH
+				Wiesbadener Str. 27
+				Koenigstein  Hessen  61462
 				DE
 
 8C-1F-64   (hex)		ViewSonic Corp
@@ -6754,6 +6754,12 @@ F1D000-F1DFFF     (base 16)		MB connect line GmbH Fernwartungssysteme
 				10 Point Drive Brea, CA 92821 USA
 				LA  CA  92821
 				US
+
+8C-1F-64   (hex)		MB connect line GmbH Fernwartungssysteme
+F1D000-F1DFFF     (base 16)		MB connect line GmbH Fernwartungssysteme
+				Winnettener Straße 6
+				Dinkelsbuehl  Bavaria  91550
+				DE
 
 8C-1F-64   (hex)		Flextronics International Kft
 881000-881FFF     (base 16)		Flextronics International Kft
@@ -13525,6 +13531,12 @@ B37000-B37FFF     (base 16)		Flextronics International Kft
 				ZRINYI STREET 38.
 				ZALAEGERSZEG  ZALA  8900
 				HU
+
+8C-1F-64   (hex)		Calamity, Inc.
+B98000-B98FFF     (base 16)		Calamity, Inc.
+				Singerstraße 41
+				Berlin    10243
+				DE
 
 8C-1F-64   (hex)		Vision Systems Safety Tech
 E6F000-E6FFFF     (base 16)		Vision Systems Safety Tech
@@ -26912,6 +26924,12 @@ B2C000-B2CFFF     (base 16)		Elman srl
 				Nova Prata  Rio Grande do Sul  95320000
 				BR
 
+8C-1F-64   (hex)		Hyve Solutions
+EBA000-EBAFFF     (base 16)		Hyve Solutions
+				44201 Nobel Dr
+				Fremont  CA  94538
+				US
+
 8C-1F-64   (hex)		Mine Vision Systems
 BAA000-BAAFFF     (base 16)		Mine Vision Systems
 				5877 Commerce St Suite 118
@@ -33526,3 +33544,9 @@ C2B000-C2BFFF     (base 16)		Wuhan Xingtuxinke ELectronic Co.,Ltd
 				708 Fiero LaneSuite 12
 				San Luis Obispo  CA  93401
 				US
+
+8C-1F-64   (hex)		Systems Mechanics
+3E5000-3E5FFF     (base 16)		Systems Mechanics
+				Estuary House, Estuary View Business Park
+				Whitstable  Kent  CT5 3SE
+				GB
