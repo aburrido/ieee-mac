@@ -29446,3 +29446,9 @@ F4-1A-79   (hex)		MetCom Solutions GmbH
 				Room 1501,Block A,Building 7,International Innovation Valley, Xili Street
 				Shenzhen  Guangdong Province  518000
 				CN
+
+90-A9-F7   (hex)		GUANGDONG KERUIDE ELECTRICAL TECHNOLOGY CO., LTD.
+700000-7FFFFF     (base 16)		GUANGDONG KERUIDE ELECTRICAL TECHNOLOGY CO., LTD.
+				Unit 3, Floor 6, Building7, Zone A, Hantian Technology City, No. 17 Shenhai Road,Guicheng Sub-district, Nanhai District
+				Foshan  Guangdong  528251
+				CN

@@ -6767,6 +6767,12 @@ F1D000-F1DFFF     (base 16)		MB connect line GmbH Fernwartungssysteme
 				ZALAEGERSZEG  ZALA  8900
 				HU
 
+8C-1F-64   (hex)		HEITEC AG
+042000-042FFF     (base 16)		HEITEC AG
+				Dr.-Otto-Leich-Str. 16
+				Eckental  Bavaria  90542
+				DE
+
 8C-1F-64   (hex)		Jacobs Technology, Inc.
 A98000-A98FFF     (base 16)		Jacobs Technology, Inc.
 				7765 Old Telegraph Road
@@ -20219,6 +20225,12 @@ FC5000-FC5FFF     (base 16)		SUMICO
 				Tehran    1595846113
 				IR
 
+8C-1F-64   (hex)		Power Electronics Espana, S.L.
+964000-964FFF     (base 16)		Power Electronics Espana, S.L.
+				C/ Leonardo Da Vinci, 24-26
+				Paterna  Valencia  46980
+				ES
+
 8C-1F-64   (hex)		Flow Power
 82B000-82BFFF     (base 16)		Flow Power
 				Suite 2, Level 3, 18 - 20 York St
@@ -33533,6 +33545,12 @@ C29000-C29FFF     (base 16)		BRS Sistemas Eletrônicos
 				Buffalo  NY  14215
 				US
 
+8C-1F-64   (hex)		Systems Mechanics
+3E5000-3E5FFF     (base 16)		Systems Mechanics
+				Estuary House, Estuary View Business Park
+				Whitstable  Kent  CT5 3SE
+				GB
+
 8C-1F-64   (hex)		Wuhan Xingtuxinke ELectronic Co.,Ltd
 C2B000-C2BFFF     (base 16)		Wuhan Xingtuxinke ELectronic Co.,Ltd
 				NO.C3-8F,Software Park,Optics Valley,East Lake Development Zone,Wuhan,Hubei,China
@@ -33544,9 +33562,3 @@ C2B000-C2BFFF     (base 16)		Wuhan Xingtuxinke ELectronic Co.,Ltd
 				708 Fiero LaneSuite 12
 				San Luis Obispo  CA  93401
 				US
-
-8C-1F-64   (hex)		Systems Mechanics
-3E5000-3E5FFF     (base 16)		Systems Mechanics
-				Estuary House, Estuary View Business Park
-				Whitstable  Kent  CT5 3SE
-				GB
