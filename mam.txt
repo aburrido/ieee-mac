@@ -17603,12 +17603,6 @@ C00000-CFFFFF     (base 16)		Sichuan Zhongguang Lightning Protection Technologie
 				Ulricehamn    52337
 				SE
 
-90-A9-F7   (hex)		Shenzhen DOOGEE Hengtong Technology CO.,LTD
-500000-5FFFFF     (base 16)		Shenzhen DOOGEE Hengtong Technology CO.,LTD
-				B, 2/F, Building A4, Silicon Valley Power Digital Industrial Park, No. 22, Dafu Industrial Zone, Guanlan Aobei Community, Guanlan Street, Longhua New District
-				Shenzhen  Guangdong  518000
-				CN
-
 90-A9-F7   (hex)		BAODING FORLINX EMBEDDEDTECHNOLOGY CO., LTD
 800000-8FFFFF     (base 16)		BAODING FORLINX EMBEDDEDTECHNOLOGY CO., LTD
 				No. 2699 Xiangyang North Street, Jingxiu District
@@ -17620,6 +17614,18 @@ C00000-CFFFFF     (base 16)		Sichuan Zhongguang Lightning Protection Technologie
 				Room 1506,building E, Nanotechnology University Sciene park, No.388 Ruoshuiroad,Suzhou industrial park
 				Suzhou  Jiangsu  215123
 				CN
+
+90-A9-F7   (hex)		Shenzhen DOOGEE Hengtong Technology CO.,LTD
+500000-5FFFFF     (base 16)		Shenzhen DOOGEE Hengtong Technology CO.,LTD
+				B, 2/F, Building A4, Silicon Valley Power Digital Industrial Park, No. 22, Dafu Industrial Zone, Guanlan Aobei Community, Guanlan Street, Longhua New District
+				Shenzhen  Guangdong  518000
+				CN
+
+90-A9-F7   (hex)		LAB-EL ELEKTRONIKA LABORATORYJNA
+400000-4FFFFF     (base 16)		LAB-EL ELEKTRONIKA LABORATORYJNA
+				HERBACIANA 9
+				REGULY    05-816
+				PL
 
 D0-14-11   (hex)		P.B. Elettronica srl
 100000-1FFFFF     (base 16)		P.B. Elettronica srl
@@ -23451,6 +23457,12 @@ E00000-EFFFFF     (base 16)		Shenzhen Yizhao Innovation Technology Co., Ltd.
 D00000-DFFFFF     (base 16)		Shanghai Jiehezhi Technology Co., Ltd.
 				Room 901-1725, Building 4, No. 2377 Shenkun Road, Minhang District
 				Shanghai    200000
+				CN
+
+90-A9-F7   (hex)		Shenzhen Chainway Information Technology Co., Ltd
+100000-1FFFFF     (base 16)		Shenzhen Chainway Information Technology Co., Ltd
+				9F Building 2, Daqian Industrial Park, District 67,XingDong Community, Xin'an Street, Bao'an District
+				Shenzhen   Guangdong  518000
 				CN
 
 C8-5C-E2   (hex)		Fela Management AG 
