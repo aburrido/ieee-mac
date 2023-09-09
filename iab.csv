@@ -436,7 +436,6 @@ IAB,0050C2AA6,Bassett Electronic Systems ltd,Unit 24 Whitehill Ind Park Wootton 
 IAB,0050C2A88,S-SYS,Dijkstraat 8 Ham Limburg BE 3945 
 IAB,0050C2A89,CA Traffic Ltd,Griffin Lane Aylesbury Buckinghamshire GB HP198BP 
 IAB,0050C2A58,EPL,4 IMPASSE DES SAULES FAREMOUTIERS SEINE ET MARNE FR 77515 
-IAB,0050C2A59,GSP Sprachtechnologie GmbH,Teltowkanalstr. 1  Berlin DE 12247 
 IAB,0050C2A5D,"MECC CO., LTD.",196-1 FUKUDO OGORI-SHI FUKUOKA JP 838-0137 
 IAB,0050C2A41,Meiryo Denshi Corp.,38-23 higashi maeda Nishin City Aichi JP 470-0124 
 IAB,0050C2A54,Diamond Point International (Europe) Ltd,"13 Ashford House, Beaufort Court Rochester Kent GB ME2 4FA "
@@ -917,6 +916,7 @@ IAB,0050C201C,Tadiran Scopus,5 Hatzorf St.   IL
 IAB,0050C2008,Portable Add-Ons,"Chineham Court, Lutyens Close Hampshire  GB RG24 8AH "
 IAB,0050C2FDA,Bucher Automation Budapest,Ihasz u. 10 Budapest  HU 1105 
 IAB,40D8550D2,Bucher Automation Budapest,Ihasz u. 10 Budapest  HU 1105 
+IAB,0050C2A59,Televic Rail GmbH,Teltowkanalstr. 1  Berlin DE 12247 
 IAB,0050C293B,"Cleaveland/Price, Inc.",14000 Route 993 Trafford PA US 15085 
 IAB,0050C20BF,Private,
 IAB,0050C2689,RF Code,9229 Waterford Centre Blvd #500 Austin TX US 78758 
@@ -1906,7 +1906,6 @@ IAB,40D855145,Weber Marking Systems GmbH,Taschenmacherstrasse 2 Lübeck  Schlesw
 IAB,40D85514A, GD Mission Systems,8220 E. Roosevelt St. Scottsdale AZ US 85257 
 IAB,40D855146,Pleiger Elektronik GmbH  and Co. KG,Im Hammertal 51 Witten NRW DE 58456 
 IAB,40D855136,Devriecom B.V.,Oosteinde 219 Vriezenveen Ov NL 7671AX 
-IAB,40D855130,GSP Sprachtechnologie GmbH,Teltowkanalstr.1 Berlin  DE 12247 
 IAB,40D855144,Venco,Carretera del Mig 75 Hospitalet de Llobregat Barcelona ES 08907 
 IAB,40D855121,"shanghai Anjian Information technology co. , ltd.","Room 413，Block B , shanghai shanghai CN 200235 "
 IAB,40D855124,Debug s.r.l.,"Via della Meccanica,14 Vicenza ITALY IT 36100 "
@@ -2724,6 +2723,7 @@ IAB,0050C2027,Industrial Control Links,12840 Earhart Ave. Auburn CA US 95602
 IAB,0050C2028,The Frensch Corporation (Pty) Ltd.,P.O. Box 21008 GICP Gabrone BW  
 IAB,0050C200F,XLN-t,Waran De Straat 9B   BE  
 IAB,40D8551AC,Bucher Automation Budapest,Ihasz u. 10 Budapest  HU 1105 
+IAB,40D855130,Televic Rail GmbH,Teltowkanalstr.1 Berlin  DE 12247 
 IAB,0050C2B5B,Timberline Manufacturing,1029 Blairs Ferry Rd Marion IA US 52302 
 IAB,40D855194,RF Code,9229 Waterford Centre Blvd #500 Austin TX US 78758 
 IAB,0050C23F3,Hitachi Energy Germany AG,Havellandstr. 10-14 Mannheim  DE 68309 
@@ -3820,7 +3820,6 @@ IAB,0050C2F85,"Enetics, Inc.",830 Canning Parkway Victor NY US 14564
 IAB,0050C2FB0,Tateishi Kobisha Co.LTD,114 Kana-cho Fuchu-city HIroshima JP 726-0025 
 IAB,0050C2FA7,Exelis Inc.,430 W 5th Street Panama City FL US 32401 
 IAB,0050C2F82,Sincair Systems International,3115 S. Willow Avenue Fresno CA US 93725 
-IAB,0050C2F83,GSP Sprachtechnologie GmbH,Teltowkanalstr. 1  Berlin DE 12247 
 IAB,0050C2F81,PLDA,"Parc du Golf Bat 11A, Rue Guillibert Aix en Provence PACA FR 13856 "
 IAB,0050C2F99,Dr. Neumann elektronik GmbH,Schiffgesweg 9 Pulheim North Rhine-Westphalia DE 50259 
 IAB,0050C2F98,Infotech North America,109 E. 17th Street Cheyenne WY US 82001 
@@ -4574,3 +4573,4 @@ IAB,0050C2007,Clive Green & Co. Ltd.,1 New Street  England GB LU1 SDX
 IAB,0050C2010,Moisture Systems,220 Mill Rd. Chelmsford MA US 01824 
 IAB,0050C2006,"Project Management Enterprises, Inc.",7900 Wisconsin Avenue Bethesda MD US 20817 
 IAB,0050C22C5,Elman srl,"Via di Valle Caia, 37 Pomezia Rome IT  00071 "
+IAB,0050C2F83,Televic Rail GmbH,Teltowkanalstr. 1  Berlin DE 12247 

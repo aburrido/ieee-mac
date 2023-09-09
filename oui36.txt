@@ -2660,12 +2660,6 @@ B95000-B95FFF     (base 16)		EPIImaging
 				Paterna  Valencia  46980
 				ES
 
-70-B3-D5   (hex)		GSP Sprachtechnologie GmbH
-695000-695FFF     (base 16)		GSP Sprachtechnologie GmbH
-				Teltowkanalstraße 1
-				Berlin    12247
-				DE
-
 70-B3-D5   (hex)		Clecell
 565000-565FFF     (base 16)		Clecell
 				26, Beobwon-ro 9-gil
@@ -6773,6 +6767,18 @@ F1D000-F1DFFF     (base 16)		MB connect line GmbH Fernwartungssysteme
 				Eckental  Bavaria  90542
 				DE
 
+70-B3-D5   (hex)		Televic Rail GmbH
+695000-695FFF     (base 16)		Televic Rail GmbH
+				Teltowkanalstr.1
+				Berlin    12247
+				DE
+
+8C-1F-64   (hex)		PXM Marek Zupnik spolka komandytowa
+DEB000-DEBFFF     (base 16)		PXM Marek Zupnik spolka komandytowa
+				Podleze 654
+				Podleze  Malopolska  32-003
+				PL
+
 8C-1F-64   (hex)		Jacobs Technology, Inc.
 A98000-A98FFF     (base 16)		Jacobs Technology, Inc.
 				7765 Old Telegraph Road
@@ -7846,12 +7852,6 @@ E30000-E30FFF     (base 16)		VMukti Solutions Private Limited
 				Via Paderno 31/C
 				Seriate  Bergamo  24068
 				IT
-
-8C-1F-64   (hex)		GSP Sprachtechnologie GmbH
-FED000-FEDFFF     (base 16)		GSP Sprachtechnologie GmbH
-				Teltowkanalstraße 1
-				Berlin    12247
-				DE
 
 8C-1F-64   (hex)		Flextronics International Kft
 A4C000-A4CFFF     (base 16)		Flextronics International Kft
@@ -12215,12 +12215,6 @@ BFE000-BFEFFF     (base 16)		Aplex Technology Inc.
 				Shenzhen  Guangdong  518055
 				CN
 
-70-B3-D5   (hex)		GSP Sprachtechnologie GmbH
-120000-120FFF     (base 16)		GSP Sprachtechnologie GmbH
-				Teltowkanalstraße 1
-				Berlin    12247
-				DE
-
 70-B3-D5   (hex)		KST technology
 F7B000-F7BFFF     (base 16)		KST technology
 				164-1, KST b/d., Bangi-dong, songpa-gu
@@ -13550,6 +13544,18 @@ B98000-B98FFF     (base 16)		Calamity, Inc.
 				Beijing    100080
 				CN
 
+8C-1F-64   (hex)		Televic Rail GmbH
+FED000-FEDFFF     (base 16)		Televic Rail GmbH
+				Teltowkanalstr.1
+				Berlin    12247
+				DE
+
+70-B3-D5   (hex)		Televic Rail GmbH
+120000-120FFF     (base 16)		Televic Rail GmbH
+				Teltowkanalstr.1
+				Berlin    12247
+				DE
+
 8C-1F-64   (hex)		Vision Systems Safety Tech
 E6F000-E6FFFF     (base 16)		Vision Systems Safety Tech
 				5 Chemin de Chiradie
@@ -14275,12 +14281,6 @@ AF0000-AF0FFF     (base 16)		MinebeaMitsumi Inc.
 				3-9-6, Mita
 				Minato-ku  Tokyo  1080073
 				JP
-
-8C-1F-64   (hex)		GSP Sprachtechnologie GmbH
-F10000-F10FFF     (base 16)		GSP Sprachtechnologie GmbH
-				Teltowkanalstraße 1
-				Berlin    12247
-				DE
 
 8C-1F-64   (hex)		Elbit Systems of America, LLC
 2A9000-2A9FFF     (base 16)		Elbit Systems of America, LLC
@@ -20237,6 +20237,12 @@ FB9000-FB9FFF     (base 16)		IWS Global Pty Ltd
 				Paterna  Valencia  46980
 				ES
 
+8C-1F-64   (hex)		Televic Rail GmbH
+F10000-F10FFF     (base 16)		Televic Rail GmbH
+				Teltowkanalstr.1
+				Berlin    12247
+				DE
+
 8C-1F-64   (hex)		Flow Power
 82B000-82BFFF     (base 16)		Flow Power
 				Suite 2, Level 3, 18 - 20 York St
@@ -21740,12 +21746,6 @@ BC0000-BC0FFF     (base 16)		GS Elektromedizinsiche Geräte G. Stemple GmbH
 				Tel Aviv    6986519
 				IL
 
-8C-1F-64   (hex)		GSP Sprachtechnologie GmbH
-B64000-B64FFF     (base 16)		GSP Sprachtechnologie GmbH
-				Teltowkanalstraße 1
-				Berlin    12247
-				DE
-
 70-B3-D5   (hex)		INSEVIS GmbH
 508000-508FFF     (base 16)		INSEVIS GmbH
 				Am Weichselgarten 7
@@ -22087,12 +22087,6 @@ D03000-D03FFF     (base 16)		Digitella Inc.
 				Gabelle 18a
 				Bienne  berne  2503
 				CH
-
-70-B3-D5   (hex)		GSP Sprachtechnologie GmbH
-93C000-93CFFF     (base 16)		GSP Sprachtechnologie GmbH
-				Teltowkanalstraße 1
-				Berlin    12247
-				DE
 
 70-B3-D5   (hex)		GUNMA ELECTRONICS CO LTD
 64F000-64FFFF     (base 16)		GUNMA ELECTRONICS CO LTD
@@ -24067,12 +24061,6 @@ A37000-A37FFF     (base 16)		MITSUBISHI HEAVY INDUSTRIES THERMAL SYSTEMS, LTD.
 				2115 Chapman Rd. Suite 159
 				Chattanooga  TN  37421
 				US
-
-70-B3-D5   (hex)		GSP Sprachtechnologie GmbH
-2A4000-2A4FFF     (base 16)		GSP Sprachtechnologie GmbH
-				Teltowkanalstraße 1
-				Berlin    12247
-				DE
 
 70-B3-D5   (hex)		Colorimetry Research, Inc
 10E000-10EFFF     (base 16)		Colorimetry Research, Inc
@@ -26953,6 +26941,30 @@ EBA000-EBAFFF     (base 16)		Hyve Solutions
 				44201 Nobel Dr
 				Fremont  CA  94538
 				US
+
+8C-1F-64   (hex)		Televic Rail GmbH
+B64000-B64FFF     (base 16)		Televic Rail GmbH
+				Teltowkanalstr.1
+				Berlin    12247
+				DE
+
+70-B3-D5   (hex)		Televic Rail GmbH
+93C000-93CFFF     (base 16)		Televic Rail GmbH
+				Teltowkanalstr.1
+				Berlin    12247
+				DE
+
+70-B3-D5   (hex)		Televic Rail GmbH
+2A4000-2A4FFF     (base 16)		Televic Rail GmbH
+				Teltowkanalstr.1
+				Berlin    12247
+				DE
+
+8C-1F-64   (hex)		XI'AN JIAODA KAIDA NEW TECHNOLOGY CO.LTD
+24D000-24DFFF     (base 16)		XI'AN JIAODA KAIDA NEW TECHNOLOGY CO.LTD
+				NO.30 Chuang Hui Road, Hi-Tech Development zone
+				XI'AN  SHANNXI  710000
+				CN
 
 8C-1F-64   (hex)		Mobileye
 D63000-D63FFF     (base 16)		Mobileye
