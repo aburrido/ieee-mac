@@ -20249,6 +20249,12 @@ F10000-F10FFF     (base 16)		Televic Rail GmbH
 				Berlin    12247
 				DE
 
+8C-1F-64   (hex)		Infosoft Digital Design and Services P L
+C9A000-C9AFFF     (base 16)		Infosoft Digital Design and Services P L
+				484, SECTOR-8 ,IMT MANESER,GURGAONMANESER
+				GURGAON  Haryana  122050
+				IN
+
 8C-1F-64   (hex)		Flow Power
 82B000-82BFFF     (base 16)		Flow Power
 				Suite 2, Level 3, 18 - 20 York St
@@ -26948,6 +26954,12 @@ BAA000-BAAFFF     (base 16)		Mine Vision Systems
 				Pittsburgh  PA  15206
 				US
 
+8C-1F-64   (hex)		XI'AN JIAODA KAIDA NEW TECHNOLOGY CO.LTD
+24D000-24DFFF     (base 16)		XI'AN JIAODA KAIDA NEW TECHNOLOGY CO.LTD
+				NO.30 Chuang Hui Road, Hi-Tech Development zone
+				XI'AN  SHANNXI  710000
+				CN
+
 8C-1F-64   (hex)		Televic Rail GmbH
 B64000-B64FFF     (base 16)		Televic Rail GmbH
 				Teltowkanalstr.1
@@ -26965,12 +26977,6 @@ B64000-B64FFF     (base 16)		Televic Rail GmbH
 				Teltowkanalstr.1
 				Berlin    12247
 				DE
-
-8C-1F-64   (hex)		XI'AN JIAODA KAIDA NEW TECHNOLOGY CO.LTD
-24D000-24DFFF     (base 16)		XI'AN JIAODA KAIDA NEW TECHNOLOGY CO.LTD
-				NO.30 Chuang Hui Road, Hi-Tech Development zone
-				XI'AN  SHANNXI  710000
-				CN
 
 8C-1F-64   (hex)		Mobileye
 D63000-D63FFF     (base 16)		Mobileye
