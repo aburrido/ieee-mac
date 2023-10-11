@@ -13562,6 +13562,12 @@ B98000-B98FFF     (base 16)		Calamity, Inc.
 				Berlin    10243
 				DE
 
+8C-1F-64   (hex)		AddSecure Smart Grids
+B79000-B79FFF     (base 16)		AddSecure Smart Grids
+				Campus Gräsvik 1
+				Karlskrona    37175
+				SE
+
 8C-1F-64   (hex)		Vision Systems Safety Tech
 E6F000-E6FFFF     (base 16)		Vision Systems Safety Tech
 				5 Chemin de Chiradie
@@ -33593,20 +33599,26 @@ C2B000-C2BFFF     (base 16)		Wuhan Xingtuxinke ELectronic Co.,Ltd
 				San Luis Obispo  CA  93401
 				US
 
-8C-1F-64   (hex)		TELFI TECHNOLOGIES PRIVATE LIMITED
-E70000-E70FFF     (base 16)		TELFI TECHNOLOGIES PRIVATE LIMITED
-				TELFI TECHNOLOGIES PRIVATE LIMITED1/301,2nd floor, Palkalai Nagar avenue, Palavakkam
-				CHENNAI  TAMILNADU  600041
-				IN
-
 8C-1F-64   (hex)		Trivedi Advanced Technologies LLC
 E4E000-E4EFFF     (base 16)		Trivedi Advanced Technologies LLC
 				107 Otis st
 				Northborough  MA  01532
 				US
 
+8C-1F-64   (hex)		TELFI TECHNOLOGIES PRIVATE LIMITED
+E70000-E70FFF     (base 16)		TELFI TECHNOLOGIES PRIVATE LIMITED
+				TELFI TECHNOLOGIES PRIVATE LIMITED1/301,2nd floor, Palkalai Nagar avenue, Palavakkam
+				CHENNAI  TAMILNADU  600041
+				IN
+
 8C-1F-64   (hex)		Potter Electric Signal Co. LLC
 1E2000-1E2FFF     (base 16)		Potter Electric Signal Co. LLC
 				1609 Park 370 Place
 				Hazelwood  MO  63042
 				US
+
+8C-1F-64   (hex)		Beijing Tong Cybsec Technology Co.,LTD
+F9C000-F9CFFF     (base 16)		Beijing Tong Cybsec Technology Co.,LTD
+				2201,Seat  A,19/F,1#,NO.2,Zhongguancun  South Street Haidian  District, Beijing,P.R. C 
+				Beijing  Beijing  100086
+				CN
