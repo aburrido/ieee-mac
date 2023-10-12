@@ -11507,12 +11507,6 @@ F4-1A-79   (hex)		HCTEK Co.,Ltd.
 				Zalaegerszeg    8900
 				HU
 
-10-06-48   (hex)		Dreame Innovation Technology(Suzhou) Co.,Ltd.
-A00000-AFFFFF     (base 16)		Dreame Innovation Technology(Suzhou) Co.,Ltd.
-				Unit 1, 2, 3, Building 8, No. 1688, Songwei Road, Guoxiang Street, Wuzhong Economic Development Zone
-				Suzhou  Jiangsu  215100
-				CN
-
 B8-4C-87   (hex)		Altronix , Corp
 A00000-AFFFFF     (base 16)		Altronix , Corp
 				140 58th St. Bldg A, Ste 2N
@@ -17633,29 +17627,17 @@ C00000-CFFFFF     (base 16)		Sichuan Zhongguang Lightning Protection Technologie
 				REGULY    05-816
 				PL
 
-10-06-48   (hex)		Shenzhen smart-core technology co.,ltd.
-B00000-BFFFFF     (base 16)		Shenzhen smart-core technology co.,ltd.
-				19/F., Finance & Technology Building, No.11 Keyuan Road, Nanshan Dist., Shenzhen, China
-				Shenzhen  Guangdong  518057
-				CN
-
-10-06-48   (hex)		Hong Kong BOZZ Co., Limited.
-600000-6FFFFF     (base 16)		Hong Kong BOZZ Co., Limited.
-				NO. 33 MONG KOK ROAD, KOWLOON
-				HONG KONG  HONG KONG  999077
-				CN
-
 90-A9-F7   (hex)		The Engineerix Group
 E00000-EFFFFF     (base 16)		The Engineerix Group
 				1418 Beech Ave 119A
 				McAllen  TX  78501
 				US
 
-10-06-48   (hex)		Dynics
-200000-2FFFFF     (base 16)		Dynics
-				620 Technology Drive
-				Ann Arbor  MI  48108
-				US
+10-06-48   (hex)		Hong Kong BOZZ Co., Limited.
+600000-6FFFFF     (base 16)		Hong Kong BOZZ Co., Limited.
+				NO. 33 MONG KOK ROAD, KOWLOON
+				HONG KONG  HONG KONG  999077
+				CN
 
 D0-14-11   (hex)		P.B. Elettronica srl
 100000-1FFFFF     (base 16)		P.B. Elettronica srl
@@ -26609,6 +26591,12 @@ C8-2C-2B   (hex)		BIOT Sp. z o.o.
 				Zielona Góra  Lubuskie  66-002
 				PL
 
+B0-FD-0B   (hex)		Habana Labs LTD
+D00000-DFFFFF     (base 16)		Habana Labs LTD
+				5 Tarshish St,
+				Caesarea    3079821
+				IL
+
 C8-63-14   (hex)		Shenzhen Zero Zero Infinity Technology Co.，Ltd.
 400000-4FFFFF     (base 16)		Shenzhen Zero Zero Infinity Technology Co.，Ltd.
 				309 Rainbow Technology Building, 36 Gaoxin North 6th Road, Xili Street
@@ -29489,24 +29477,6 @@ F4-1A-79   (hex)		MetCom Solutions GmbH
 				Mannheim  Baden-Wuerttemberg  68219
 				DE
 
-10-06-48   (hex)		illuminous LLC
-300000-3FFFFF     (base 16)		illuminous LLC
-				140 Island Way #243
-				Clearwater Beach  FL  33767
-				US
-
-10-06-48   (hex)		FLEXTRONICS TECHNOLOGIES (INDIA) PVT LTD
-000000-0FFFFF     (base 16)		FLEXTRONICS TECHNOLOGIES (INDIA) PVT LTD
-				Plot 3, SIPCOT Industrial Estate, Sriperumbudur 
-				Kanchipuram  Tamil Nadu  602106
-				IN
-
-90-A9-F7   (hex)		Kranze Technology Solutions, Inc.
-B00000-BFFFFF     (base 16)		Kranze Technology Solutions, Inc.
-				1794 Winthrop Dr.
-				Des Plaines  IL  60018
-				US
-
 90-A9-F7   (hex)		GUANGDONG KERUIDE ELECTRICAL TECHNOLOGY CO., LTD.
 700000-7FFFFF     (base 16)		GUANGDONG KERUIDE ELECTRICAL TECHNOLOGY CO., LTD.
 				Unit 3, Floor 6, Building7, Zone A, Hantian Technology City, No. 17 Shenhai Road,Guicheng Sub-district, Nanhai District
@@ -29519,14 +29489,14 @@ A00000-AFFFFF     (base 16)		Chi Geng Technology Co., Ltd
 				Taoyuan City  Zhongli Dist.  320014
 				TW
 
+90-A9-F7   (hex)		Kranze Technology Solutions, Inc.
+B00000-BFFFFF     (base 16)		Kranze Technology Solutions, Inc.
+				1794 Winthrop Dr.
+				Des Plaines  IL  60018
+				US
+
 10-06-48   (hex)		Annapurna labs
 900000-9FFFFF     (base 16)		Annapurna labs
 				Matam Scientific Industries Center,   Building 8.2
 				Mail box 15123  Haifa  3508409
-				IL
-
-B0-FD-0B   (hex)		Habana Labs LTD.
-D00000-DFFFFF     (base 16)		Habana Labs LTD.
-				5 Tarshish St,
-				Caesarea    3079821
 				IL
