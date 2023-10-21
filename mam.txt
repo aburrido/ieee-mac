@@ -6011,6 +6011,12 @@ C00000-CFFFFF     (base 16)		Creative Security Technology Inc.
 				Beijing  Beijing  100000
 				CN
 
+C8-98-DB   (hex)		CHAMPIN
+A00000-AFFFFF     (base 16)		CHAMPIN
+				No. 90-3, Sec. 4, Chongde Rd., Tanzi Dist.
+				Taichung    427020
+				TW
+
 B8-4C-87   (hex)		Shenzhen Link-all Technology Co., Ltd
 300000-3FFFFF     (base 16)		Shenzhen Link-all Technology Co., Ltd
 				Floor 5th, Block 9th, Sunny Industrial Zone, Xili Town, Nanshan District, Shenzhen, China 
@@ -29884,3 +29890,15 @@ C8-98-DB   (hex)		Unicore Communications Inc.
 				F3.No.7 Fengxian East Road Yongfeng Industrial Base. Haidian Beijing.
 				Beijing    100094
 				CN
+
+C8-98-DB   (hex)		qihangzhitong
+E00000-EFFFFF     (base 16)		qihangzhitong
+				1504, Block 2A, Vanke Cloud City Phase I, Chuangke Road, Nanshan District, Shenzhen, Guangdong, China
+				shenzhen  guangdong  518000
+				CN
+
+C8-98-DB   (hex)		Smartrend Manufacturing Group
+C00000-CFFFFF     (base 16)		Smartrend Manufacturing Group
+				6-1249 Clarence Ave
+				Winnipeg  Manitoba  R3T 1T4
+				CA

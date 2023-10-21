@@ -6809,12 +6809,6 @@ FEA000-FEAFFF     (base 16)		AKON Co.,Ltd.
 				Hyuga,  Miyazaki,  883-0021
 				JP
 
-8C-1F-64   (hex)		Flextronics International Kft
-7C6000-7C6FFF     (base 16)		Flextronics International Kft
-				38. Zrinyi Str.
-				Zalaegerszeg  Zala  8900
-				HU
-
 8C-1F-64   (hex)		Sonendo Inc
 EF0000-EF0FFF     (base 16)		Sonendo Inc
 				26061 Merit Cir Ste 102
@@ -6826,6 +6820,12 @@ EF0000-EF0FFF     (base 16)		Sonendo Inc
 				7887 Bryan Dairy Rd Ste 351b
 				Seminole  FL  33777
 				US
+
+8C-1F-64   (hex)		Flextronics International Kft
+7C6000-7C6FFF     (base 16)		Flextronics International Kft
+				38. Zrinyi Str.
+				Zalaegerszeg  Zala  8900
+				HU
 
 8C-1F-64   (hex)		Jacobs Technology, Inc.
 A98000-A98FFF     (base 16)		Jacobs Technology, Inc.
@@ -33931,3 +33931,9 @@ ED3000-ED3FFF     (base 16)		SENSO2ME NV
 
 8C-1F-64   (hex)		Private
 AE3000-AE3FFF     (base 16)		Private
+
+8C-1F-64   (hex)		Bright Solutions PTE LTD
+657000-657FFF     (base 16)		Bright Solutions PTE LTD
+				51 Goldhill Plaza #07-10/11
+				Singapore    308900
+				SG
