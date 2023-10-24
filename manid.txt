@@ -118,6 +118,7 @@ MANUFACTURER ID               Organization
 46                            Lion Precision
 53                            ONO SOKKI
 20                            Macro Sensors
+5154                          Opus-Two ICS
 6900                          Shandong Liensi Intelligent Technology Co.,Ltd
 3450                          Oetiker Schweiz AG
 15328                         Silicon Designs, Inc. (SDI)
