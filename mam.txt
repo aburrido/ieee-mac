@@ -6035,6 +6035,12 @@ A00000-AFFFFF     (base 16)		CHAMPIN
 				Taichung    427020
 				TW
 
+78-39-2D   (hex)		Dreamtek
+800000-8FFFFF     (base 16)		Dreamtek
+				Room 508, Building A2, Zhongan Chuanggu Science Park Phase I, 900 Wangjiang West Road, High-tech Zone, Hefei, Anhui
+				china  Anhui  230000
+				CN
+
 B8-4C-87   (hex)		Shenzhen Link-all Technology Co., Ltd
 300000-3FFFFF     (base 16)		Shenzhen Link-all Technology Co., Ltd
 				Floor 5th, Block 9th, Sunny Industrial Zone, Xili Town, Nanshan District, Shenzhen, China 
@@ -17897,14 +17903,14 @@ C8-98-DB   (hex)		freecle Inc.
 				Meguro-Ku  Tokyo  153-0064
 				JP
 
-C8-98-DB   (hex)		Private
-500000-5FFFFF     (base 16)		Private
-
 C8-98-DB   (hex)		MINDTEC
 900000-9FFFFF     (base 16)		MINDTEC
 				45, Jungdong-ro 248beon-gil
 				Gyeonggi-do    14548
 				KR
+
+C8-98-DB   (hex)		Private
+500000-5FFFFF     (base 16)		Private
 
 78-39-2D   (hex)		Annapurna labs
 600000-6FFFFF     (base 16)		Annapurna labs
@@ -29946,4 +29952,10 @@ C8-98-DB   (hex)		Shenzhen Kedakeda Technology Co., Ltd.
 300000-3FFFFF     (base 16)		Shenzhen Kedakeda Technology Co., Ltd.
 				Room 201,Building A,No.1,Qianwan Road,Qianhai Shenzhen-Hong Kong Cooperation Zone,Shenzhen,China (Registered with Shenzhen Qianhai Business Secretary Co., Ltd.)
 				Shenzhen  GUANGDONG  518000
+				CN
+
+78-39-2D   (hex)		AVATR Co., LTD.
+900000-9FFFFF     (base 16)		AVATR Co., LTD.
+				No. 24, 1st Floor, Building 1, 106, West Section of Jinkai Avenue, Yubei District, Chongqing
+				Chongqing  Chongqing  401121
 				CN

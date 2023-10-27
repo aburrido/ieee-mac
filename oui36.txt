@@ -6827,12 +6827,6 @@ EF0000-EF0FFF     (base 16)		Sonendo Inc
 				Zalaegerszeg  Zala  8900
 				HU
 
-8C-1F-64   (hex)		YSLAB
-380000-380FFF     (base 16)		YSLAB
-				18, Gukchaebosang-ro 19-gil,
-				Seo-gu  Daegu  41759
-				KR
-
 8C-1F-64   (hex)		Deutescher Wetterdienst
 327000-327FFF     (base 16)		Deutescher Wetterdienst
 				Frankfurter Straße 135
@@ -6845,10 +6839,22 @@ A3E000-A3EFFF     (base 16)		Hiwin Mikrosystem Corp.
 				TAICHUNG    40841
 				TW
 
+8C-1F-64   (hex)		YSLAB
+380000-380FFF     (base 16)		YSLAB
+				18, Gukchaebosang-ro 19-gil,
+				Seo-gu  Daegu  41759
+				KR
+
+8C-1F-64   (hex)		Ophir Manufacturing Solutions Pte Ltd
+F6D000-F6DFFF     (base 16)		Ophir Manufacturing Solutions Pte Ltd
+				Keppel Bay Tower, 1 Harbourfront Avenue #13-03
+				Singapore  Singapore  098632
+				SG
+
 8C-1F-64   (hex)		Trineo Systems Sp. z o.o.
 32E000-32EFFF     (base 16)		Trineo Systems Sp. z o.o.
-				Al. Zwyciestwa 96/98
-				Gdynia    81-451
+				Al. Zwyciestwa 241/13
+				Gdynia    81-521
 				PL
 
 8C-1F-64   (hex)		Jacobs Technology, Inc.
@@ -20471,6 +20477,12 @@ C1A000-C1AFFF     (base 16)		ViewSonic Corp
 				LAS VEGAS  NV  89148
 				US
 
+8C-1F-64   (hex)		Saline Lectronics, Inc.
+9D0000-9D0FFF     (base 16)		Saline Lectronics, Inc.
+				710 N Maple Rd
+				Saline  MI  48176
+				US
+
 8C-1F-64   (hex)		Flow Power
 82B000-82BFFF     (base 16)		Flow Power
 				Suite 2, Level 3, 18 - 20 York St
@@ -27254,22 +27266,10 @@ A33000-A33FFF     (base 16)		RT Vision Technologies PVT LTD
 				Houston  TX  77086
 				US
 
-8C-1F-64   (hex)		Apantac LLC
-4C9000-4C9FFF     (base 16)		Apantac LLC
-				7556 SW Bridgeport Road
-				Durham    97224
-				US
-
 8C-1F-64   (hex)		Opus-Two ICS
 1D3000-1D3FFF     (base 16)		Opus-Two ICS
 				201 King of Prussia Rd #650
 				Radnor  PA  19087
-				US
-
-8C-1F-64   (hex)		Roboteq
-410000-410FFF     (base 16)		Roboteq
-				7812 E Acoma dr
-				Scottsdale  AZ  85260
 				US
 
 8C-1F-64   (hex)		Novanta IMS
@@ -27278,11 +27278,29 @@ A33000-A33FFF     (base 16)		RT Vision Technologies PVT LTD
 				Marlborough   CT  06447
 				US
 
+8C-1F-64   (hex)		Roboteq
+410000-410FFF     (base 16)		Roboteq
+				7812 E Acoma dr
+				Scottsdale  AZ  85260
+				US
+
 8C-1F-64   (hex)		Ryoyu-GC Co.,Ltd
 623000-623FFF     (base 16)		Ryoyu-GC Co.,Ltd
 				WagouBiled-4F,3-7-3,Taitou,Taitou-ku
 				Tokyo    110-0016
 				JP
+
+8C-1F-64   (hex)		Apantac LLC
+4C9000-4C9FFF     (base 16)		Apantac LLC
+				7556 SW Bridgeport Road
+				Durham    97224
+				US
+
+8C-1F-64   (hex)		Nidec asi spa
+FC1000-FC1FFF     (base 16)		Nidec asi spa
+				s.s11 , ca sordis 4
+				Montebello Vicentino  vicenza  36054
+				IT
 
 8C-1F-64   (hex)		Mobileye
 D63000-D63FFF     (base 16)		Mobileye
