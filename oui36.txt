@@ -28205,12 +28205,6 @@ C6B000-C6BFFF     (base 16)		Mediana
 				Wonju-Si  Gangwon-Do  220-801
 				KR
 
-8C-1F-64   (hex)		noah
-B01000-B01FFF     (base 16)		noah
-				Augustusplatz 1-4
-				Leipzig    04109
-				DE
-
 8C-1F-64   (hex)		Power Electronics Espana, S.L.
 D08000-D08FFF     (base 16)		Power Electronics Espana, S.L.
 				Poligono Industrial Carrases. Ronda del camp d Aviacio 4
@@ -34009,6 +34003,12 @@ AE3000-AE3FFF     (base 16)		Private
 				51 Goldhill Plaza #07-10/11
 				Singapore    308900
 				SG
+
+8C-1F-64   (hex)		Blue Ocean UG
+B01000-B01FFF     (base 16)		Blue Ocean UG
+				Bruhl 62
+				Leipzig    04109
+				DE
 
 8C-1F-64   (hex)		J.M. Voith SE & Co. KG 
 C9B000-C9BFFF     (base 16)		J.M. Voith SE & Co. KG 

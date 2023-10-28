@@ -29948,14 +29948,14 @@ C8-98-DB   (hex)		Unicore Communications Inc.
 				Beijing    100094
 				CN
 
-C8-98-DB   (hex)		Shenzhen Kedakeda Technology Co., Ltd.
-300000-3FFFFF     (base 16)		Shenzhen Kedakeda Technology Co., Ltd.
-				Room 201,Building A,No.1,Qianwan Road,Qianhai Shenzhen-Hong Kong Cooperation Zone,Shenzhen,China (Registered with Shenzhen Qianhai Business Secretary Co., Ltd.)
-				Shenzhen  GUANGDONG  518000
-				CN
-
 78-39-2D   (hex)		AVATR Co., LTD.
 900000-9FFFFF     (base 16)		AVATR Co., LTD.
 				No. 24, 1st Floor, Building 1, 106, West Section of Jinkai Avenue, Yubei District, Chongqing
 				Chongqing  Chongqing  401121
+				CN
+
+C8-98-DB   (hex)		Shenzhen Kedakeda Technology Co., Ltd.
+300000-3FFFFF     (base 16)		Shenzhen Kedakeda Technology Co., Ltd.
+				Room 201,Building A,No.1,Qianwan Road,Qianhai Shenzhen-Hong Kong Cooperation Zone,Shenzhen,China (Registered with Shenzhen Qianhai Business Secretary Co., Ltd.)
+				Shenzhen  GUANGDONG  518000
 				CN
