@@ -137,18 +137,6 @@ D00000-DFFFFF     (base 16)		KIDO SPORTS CO., LTD.
 				Seoul  Seoul  07590
 				KR
 
-50-48-2C   (hex)		BBPOS Limited
-200000-2FFFFF     (base 16)		BBPOS Limited
-				Suite 1602, Tower 2, Nina Tower, 8 Yeung Uk Road, Tsuen Wan, NT
-				Hong Kong  China  00000
-				HK
-
-CC-D3-1E   (hex)		BBPOS Limited
-600000-6FFFFF     (base 16)		BBPOS Limited
-				Suite 1602, Tower 2, Nina Tower, 8 Yeung Uk Road, Tsuen Wan, NT
-				Hong Kong  China  00000
-				HK
-
 68-DA-73   (hex)		Shenzhen Haiyingzhilian Industrial Co., Ltd.
 A00000-AFFFFF     (base 16)		Shenzhen Haiyingzhilian Industrial Co., Ltd.
 				2-5/F? #8FactoryBld?Yu'an Factory Area ?LongchengIndustryPark?Gao feng Community ?Dalang Street ?LonghuaDisrict
@@ -160,12 +148,6 @@ A00000-AFFFFF     (base 16)		Shenzhen Haiyingzhilian Industrial Co., Ltd.
 				No. 815 Shen Fu Road Xinzhuang Industry Park
 				Shanghai    201108
 				CN
-
-D0-16-F0   (hex)		BBPOS Limited
-E00000-EFFFFF     (base 16)		BBPOS Limited
-				Suite 1602, Tower 2, Nina Tower, 8 Yeung Uk Road, Tsuen Wan, NT
-				Hong Kong  China  00000
-				HK
 
 58-C4-1E   (hex)		PQTEL Network Technology Co. , Ltd.
 C00000-CFFFFF     (base 16)		PQTEL Network Technology Co. , Ltd.
@@ -6041,6 +6023,36 @@ C8-98-DB   (hex)		Quantum Co., Ltd.
 				china  Anhui  230000
 				CN
 
+78-39-2D   (hex)		Chengdu Shiketong Technology Co.,Ltd
+200000-2FFFFF     (base 16)		Chengdu Shiketong Technology Co.,Ltd
+				No.10, Floor 5, Unit 2, Building 2, No.85, Wukexi Road, Management Committee, Wuhou District, Chengdu
+				Chengdu    610003
+				CN
+
+D0-16-F0   (hex)		BBPOS Limited
+E00000-EFFFFF     (base 16)		BBPOS Limited
+				15/F., Tower 2, Nina Tower, 8 Yeung Uk Road, Tsuen Wan, NT
+				Hong Kong    00000
+				HK
+
+CC-D3-1E   (hex)		BBPOS Limited
+600000-6FFFFF     (base 16)		BBPOS Limited
+				15/F., Tower 2, Nina Tower, 8 Yeung Uk Road, Tsuen Wan, NT
+				Hong Kong    00000
+				HK
+
+50-48-2C   (hex)		BBPOS Limited
+200000-2FFFFF     (base 16)		BBPOS Limited
+				15/F., Tower 2, Nina Tower, 8 Yeung Uk Road, Tsuen Wan, NT
+				Hong Kong    00000
+				HK
+
+78-39-2D   (hex)		MedRx, Inc
+B00000-BFFFFF     (base 16)		MedRx, Inc
+				1200 Starkey Rd Ste.105
+				Largo  FL  33771
+				US
+
 B8-4C-87   (hex)		Shenzhen Link-all Technology Co., Ltd
 300000-3FFFFF     (base 16)		Shenzhen Link-all Technology Co., Ltd
 				Floor 5th, Block 9th, Sunny Industrial Zone, Xili Town, Nanshan District, Shenzhen, China 
@@ -11687,11 +11699,23 @@ A00000-AFFFFF     (base 16)		Adel System srl
 				Reggio Emilia    42124
 				IT
 
+C8-98-DB   (hex)		Shenzhen Hooolink Technology Co., LTD
+B00000-BFFFFF     (base 16)		Shenzhen Hooolink Technology Co., LTD
+				Building B, Qinghu Science and Technology Park, Longhua District
+				Shenzhen  Guangdong  518110
+				CN
+
 C8-98-DB   (hex)		Shenzhen IBD Intelligence Technology Co,.Ltd.
 400000-4FFFFF     (base 16)		Shenzhen IBD Intelligence Technology Co,.Ltd.
 				2nd Floor, Building 2, Dexin Chang Wisdom Park, No. 23 Heping Road, Longhua Street, Longhua District
 				shenzhen  guangdong  518000
 				CN
+
+78-39-2D   (hex)		Neuron GmbH
+000000-0FFFFF     (base 16)		Neuron GmbH
+				Badenerstrasse 9
+				Brugg    5200
+				CH
 
 C8-98-DB   (hex)		J&R Technology Limited
 700000-7FFFFF     (base 16)		J&R Technology Limited
@@ -11704,12 +11728,6 @@ D00000-DFFFFF     (base 16)		Quilt Systems, Inc
 				1800 Broadway St, Suite 2
 				REDWOOD CITY  CA  94063
 				US
-
-C8-98-DB   (hex)		Shenzhen Hooolink Technology Co., LTD
-B00000-BFFFFF     (base 16)		Shenzhen Hooolink Technology Co., LTD
-				Building B, Qinghu Science and Technology Park, Longhua District
-				Shenzhen  Guangdong  518110
-				CN
 
 B8-4C-87   (hex)		Altronix , Corp
 A00000-AFFFFF     (base 16)		Altronix , Corp
@@ -24017,12 +24035,6 @@ C00000-CFFFFF     (base 16)		Telecam Technology Co.,Ltd
 				Shenzhen    518116
 				CN
 
-10-DC-B6   (hex)		BBPOS Limited
-C00000-CFFFFF     (base 16)		BBPOS Limited
-				Suite 1602, Tower 2, Nina Tower, 8 Yeung Uk Road, Tsuen Wan, NT
-				Hong Kong  China  00000
-				HK
-
 C8-F5-D6   (hex)		BBPOS Limited
 300000-3FFFFF     (base 16)		BBPOS Limited
 				Suite 1602, Tower 2, Nina Tower, 8 Yeung Uk Road, Tsuen Wan, NT
@@ -29959,3 +29971,9 @@ C8-98-DB   (hex)		Shenzhen Kedakeda Technology Co., Ltd.
 				No. 24, 1st Floor, Building 1, 106, West Section of Jinkai Avenue, Yubei District, Chongqing
 				Chongqing  Chongqing  401121
 				CN
+
+10-DC-B6   (hex)		BBPOS Limited
+C00000-CFFFFF     (base 16)		BBPOS Limited
+				15/F., Tower 2, Nina Tower, 8 Yeung Uk Road, Tsuen Wan, NT
+				Hong Kong    00000
+				HK

@@ -13700,6 +13700,18 @@ D96000-D96FFF     (base 16)		Smart Cabling & Transmission Corp.
 				Altavilla Vicentina  Vicenza  36077
 				IT
 
+8C-1F-64   (hex)		Potter Electric Signal Co. LLC
+970000-970FFF     (base 16)		Potter Electric Signal Co. LLC
+				1609 Park 370 Place
+				Hazelwood  MO  63042
+				US
+
+8C-1F-64   (hex)		uHave Control, Inc
+994000-994FFF     (base 16)		uHave Control, Inc
+				241 Perkins StA501
+				Jamaica Plain  MA  02130
+				US
+
 8C-1F-64   (hex)		Vision Systems Safety Tech
 E6F000-E6FFFF     (base 16)		Vision Systems Safety Tech
 				5 Chemin de Chiradie
@@ -27301,6 +27313,12 @@ FC1000-FC1FFF     (base 16)		Nidec asi spa
 				s.s11 , ca sordis 4
 				Montebello Vicentino  vicenza  36054
 				IT
+
+8C-1F-64   (hex)		EA Elektro-Automatik
+96A000-96AFFF     (base 16)		EA Elektro-Automatik
+				Helmholtzstraße 31-37
+				Viersen  Nordrhein-Westfalen  41747
+				DE
 
 8C-1F-64   (hex)		Mobileye
 D63000-D63FFF     (base 16)		Mobileye
