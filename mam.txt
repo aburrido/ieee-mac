@@ -17936,6 +17936,18 @@ C8-98-DB   (hex)		Private
 				Mail box 15123  Haifa  3508409
 				IL
 
+78-39-2D   (hex)		Edgenectar Inc.
+A00000-AFFFFF     (base 16)		Edgenectar Inc.
+				111 N, Market St. #300
+				San Jose  CA  95113
+				US
+
+78-39-2D   (hex)		Annapurna labs
+400000-4FFFFF     (base 16)		Annapurna labs
+				Matam Scientific Industries Center,   Building 8.2
+				Mail box 15123  Haifa  3508409
+				IL
+
 D0-14-11   (hex)		P.B. Elettronica srl
 100000-1FFFFF     (base 16)		P.B. Elettronica srl
 				Via Santorelli, 8
@@ -29972,8 +29984,20 @@ C8-98-DB   (hex)		Shenzhen Kedakeda Technology Co., Ltd.
 				Chongqing  Chongqing  401121
 				CN
 
+78-39-2D   (hex)		Avantree Corporation
+D00000-DFFFFF     (base 16)		Avantree Corporation
+				175 Bernal road Ste 106
+				SAN JOSE  CA  95119-1343
+				US
+
 10-DC-B6   (hex)		BBPOS Limited
 C00000-CFFFFF     (base 16)		BBPOS Limited
 				15/F., Tower 2, Nina Tower, 8 Yeung Uk Road, Tsuen Wan, NT
 				Hong Kong    00000
 				HK
+
+78-39-2D   (hex)		LivEye GmbH
+100000-1FFFFF     (base 16)		LivEye GmbH
+				Europa-Allee 56b
+				Foehren    54343
+				DE
