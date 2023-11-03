@@ -23906,6 +23906,12 @@ EC-9A-0C   (hex)		Jiangsu Maodu Yunke Medical Technology Co., Ltd
 				Swansea  Swansea  SA1 2EN
 				GB
 
+8C-55-70   (hex)		SERNET (SUZHOU) TECHNOLOGIES CORPORATION
+B00000-BFFFFF     (base 16)		SERNET (SUZHOU) TECHNOLOGIES CORPORATION
+				NO.8 Tangzhuang Road,Suzhou Industrial Park,Su ZhouCity,JiangSu Province,China
+				Suzhou    215021
+				CN
+
 C8-5C-E2   (hex)		Fela Management AG 
 000000-0FFFFF     (base 16)		Fela Management AG 
 				Basadingerstrasse 18
@@ -30019,3 +30025,9 @@ C00000-CFFFFF     (base 16)		BBPOS Limited
 				Europa-Allee 56b
 				Foehren    54343
 				DE
+
+78-39-2D   (hex)		Planeta Informática Ltda
+E00000-EFFFFF     (base 16)		Planeta Informática Ltda
+				Av. Dr. Romeu Tórtima, 272
+				Campinas  SP  13084-791
+				BR

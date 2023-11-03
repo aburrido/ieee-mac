@@ -6857,6 +6857,12 @@ F6D000-F6DFFF     (base 16)		Ophir Manufacturing Solutions Pte Ltd
 				Singapore  Singapore  098632
 				SG
 
+8C-1F-64   (hex)		CUU LONG TECHNOLOGY AND TRADING COMPANY LIMITED
+D38000-D38FFF     (base 16)		CUU LONG TECHNOLOGY AND TRADING COMPANY LIMITED
+				Room 54, 5th floor, Charminton La pointe181 Cao Thang noi dai, ward 12district 10
+				Ho Chi Minh  Ho Chi Minh  700000
+				VN
+
 8C-1F-64   (hex)		Jacobs Technology, Inc.
 A98000-A98FFF     (base 16)		Jacobs Technology, Inc.
 				7765 Old Telegraph Road
@@ -13700,6 +13706,12 @@ FAB000-FABFFF     (base 16)		LIAN Corporation
 				Zalaegerszeg  Zala  8900
 				HU
 
+8C-1F-64   (hex)		SHENZHEN PEAKE TECHNOLOGY CO.,LTD.
+868000-868FFF     (base 16)		SHENZHEN PEAKE TECHNOLOGY CO.,LTD.
+				6th floor, Building 2,Cultural and Creative,Industrial Park, Shenzhen Radio, Film and Television Group,No. 1 Qingqing Road,Longhua District
+				Shenzhen    518131
+				CN
+
 8C-1F-64   (hex)		Potter Electric Signal Co. LLC
 970000-970FFF     (base 16)		Potter Electric Signal Co. LLC
 				1609 Park 370 Place
@@ -13717,12 +13729,6 @@ FAB000-FABFFF     (base 16)		LIAN Corporation
 				Vorderi  Boede 2
 				Oberrohrdorf    5452
 				CH
-
-8C-1F-64   (hex)		SHENZHEN PEAKE TECHNOLOGY CO.,LTD.
-868000-868FFF     (base 16)		SHENZHEN PEAKE TECHNOLOGY CO.,LTD.
-				6th floor, Building 2,Cultural and Creative,Industrial Park, Shenzhen Radio, Film and Television Group,No. 1 Qingqing Road,Longhua District
-				Shenzhen    518131
-				CN
 
 8C-1F-64   (hex)		Vision Systems Safety Tech
 E6F000-E6FFFF     (base 16)		Vision Systems Safety Tech
@@ -27320,12 +27326,6 @@ A33000-A33FFF     (base 16)		RT Vision Technologies PVT LTD
 				Durham    97224
 				US
 
-8C-1F-64   (hex)		Nidec asi spa
-FC1000-FC1FFF     (base 16)		Nidec asi spa
-				s.s11 , ca sordis 4
-				Montebello Vicentino  vicenza  36054
-				IT
-
 8C-1F-64   (hex)		EA Elektro-Automatik
 96A000-96AFFF     (base 16)		EA Elektro-Automatik
 				Helmholtzstraße 31-37
@@ -27337,6 +27337,12 @@ FC1000-FC1FFF     (base 16)		Nidec asi spa
 				820 51st street eastBay 2D
 				Saskatoon  Saskatchewan  S7K 0X8
 				CA
+
+8C-1F-64   (hex)		Nidec asi spa
+FC1000-FC1FFF     (base 16)		Nidec asi spa
+				s.s11 , ca sordis 4
+				Montebello Vicentino  vicenza  36054
+				IT
 
 8C-1F-64   (hex)		Mobileye
 D63000-D63FFF     (base 16)		Mobileye
