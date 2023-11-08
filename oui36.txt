@@ -13736,6 +13736,12 @@ D96000-D96FFF     (base 16)		Smart Cabling & Transmission Corp.
 				Oberrohrdorf    5452
 				CH
 
+8C-1F-64   (hex)		Wuxi Zetai Microelectronics Co., LTD
+5E4000-5E4FFF     (base 16)		Wuxi Zetai Microelectronics Co., LTD
+				30th floor, Building A, Building 8, Phase III, Vanke Yuncheng, Lixin Fourth Street, Xili Community, Xili Street, Nanshan District
+				Shenzhen  Guangdong  518000
+				CN
+
 8C-1F-64   (hex)		Harmony Fire Ltd
 081000-081FFF     (base 16)		Harmony Fire Ltd
 				Clarence House, Watercombe Ln, Lynx Trading Estate
@@ -16915,12 +16921,6 @@ D36000-D36FFF     (base 16)		Insitu Inc.
 				Rm 204, 5 B/D, 20 Techno 1-ro, Yuseong-gu
 				Daejeon    34016
 				KR
-
-70-B3-D5   (hex)		hiSky S.C.S LTD
-2E1000-2E1FFF     (base 16)		hiSky S.C.S LTD
-				24 Ammal
-				Rosh Hain    4809268
-				IL
 
 00-1B-C5   (hex)		Private
 0B8000-0B8FFF     (base 16)		Private
@@ -20536,6 +20536,12 @@ A1F000-A1FFFF     (base 16)		Hitachi Energy  India Limited
 				Hauswiesenstr. 26
 				Kaufering  Bayern  86916
 				DE
+
+70-B3-D5   (hex)		hiSky SCS Ltd
+2E1000-2E1FFF     (base 16)		hiSky SCS Ltd
+				24 Ammal
+				Rosh Hain    4809268
+				IL
 
 8C-1F-64   (hex)		Flow Power
 82B000-82BFFF     (base 16)		Flow Power
@@ -27374,6 +27380,12 @@ AF4000-AF4FFF     (base 16)		Nokia Bell Labs
 				Cambridge    CB3 0FA
 				GB
 
+8C-1F-64   (hex)		EL.EN. SPA
+094000-094FFF     (base 16)		EL.EN. SPA
+				VIA BALDANZESE 17
+				CALENZANO  FIRENZE  50041
+				IT
+
 8C-1F-64   (hex)		Mobileye
 D63000-D63FFF     (base 16)		Mobileye
 				13 Hartom st.
@@ -34087,3 +34099,9 @@ B01000-B01FFF     (base 16)		Blue Ocean UG
 				Bruhl 62
 				Leipzig    04109
 				DE
+
+8C-1F-64   (hex)		hiSky SCS Ltd
+C1B000-C1BFFF     (base 16)		hiSky SCS Ltd
+				Haamal 24
+				Rosh Ha'ayin    4809270
+				IL

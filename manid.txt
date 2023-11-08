@@ -70,7 +70,6 @@ MANUFACTURER ID               Organization
 3123                          Humanetics Innovative Solutions, Inc
 14908                         Flintec
 1111                          DPA Microphones A/S
-1103                          LMS
 1100                          Nakamura Mfg.Co.,Ltd
 1099                          ME-Messsysteme GmbH
 98                            Proctor & Chester Measurements Ltd
@@ -92,6 +91,7 @@ MANUFACTURER ID               Organization
 25                            Larson Davis
 33                            RION CO.
 9213                          Beijing ShengAnChuang Acoustic Equipment co.,Ltd
+1103                          Siemens Digital Industries Software 
 12377                         NETLINK ICT 
 5040                          G-SNS GmbH
 6644                          Siemens AG, MO MLT BG

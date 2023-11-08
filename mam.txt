@@ -11747,6 +11747,12 @@ C00000-CFFFFF     (base 16)		Jiangsu Yibang New Energy Technology Co., LTD
 				Montreal  Quebec  H4N 1R6
 				CA
 
+8C-55-70   (hex)		Eideal Company Limited
+700000-7FFFFF     (base 16)		Eideal Company Limited
+				No. 45, Lane 205, Sec. 2, Nanshan Rd., Luzhu Dist.,
+				Taoyuan City    33852
+				TW
+
 B8-4C-87   (hex)		Altronix , Corp
 A00000-AFFFFF     (base 16)		Altronix , Corp
 				140 58th St. Bldg A, Ste 2N
@@ -25829,12 +25835,6 @@ C00000-CFFFFF     (base 16)		Encroute AB
 				Sundbyberg    17402
 				SE
 
-A0-02-4A   (hex)		Vitec Imaging Solutions Spa
-100000-1FFFFF     (base 16)		Vitec Imaging Solutions Spa
-				Via Valsugana 100
-				Cassola  Vicenza  36022
-				IT
-
 A0-02-4A   (hex)		Beijing Lyratone Technology Co., Ltd
 800000-8FFFFF     (base 16)		Beijing Lyratone Technology Co., Ltd
 				1st floor, Caigang building, No.40 Beiyuan Road
@@ -30058,3 +30058,15 @@ C00000-CFFFFF     (base 16)		Antronix Inc.,
 				440 Forsgate Drive 
 				Cranbury  NJ  08512
 				US
+
+8C-55-70   (hex)		EPSa Elektronik & Präzisionsbau Saalfeld GmbH
+D00000-DFFFFF     (base 16)		EPSa Elektronik & Präzisionsbau Saalfeld GmbH
+				Remschuetzer Str. 1
+				Saalfeld/Saale    07318
+				DE
+
+A0-02-4A   (hex)		Videndum Media Solutions Spa
+100000-1FFFFF     (base 16)		Videndum Media Solutions Spa
+				Via Valsugana 100
+				Cassola  Vicenza  36022
+				IT
