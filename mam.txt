@@ -11753,6 +11753,12 @@ C00000-CFFFFF     (base 16)		Jiangsu Yibang New Energy Technology Co., LTD
 				Taoyuan City    33852
 				TW
 
+8C-55-70   (hex)		FBWINN
+A00000-AFFFFF     (base 16)		FBWINN
+				25300 Al Moen Dr
+				North Olmsted    44256
+				US
+
 B8-4C-87   (hex)		Altronix , Corp
 A00000-AFFFFF     (base 16)		Altronix , Corp
 				140 58th St. Bldg A, Ste 2N
@@ -17980,6 +17986,12 @@ A00000-AFFFFF     (base 16)		Edgenectar Inc.
 				Unit 407 Northwest Business Park, Ballycoolin
 				Dublin    D11HD36
 				IE
+
+8C-55-70   (hex)		AST International GmbH
+000000-0FFFFF     (base 16)		AST International GmbH
+				Baerental 26
+				Calw    75365
+				DE
 
 8C-55-70   (hex)		Private
 500000-5FFFFF     (base 16)		Private
@@ -30053,12 +30065,6 @@ D4-61-37   (hex)		Mavenir Systems, Inc.
 				    
 				
 
-8C-55-70   (hex)		Antronix Inc.,
-C00000-CFFFFF     (base 16)		Antronix Inc.,
-				440 Forsgate Drive 
-				Cranbury  NJ  08512
-				US
-
 8C-55-70   (hex)		EPSa Elektronik & Präzisionsbau Saalfeld GmbH
 D00000-DFFFFF     (base 16)		EPSa Elektronik & Präzisionsbau Saalfeld GmbH
 				Remschuetzer Str. 1
@@ -30070,3 +30076,9 @@ A0-02-4A   (hex)		Videndum Media Solutions Spa
 				Via Valsugana 100
 				Cassola  Vicenza  36022
 				IT
+
+8C-55-70   (hex)		Antronix Inc.,
+C00000-CFFFFF     (base 16)		Antronix Inc.,
+				440 Forsgate Drive 
+				Cranbury  NJ  08512
+				US

@@ -6953,6 +6953,8 @@ MA-L,BC37D3,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014
 MA-L,20CC27,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
 MA-L,0C517E,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
 MA-L,0479FD,Ciena Corporation,900 International Drive  Linthicum MD US 21090-2200 
+MA-L,6C8338,Ubihere,4621 Lyman Drive Hilliard OH US 43026 
+MA-L,509893,Texas Instruments,12500 TI Blvd Dallas TX US 75243 
 MA-L,000130,Extreme Networks Headquarters,2121 RDU Center Drive  Morrisville NC US 27560 
 MA-L,FC0A81,Extreme Networks Headquarters,2121 RDU Center Drive  Morrisville NC US 27560 
 MA-L,00749C,"Ruijie Networks Co.,LTD","19# Building,Star-net Science Plaza,Juyuanzhou, 618 Jinshan Road Fuzhou Fujian CN 350002 "
@@ -13842,6 +13844,9 @@ MA-L,8C5570,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554
 MA-L,A0E025,Provision-ISR,Atir Yeda 11 Kfar Saba  IL 4464310 
 MA-L,9C2472,Sagemcom Broadband SAS,"250, route de l'Empereur Rueil Malmaison Cedex hauts de seine FR 92848 "
 MA-L,808544,Intelbras,"BR 101, km 210, S/N° São José Santa Catarina BR 88104800 "
+MA-L,8C0879,Texas Instruments,12500 TI Blvd Dallas TX US 75243 
+MA-L,6823B0,Texas Instruments,12500 TI Blvd Dallas TX US 75243 
+MA-L,78CD55,Texas Instruments,12500 TI Blvd Dallas TX US 75243 
 MA-L,6C8720,"New H3C Technologies Co., Ltd","466 Changhe Road, Binjiang District Hangzhou Zhejiang CN 310052 "
 MA-L,0C8D7A,RADiflow,HaBarzel St 38 Tel-Aviv  IL 6971054 
 MA-L,FCA9F5,Xiaomi Communications Co Ltd,"#019, 9th Floor, Building 6, 33 Xi'erqi Middle Road Beijing Haidian District CN 100085 "
@@ -20764,16 +20769,18 @@ MA-L,54104F,"Samsung Electronics Co.,Ltd","#94-1, Imsoo-Dong Gumi Gyeongbuk KR 7
 MA-L,B05476,"Samsung Electronics Co.,Ltd","#94-1, Imsoo-Dong Gumi Gyeongbuk KR 730-350 "
 MA-L,74CA60,"Sonos, Inc.",614 Chapala Street Santa Barbara CA US 93101 
 MA-L,8C26AA,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
-MA-L,90623F,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
-MA-L,A8BB56,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
-MA-L,282D7F,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
 MA-L,30D959,"Shanghai Longcheer Technology Co., Ltd.","Bldg 1,No.401,Caobao RD,Xuhui Dist Shanghai  CN 200233 "
 MA-L,007839,Nokia,600 March Road Kanata Ontario CA K2K 2E6 
 MA-L,108A7B,Nokia,600 March Road Kanata Ontario CA K2K 2E6 
-MA-L,5C07A4,Ciena Corporation,900 International Drive  Linthicum MD US 21090-2200 
-MA-L,6C6F18,"Stereotaxis, Inc.","710 N. Tucker Blvd, Suite 110 St. Louis MO US 63101 "
+MA-L,A052AB,AVM ELECTRONICS PTE LTD,"362, UPPER PAYA LEBAR ROAD, #05-07 Da Jin Factory Building Singapore Singapore SG 534963 "
+MA-L,90623F,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
+MA-L,A8BB56,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
+MA-L,282D7F,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
 MA-L,F0866F,EM Microelectronic,Rue des Sors 3 Marin-Epagnier Neuchatel CH 2074 
 MA-L,5CB260,EM Microelectronic,Rue des Sors 3 Marin-Epagnier Neuchatel CH 2074 
+MA-L,5C07A4,Ciena Corporation,900 International Drive  Linthicum MD US 21090-2200 
+MA-L,6C6F18,"Stereotaxis, Inc.","710 N. Tucker Blvd, Suite 110 St. Louis MO US 63101 "
+MA-L,BC744B,"Nintendo Co.,Ltd","11-1 HOKOTATE-CHO KAMITOBA,MINAMI-KU KYOTO KYOTO JP 601-8501 "
 MA-L,B00C9D,"Quectel Wireless Solutions Co.,Ltd.","7th Floor, Hongye Building, No.1801 Hongmei Road, Xuhui District Shanghai  CN 200233 "
 MA-L,F0AB1F,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
 MA-L,7CB30A,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
@@ -27732,6 +27739,11 @@ MA-L,D03E07,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014
 MA-L,50B127,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
 MA-L,C81072,BBPOS Limited,"15/F., Tower 2, Nina Tower, 8 Yeung Uk Road, Tsuen Wan, NT Hong Kong  HK 00000 "
 MA-L,0CA138,BLiNQ Networks Inc.,200-140 Renfrew Drive Markham Ontario CA L3R 6B3 
+MA-L,6833EE,"ARRIS Group, Inc.",6450 Sequence Drive San Diego CA US 92121 
+MA-L,C06380,Texas Instruments,12500 TI Blvd Dallas TX US 75243 
+MA-L,F8FB90,Texas Instruments,12500 TI Blvd Dallas TX US 75243 
+MA-L,446B1F,Texas Instruments,12500 TI Blvd Dallas TX US 75243 
+MA-L,F010A5,Texas Instruments,12500 TI Blvd Dallas TX US 75243 
 MA-L,C85CE2,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
 MA-L,DCEE14,ADT Technology,"Room 325, 3rd Floor, Building F, Xinmao Science and Technology Park, Huayuan Industrial Zone Tianjin Tianjin CN 300384 "
 MA-L,E84A54,"Beijing Xiaomi Mobile Software Co., Ltd","The Rainbow City Office Building, 68 Qinghe Middle Street Haidian District Beijing Beijing CN 100085 "
@@ -34668,9 +34680,10 @@ MA-L,98D7E1,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568
 MA-L,F83918,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
 MA-L,84B1E2,Microsoft Corporation,One Microsoft Way REDMOND WA US 98052 
 MA-L,F84288,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
-MA-L,88B7EB,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
-MA-L,10A2D3,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
+MA-L,FC34E2,"Shenzhen YOUHUA Technology Co., Ltd	","Room 407 Shenzhen University-town Business Park,Lishan Road,Taoyuan Street,Nanshan District Shenzhen Guangdong CN 518055 "
 MA-L,600F6B,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
 MA-L,4C97CC,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
+MA-L,88B7EB,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
+MA-L,10A2D3,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
+MA-L,48849D,Texas Instruments,12500 TI Blvd Dallas TX US 75243 
 MA-L,34EE16,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
-MA-L,FC34E2,"Shenzhen YOUHUA Technology Co., Ltd	","Room 407 Shenzhen University-town Business Park,Lishan Road,Taoyuan Street,Nanshan District Shenzhen Guangdong CN 518055 "
