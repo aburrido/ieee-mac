@@ -6059,6 +6059,12 @@ B00000-BFFFFF     (base 16)		MedRx, Inc
 				New Taipei City 235  Taipei  235
 				TW
 
+8C-55-70   (hex)		Nayax LTD
+800000-8FFFFF     (base 16)		Nayax LTD
+				3 Arik Einstein 
+				Herzliya     4659071
+				IL
+
 B8-4C-87   (hex)		Shenzhen Link-all Technology Co., Ltd
 300000-3FFFFF     (base 16)		Shenzhen Link-all Technology Co., Ltd
 				Floor 5th, Block 9th, Sunny Industrial Zone, Xili Town, Nanshan District, Shenzhen, China 
@@ -11753,11 +11759,23 @@ C00000-CFFFFF     (base 16)		Jiangsu Yibang New Energy Technology Co., LTD
 				Taoyuan City    33852
 				TW
 
-8C-55-70   (hex)		FBWINN
-A00000-AFFFFF     (base 16)		FBWINN
-				25300 Al Moen Dr
-				North Olmsted    44256
+8C-55-70   (hex)		Fortune Brands Innovations, Inc.
+A00000-AFFFFF     (base 16)		Fortune Brands Innovations, Inc.
+				520 Lake Cook Rd
+				Deerfield  IL  60015
 				US
+
+8C-55-70   (hex)		ScandiNova Systems
+300000-3FFFFF     (base 16)		ScandiNova Systems
+				Typsnittsgatan 15
+				Uppsala    75454
+				SE
+
+8C-55-70   (hex)		LLC Katusha Print
+100000-1FFFFF     (base 16)		LLC Katusha Print
+				Timiryazeva 28V
+				Almaty    050000
+				KZ
 
 B8-4C-87   (hex)		Altronix , Corp
 A00000-AFFFFF     (base 16)		Altronix , Corp
@@ -17996,6 +18014,12 @@ A00000-AFFFFF     (base 16)		Edgenectar Inc.
 8C-55-70   (hex)		Private
 500000-5FFFFF     (base 16)		Private
 
+8C-55-70   (hex)		Microvision Inc
+200000-2FFFFF     (base 16)		Microvision Inc
+				18390 NE 68th Street
+				Redmond  WA  98052
+				US
+
 D0-14-11   (hex)		P.B. Elettronica srl
 100000-1FFFFF     (base 16)		P.B. Elettronica srl
 				Via Santorelli, 8
@@ -23946,6 +23970,12 @@ EC-9A-0C   (hex)		Jiangsu Maodu Yunke Medical Technology Co., Ltd
 B00000-BFFFFF     (base 16)		SERNET (SUZHOU) TECHNOLOGIES CORPORATION
 				NO.8 Tangzhuang Road,Suzhou Industrial Park,Su ZhouCity,JiangSu Province,China
 				Suzhou    215021
+				CN
+
+8C-55-70   (hex)		Next Vision Tech(Ningbo)Co.,LTD
+400000-4FFFFF     (base 16)		Next Vision Tech(Ningbo)Co.,LTD
+				Room 1502, Building 1, Tsinghua Science and TechnologyPark, No. 119 Zicheng Road, Panhuo Street, Yinzhou District, Ningbo
+				Ningbo    513100
 				CN
 
 B8-4C-87   (hex)		Private
