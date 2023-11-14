@@ -6863,6 +6863,12 @@ D38000-D38FFF     (base 16)		CUU LONG TECHNOLOGY AND TRADING COMPANY LIMITED
 				Ho Chi Minh  Ho Chi Minh  700000
 				VN
 
+8C-1F-64   (hex)		Code Blue Corporation 
+141000-141FFF     (base 16)		Code Blue Corporation 
+				259 Hedcor Street
+				Holland  MI  49423
+				US
+
 8C-1F-64   (hex)		SurveyorLabs LLC
 FA6000-FA6FFF     (base 16)		SurveyorLabs LLC
 				905 George St #1044
@@ -34148,6 +34154,12 @@ CB9000-CB9FFF     (base 16)		iC-Haus GmbH
 				Bodenheim  Rhineland-Palatinate  55294
 				DE
 
+8C-1F-64   (hex)		ODYSSEE-SYSTEMES
+5E6000-5E6FFF     (base 16)		ODYSSEE-SYSTEMES
+				840 ROUTE DE LA ROQUETTE
+				MOUANS-SARTOUX    06370
+				FR
+
 8C-1F-64   (hex)		MEDIASCOPE Inc.
 673000-673FFF     (base 16)		MEDIASCOPE Inc.
 				514, 11-41, Simin-daero 327beon-gil, Dongan-gu
@@ -34160,8 +34172,8 @@ CB9000-CB9FFF     (base 16)		iC-Haus GmbH
 				GOSSSELIES    6041
 				BE
 
-8C-1F-64   (hex)		ODYSSEE-SYSTEMES
-5E6000-5E6FFF     (base 16)		ODYSSEE-SYSTEMES
-				840 ROUTE DE LA ROQUETTE
-				MOUANS-SARTOUX    06370
-				FR
+8C-1F-64   (hex)		SUS Corporation
+65B000-65BFFF     (base 16)		SUS Corporation
+				6F, S-patio Bldg. 14-25 Minami-cho, Suruga-ku,
+				Shizuoka city,  Shizuoka  422-8067
+				JP
