@@ -27422,6 +27422,18 @@ AF4000-AF4FFF     (base 16)		Nokia Bell Labs
 				CALENZANO  FIRENZE  50041
 				IT
 
+8C-1F-64   (hex)		Fracarro Radioindustrie Srl
+170000-170FFF     (base 16)		Fracarro Radioindustrie Srl
+				Via Cazzaro 3
+				Castelfranco Veneto  Treviso  31033
+				IT
+
+8C-1F-64   (hex)		E2 Nova Corporation
+2CE000-2CEFFF     (base 16)		E2 Nova Corporation
+				5F, 316, Sec. 1 Neihu Rd., Neihu Dist. 
+				Taipei  Taipei  114
+				TW
+
 8C-1F-64   (hex)		Mobileye
 D63000-D63FFF     (base 16)		Mobileye
 				13 Hartom st.
@@ -34177,3 +34189,9 @@ CB9000-CB9FFF     (base 16)		iC-Haus GmbH
 				6F, S-patio Bldg. 14-25 Minami-cho, Suruga-ku,
 				Shizuoka city,  Shizuoka  422-8067
 				JP
+
+8C-1F-64   (hex)		QUALSEN(GUANGZHOU)TECHNOLOGIES CO.,LTD
+496000-496FFF     (base 16)		QUALSEN(GUANGZHOU)TECHNOLOGIES CO.,LTD
+				Room 303, Building C1, No. 182, Science Avenue, Huangpu District
+				Guangzhou    510663
+				CN
