@@ -6065,6 +6065,12 @@ B00000-BFFFFF     (base 16)		MedRx, Inc
 				Herzliya     4659071
 				IL
 
+28-F8-C6   (hex)		3PI Tech Solutions
+B00000-BFFFFF     (base 16)		3PI Tech Solutions
+				5600 River Rd, Suite 800
+				Rosemont  IL  60018
+				US
+
 B8-4C-87   (hex)		Shenzhen Link-all Technology Co., Ltd
 300000-3FFFFF     (base 16)		Shenzhen Link-all Technology Co., Ltd
 				Floor 5th, Block 9th, Sunny Industrial Zone, Xili Town, Nanshan District, Shenzhen, China 
@@ -11782,6 +11788,12 @@ E00000-EFFFFF     (base 16)		Johnson Health Tech. (Shanghai) Co.,Ltd.
 				Timiryazeva 28V
 				Almaty    050000
 				KZ
+
+28-F8-C6   (hex)		2iC-Care Ltd
+000000-0FFFFF     (base 16)		2iC-Care Ltd
+				20 Mortlake High Street
+				London    SW14 8JN
+				GB
 
 B8-4C-87   (hex)		Altronix , Corp
 A00000-AFFFFF     (base 16)		Altronix , Corp
@@ -18026,6 +18038,12 @@ A00000-AFFFFF     (base 16)		Edgenectar Inc.
 				Redmond  WA  98052
 				US
 
+28-F8-C6   (hex)		Annapurna labs
+C00000-CFFFFF     (base 16)		Annapurna labs
+				Matam Scientific Industries Center,   Building 8.2
+				Mail box 15123  Haifa  3508409
+				IL
+
 D0-14-11   (hex)		P.B. Elettronica srl
 100000-1FFFFF     (base 16)		P.B. Elettronica srl
 				Via Santorelli, 8
@@ -23989,6 +24007,12 @@ D00000-DFFFFF     (base 16)		ShenZhen Goodtimes Technoogy CO.,LTD
 				10A, ShuiSong Building, TaiRan Science Park, No. 25, TaiRan 8th Rd, Tian'An Community, ShaTou Street, Futian District, Shenzhen.
 				Shenzhen  Guangdong  518000
 				CN
+
+28-F8-C6   (hex)		PANASONIC AUTOMOTIVE SYSTEM MALAYSIA
+300000-3FFFFF     (base 16)		PANASONIC AUTOMOTIVE SYSTEM MALAYSIA
+				PLOT 10, PHASE 4PRAI INDUSTRAIL ESTATE
+				PRAI  PENANG  13600
+				MY
 
 B8-4C-87   (hex)		Private
 E00000-EFFFFF     (base 16)		Private

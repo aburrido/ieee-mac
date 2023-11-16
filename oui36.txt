@@ -6875,6 +6875,12 @@ FA6000-FA6FFF     (base 16)		SurveyorLabs LLC
 				De Pere  WI  54115
 				US
 
+8C-1F-64   (hex)		Deviceworx Technologies Inc.
+39B000-39BFFF     (base 16)		Deviceworx Technologies Inc.
+				237 Morland Road
+				Comox  British Columbia  V9M 3W2
+				CA
+
 8C-1F-64   (hex)		Jacobs Technology, Inc.
 A98000-A98FFF     (base 16)		Jacobs Technology, Inc.
 				7765 Old Telegraph Road
@@ -20579,6 +20585,12 @@ AF8000-AF8FFF     (base 16)		Power Electronics Espana, S.L.
 				Paterna  Valencia  46980
 				ES
 
+8C-1F-64   (hex)		Zeus Product Design Ltd
+913000-913FFF     (base 16)		Zeus Product Design Ltd
+				49 The Drive
+				Rickmansworth  Herts  WD3 4EA
+				GB
+
 8C-1F-64   (hex)		Flow Power
 82B000-82BFFF     (base 16)		Flow Power
 				Suite 2, Level 3, 18 - 20 York St
@@ -34195,3 +34207,9 @@ CB9000-CB9FFF     (base 16)		iC-Haus GmbH
 				Room 303, Building C1, No. 182, Science Avenue, Huangpu District
 				Guangzhou    510663
 				CN
+
+8C-1F-64   (hex)		REO AG
+BE3000-BE3FFF     (base 16)		REO AG
+				Brühlerstr. 100
+				Solingen    42657
+				DE
