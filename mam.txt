@@ -11831,11 +11831,11 @@ E00000-EFFFFF     (base 16)		Johnson Health Tech. (Shanghai) Co.,Ltd.
 				London    SW14 8JN
 				GB
 
-28-F8-C6   (hex)		secuever
-900000-9FFFFF     (base 16)		secuever
-				10, Baekjegobun-ro 9-gil, Songpa-gu
-				Seoul    05562
-				KR
+28-F8-C6   (hex)		COMEM SpA
+E00000-EFFFFF     (base 16)		COMEM SpA
+				S.R. 11, Signolo 22
+				Montebello Vicentino (VI)  Italy  36054 
+				IT
 
 28-F8-C6   (hex)		Shenzhen Xifanlina Industrial Co.,Ltd
 800000-8FFFFF     (base 16)		Shenzhen Xifanlina Industrial Co.,Ltd
@@ -11843,11 +11843,11 @@ E00000-EFFFFF     (base 16)		Johnson Health Tech. (Shanghai) Co.,Ltd.
 				Shenzhen    518000
 				CN
 
-28-F8-C6   (hex)		COMEM SpA
-E00000-EFFFFF     (base 16)		COMEM SpA
-				S.R. 11, Signolo 22
-				Montebello Vicentino (VI)  Italy  36054 
-				IT
+28-F8-C6   (hex)		secuever
+900000-9FFFFF     (base 16)		secuever
+				10, Baekjegobun-ro 9-gil, Songpa-gu
+				Seoul    05562
+				KR
 
 B8-4C-87   (hex)		Altronix , Corp
 A00000-AFFFFF     (base 16)		Altronix , Corp
@@ -18097,6 +18097,12 @@ C00000-CFFFFF     (base 16)		Annapurna labs
 				Matam Scientific Industries Center,   Building 8.2
 				Mail box 15123  Haifa  3508409
 				IL
+
+E8-FF-1E   (hex)		Melisono AB
+B00000-BFFFFF     (base 16)		Melisono AB
+				Kyrkogatan 17
+				Lund    22222
+				SE
 
 D0-14-11   (hex)		P.B. Elettronica srl
 100000-1FFFFF     (base 16)		P.B. Elettronica srl
@@ -30220,3 +30226,9 @@ C00000-CFFFFF     (base 16)		Antronix Inc.,
 				Inselkammerstr. 10
 				Unterhaching    82008
 				DE
+
+E8-FF-1E   (hex)		Partizan Security s.r.o.
+600000-6FFFFF     (base 16)		Partizan Security s.r.o.
+				Kresomyslova 384/17, Nusle
+				Prague    14000
+				CZ
