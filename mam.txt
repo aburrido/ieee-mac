@@ -6119,6 +6119,15 @@ E8-FF-1E   (hex)		Annapurna labs
 				Mail box 15123  Haifa  3508409
 				IL
 
+E8-FF-1E   (hex)		Private
+000000-0FFFFF     (base 16)		Private
+
+E8-FF-1E   (hex)		Geotab Inc.
+A00000-AFFFFF     (base 16)		Geotab Inc.
+				2440 Winston Park Drive
+				Oakville  Ontario  L6H 7V2
+				CA
+
 B8-4C-87   (hex)		Shenzhen Link-all Technology Co., Ltd
 300000-3FFFFF     (base 16)		Shenzhen Link-all Technology Co., Ltd
 				Floor 5th, Block 9th, Sunny Industrial Zone, Xili Town, Nanshan District, Shenzhen, China 
@@ -11872,6 +11881,12 @@ E8-FF-1E   (hex)		LLP NIC FORS
 				Egizbaev street, 13 office 83
 				Almaty  Select State  050046
 				KZ
+
+E8-FF-1E   (hex)		Fracarro Radioindustrie Srl
+C00000-CFFFFF     (base 16)		Fracarro Radioindustrie Srl
+				Via Cazzaro 3
+				Castelfranco Veneto  Treviso  31033
+				IT
 
 B8-4C-87   (hex)		Altronix , Corp
 A00000-AFFFFF     (base 16)		Altronix , Corp
@@ -24109,12 +24124,6 @@ D00000-DFFFFF     (base 16)		ShenZhen Goodtimes Technoogy CO.,LTD
 				Tower A, Hongdian Building, 100 Huabao Road, Pinghu, Longgang District
 				shenzhen  guangdong  518111
 				CN
-
-E8-FF-1E   (hex)		CAME UK
-200000-2FFFFF     (base 16)		CAME UK
-				Willow Farm Business Park, 1B Sills Rd, Castle Donington, Derby DE74 2US
-				Castle Donington  West Midlands  DE74 2US
-				GB
 
 E8-FF-1E   (hex)		Shenzhen Justinfo Technology Co.,Ltd
 900000-9FFFFF     (base 16)		Shenzhen Justinfo Technology Co.,Ltd

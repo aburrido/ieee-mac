@@ -22,9 +22,9 @@ MANUFACTURER ID               Organization
 54                            imc MeBsysteme GmbH
 37                            Lebow
 42                            Transducer Techniques
-47                            LEM
 22                            Endevco Corporation
 34                            Esensors
+47                            LEM INTERNATIONAL SA
 7857                          X-SENSORS AG
 8163                          Scati Labs, S.A.
 14599                         Delta Computers LLC.
