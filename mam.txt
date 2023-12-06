@@ -30313,3 +30313,9 @@ E8-FF-1E   (hex)		hard & softWERK GmbH
 				Bahnhofstraße 10
 				St. Georgen    78112
 				DE
+
+8C-A6-82   (hex)		AI SECURITY Co.Ltd.
+000000-0FFFFF     (base 16)		AI SECURITY Co.Ltd.
+				6F,3-9-2,Nishishinjuku,Shinjuku,Tokyo,Japan
+				Nishishinjuku  Select State  160-0023
+				JP
