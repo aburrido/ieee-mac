@@ -1039,10 +1039,10 @@ MA-M,E8FF1E4,"HMN Technologies Co., Ltd","5/F, A2 Tower, China-Singapore Ecocity
 MA-M,E8FF1ED,"Shenzhen AZW Technology Co., Ltd.","7th floor, Block C, Building 8, Hengda Shishang Huigu, Fulong Road, Dalang Street, Longhua District shenzhen guangdong CN 518000 "
 MA-M,28F8C65,Sarco Equipments PVT. LTD.,"10/1, Esplanade, Princep St, Chowringhee North, Bow Barracks, Kolkata, West Bengal 700072 Kolkata West Bengal IN 700072 "
 MA-M,E8FF1E8,Annapurna labs,"Matam Scientific Industries Center,   Building 8.2 Mail box 15123 Haifa IL 3508409 "
-MA-M,E8FF1E0,Private,
-MA-M,E8FF1EA,Geotab Inc.,2440 Winston Park Drive Oakville Ontario CA L6H 7V2 
-MA-M,E8FF1EE,"Shenzhen kstar Science & Technology Co., Ltd","KSTAR Industrial Park,Guangming Hi-tech Industrial Zone, Shenzhen Guangdong CN 518000 "
 MA-M,8CA6825,"Qstar Technology Co,Ltd","B412, Bao 'an Bay Intelligent Innovation Park, No. 24, Lane 1, Xin 'an Third Road, Bao 'an District, Shenzhen City, Guangdong Province, China Shenzhen Guangdong Province CN 518100 "
+MA-M,E8FF1E0,Private,
+MA-M,E8FF1EE,"Shenzhen kstar Science & Technology Co., Ltd","KSTAR Industrial Park,Guangming Hi-tech Industrial Zone, Shenzhen Guangdong CN 518000 "
+MA-M,E8FF1EA,Geotab Inc.,2440 Winston Park Drive Oakville Ontario CA L6H 7V2 
 MA-M,B84C873,"Shenzhen Link-all Technology Co., Ltd","Floor 5th, Block 9th, Sunny Industrial Zone, Xili Town, Nanshan District, Shenzhen, China  Shenzhen Guangdong CN 518108 "
 MA-M,B84C87C,SOND,"1295 Beacon St, Unit #899 Brookline  US 02446 "
 MA-M,B84C87B,"Beijing Yunji Technology Co., Ltd.","Floor 7?Hailong Mansion?No.1 Zhongguancun Avenue,Haidian District,Beijing Beijing  CN 100080 "
@@ -2647,7 +2647,6 @@ MA-M,8489ECA,Newell Brands,221 River Street Hoboken NJ US 07030
 MA-M,8489ECB,EPSa Elektronik & Präzisionsbau Saalfeld GmbH,Remschuetzer Str. 1 Saalfeld/Saale  DE 07318 
 MA-M,9CF6DD3,"RYEEX Technology Co.,Ltd.","RM106,Joinin Hub,Builing J District 71,Construction Industrial Park,Xin'an Street,Bao'an, Shenzhen,China SHENZHEN GUANGDONG CN 518101 "
 MA-M,9CF6DDC,"Lighting New Energy Technology Co., Ltd.","Room 402, Building 22, Chentian Industrial Zone, Xixiang Street, Bao'an District, Shenzhen Guangdong CN 518100 "
-MA-M,C08359E,"Cyber Sciences, Inc.","229 Castlewood Dr, Suite E Murfreesboro TN US 37129 "
 MA-M,C083592,Huaxin SM Optics Co. LTD.,"5F,B8,Tianfu software Park,Tianfu Road Chengdu Sichuan CN 610041 "
 MA-M,C083599,"Shenzhen Pay Device Technology Co., Ltd.","Room 502,Peng’s Building,Fanshen Road,43# Baoan District Shenzhen Guangdong CN 518101 "
 MA-M,04C3E6B,Flintec UK Ltd.,"W4/5 Capital Point, Wentloog Avenue Cardiff Cardiff GB CF3 2PW "
@@ -3085,6 +3084,8 @@ MA-M,8C55705,Private,
 MA-M,8C55702,Microvision Inc,18390 NE 68th Street Redmond WA US 98052 
 MA-M,28F8C6C,Annapurna labs,"Matam Scientific Industries Center,   Building 8.2 Mail box 15123 Haifa IL 3508409 "
 MA-M,E8FF1EB,Melisono AB,Kyrkogatan 17 Lund  SE 22222 
+MA-M,C08359E,"Trystar, LLC","229 Castlewood Dr, Suite E Murfreesboro TN US 37129 "
+MA-M,8CA6821,FightCamp,936 W. 17th Street Costa Mesa CA US 92627 
 MA-M,D014111,P.B. Elettronica srl,"Via Santorelli, 8 Grugliasco Torino IT 10095 "
 MA-M,B84C876,"HORIBA Precision Instruments (Beijing) Co.,Ltd","Building 1, No.3 Xixing Road, Houshayu Town, Shunyi District, Beijing, China Beijing Shunyi CN 101318 "
 MA-M,C022F13,Spectra Technologies India Private Limited,"8/33-C, FF, SF, Kirti Nagar Industrial Area, New Delhi New Delhi Delhi IN 110015 "
