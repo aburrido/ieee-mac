@@ -11924,17 +11924,17 @@ D00000-DFFFFF     (base 16)		EFit partners
 				Bruxelles  Bruxelles-Capitale  1000
 				BE
 
-8C-A6-82   (hex)		Lion Energy
-200000-2FFFFF     (base 16)		Lion Energy
-				735 S Auto Mall Dr, STE#200
-				AMERICAN FORK  UT  84003
-				US
-
 8C-A6-82   (hex)		Wuhan Canpoint Education&Technology Co.,Ltd
 700000-7FFFFF     (base 16)		Wuhan Canpoint Education&Technology Co.,Ltd
 				9F, buding A, The modern world trade center of Optics Valley, No.70, Guanggu avenue,Jiangxia District, Wuhan city
 				Wuhan  Hubei  430070
 				CN
+
+8C-A6-82   (hex)		Lion Energy
+200000-2FFFFF     (base 16)		Lion Energy
+				735 S Auto Mall Dr, STE#200
+				AMERICAN FORK  UT  84003
+				US
 
 B8-4C-87   (hex)		Altronix , Corp
 A00000-AFFFFF     (base 16)		Altronix , Corp
@@ -30356,12 +30356,6 @@ E8-FF-1E   (hex)		hard & softWERK GmbH
 				St. Georgen    78112
 				DE
 
-8C-A6-82   (hex)		AI SECURITY Co.Ltd.
-000000-0FFFFF     (base 16)		AI SECURITY Co.Ltd.
-				6F,3-9-2,Nishishinjuku,Shinjuku,Tokyo,Japan
-				Nishishinjuku  Select State  160-0023
-				JP
-
 8C-A6-82   (hex)		Barkodes Bilgisayar Sistemleri Bilgi Iletisim ve Y
 900000-9FFFFF     (base 16)		Barkodes Bilgisayar Sistemleri Bilgi Iletisim ve Y
 				Cevizli Mahallesi, Nedret Sokak, No: 4, Barkodes Plaza, Maltepe
@@ -30379,3 +30373,9 @@ E8-FF-1E   (hex)		hard & softWERK GmbH
 				No.333 Fengcun Road, Fengxian District Shanghai China.
 				ShangHai  ShangHai  201414
 				CN
+
+8C-A6-82   (hex)		AI SECURITY Co.Ltd.
+000000-0FFFFF     (base 16)		AI SECURITY Co.Ltd.
+				6F,3-9-2,Nishishinjuku,Shinjuku,Tokyo,Japan
+				Nishishinjuku  Select State  160-0023
+				JP
