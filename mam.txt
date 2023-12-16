@@ -24227,6 +24227,18 @@ C00000-CFFFFF     (base 16)		Netskope
 				Santa Clara  CA  95054
 				US
 
+D0-A0-11   (hex)		Wuhan Tabebuia Technology Co.Ltd
+A00000-AFFFFF     (base 16)		Wuhan Tabebuia Technology Co.Ltd
+				404, Block A, Building 1, Wuhan Great Wall Innovation and Technology Park, Tangxunhu North Road, East Lake New Technology Development Zone, Wuhan
+				Wuhan  Hubei  430073
+				CN
+
+D0-A0-11   (hex)		OCEM Energy Technology
+600000-6FFFFF     (base 16)		OCEM Energy Technology
+				Via Della Solidarietà 2/1
+				Bologna  Bologna  40056
+				IT
+
 B8-4C-87   (hex)		Private
 E00000-EFFFFF     (base 16)		Private
 

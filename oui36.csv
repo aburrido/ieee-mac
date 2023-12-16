@@ -139,7 +139,6 @@ MA-S,8C1F64365,"VECTOR TECHNOLOGIES, LLC","Razdolnaya str, 76bldg3 Orel Orel reg
 MA-S,8C1F64CF7,BusPas,"615 Rene Levesque West
 Suite 500 Montreal Quebec CA H3B 1P5 "
 MA-S,8C1F64179,Agrowtek Inc.,3365 Gateway Rd Brookfield WI US 53045 
-MA-S,8C1F64C35,Peter Huber Kaeltemaschinenbau AG,Werner-von-Siemens-Str. 1 Offenburg Ba-Wue DE 77656 
 MA-S,8C1F64F43,wtec GmbH,Dornbachstrasse 1a Bad Homburg  DE 61352 
 MA-S,8C1F64692,Nexilis Electronics India Pvt Ltd (PICSYS),"Plot No.23,DITPL Industrial Area,Bashettihalli,Doddaballapura Bangalore Karnataka IN 561203 "
 MA-S,8C1F642C5,SYSN,"the third floor, 26, Namsan-ro 39beon-gil, Uichang-gu Changwon-si, Gyeongsangnam-do, Republic of Korea  KR 51368 "
@@ -592,7 +591,6 @@ MA-S,70B3D5E47,DEUTA-WERKE GmbH,Paffrather Str. 140 Bergisch Gladbach North Rhin
 MA-S,70B3D52ED,Signals and systems india pvt ltd,"15/D-19, 3rd Main Road, SIPCOT IT PARK, SIRUSERI, OMR CHENNAI TAMIL NADU IN 603103 "
 MA-S,70B3D5D28,"Toshiba Electron Tubes & Devices Co., Ltd.","1385, Shimoishigami Otawara-shi Tochigi JP 324-8550 "
 MA-S,70B3D5AA9,Datamars SA,Via Industria 16 Lamone  CH 6814 
-MA-S,70B3D508B,Peter Huber Kaeltemaschinenbau AG,Werner-von-Siemens-Str. 1 Offenburg Ba-Wue DE 77656 
 MA-S,70B3D54D2,Biotage Sweden AB,Vimpelgatan 5 Uppsala  SE 753 18 
 MA-S,70B3D5008,ESYSE GmbH Embedded Systems Engineering,Ruth-Niehaus Str. 8 Meerbusch Nordrhein-Westfalen DE 40667 
 MA-S,70B3D527C,"MOTION LIB,Inc.","Saiwai-ku ,Shinkawasaki 7-7-237 Kawasaki City Kanagawa JP 212-0032 "
@@ -1177,6 +1175,8 @@ MA-S,8C1F64342,TimeMachines Inc.,"300 S 68th Street Place, Suite 100 Lincoln NE 
 MA-S,8C1F64DA5,DAOM,"365, Sinseon-ro, Nam-gu, Busan, 48548, Rep. of KOREA Busan  KR 48548 "
 MA-S,8C1F64F92,Vision Systems Safety Tech,5 Chemin de Chiradie Brignais  FR 69530 
 MA-S,8C1F642A6,Radiation Solutions Inc.,5875 Whittle Road Mississauga Ontario CA L4Z 2H4 
+MA-S,70B3D508B,Peter Huber Kaeltemaschinenbau SE,Werner-von-Siemens-Str. 1 Offenburg Ba-Wue DE 77656 
+MA-S,8C1F64C35,Peter Huber Kaeltemaschinenbau SE,Werner-von-Siemens-Str. 1 Offenburg Ba-Wue DE 77656 
 MA-S,8C1F64A98,"Jacobs Technology, Inc.",7765 Old Telegraph Road Severn MD US 21144 
 MA-S,8C1F644A9,Martec Marine S.p.a.,Via dell'industria 1/3 Vignate Milano IT 20052 
 MA-S,8C1F64DE5,Gogo Business Aviation,"105 Edgeview Dr., Suite 300 Broomfield CO US 80021 "
@@ -2623,7 +2623,6 @@ MA-S,8C1F6495A,"Shenzhen Longyun Lighting Electric Appliances Co., Ltd","Buildin
 MA-S,8C1F64219,"Guangzhou Desam Audio Co.,Ltd","101,Building 1,No.28,Wenqiao Rd,Wenbian Village,Shiji Town,Panyu District,Duangzhou Duangzhou  CN 511400 "
 MA-S,8C1F6490E,Xacti Corporation,"Tower East 28F,Umeda Sky Building,1-1-88,Oyodonaka,Kita-ku Osaka Osaka JP 531-6048 "
 MA-S,70B3D5C0C,Tech4Race,1137 A avenue des champs blancs Cesson-Sévigné  FR 35510 
-MA-S,8C1F64DC9,Peter Huber Kaeltemaschinenbau AG,Werner-von-Siemens-Str. 1 Offenburg Ba-Wue DE 77656 
 MA-S,8C1F64712,Nexion Data Systems P/L,"Unit 1, 53 Boyland Avenue Coopers Plains Queensland AU 4108 "
 MA-S,8C1F6473D,NewAgeMicro,"171 Forbes Blvd, Suite 5000 Mansfield MA US 02048 "
 MA-S,8C1F642EF,Invisense AB,Nygatan 56 Linköping  SE 582 27 
@@ -2855,7 +2854,6 @@ MA-S,70B3D5358,Nevotek,5201 Great America Pkwy ste 320 Santa Clara CA US 95054
 MA-S,70B3D5D02,Arctos Showlasertechnik GmbH,Sägewerkstraße 16 Saaldorf-Surheim Bavaria DE 83416 
 MA-S,70B3D5BC0,SENSO2ME ,Lange Gasthiuisstraat 29 ANTWERP Antwerp BE 2000 
 MA-S,70B3D5C59,"R Cubed Engineering, LLC",705 10th Ave W unit 102 Palmetto  US 34221 
-MA-S,70B3D55B2,Peter Huber Kaeltemaschinenbau AG,Werner-von-Siemens-Str. 1 Offenburg Ba-Wue DE 77656 
 MA-S,70B3D58EA,JLCooper Electronics,142 Arena St El Segundo CA US 90245 
 MA-S,70B3D5DC1,"Metralight, Inc.","533 Airport Blvd., #400 Burlingame CA US 94010 "
 MA-S,70B3D5A70,Gateview Technologies, 104 White St #201 Wake Forest  US 27587 
@@ -3522,6 +3520,9 @@ MA-S,8C1F6441E,Linxpeed Limited,"Sherington, Old Downs Road, Delgany Co Wicklow 
 MA-S,70B3D53F7,CEFLA SC,Via Alla Cascata 56/C Trento  IT 38123 
 MA-S,8C1F6463D,Rax-Tech International,"5th floor, 5/391 Kaleeswari tower
 Tambaram-Velachery Main road, Medavakkam Chennai Tamil Nadu IN 600100 "
+MA-S,8C1F64889,Private,
+MA-S,70B3D55B2,Peter Huber Kaeltemaschinenbau SE,Werner-von-Siemens-Str. 1 Offenburg Ba-Wue DE 77656 
+MA-S,8C1F64DC9,Peter Huber Kaeltemaschinenbau SE,Werner-von-Siemens-Str. 1 Offenburg Ba-Wue DE 77656 
 MA-S,8C1F6482B,Flow Power,"Suite 2, Level 3, 18 - 20 York St Sydney  AU 2000 "
 MA-S,8C1F645A7,RCH SPA,Via Cendon 39 Silea  IT 31057 
 MA-S,8C1F64049,NUANCES ORG,92 AVENUE DE WAGRAM PARIS  FR 75017 
@@ -4764,7 +4765,6 @@ MA-S,8C1F64281,NVP TECO LTD,str Zalutinska 10 Kharkiv  UA 61177
 MA-S,8C1F64B7D,Scheurich GmbH,Grimmenstein 9/1 Wolfegg  DE 88364 
 MA-S,8C1F64EDA,DEUTA-WERKE GmbH,Paffrather Str. 140 Bergisch Gladbach North Rhine-Westphalia DE 51465 
 MA-S,70B3D58AF,QBIC COMMUNICATIONS DMCC,Office 302 1Lake Plaza Jumeirah Lake Towers Cluster T Dubai  AE 393518 
-MA-S,8C1F64AA3,Peter Huber Kaeltemaschinenbau AG,Werner-von-Siemens-Str. 1 Offenburg Ba-Wue DE 77656 
 MA-S,8C1F646CB,GJD Manufacturing,"Unit 2, Birch Business Park, Whittle Lane Heywood  GB OL10 2SX "
 MA-S,8C1F64830,Vtron Pty Ltd,"Unit 2, 62 Township Drive West West Burleigh Queensland AU 4219 "
 MA-S,8C1F64329,"YUYAMA MFG Co.,Ltd","1-4-30 MEISHINGUCHI,TOYONAKA OSAKA JP 561-0841 "
@@ -5067,7 +5067,6 @@ MA-S,70B3D5DA7,Network Innovations,4950 West Prospect Road Fort Lauderdale FL US
 MA-S,70B3D517C,Farmpro Ltd,"806, 28 Digitalro 30gil, Gurogu Seoul  KR 08389 "
 MA-S,70B3D567C,Benchmark Electronics - Secure Technology,1740 E Wilshire Ave Santa Ana CA US 92705 
 MA-S,70B3D5C7C,"Beijing Aumiwalker technology CO.,LTD","Floor 6, Tower 1, No.1 Zhonghe Road Fengtai Science Park Beijing P.R.C. Beijing Beijing CN 100071 "
-MA-S,70B3D5DC4,Peter Huber Kaeltemaschinenbau AG,Werner-von-Siemens-Str. 1 Offenburg Ba-Wue DE 77656 
 MA-S,70B3D5089,Kazdream Technologies LLP,"10, Turkestan Str. Nur-Sultan  KZ 010000 "
 MA-S,70B3D52D1,Integer.pl S.A.,Wielicka 28 Krakow  PL 30-552 
 MA-S,70B3D52D9,ZPAS S.A.,Przygorze 209 Woliborz Lower Silesian (Dolno?l?skie) PL 57-431 
@@ -5346,7 +5345,6 @@ MA-S,70B3D5AF2,True Networks Ltd.,#401 51 Seongnam-Daero Bundang-gu SEONGNAM-si 
 MA-S,70B3D5207,Savari Inc,"2005 De la cruz blvd, st 111, santa clara CA US 95050 "
 MA-S,70B3D5A3A,"EPSOFT Co., Ltd","301, Bupyeong-daero, Bupyeong-gu Incheon  KR 21315 "
 MA-S,70B3D5A43,OLEDCOMM,10-12 avenue de l'Europe Vélizy Villacoublay Ile de France FR 78140 
-MA-S,70B3D5D7B,Peter Huber Kaeltemaschinenbau AG,Werner-von-Siemens-Str. 1 Offenburg Ba-Wue DE 77656 
 MA-S,70B3D594A,"SHENZHEN WISEWING INTERNET TECHNOLOGY CO.,LTD","No.826,Zone 1,Block B,Famous industrial product display purchasing center,Baoyuan Road,Xixiang,Bao'an Dis., Shenzhen,P.R.China shenzhen China CN 518102 "
 MA-S,70B3D56E1,"Shanghai Holystar Information Technology Co.,Ltd",8F Building A3 NO.1528 Gumei Rd Shanghai China PR shanghai  CN 200233 
 MA-S,70B3D5FE3,CSM MACHINERY srl,"Via Cadore Mare, 25 Cimetta di Codognè Treviso IT 31013 "
@@ -5487,7 +5485,6 @@ MA-S,70B3D597F,"BISTOS.,Co.,Ltd","7th Fl., A Bldg., Woolim Lions Valley 5-cha, 1
 MA-S,70B3D55D6,BMT Messtechnik Gmbh,Güterfelder Damm 87-91 Stahnsdorf  DE 14532 
 MA-S,70B3D5D95,"SANO SERVICE Co.,Ltd",2-10-3 Sotokanda Chiyoda-ku Tokyo  JP 1010021 
 MA-S,70B3D5973,"Autonomic Controls, Inc.",28 Kaysal Ct ARMONK NY US 10504 
-MA-S,70B3D5CD9,Peter Huber Kaeltemaschinenbau GmbH,Werner-von-Siemens-Str. 1 Offenburg Ba-Wue DE 77656 
 MA-S,70B3D5987,AXIS CORPORATION,Higashi Tokorozawa 2-24-5 Tokorozawa-shi Saitama JP 359-0021 
 MA-S,70B3D5976,Atonarp Micro-Systems India Pvt. Ltd.,"The Millenia, Tower A, 3rd Floor, No. 1&2 Murphy Road – Ulsoor,  Bangalore Karnataka IN 560008 "
 MA-S,70B3D554F,Assembly Contracts Limited,Ledson Road Wythenshawe Manchester GB M23 9GP 
@@ -5657,7 +5654,6 @@ MA-S,70B3D5A93,"Mes Communication Co., Ltd","5F, No. 6 , Szu Wei Lane , Chung Ch
 MA-S,70B3D53D8,"Abitsoftware, Ltd.","Passfield Business Centre Passfield, Liphook Hampshire GB GU30 7SB "
 MA-S,70B3D5470,KITRON UAB,TAIKOS 151 KAUNAS KAUNAS LT LT-52119 
 MA-S,70B3D54DE,"Oso Technologies, Inc.",722 W KILLARNEY ST Urbana Illinois US 61801 
-MA-S,70B3D52E0,Peter Huber,Kaeltemaschinenbau GmbH Offenburg Ba-Wue DE 77656 
 MA-S,70B3D5F1E,ATX NETWORKS LTD,Halapid 12 st Petach tikva Israel IL 4917001 
 MA-S,70B3D57E4,C21 Systems Ltd,Dunston Innovation Centre Chesterfield Derbyshire GB S41 8NG 
 MA-S,70B3D5F93,Hella Gutmann Solutions GmbH,Am Krebsbach 2 Ihringen BW DE 79241 
@@ -5861,3 +5857,10 @@ MA-S,8C1F64FD2,"Guo He Xing Ke (ShenZhen) Technology Co.,Ltd.","4th Floor, Build
 MA-S,8C1F64DB1,"Shanghai Yamato Scale Co., Ltd","No. 368, Qingda Road, Heqing Industrial Field, Pudong Shanghai  CN 201201 "
 MA-S,8C1F64F90,Enfabrica,295 N Bernardo Ave #200 Mountain View CA US 94043 
 MA-S,8C1F64110,"Xian Linking Backhaul Telecom Technology Co.,Ltd","Room 1-304,No.15 Building,Zhenye Mansion,No.800,Guangan Road,CBE District Xi'an,Shannxi,China Xi'an Shaanxi CN 710038 "
+MA-S,8C1F64B81,"Shenzhen Kings IoT Co., Ltd","D102, Yibao Garden, Hangcheng Road, Xixiang, Baoan
+Baoan district Shenzhen City  CN 518126 "
+MA-S,70B3D5CD9,Peter Huber Kaeltemaschinenbau SE,Werner-von-Siemens-Str. 1 Offenburg Ba-Wue DE 77656 
+MA-S,70B3D52E0,Peter Huber Kaeltemaschinenbau SE,Kaeltemaschinenbau GmbH Offenburg Ba-Wue DE 77656 
+MA-S,70B3D5D7B,Peter Huber Kaeltemaschinenbau SE,Werner-von-Siemens-Str. 1 Offenburg Ba-Wue DE 77656 
+MA-S,70B3D5DC4,Peter Huber Kaeltemaschinenbau SE,Werner-von-Siemens-Str. 1 Offenburg Ba-Wue DE 77656 
+MA-S,8C1F64AA3,Peter Huber Kaeltemaschinenbau SE,Werner-von-Siemens-Str. 1 Offenburg Ba-Wue DE 77656 

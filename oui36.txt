@@ -800,12 +800,6 @@ DB7000-DB7FFF     (base 16)		Lambda Systems Inc.
 				Setagaya-ku  Tokyo  154-0024
 				JP
 
-8C-1F-64   (hex)		Peter Huber Kaeltemaschinenbau AG
-C35000-C35FFF     (base 16)		Peter Huber Kaeltemaschinenbau AG
-				Werner-von-Siemens-Str. 1
-				Offenburg  Ba-Wue  77656
-				DE
-
 8C-1F-64   (hex)		tickIoT Inc.
 949000-949FFF     (base 16)		tickIoT Inc.
 				651 N Broad St Ste 206, Ste 206
@@ -3469,12 +3463,6 @@ AA9000-AA9FFF     (base 16)		Datamars SA
 				Via Industria 16
 				Lamone    6814
 				CH
-
-70-B3-D5   (hex)		Peter Huber Kaeltemaschinenbau AG
-08B000-08BFFF     (base 16)		Peter Huber Kaeltemaschinenbau AG
-				Werner-von-Siemens-Str. 1
-				Offenburg  Ba-Wue  77656
-				DE
 
 70-B3-D5   (hex)		Microvideo
 4E0000-4E0FFF     (base 16)		Microvideo
@@ -6946,6 +6934,18 @@ F92000-F92FFF     (base 16)		Vision Systems Safety Tech
 				5 Chemin de Chiradie
 				Brignais    69530
 				FR
+
+70-B3-D5   (hex)		Peter Huber Kaeltemaschinenbau SE
+08B000-08BFFF     (base 16)		Peter Huber Kaeltemaschinenbau SE
+				Werner-von-Siemens-Str. 1
+				Offenburg  Ba-Wue  77656
+				DE
+
+8C-1F-64   (hex)		Peter Huber Kaeltemaschinenbau SE
+C35000-C35FFF     (base 16)		Peter Huber Kaeltemaschinenbau SE
+				Werner-von-Siemens-Str. 1
+				Offenburg  Ba-Wue  77656
+				DE
 
 8C-1F-64   (hex)		Jacobs Technology, Inc.
 A98000-A98FFF     (base 16)		Jacobs Technology, Inc.
@@ -15446,12 +15446,6 @@ C0C000-C0CFFF     (base 16)		Tech4Race
 				Cesson-Sévigné    35510
 				FR
 
-8C-1F-64   (hex)		Peter Huber Kaeltemaschinenbau AG
-DC9000-DC9FFF     (base 16)		Peter Huber Kaeltemaschinenbau AG
-				Werner-von-Siemens-Str. 1
-				Offenburg  Ba-Wue  77656
-				DE
-
 8C-1F-64   (hex)		DEUTA-WERKE GmbH
 BA3000-BA3FFF     (base 16)		DEUTA-WERKE GmbH
 				Paffrather Str. 140
@@ -16831,12 +16825,6 @@ E06000-E06FFF     (base 16)		System West dba ICS Electronics
 				Beursplein 37
 				Rotterdam  Zuid-Holland  3011 AA
 				NL
-
-70-B3-D5   (hex)		Peter Huber Kaeltemaschinenbau AG
-5B2000-5B2FFF     (base 16)		Peter Huber Kaeltemaschinenbau AG
-				Werner-von-Siemens-Str. 1
-				Offenburg  Ba-Wue  77656
-				DE
 
 70-B3-D5   (hex)		JLCooper Electronics
 8EA000-8EAFFF     (base 16)		JLCooper Electronics
@@ -20777,12 +20765,6 @@ DE9000-DE9FFF     (base 16)		EON Technology, Corp
 				Orlando  FL  32819
 				US
 
-8C-1F-64   (hex)		Linxpeed Limited
-41E000-41EFFF     (base 16)		Linxpeed Limited
-				Sherington, Old Downs Road,
-				Delgany  Co Wicklow  A63 XE08
-				IE
-
 70-B3-D5   (hex)		CEFLA SC
 3F7000-3F7FFF     (base 16)		CEFLA SC
 				Via Alla Cascata 56/C
@@ -20794,6 +20776,27 @@ DE9000-DE9FFF     (base 16)		EON Technology, Corp
 				5th floor, 5/391 Kaleeswari towerTambaram-Velachery Main road, Medavakkam
 				Chennai  Tamil Nadu  600100
 				IN
+
+8C-1F-64   (hex)		Linxpeed Limited
+41E000-41EFFF     (base 16)		Linxpeed Limited
+				Sherington, Old Downs Road,
+				Delgany  Co Wicklow  A63 XE08
+				IE
+
+8C-1F-64   (hex)		Private
+889000-889FFF     (base 16)		Private
+
+70-B3-D5   (hex)		Peter Huber Kaeltemaschinenbau SE
+5B2000-5B2FFF     (base 16)		Peter Huber Kaeltemaschinenbau SE
+				Werner-von-Siemens-Str. 1
+				Offenburg  Ba-Wue  77656
+				DE
+
+8C-1F-64   (hex)		Peter Huber Kaeltemaschinenbau SE
+DC9000-DC9FFF     (base 16)		Peter Huber Kaeltemaschinenbau SE
+				Werner-von-Siemens-Str. 1
+				Offenburg  Ba-Wue  77656
+				DE
 
 8C-1F-64   (hex)		Flow Power
 82B000-82BFFF     (base 16)		Flow Power
@@ -28064,12 +28067,6 @@ E24000-E24FFF     (base 16)		COMETA SAS
 				Marion  IA  52302
 				US
 
-8C-1F-64   (hex)		Peter Huber Kaeltemaschinenbau AG
-AA3000-AA3FFF     (base 16)		Peter Huber Kaeltemaschinenbau AG
-				Werner-von-Siemens-Str. 1
-				Offenburg  Ba-Wue  77656
-				DE
-
 8C-1F-64   (hex)		NVP TECO LTD
 281000-281FFF     (base 16)		NVP TECO LTD
 				str Zalutinska 10
@@ -29855,12 +29852,6 @@ C7C000-C7CFFF     (base 16)		Beijing Aumiwalker technology CO.,LTD
 				Beijing  Beijing  100071
 				CN
 
-70-B3-D5   (hex)		Peter Huber Kaeltemaschinenbau AG
-DC4000-DC4FFF     (base 16)		Peter Huber Kaeltemaschinenbau AG
-				Werner-von-Siemens-Str. 1
-				Offenburg  Ba-Wue  77656
-				DE
-
 70-B3-D5   (hex)		ZPAS S.A.
 2D9000-2D9FFF     (base 16)		ZPAS S.A.
 				Przygorze 209
@@ -31571,12 +31562,6 @@ A43000-A43FFF     (base 16)		OLEDCOMM
 				Vélizy Villacoublay  Ile de France  78140
 				FR
 
-70-B3-D5   (hex)		Peter Huber Kaeltemaschinenbau AG
-D7B000-D7BFFF     (base 16)		Peter Huber Kaeltemaschinenbau AG
-				Werner-von-Siemens-Str. 1
-				Offenburg  Ba-Wue  77656
-				DE
-
 70-B3-D5   (hex)		HGH SYSTEMES INFRAROUGES
 853000-853FFF     (base 16)		HGH SYSTEMES INFRAROUGES
 				10 Rue Maryse Bastié
@@ -32398,12 +32383,6 @@ EDB000-EDBFFF     (base 16)		Netfort Solutions
 				Ledson Road
 				Wythenshawe  Manchester  M23 9GP
 				GB
-
-70-B3-D5   (hex)		Peter Huber Kaeltemaschinenbau GmbH
-CD9000-CD9FFF     (base 16)		Peter Huber Kaeltemaschinenbau GmbH
-				Werner-von-Siemens-Str. 1
-				Offenburg  Ba-Wue  77656
-				DE
 
 70-B3-D5   (hex)		Fortuna Impex Pvt ltd
 9AD000-9ADFFF     (base 16)		Fortuna Impex Pvt ltd
@@ -33364,12 +33343,6 @@ CD6000-CD6FFF     (base 16)		VideoRay LLC
 				722 W KILLARNEY ST
 				Urbana  Illinois  61801
 				US
-
-70-B3-D5   (hex)		Peter Huber
-2E0000-2E0FFF     (base 16)		Peter Huber
-				Kaeltemaschinenbau GmbH
-				Offenburg  Ba-Wue  77656
-				DE
 
 70-B3-D5   (hex)		Abitsoftware, Ltd.
 3D8000-3D8FFF     (base 16)		Abitsoftware, Ltd.
@@ -34567,3 +34540,39 @@ F90000-F90FFF     (base 16)		Enfabrica
 				Room 1-304,No.15 Building,Zhenye Mansion,No.800,Guangan Road,CBE District Xi'an,Shannxi,China
 				Xi'an  Shaanxi  710038
 				CN
+
+8C-1F-64   (hex)		Shenzhen Kings IoT Co., Ltd
+B81000-B81FFF     (base 16)		Shenzhen Kings IoT Co., Ltd
+				D102, Yibao Garden, Hangcheng Road, Xixiang, BaoanBaoan district
+				Shenzhen City    518126
+				CN
+
+70-B3-D5   (hex)		Peter Huber Kaeltemaschinenbau SE
+CD9000-CD9FFF     (base 16)		Peter Huber Kaeltemaschinenbau SE
+				Werner-von-Siemens-Str. 1
+				Offenburg  Ba-Wue  77656
+				DE
+
+70-B3-D5   (hex)		Peter Huber Kaeltemaschinenbau SE
+2E0000-2E0FFF     (base 16)		Peter Huber Kaeltemaschinenbau SE
+				Kaeltemaschinenbau GmbH
+				Offenburg  Ba-Wue  77656
+				DE
+
+70-B3-D5   (hex)		Peter Huber Kaeltemaschinenbau SE
+D7B000-D7BFFF     (base 16)		Peter Huber Kaeltemaschinenbau SE
+				Werner-von-Siemens-Str. 1
+				Offenburg  Ba-Wue  77656
+				DE
+
+70-B3-D5   (hex)		Peter Huber Kaeltemaschinenbau SE
+DC4000-DC4FFF     (base 16)		Peter Huber Kaeltemaschinenbau SE
+				Werner-von-Siemens-Str. 1
+				Offenburg  Ba-Wue  77656
+				DE
+
+8C-1F-64   (hex)		Peter Huber Kaeltemaschinenbau SE
+AA3000-AA3FFF     (base 16)		Peter Huber Kaeltemaschinenbau SE
+				Werner-von-Siemens-Str. 1
+				Offenburg  Ba-Wue  77656
+				DE
