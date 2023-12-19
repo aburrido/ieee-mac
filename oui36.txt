@@ -20798,6 +20798,12 @@ DC9000-DC9FFF     (base 16)		Peter Huber Kaeltemaschinenbau SE
 				Offenburg  Ba-Wue  77656
 				DE
 
+8C-1F-64   (hex)		Metronic AKP sp.j.
+7D7000-7D7FFF     (base 16)		Metronic AKP sp.j.
+				ul. Zmujdzka 3
+				Krakow    31-426
+				PL
+
 8C-1F-64   (hex)		Flow Power
 82B000-82BFFF     (base 16)		Flow Power
 				Suite 2, Level 3, 18 - 20 York St
@@ -27736,6 +27742,30 @@ E1A000-E1AFFF     (base 16)		DAccess Security Systems P Ltd
 				10 Point Drive Brea, CA 92821 USA
 				LA  CA  92821
 				US
+
+8C-1F-64   (hex)		Peter Huber Kaeltemaschinenbau SE
+987000-987FFF     (base 16)		Peter Huber Kaeltemaschinenbau SE
+				Werner-von-Siemens-Str. 1
+				Offenburg  BW  77656
+				DE
+
+8C-1F-64   (hex)		Chamsys Ltd
+FF8000-FF8FFF     (base 16)		Chamsys Ltd
+				First AvenueMillbrook
+				Southampton  Hampshire  SO15 0LJ
+				GB
+
+8C-1F-64   (hex)		The Signalling Company
+CDD000-CDDFFF     (base 16)		The Signalling Company
+				Rue des Deux Gares n°82
+				Anderlecht  Brussels  B1070
+				BE
+
+8C-1F-64   (hex)		Elektrosil GmbH
+F14000-F14FFF     (base 16)		Elektrosil GmbH
+				Ruhrstrasse 53
+				Hamburg    22761
+				DE
 
 8C-1F-64   (hex)		Mobileye
 D63000-D63FFF     (base 16)		Mobileye
