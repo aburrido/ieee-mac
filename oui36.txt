@@ -27767,6 +27767,12 @@ FF8000-FF8FFF     (base 16)		Chamsys Ltd
 				BUCHEON  GEYONGGI  421-740
 				KR
 
+8C-1F-64   (hex)		ecamtek
+BD8000-BD8FFF     (base 16)		ecamtek
+				Sagimakgol-ro 62beon-gil,
+				Jungwon-gu, Seongnam-si,   Gyeonggi-do,  13211
+				KR
+
 8C-1F-64   (hex)		The Signalling Company
 CDD000-CDDFFF     (base 16)		The Signalling Company
 				Rue des Deux Gares n°82
@@ -27779,23 +27785,17 @@ F14000-F14FFF     (base 16)		Elektrosil GmbH
 				Hamburg    22761
 				DE
 
-8C-1F-64   (hex)		Beijing LJ Technology Co., Ltd.
-73E000-73EFFF     (base 16)		Beijing LJ Technology Co., Ltd.
-				1011-1018, 10th Floor, Zhixing Building,No.3 Shangyuan Village,Haidian District
-				Beijing  Beijing  100080
-				CN
-
 8C-1F-64   (hex)		Zhongrun Xinchan (Beijing) Technology Co., Ltd
 146000-146FFF     (base 16)		Zhongrun Xinchan (Beijing) Technology Co., Ltd
 				Room 207, 2nd Floor, Building 17, No. 14 North Street, Fengtai Town, Fengtai District, Beijing
 				Beijing  Beijing  100071
 				CN
 
-8C-1F-64   (hex)		ecamtek
-BD8000-BD8FFF     (base 16)		ecamtek
-				Sagimakgol-ro 62beon-gil,
-				Jungwon-gu, Seongnam-si,   Gyeonggi-do,  13211
-				KR
+8C-1F-64   (hex)		Beijing LJ Technology Co., Ltd.
+73E000-73EFFF     (base 16)		Beijing LJ Technology Co., Ltd.
+				1011-1018, 10th Floor, Zhixing Building,No.3 Shangyuan Village,Haidian District
+				Beijing  Beijing  100080
+				CN
 
 8C-1F-64   (hex)		Mobileye
 D63000-D63FFF     (base 16)		Mobileye
@@ -34642,3 +34642,9 @@ B81000-B81FFF     (base 16)		Shenzhen Kings IoT Co., Ltd
 				No. 182, Zhongxiao Rd., East Dist.
 				Hsinchu City  Select State  300041
 				TW
+
+8C-1F-64   (hex)		CenterClick LLC
+F49000-F49FFF     (base 16)		CenterClick LLC
+				PO Box 240
+				Hollis  NH  03049
+				US
