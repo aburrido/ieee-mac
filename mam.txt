@@ -6170,6 +6170,12 @@ D0-A0-11   (hex)		SIONYX, LLC
 				Beverly  MA  01915
 				US
 
+D0-A0-11   (hex)		Annapurna labs
+800000-8FFFFF     (base 16)		Annapurna labs
+				Matam Scientific Industries Center,   Building 8.2
+				Mail box 15123  Haifa  3508409
+				IL
+
 B8-4C-87   (hex)		Shenzhen Link-all Technology Co., Ltd
 300000-3FFFFF     (base 16)		Shenzhen Link-all Technology Co., Ltd
 				Floor 5th, Block 9th, Sunny Industrial Zone, Xili Town, Nanshan District, Shenzhen, China 
@@ -18251,6 +18257,18 @@ D0-A0-11   (hex)		Shanghai Railway Communication Co. Ltd.
 				Shanghai  Shanghai  200071
 				CN
 
+78-E9-96   (hex)		 Beisit Electric Tech(Hangzhou)Co.,Ltd.
+700000-7FFFFF     (base 16)		 Beisit Electric Tech(Hangzhou)Co.,Ltd.
+				1, Tangmei Rd., Yuhang Economic-TechnologicalDevelopment Area
+				Hangzhou  Zhejiang  311100
+				CN
+
+D0-A0-11   (hex)		V-Count Teknoloji A.Ş.
+300000-3FFFFF     (base 16)		V-Count Teknoloji A.Ş.
+				ÜNİVERSİTELER MAH.İ.DOĞRAMACI BLV.HALICI YAZILIM EVİ TEKNOKENT
+				ANKARA  Ankara  06800
+				TR
+
 D0-14-11   (hex)		P.B. Elettronica srl
 100000-1FFFFF     (base 16)		P.B. Elettronica srl
 				Via Santorelli, 8
@@ -24280,6 +24298,18 @@ D0-A0-11   (hex)		Shenzhen DOOGEE Hengtong Technology CO.,LTD
 				B, 2/F, Building A4, Silicon Valley Power Digital Industrial Park, No. 22, Dafu Industrial Zone, Guanlan Aobei Community, Guanlan Street, Longhua New District
 				Shenzhen  Guangdong  518000
 				CN
+
+78-E9-96   (hex)		Shenzhen Jin Hao Mi Technology Co., LTD
+400000-4FFFFF     (base 16)		Shenzhen Jin Hao Mi Technology Co., LTD
+				Wuhe Department Store 203, No.5, Guangya Park Industrial Park, Wuhe Community, Bantian Street, Longgang District, Shenzhen
+				Shenzhen  Guangdong  518000
+				CN
+
+D0-A0-11   (hex)		Annapurna labs
+E00000-EFFFFF     (base 16)		Annapurna labs
+				Matam Scientific Industries Center,   Building 8.2
+				Mail box 15123  Haifa  3508409
+				IL
 
 C8-5C-E2   (hex)		Fela Management AG 
 000000-0FFFFF     (base 16)		Fela Management AG 
