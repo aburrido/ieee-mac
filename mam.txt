@@ -6176,6 +6176,12 @@ D0-A0-11   (hex)		Annapurna labs
 				Mail box 15123  Haifa  3508409
 				IL
 
+78-E9-96   (hex)		Chuangming Futre Technology Co., Ltd.
+500000-5FFFFF     (base 16)		Chuangming Futre Technology Co., Ltd.
+				Zone 221418, Pinggu Park, Zhongguancun Science and Technology Park, Pinggu District, Beijing
+				Beijing    100190
+				CN
+
 B8-4C-87   (hex)		Shenzhen Link-all Technology Co., Ltd
 300000-3FFFFF     (base 16)		Shenzhen Link-all Technology Co., Ltd
 				Floor 5th, Block 9th, Sunny Industrial Zone, Xili Town, Nanshan District, Shenzhen, China 
@@ -11977,6 +11983,12 @@ D00000-DFFFFF     (base 16)		REMOWIRELESS COMMUNICATION INTERNATIONAL CO.,LIMITE
 				RM1202,12/F,TUNG CHUN COMM CTR 438-444 SHANGHAI ST KL
 				HONG KONG  HONG KONG  999077
 				HK
+
+78-E9-96   (hex)		ATM SOLUTIONS
+900000-9FFFFF     (base 16)		ATM SOLUTIONS
+				Office 10, Krishna Arcade, Plot 65, Sector 2A, Koparkharine
+				Navi Mumbai  Maharashatra  400709
+				IN
 
 B8-4C-87   (hex)		Altronix , Corp
 A00000-AFFFFF     (base 16)		Altronix , Corp
@@ -18268,6 +18280,12 @@ D0-A0-11   (hex)		V-Count Teknoloji A.Ş.
 				ÜNİVERSİTELER MAH.İ.DOĞRAMACI BLV.HALICI YAZILIM EVİ TEKNOKENT
 				ANKARA  Ankara  06800
 				TR
+
+78-E9-96   (hex)		SHENZHEN EEGUARD TECHNOLOGY CO.,LIMITED
+000000-0FFFFF     (base 16)		SHENZHEN EEGUARD TECHNOLOGY CO.,LIMITED
+				201, BUILDING A, JINGANG TECHNOLOGY INDUSTRIAL PARK, QIAOTOU COMMUNITY, FUHAI STREET, BAOAN DISTRICT SHEN ZHEN
+				SHEN ZHEN    518000
+				CN
 
 D0-14-11   (hex)		P.B. Elettronica srl
 100000-1FFFFF     (base 16)		P.B. Elettronica srl
