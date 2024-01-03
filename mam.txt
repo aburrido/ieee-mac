@@ -11990,6 +11990,12 @@ D0-A0-11   (hex)		Shanghai Hongqia Industry and Trade Co., LTD
 				Shanghai  Shanghai  200333
 				CN
 
+78-E9-96   (hex)		GARANTIR TECHNOLOGIES PRIVATE LIMITED
+C00000-CFFFFF     (base 16)		GARANTIR TECHNOLOGIES PRIVATE LIMITED
+				6, Ground Floor, Kh. No. 36/21, L-Block, Bandh Road, Sangam Vihar
+				New Delhi  Delhi  110080
+				IN
+
 78-E9-96   (hex)		ATM SOLUTIONS
 900000-9FFFFF     (base 16)		ATM SOLUTIONS
 				Office 10, Krishna Arcade, Plot 65, Sector 2A, Koparkharine
@@ -24335,6 +24341,12 @@ E00000-EFFFFF     (base 16)		Annapurna labs
 				Shenzhen  Guangdong  518000
 				CN
 
+78-E9-96   (hex)		Shenzhen Farben lnformation Technology CO.,Ltd.
+A00000-AFFFFF     (base 16)		Shenzhen Farben lnformation Technology CO.,Ltd.
+				Block B,WeiDa Technology Park,No. 15, Gaoxin North 6th Road,Songpingshan Community, Xili Street, Nanshan District, Shenzhen
+				sz    518000
+				CN
+
 B8-4C-87   (hex)		Private
 E00000-EFFFFF     (base 16)		Private
 
@@ -28256,12 +28268,6 @@ A00000-AFFFFF     (base 16)		ST Access Control System Corp.
 				New Taipei City    22054
 				TW
 
-28-2C-02   (hex)		Shenzhen Neoway Technology Co.,Ltd.
-800000-8FFFFF     (base 16)		Shenzhen Neoway Technology Co.,Ltd.
-				4F-2#,Lian Jian Science & Industry Park,Huarong Road,Dalang Street,Longhua District
-				Shenzhen  Guangdong  518000
-				CN
-
 28-2C-02   (hex)		Astronics AES
 100000-1FFFFF     (base 16)		Astronics AES
 				12950 Willows Rd NE 
@@ -30511,3 +30517,15 @@ D0-A0-11   (hex)		SUMICO
 				NO.13 Jahansooze, Larestan Ave , Motaharri Street Tehran , Iran 
 				Tehran  Tehran  1595846113
 				IR
+
+78-E9-96   (hex)		Shenzhen Zhiting Technology Co.,Ltd
+800000-8FFFFF     (base 16)		Shenzhen Zhiting Technology Co.,Ltd
+				Room 516, Building 4,  Qidi Xiexin science and Technology Park, Longcheng Street
+				Shenzhen  Guangdong  518109
+				CN
+
+28-2C-02   (hex)		Shenzhen Neoway Technology Co.,Ltd.
+800000-8FFFFF     (base 16)		Shenzhen Neoway Technology Co.,Ltd.
+				Room 4401, Building 1, Huide Tower, Beizhan Community, Minzhi Sub-district, Longhua District
+				Shenzhen  Guangdong  518000
+				CN
