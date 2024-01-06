@@ -866,6 +866,12 @@ FA4C77                        (base 16)                     OCCITALINE
                                                             Cuidad de México  CDMX  07300                
                                                             MX                                           
 
+CA-22-2B                      (hex)                         Beijing Puma Gear Power Equipment Co.,Ltd    
+CA222B                        (base 16)                     Beijing Puma Gear Power Equipment Co.,Ltd    
+                                                            Rm. 10C06, Changyin Mansion,No. 88 Yongding Road, Haidian District
+                                                            Beijing  Beijing  100037                     
+                                                            CN                                           
+
 8A-7D-B3                      (hex)                         Evolv Technology, Inc.                       
 8A7DB3                        (base 16)                     Evolv Technology, Inc.                       
                                                             500 Totten Pond Road4th Floor                

@@ -6947,14 +6947,17 @@ C35000-C35FFF     (base 16)		Peter Huber Kaeltemaschinenbau SE
 				Southampton  Hampshire  SO15 3FQ
 				GB
 
-8C-1F-64   (hex)		Private
-8D6000-8D6FFF     (base 16)		Private
-
 8C-1F-64   (hex)		Gigalane
 41F000-41FFFF     (base 16)		Gigalane
 				61Dongtansandan 10-gil
 				Hwaseong-si  Gyeonggi-do  18487
 				KR
+
+8C-1F-64   (hex)		ADC Global Technology Sdn Bhd
+8D6000-8D6FFF     (base 16)		ADC Global Technology Sdn Bhd
+				
+				    
+				
 
 8C-1F-64   (hex)		Jacobs Technology, Inc.
 A98000-A98FFF     (base 16)		Jacobs Technology, Inc.
