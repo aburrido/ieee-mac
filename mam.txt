@@ -12008,6 +12008,12 @@ C00000-CFFFFF     (base 16)		GARANTIR TECHNOLOGIES PRIVATE LIMITED
 				New Taipei    24252
 				TW
 
+78-E9-96   (hex)		ACL Co.,Ltd.
+300000-3FFFFF     (base 16)		ACL Co.,Ltd.
+				506-Office Building, 70,Songdogwahak-ro
+				Yeonsu-gu  Incheon  21984
+				KR
+
 B8-4C-87   (hex)		Altronix , Corp
 A00000-AFFFFF     (base 16)		Altronix , Corp
 				140 58th St. Bldg A, Ste 2N
