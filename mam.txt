@@ -6182,17 +6182,23 @@ D0-A0-11   (hex)		Annapurna labs
 				Mail box 15123  Haifa  3508409
 				IL
 
-78-E9-96   (hex)		COGITO TECH COMPANY LIMITED
-100000-1FFFFF     (base 16)		COGITO TECH COMPANY LIMITED
-				21/F TAI YAU BLDG 181 JOHNSON RD WANCHAI HONG KONG
-				Hong Kong    999077
-				CN
-
 78-E9-96   (hex)		Lorch Schweisstechnik GmbH
 D00000-DFFFFF     (base 16)		Lorch Schweisstechnik GmbH
 				Im Anwaender 24-26
 				Auenwald  Baden Wuerttemberg  71549
 				DE
+
+34-C8-D6   (hex)		ZXCLAA Technology(Suzhou) Co.,Ltd
+700000-7FFFFF     (base 16)		ZXCLAA Technology(Suzhou) Co.,Ltd
+				Buildings 2-A, No. 9 Xuesen Road, Suzhou High tech Zone
+				suzhou    215000
+				CN
+
+78-E9-96   (hex)		COGITO TECH COMPANY LIMITED
+100000-1FFFFF     (base 16)		COGITO TECH COMPANY LIMITED
+				21/F TAI YAU BLDG 181 JOHNSON RD WANCHAI HONG KONG
+				Hong Kong    999077
+				CN
 
 B8-4C-87   (hex)		Shenzhen Link-all Technology Co., Ltd
 300000-3FFFFF     (base 16)		Shenzhen Link-all Technology Co., Ltd
@@ -12019,6 +12025,12 @@ C00000-CFFFFF     (base 16)		GARANTIR TECHNOLOGIES PRIVATE LIMITED
 				506-Office Building, 70,Songdogwahak-ro
 				Yeonsu-gu  Incheon  21984
 				KR
+
+78-E9-96   (hex)		STIEBEL ELTRON GMBH & CO. KG
+200000-2FFFFF     (base 16)		STIEBEL ELTRON GMBH & CO. KG
+				Dr.-Stiebel-Strasse 33
+				Holzminden    37603
+				DE
 
 B8-4C-87   (hex)		Altronix , Corp
 A00000-AFFFFF     (base 16)		Altronix , Corp
@@ -30553,3 +30565,9 @@ D0-A0-11   (hex)		SUMICO
 				Room 516, Building 4,  Qidi Xiexin science and Technology Park, Longcheng Street
 				Shenzhen  Guangdong  518109
 				CN
+
+78-E9-96   (hex)		Bita-International Co.,Ltd
+E00000-EFFFFF     (base 16)		Bita-International Co.,Ltd
+				2F,No 36 Park St.,Nangang Dist.
+				Taipei    11560
+				TW
