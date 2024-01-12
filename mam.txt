@@ -12014,17 +12014,17 @@ C00000-CFFFFF     (base 16)		GARANTIR TECHNOLOGIES PRIVATE LIMITED
 				Navi Mumbai  Maharashatra  400709
 				IN
 
-78-E9-96   (hex)		Kilews
-600000-6FFFFF     (base 16)		Kilews
-				No.30,Lane 83, Huacheng Road, Xinzhuang Dist.,New Taipei City 24252, Taiwan. R.O.C.
-				New Taipei    24252
-				TW
-
 78-E9-96   (hex)		ACL Co.,Ltd.
 300000-3FFFFF     (base 16)		ACL Co.,Ltd.
 				506-Office Building, 70,Songdogwahak-ro
 				Yeonsu-gu  Incheon  21984
 				KR
+
+78-E9-96   (hex)		Kilews
+600000-6FFFFF     (base 16)		Kilews
+				No.30,Lane 83, Huacheng Road, Xinzhuang Dist.,New Taipei City 24252, Taiwan. R.O.C.
+				New Taipei    24252
+				TW
 
 78-E9-96   (hex)		STIEBEL ELTRON GMBH & CO. KG
 200000-2FFFFF     (base 16)		STIEBEL ELTRON GMBH & CO. KG
@@ -30564,6 +30564,12 @@ D0-A0-11   (hex)		SUMICO
 800000-8FFFFF     (base 16)		Shenzhen Zhiting Technology Co.,Ltd
 				Room 516, Building 4,  Qidi Xiexin science and Technology Park, Longcheng Street
 				Shenzhen  Guangdong  518109
+				CN
+
+34-C8-D6   (hex)		Laxton Group Limited
+900000-9FFFFF     (base 16)		Laxton Group Limited
+				Building 4, 43 South International Trade AvenueHualong, Panyu District
+				Guangzhou    511434
 				CN
 
 78-E9-96   (hex)		Bita-International Co.,Ltd

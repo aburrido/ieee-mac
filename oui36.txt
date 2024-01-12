@@ -6947,6 +6947,30 @@ C35000-C35FFF     (base 16)		Peter Huber Kaeltemaschinenbau SE
 				Southampton  Hampshire  SO15 3FQ
 				GB
 
+8C-1F-64   (hex)		Avida, Inc.
+56B000-56BFFF     (base 16)		Avida, Inc.
+				80 Oak St. Ste. 102 
+				Norwood  NJ  07648
+				US
+
+8C-1F-64   (hex)		Monnit Corporation
+48B000-48BFFF     (base 16)		Monnit Corporation
+				3400 S West Temple
+				S Salt Lake  UT  84115
+				US
+
+8C-1F-64   (hex)		PowTechnology Limited
+ED6000-ED6FFF     (base 16)		PowTechnology Limited
+				Unit 12, Ninian ParkNinian Way
+				Tamworth    B77 5ES
+				GB
+
+8C-1F-64   (hex)		Lumiplan Duhamel
+B2A000-B2AFFF     (base 16)		Lumiplan Duhamel
+				2 rue de l'industrie
+				Domène  Isère  38420
+				FR
+
 8C-1F-64   (hex)		Gigalane
 41F000-41FFFF     (base 16)		Gigalane
 				61Dongtansandan 10-gil
@@ -6958,12 +6982,6 @@ C35000-C35FFF     (base 16)		Peter Huber Kaeltemaschinenbau SE
 				No 87, Jalan 20/7 Paramount Garden,
 				46300 Petaling Jaya Selangor  Select State  46300
 				MY
-
-8C-1F-64   (hex)		Lumiplan Duhamel
-B2A000-B2AFFF     (base 16)		Lumiplan Duhamel
-				2 rue de l'industrie
-				Domène  Isère  38420
-				FR
 
 8C-1F-64   (hex)		Jacobs Technology, Inc.
 A98000-A98FFF     (base 16)		Jacobs Technology, Inc.
@@ -20858,6 +20876,18 @@ DC9000-DC9FFF     (base 16)		Peter Huber Kaeltemaschinenbau SE
 				Katano-shi  Osaka  576-0017
 				JP
 
+8C-1F-64   (hex)		Qualitel Corporation
+95B000-95BFFF     (base 16)		Qualitel Corporation
+				11831 Beverly Park Rd, Bldg A
+				Everett  WA  98204
+				US
+
+8C-1F-64   (hex)		Schildknecht AG
+55C000-55CFFF     (base 16)		Schildknecht AG
+				Haugweg 26
+				Murr    71711
+				DE
+
 8C-1F-64   (hex)		Flow Power
 82B000-82BFFF     (base 16)		Flow Power
 				Suite 2, Level 3, 18 - 20 York St
@@ -34678,12 +34708,6 @@ AA3000-AA3FFF     (base 16)		Peter Huber Kaeltemaschinenbau SE
 				Werner-von-Siemens-Str. 1
 				Offenburg  Ba-Wue  77656
 				DE
-
-8C-1F-64   (hex)		Shenzhen Kings IoT Co., Ltd
-B81000-B81FFF     (base 16)		Shenzhen Kings IoT Co., Ltd
-				D102, Yibao Garden, Hangcheng Road, Xixiang, BaoanBaoan district
-				Shenzhen City    518126
-				CN
 
 8C-1F-64   (hex)		Deqin Showcase
 945000-945FFF     (base 16)		Deqin Showcase
