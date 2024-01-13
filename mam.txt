@@ -6200,6 +6200,24 @@ D00000-DFFFFF     (base 16)		Lorch Schweisstechnik GmbH
 				Hong Kong    999077
 				CN
 
+34-C8-D6   (hex)		Chengdu Decentest technology Co., Ltd.
+400000-4FFFFF     (base 16)		Chengdu Decentest technology Co., Ltd.
+				No.916, Tiangong Avenue, Xinxing Street, Tianfu New District
+				Chengdu   Sichuan  610213
+				CN
+
+34-C8-D6   (hex)		Shenzhen Xmitech Electronic Co.,Ltd
+100000-1FFFFF     (base 16)		Shenzhen Xmitech Electronic Co.,Ltd
+				Room 8B1888, Block AB, New Energy Building, No.2239, Nanhai Avenue, Nanguang Community, Nanshan Street, Nanshan District, Shenzhen
+				Shenzhen    518054
+				CN
+
+34-C8-D6   (hex)		Huizhou KDT Intelligent Display Technology Co. Ltd
+C00000-CFFFFF     (base 16)		Huizhou KDT Intelligent Display Technology Co. Ltd
+				No.70,Huifeng 4th Road,Zhongkai,High-tech District
+				Huizhou  Guangdong  516006
+				CN
+
 B8-4C-87   (hex)		Shenzhen Link-all Technology Co., Ltd
 300000-3FFFFF     (base 16)		Shenzhen Link-all Technology Co., Ltd
 				Floor 5th, Block 9th, Sunny Industrial Zone, Xili Town, Nanshan District, Shenzhen, China 
@@ -18328,6 +18346,12 @@ D0-A0-11   (hex)		V-Count Teknoloji A.Ş.
 				201, BUILDING A, JINGANG TECHNOLOGY INDUSTRIAL PARK, QIAOTOU COMMUNITY, FUHAI STREET, BAOAN DISTRICT SHEN ZHEN
 				SHEN ZHEN    518000
 				CN
+
+34-C8-D6   (hex)		PRIZMA GROUP DISTRIBUTION & CONSULTING D.O.O - RUBISEC
+500000-5FFFFF     (base 16)		PRIZMA GROUP DISTRIBUTION & CONSULTING D.O.O - RUBISEC
+				XVI LOKAL BR. 7 BUDVA
+				BUDVA    85310
+				ME
 
 D0-14-11   (hex)		P.B. Elettronica srl
 100000-1FFFFF     (base 16)		P.B. Elettronica srl
@@ -30577,3 +30601,9 @@ E00000-EFFFFF     (base 16)		Bita-International Co.,Ltd
 				2F,No 36 Park St.,Nangang Dist.
 				Taipei    11560
 				TW
+
+34-C8-D6   (hex)		Shenzhen Zhangyue Technology Co., Ltd
+000000-0FFFFF     (base 16)		Shenzhen Zhangyue Technology Co., Ltd
+				Nanshan District Yuehai Street Weixin Software Science Park Building 8 9th Floor Room 903
+				Shenzhen  Guangdong  518500
+				CN

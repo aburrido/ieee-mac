@@ -120,6 +120,7 @@ MANUFACTURER ID               Organization
 19                            Kistler Instrument Corporation
 24                            G.R.A.S. Sound & Vibration
 5154                          Opus-Two ICS
+2718                          Danisense
 6900                          Shandong Liensi Intelligent Technology Co.,Ltd
 3450                          Oetiker Schweiz AG
 15328                         Silicon Designs, Inc. (SDI)
