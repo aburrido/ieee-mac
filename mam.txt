@@ -12074,6 +12074,12 @@ B00000-BFFFFF     (base 16)		Yuanzhou Intelligent (Shenzhen) Co., Ltd.
 				Shenzhen  Guangdong  518000
 				CN
 
+80-A5-79   (hex)		Siemens Energy Global GmbH & Co. KG
+700000-7FFFFF     (base 16)		Siemens Energy Global GmbH & Co. KG
+				Otto-Hahn-Ring 6
+				München    81739
+				DE
+
 B8-4C-87   (hex)		Altronix , Corp
 A00000-AFFFFF     (base 16)		Altronix , Corp
 				140 58th St. Bldg A, Ste 2N
@@ -24443,6 +24449,12 @@ A00000-AFFFFF     (base 16)		ViewSonic Corp
 				LA  CA  92821
 				US
 
+80-A5-79   (hex)		Tool-Temp AG
+300000-3FFFFF     (base 16)		Tool-Temp AG
+				Industriestrasse 30
+				Sulgen    8583
+				CH
+
 C8-5C-E2   (hex)		Fela Management AG 
 000000-0FFFFF     (base 16)		Fela Management AG 
 				Basadingerstrasse 18
@@ -30661,3 +30673,9 @@ D00000-DFFFFF     (base 16)		eight
 				Building C4, Zone C, Fuhai International Science and Technology Park, ZhanchengCommunity, Fuhai Street, Baoan District
 				Shenzhen  Guangdong  518103
 				CN
+
+80-A5-79   (hex)		BluArmor
+C00000-CFFFFF     (base 16)		BluArmor
+				AptEner Mechatronics Pvt Ltd, No. R 32, V N Arcade, II Phase KSSIDC Industrial Estate I Cross Bommansandra Industrial Area, Jigani Link Rd, Yarandahalli Circle
+				Bengaluru  Karnataka  560099
+				IN
