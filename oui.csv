@@ -7021,6 +7021,7 @@ MA-L,9CFA76,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014
 MA-L,20FA85,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
 MA-L,9C1A25,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
 MA-L,E04824,Garmin International,1200 E. 151st St Olathe KS US 66062 
+MA-L,08F0B6,Edifier International,"Suit 2207, 22nd floor, Tower II, Lippo centre, 89 Queensway Hong Kong  CN 070 "
 MA-L,000130,Extreme Networks Headquarters,2121 RDU Center Drive  Morrisville NC US 27560 
 MA-L,FC0A81,Extreme Networks Headquarters,2121 RDU Center Drive  Morrisville NC US 27560 
 MA-L,00749C,"Ruijie Networks Co.,LTD","19# Building,Star-net Science Plaza,Juyuanzhou, 618 Jinshan Road Fuzhou Fujian CN 350002 "
@@ -13975,9 +13976,11 @@ MA-L,84A329,Arcadyan Corporation,"No.8, Sec.2, Guangfu Rd. Hsinchu City Hsinchu 
 MA-L,9C098B,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
 MA-L,9C5884,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
 MA-L,24B339,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
-MA-L,6CEFBD,Cisco Meraki,500 Terry A. Francois Blvd San Francisco  US 94158 
 MA-L,E04E7A,"Nanjing Qinheng Microelectronics Co., Ltd.","No.18, Ningshuang Road  Nanjing Jiangsu CN 210012 "
 MA-L,D07602,"Hui Zhou Gaoshengda Technology Co.,LTD","No.2,Jin-da Road,Huinan Industrial Park Hui Zhou Guangdong CN 516025 "
+MA-L,6CEFBD,Cisco Meraki,500 Terry A. Francois Blvd San Francisco  US 94158 
+MA-L,84821B,PROX SG Pte Ltd,"39 Woodlands Close, 
+#03-32 Mega@Woodlands Singapore  SG 737856 "
 MA-L,94BDBE,"TPV Display Technology (Xiamen) Co.,Ltd.","No.1, Xianghai Road, Xiamen Torch Hi-Tech Industrial Development Zone XM Fujian CN 361101 "
 MA-L,940BFA,EM Microelectronic,Rue des Sors 3 Marin-Epagnier Neuchatel CH 2074 
 MA-L,80A579,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
@@ -20993,15 +20996,16 @@ MA-L,7CB59F,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan
 MA-L,505C88,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
 MA-L,0C4BEE,Texas Instruments,12500 TI Blvd Dallas TX US 75243 
 MA-L,30138B,HP Inc.,10300 Energy Dr Spring TX US 77389 
-MA-L,E4D3AA,FCNT LLC,"Sanki Yamato Building, 7-10-1 Chuorinkan Yamato Kanagawa JP 242-8588 "
 MA-L,606832,"Guangdong Seneasy Intelligent Technology Co., Ltd.","No. 63, Huitai Industrial Park, Huizhou City, Guangdong Province CN 516000 "
-MA-L,142876,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
-MA-L,147FCE,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
-MA-L,B0D576,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
-MA-L,6CC3B2,Cisco Meraki,500 Terry A. Francois Blvd San Francisco  US 94158 
 MA-L,8433F2,"Shenzhen Stellamore Technology Co.,Ltd","8th Floor, R&D Complex Building
 Baoyunda Logistics Center
 Fuhua Community, Xixiang Street, Bao'an Shenzhen Guangdong CN 518100 "
+MA-L,28D043,AzureWave Technology Inc.,"8F., No. 94, Baozhong Rd. New Taipei City Taiwan TW 231 "
+MA-L,E4D3AA,FCNT LLC,"Sanki Yamato Building, 7-10-1 Chuorinkan Yamato Kanagawa JP 242-8588 "
+MA-L,B0D576,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
+MA-L,142876,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
+MA-L,147FCE,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
+MA-L,6CC3B2,Cisco Meraki,500 Terry A. Francois Blvd San Francisco  US 94158 
 MA-L,B00C9D,"Quectel Wireless Solutions Co.,Ltd.","7th Floor, Hongye Building, No.1801 Hongmei Road, Xuhui District Shanghai  CN 200233 "
 MA-L,F0AB1F,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
 MA-L,7CB30A,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
