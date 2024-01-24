@@ -1263,7 +1263,6 @@ MA-M,50A0308,GE Medical System China Co. Ltd.,No. 19 ChangJiang Road National Hi
 MA-M,50A0303,RealWear (Shanghai) Intelligent Technology Co. Ltd,"2F,Block21, No.55 Chuanhe Road, Pudong New District Shanghai Shanghai CN 201210 "
 MA-M,50A0300,Gopod Group Limited,"5-6/f,building 8,Lianjian Industrial Park,Longhua Shenzhen  CN 518109 "
 MA-M,50A030C,"GUANGZHOU UNIPOWER COMPUTER CO.,LTD","Room 3203, No. 233 Tianhe North Road, Tianhe District, Guangzhou  CN 510000 "
-MA-M,08F80DD,"ZHEJIANG EV-TECH.,LTD",NO.505 WENCHANG RD DIPU ST ANJIHUZHOU ZHEJIANG CHINA HANGZHOU ZHEJIANG CN 310012 
 MA-M,94C9B74,"Zhejiang Hengjie Communication Technology Co,. Ltd.","East 3F 23Building, Wenzhou National University Science Park, NO. 89 FengFang road, Ouhai econmic development Zone, Wenzhou Zhejiang CN 325000 "
 MA-M,08F80D6,"SEDA CHEMICAL PRODUCTS CO., LTD.","No 56, Bade Rd., Yingge Dist., New Taipei City  TW 23942 "
 MA-M,08F80D9,Benelink Technology Inc.,"6F, No.95, Xinhu 1st Rd., Neihu Dist. Taipei  TW 114 "
@@ -2057,6 +2056,7 @@ MA-M,78E9966,Kilews,"No.30,Lane 83, Huacheng Road, Xinzhuang Dist.,New Taipei Ci
 MA-M,78E9962,STIEBEL ELTRON GMBH & CO. KG,Dr.-Stiebel-Strasse 33 Holzminden  DE 37603 
 MA-M,34C8D6B,"Yuanzhou Intelligent (Shenzhen) Co., Ltd.","Rm 301, No.10 Xinggong 1st Rd., Yutang St., Guangming Dist.  Shenzhen Guangdong CN 518000 "
 MA-M,80A5797,Siemens Energy Global GmbH & Co. KG,Otto-Hahn-Ring 6 München  DE 81739 
+MA-M,08F80DD,"Zhe Jiang EV-Tech Co.,Ltd",NO.505 WENCHANG RD DIPU ST ANJIHUZHOU ZHEJIANG CHINA HANGZHOU ZHEJIANG CN 310012 
 MA-M,B84C87A,"Altronix , Corp","140 58th St. Bldg A, Ste 2N Brooklyn NY US 11220 "
 MA-M,8CC8F47,TableSafe,"12220 113th Ave NE, Suite 220 Kirkland WA US 98034 "
 MA-M,58E8760,"Zhuhai Raysharp Technology Co.,Ltd","No.100 of Keji Liu Rd.6, Hi-Tech Zone Zhuhai Guangdong CN  519080 "
@@ -4169,6 +4169,8 @@ MA-M,78E996B,CelAudio (Beijing) Technology Inc,"B5-1201, Fulitaoyuan, Jiancaiche
 MA-M,34C8D6A,"Shenzhen Jooan Technology  Co., Ltd","Area B, Floor 101-2, Floor 3, Floor 5 and Floor 6 of area B, Building No. 8, Guixiang Community Plaza Road, Guanlan Street, Longhua District, Shenzhen.  Shenzhen Guangdong CN 518000 "
 MA-M,80A579A,ViewSonic Corp,"10 Point Drive Brea, CA 92821 USA LA CA US 92821 "
 MA-M,80A5793,Tool-Temp AG,Industriestrasse 30 Sulgen  CH 8583 
+MA-M,80A579B,Ground Control Technologies UK Ltd.,"Unit 8, Fulcrum 2
+Solent Way Whiteley Hampshire GB PO15 7FN "
 MA-M,C85CE20,Fela Management AG ,Basadingerstrasse 18 Diessenhofen  CH 8253 
 MA-M,B84C87E,Private,
 MA-M,B84C871,em-trak,"wireless house,
@@ -5234,3 +5236,4 @@ MA-M,34C8D6D,eight,16-18 Taylors Road Morningside Auckland NZ 1025
 MA-M,34C8D66,Signalwing Corporation,"Building C4, Zone C, Fuhai International Science and Technology Park, Zhancheng
 Community, Fuhai Street, Baoan District Shenzhen Guangdong CN 518103 "
 MA-M,80A579C,BluArmor,"AptEner Mechatronics Pvt Ltd, No. R 32, V N Arcade, II Phase KSSIDC Industrial Estate I Cross Bommansandra Industrial Area, Jigani Link Rd, Yarandahalli Circle Bengaluru Karnataka IN 560099 "
+MA-M,80A5795,"Potron Technology Co.,Ltd.,","708 Bldg.B, Qian wan Key&Core Technology Industrial Park, Shenzhen,China 518126 Shenzhen Guangdong CN 518000 "

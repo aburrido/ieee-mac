@@ -7328,12 +7328,6 @@ C00000-CFFFFF     (base 16)		GUANGZHOU UNIPOWER COMPUTER CO.,LTD
 				Guangzhou    510000
 				CN
 
-08-F8-0D   (hex)		ZHEJIANG EV-TECH.,LTD
-D00000-DFFFFF     (base 16)		ZHEJIANG EV-TECH.,LTD
-				NO.505 WENCHANG RD DIPU ST ANJIHUZHOU ZHEJIANG CHINA
-				HANGZHOU  ZHEJIANG  310012
-				CN
-
 94-C9-B7   (hex)		Zhejiang Hengjie Communication Technology Co,. Ltd.
 400000-4FFFFF     (base 16)		Zhejiang Hengjie Communication Technology Co,. Ltd.
 				East 3F 23Building, Wenzhou National University Science Park, NO. 89 FengFang road, Ouhai econmic development Zone,
@@ -12079,6 +12073,12 @@ B00000-BFFFFF     (base 16)		Yuanzhou Intelligent (Shenzhen) Co., Ltd.
 				Otto-Hahn-Ring 6
 				München    81739
 				DE
+
+08-F8-0D   (hex)		Zhe Jiang EV-Tech Co.,Ltd
+D00000-DFFFFF     (base 16)		Zhe Jiang EV-Tech Co.,Ltd
+				NO.505 WENCHANG RD DIPU ST ANJIHUZHOU ZHEJIANG CHINA
+				HANGZHOU  ZHEJIANG  310012
+				CN
 
 B8-4C-87   (hex)		Altronix , Corp
 A00000-AFFFFF     (base 16)		Altronix , Corp
@@ -24455,6 +24455,12 @@ A00000-AFFFFF     (base 16)		ViewSonic Corp
 				Sulgen    8583
 				CH
 
+80-A5-79   (hex)		Ground Control Technologies UK Ltd.
+B00000-BFFFFF     (base 16)		Ground Control Technologies UK Ltd.
+				Unit 8, Fulcrum 2Solent Way
+				Whiteley  Hampshire  PO15 7FN
+				GB
+
 C8-5C-E2   (hex)		Fela Management AG 
 000000-0FFFFF     (base 16)		Fela Management AG 
 				Basadingerstrasse 18
@@ -30679,3 +30685,9 @@ C00000-CFFFFF     (base 16)		BluArmor
 				AptEner Mechatronics Pvt Ltd, No. R 32, V N Arcade, II Phase KSSIDC Industrial Estate I Cross Bommansandra Industrial Area, Jigani Link Rd, Yarandahalli Circle
 				Bengaluru  Karnataka  560099
 				IN
+
+80-A5-79   (hex)		Potron Technology Co.,Ltd.,
+500000-5FFFFF     (base 16)		Potron Technology Co.,Ltd.,
+				708 Bldg.B, Qian wan Key&Core Technology Industrial Park, Shenzhen,China 518126
+				Shenzhen  Guangdong  518000
+				CN
