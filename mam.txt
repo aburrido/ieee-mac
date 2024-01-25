@@ -24449,17 +24449,23 @@ A00000-AFFFFF     (base 16)		ViewSonic Corp
 				LA  CA  92821
 				US
 
-80-A5-79   (hex)		Tool-Temp AG
-300000-3FFFFF     (base 16)		Tool-Temp AG
-				Industriestrasse 30
-				Sulgen    8583
-				CH
-
 80-A5-79   (hex)		Ground Control Technologies UK Ltd.
 B00000-BFFFFF     (base 16)		Ground Control Technologies UK Ltd.
 				Unit 8, Fulcrum 2Solent Way
 				Whiteley  Hampshire  PO15 7FN
 				GB
+
+80-A5-79   (hex)		Benano Inc.
+000000-0FFFFF     (base 16)		Benano Inc.
+				3F., No.100, Ruiguang Rd.,
+				Neihu Dist., Taipei City  Taipei City  114
+				TW
+
+80-A5-79   (hex)		Tool-Temp AG
+300000-3FFFFF     (base 16)		Tool-Temp AG
+				Industriestrasse 30
+				Sulgen    8583
+				CH
 
 C8-5C-E2   (hex)		Fela Management AG 
 000000-0FFFFF     (base 16)		Fela Management AG 
