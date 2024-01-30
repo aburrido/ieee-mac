@@ -6995,17 +6995,17 @@ B2A000-B2AFFF     (base 16)		Lumiplan Duhamel
 				Lurano  Bergamo  24050
 				IT
 
-8C-1F-64   (hex)		Grossenbacher Systeme AG
-B18000-B18FFF     (base 16)		Grossenbacher Systeme AG
-				Spinnereistrasse 10
-				St. Gallen    9008
-				CH
-
 8C-1F-64   (hex)		TILAK INTERNATIONAL
 364000-364FFF     (base 16)		TILAK INTERNATIONAL
 				E 53 SITE B SURAJPUR INDUSTRIAL AREA 
 				GAUTAM BUDH NAGAR  UTTAR PRADESH  210308
 				IN
+
+8C-1F-64   (hex)		AirScan, Inc. dba HemaTechnologies
+BBE000-BBEFFF     (base 16)		AirScan, Inc. dba HemaTechnologies
+				67 Beaver AveStratford Building, Suite 14
+				Annandale  NJ  08801
+				US
 
 8C-1F-64   (hex)		TaskUnite Inc. (dba AMPAworks)
 00A000-00AFFF     (base 16)		TaskUnite Inc. (dba AMPAworks)
@@ -7013,11 +7013,11 @@ B18000-B18FFF     (base 16)		Grossenbacher Systeme AG
 				Buffalo  NY  14203
 				US
 
-8C-1F-64   (hex)		AirScan, Inc. dba HemaTechnologies
-BBE000-BBEFFF     (base 16)		AirScan, Inc. dba HemaTechnologies
-				67 Beaver AveStratford Building, Suite 14
-				Annandale  NJ  08801
-				US
+8C-1F-64   (hex)		Grossenbacher Systeme AG
+B18000-B18FFF     (base 16)		Grossenbacher Systeme AG
+				Spinnereistrasse 10
+				St. Gallen    9008
+				CH
 
 8C-1F-64   (hex)		Jacobs Technology, Inc.
 A98000-A98FFF     (base 16)		Jacobs Technology, Inc.
@@ -14059,6 +14059,12 @@ FE5000-FE5FFF     (base 16)		Truenorth
 				Coastal Huanqing Building, No. 24 Futian Road, Xuzhen Community, Futian Street, Futian District
 				Shenzhen  Guangdong  518033
 				CN
+
+8C-1F-64   (hex)		Cominfo, Inc.
+8E4000-8E4FFF     (base 16)		Cominfo, Inc.
+				Nabrezi 695
+				Zlin    760 01
+				CZ
 
 8C-1F-64   (hex)		Vision Systems Safety Tech
 E6F000-E6FFFF     (base 16)		Vision Systems Safety Tech
@@ -28007,6 +28013,18 @@ BB7000-BB7FFF     (base 16)		JIANGXI LV C-CHONG CHARGING TECHNOLOGY CO.LTD
 				Leioa  Vizcaya  48940
 				ES
 
+8C-1F-64   (hex)		SFERA srl
+858000-858FFF     (base 16)		SFERA srl
+				Via Borromeo, 68
+				San Casciano in Val di Pesa  Firenze  50026
+				IT
+
+8C-1F-64   (hex)		Triamec Motion AG
+C08000-C08FFF     (base 16)		Triamec Motion AG
+				Lindenstrasse 16
+				Baar    6340
+				CH
+
 8C-1F-64   (hex)		Mobileye
 D63000-D63FFF     (base 16)		Mobileye
 				13 Hartom st.
@@ -34882,3 +34900,15 @@ D5D000-D5DFFF     (base 16)		Genius Vision Digital Private Limited
 				S-39, GF JANTA MARKET, RAJOURI GARDEN,NEW DELHI - 110027
 				new delhi  new delhi  110027
 				IN
+
+8C-1F-64   (hex)		DUEVI SRL
+375000-375FFF     (base 16)		DUEVI SRL
+				VIA BARD 12/A
+				TORINO  TORINO  10142
+				IT
+
+8C-1F-64   (hex)		Amiad Water Systems
+E33000-E33FFF     (base 16)		Amiad Water Systems
+				Kibbutz Amiad
+				Amiad  Galil  12335
+				IL
