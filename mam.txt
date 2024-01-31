@@ -30739,3 +30739,9 @@ D00000-DFFFFF     (base 16)		Guangdong Province Ivsuan technology co., ltd
 				No.803-2,Block 20,Dongyiwan Yihu House,Waihuan Road No.16, Xiaohuangpu Community, Ronggui Street,Shunde District,
 				Foshan  Guangdong  528306
 				CN
+
+80-A5-79   (hex)		Unplugged Technologies Ltd.
+E00000-EFFFFF     (base 16)		Unplugged Technologies Ltd.
+				3 Hakidma st., Yokneam
+				Yokneam    2066731
+				IL
