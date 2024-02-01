@@ -12098,6 +12098,18 @@ D00000-DFFFFF     (base 16)		Zhe Jiang EV-Tech Co.,Ltd
 				Plovdiv    4000
 				BG
 
+90-15-64   (hex)		final Inc.
+600000-6FFFFF     (base 16)		final Inc.
+				4-44-1, Nakasaiwai-cho, Saiwai-Ku
+				Kawasaki  Kanagawa  212-0012
+				JP
+
+90-15-64   (hex)		Shanghai AMP&MOONS'Automation Co.,Ltd.
+B00000-BFFFFF     (base 16)		Shanghai AMP&MOONS'Automation Co.,Ltd.
+				No.168, Mingjia Road, Minbei industrial Park
+				Shanghai  Shanghai  201107
+				CN
+
 B8-4C-87   (hex)		Altronix , Corp
 A00000-AFFFFF     (base 16)		Altronix , Corp
 				140 58th St. Bldg A, Ste 2N
