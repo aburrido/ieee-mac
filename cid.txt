@@ -1057,3 +1057,9 @@ EA9FB1                        (base 16)                     Philips Internationa
                                                             beijing,haidian                              
                                                             beijing  beijing  100000                     
                                                             CN                                           
+
+5A-ED-67                      (hex)                         GoldiLink Technology Corp.                   
+5AED67                        (base 16)                     GoldiLink Technology Corp.                   
+                                                            Address: 6F.-2, No. 38, Beida Rd., Hsinchu City 300024 , Taiwan 
+                                                            Hsinchu City     300024                      
+                                                            TW                                           
