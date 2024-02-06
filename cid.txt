@@ -434,6 +434,12 @@ AA0F85                        (base 16)                     Yamaichi Electronics
                                                             Raleigh  NC  27609                           
                                                             US                                           
 
+0A-35-F2                      (hex)                         Integrated Technical Vision Ltd              
+0A35F2                        (base 16)                     Integrated Technical Vision Ltd              
+                                                            Mykoly Hrinchenka str. 2/1                   
+                                                            Kyiv  Kyiv  03038                            
+                                                            UA                                           
+
 8A-85-2E                      (hex)                         Kampr Systems                                
 8A852E                        (base 16)                     Kampr Systems                                
                                                             2047 Kings Lane                              
