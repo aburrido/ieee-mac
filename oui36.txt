@@ -7025,6 +7025,18 @@ BFD000-BFDFFF     (base 16)		Lumentum
 				Nepean  ON  K2J 0P7
 				CA
 
+8C-1F-64   (hex)		Artome Oy
+722000-722FFF     (base 16)		Artome Oy
+				Syrjäläntie 81
+				VIERUMÄKI    19110
+				FI
+
+8C-1F-64   (hex)		INVENTIA Sp. z o.o.
+A13000-A13FFF     (base 16)		INVENTIA Sp. z o.o.
+				Poleczki 23
+				Warszawa  Mazowieckie  02-822
+				PL
+
 8C-1F-64   (hex)		Jacobs Technology, Inc.
 A98000-A98FFF     (base 16)		Jacobs Technology, Inc.
 				7765 Old Telegraph Road
@@ -14096,6 +14108,12 @@ BF5000-BF5FFF     (base 16)		The Urban Jungle Project
 				Cuijk  Noord-Brabant  5431 LB
 				NL
 
+8C-1F-64   (hex)		Cristal Controles Ltee
+014000-014FFF     (base 16)		Cristal Controles Ltee
+				2025 Lavoisier #135
+				Quebec    G1N 4L6
+				CA
+
 8C-1F-64   (hex)		Vision Systems Safety Tech
 E6F000-E6FFFF     (base 16)		Vision Systems Safety Tech
 				5 Chemin de Chiradie
@@ -21061,6 +21079,12 @@ AB6000-AB6FFF     (base 16)		EMIT GmbH
 				Dr.-Otto-Leich-Str. 16
 				Eckental  Bavaria  90542
 				DE
+
+8C-1F-64   (hex)		SBS SpA
+2CC000-2CCFFF     (base 16)		SBS SpA
+				via Circonvallazione s/n
+				Miasino  NO  28010
+				IT
 
 8C-1F-64   (hex)		Flow Power
 82B000-82BFFF     (base 16)		Flow Power
