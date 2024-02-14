@@ -21086,6 +21086,12 @@ AB6000-AB6FFF     (base 16)		EMIT GmbH
 				Miasino  NO  28010
 				IT
 
+8C-1F-64   (hex)		YUYAMA MFG Co.,Ltd
+2A4000-2A4FFF     (base 16)		YUYAMA MFG Co.,Ltd
+				1-4-30
+				MEISHINGUCHI,TOYONAKA  OSAKA  561-0841
+				JP
+
 8C-1F-64   (hex)		Flow Power
 82B000-82BFFF     (base 16)		Flow Power
 				Suite 2, Level 3, 18 - 20 York St
