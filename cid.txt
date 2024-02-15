@@ -440,6 +440,12 @@ AA0F85                        (base 16)                     Yamaichi Electronics
                                                             Kyiv  Kyiv  03038                            
                                                             UA                                           
 
+0A-AB-8C                      (hex)                         Midwest Microwave Solutions Inc.             
+0AAB8C                        (base 16)                     Midwest Microwave Solutions Inc.             
+                                                            2000 Progress Drive                          
+                                                            Hiawatha  IA  52233                          
+                                                            US                                           
+
 8A-85-2E                      (hex)                         Kampr Systems                                
 8A852E                        (base 16)                     Kampr Systems                                
                                                             2047 Kings Lane                              
