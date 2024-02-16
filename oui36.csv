@@ -545,7 +545,6 @@ MA-S,70B3D5287,Hypex Electronics BV,Kattegat 8 Groningen Groningen NL 9723 JP
 MA-S,70B3D5545,Airity Technologies Inc.,1505 Woodside Rd Redwood City CA US 94061 
 MA-S,70B3D5C24,Elbit Systems of America,4700 Marine Creek Parkway Fort Worth TX US 76179 
 MA-S,70B3D5DE5,ASML,17075 Thornmint Ct San Diego  US 92127 
-MA-S,70B3D5ED8,Wartsila Voyage Limited,13-18 City Quay Dublin 2  IE D02 ED70 
 MA-S,70B3D549B,Algodue Elettronica Srl,Via Passerina 3/A Fontaneto d'Agogna Novara IT 28010 
 MA-S,70B3D5E40,Siemens Mobility GmbH - MO TI SPA,Rudower Chaussee 29 Berlin Berlin DE 12489 
 MA-S,70B3D5FCB,Tieline Research Pty Ltd,PO Box 2092 MALAGA Western Australia AU 6944 
@@ -760,7 +759,6 @@ MA-S,70B3D5778,Lumacron Technology Ltd.,"4 Pitreavie Court, Pitreavie Business P
 MA-S,70B3D504A,Gecko Robotics Inc,"6901 Lynn Way, Suite 310 Pittsburgh PA US 15208 "
 MA-S,70B3D5FBD,MB connect line GmbH Fernwartungssysteme,Winnettener Straße 6 Dinkelsbuehl Bavaria DE 91550 
 MA-S,70B3D5A8B,Giant Power Technology Biomedical Corporation,"Rm201, 2nd Educational Building, No. 84, Gongzhuan Rd, Taishan Dist New Taipei City  TW 24301 "
-MA-S,70B3D5A05,Wartsila Voyage Limited,13-18 City Quay Dublin 2  IE D02 ED70 
 MA-S,70B3D5E2C,Fourth Frontier Technologies Private Limited,"91 Bhuvaneshwari Nagar, CV Raman Nagar Post Bangalore Karnataka IN 560093 "
 MA-S,70B3D54C2,hera Laborsysteme GmbH,Hermann-Rapp-Str. 40 Blaufelden  DE 74572 
 MA-S,70B3D5AA6,Proximus,Bld du Roi Albert II 27 Brussels  BE 1030 
@@ -1173,6 +1171,8 @@ MA-S,8C1F6438F,Unabiz,"10F., No. 618, Ruiguang Rd., Neihu Dist. Taipei City, Tai
 MA-S,70B3D5BFD,Lumentum,61 Bill Leathem Dr Nepean ON CA K2J 0P7 
 MA-S,8C1F64722,Artome Oy,Syrjäläntie 81 VIERUMÄKI  FI 19110 
 MA-S,8C1F64A13,INVENTIA Sp. z o.o.,Poleczki 23 Warszawa Mazowieckie PL 02-822 
+MA-S,70B3D5A05,Wartsila Voyage Oy,Hiililaiturinkuja 2 Helsinki  FI 00180 
+MA-S,70B3D5ED8,Wartsila Voyage Oy,Hiililaiturinkuja 2 Helsinki  FI 00180 
 MA-S,8C1F64A98,"Jacobs Technology, Inc.",7765 Old Telegraph Road Severn MD US 21144 
 MA-S,8C1F644A9,Martec Marine S.p.a.,Via dell'industria 1/3 Vignate Milano IT 20052 
 MA-S,8C1F64DE5,Gogo Business Aviation,"105 Edgeview Dr., Suite 300 Broomfield CO US 80021 "
@@ -1342,7 +1342,6 @@ MA-S,8C1F64E7C,"Ashinne Technology Co., Ltd","10F-1, No.18, Lane 609, Sec.5, Chu
 MA-S,8C1F64AC5,Forever Engineering Systems Pvt. Ltd.,"B-817, 8th floor, Advant Navis Business Park, Sector-142 NOIDA Uttar Pradesh IN 201301 "
 MA-S,8C1F6454F,"Toolplanet Co., Ltd.",43-2 Himigaike-cho Gifu-shi Gifu JP 500-8122 
 MA-S,8C1F6452D,"Cubic ITS, Inc. dba GRIDSMART Technologies",10545 Hardin Valley Rd Knoxville TN US 37932 
-MA-S,8C1F6438E,Wartsila Voyage Limited,13-18 City Quay Dublin 2  IE D02 ED70 
 MA-S,8C1F64FA2,"AZD Praha s.r.o., ZOZ Olomouc",Zeleznicni Olomouc czech republic CZ 77900 
 MA-S,8C1F64702,AIDirections,Torch Tower Dubai Dubai AE 74249 
 MA-S,8C1F64943,Autark GmbH,Platz des Friedens 8 Baunatal Hessen DE D-34225 
@@ -2092,7 +2091,6 @@ MA-S,70B3D5C3B,Vironova AB,Gävlegatan 22 Stockholm  SE 11330
 MA-S,70B3D566B,Innitive B.V.,Brouwerijstraat 20 Enschede Overijssel NL 7523xd 
 MA-S,70B3D51B4,5nines,"Avalon Four, Mill Street Cape Town Western Cape ZA 8001 "
 MA-S,70B3D5996,XpertSea Solutions inc.,2700 Jean-Perrin suite 170 Québec QC CA G2C 1S9 
-MA-S,70B3D59D4,Wartsila Voyage Limited,13-18 City Quay Dublin 2  IE D02 ED70 
 MA-S,70B3D5BB8,Al Kamel Systems S.L.,"Priora Xixilona, 93 La Garriga Barcelona ES 08530 "
 MA-S,70B3D5671,Sea Shell Corporation,"10th Fl. Chuohtanimachi bldg. 9-3-7, Tanimachi, Chuohku Osaka  JP 542-0012 "
 MA-S,70B3D5FC1,InDiCor,Kornstr. 18 Horgenzell  DE 88263 
@@ -2354,6 +2352,8 @@ MA-S,8C1F64352,Mediashare Ltd,"Unit G, Bridge Close Dartford Kent GB DA2 6QP "
 MA-S,8C1F64BF5,The Urban Jungle Project,Beerseweg 45  Cuijk Noord-Brabant NL 5431 LB 
 MA-S,8C1F64014,Cristal Controles Ltee,2025 Lavoisier #135 Quebec  CA G1N 4L6 
 MA-S,8C1F64779,INVENTIO DI NICOLO' BORDOLI,"Via Roma, 21 Senna Comasco Como IT 22070 "
+MA-S,70B3D59D4,Wartsila Voyage Oy,Hiililaiturinkuja 2 Helsinki  FI 00180 
+MA-S,8C1F6438E,Wartsila Voyage Oy,Hiililaiturinkuja 2 Helsinki  FI 00180 
 MA-S,8C1F64E6F,Vision Systems Safety Tech,5 Chemin de Chiradie Brignais  FR 69530 
 MA-S,70B3D5119,YPP Corporation,24 Geumchon-gu Seoul KR 153-802 
 MA-S,8C1F64D09,"Minartime(Beijing)Science &Technology Development Co.,Ltd","1201B, 12th Floor, Building 4, No. 2 Ronghua South Road Beijing Economic and Technological Development Zone, Beijing (Yizhuang Group, High-end Industrial Area, Beijing Pilot Free Trade Zone) Beijing  CN 100176 "
@@ -3019,7 +3019,6 @@ MA-S,70B3D5E69,Fire4 Systems UK Ltd,8 Regent Street Leeds West Yorkshire GB LS7 
 MA-S,70B3D57EA,Waterkotte GmbH,Gewerkenstr. 15 Herne  DE 44628 
 MA-S,70B3D53B5,Preston Industries dba PolyScience,6600 W. Touhy Ave Niles IL US 60714-4588 
 MA-S,70B3D56E9,Krontech,"I.T.U ARI 3 Teknokent Kron Telekomunikasyon, Maslak Istanbul  TR 34467 "
-MA-S,70B3D5304,Wartsila Voyage Limited,13-18 City Quay Dublin 2  IE D02 ED70 
 MA-S,70B3D52B7,Matrix Orbital Corporation,"Suite 602, 4774 Westwinds Dr NE Calgary Alberta CA T3J 0L7 "
 MA-S,70B3D59E6,BLOCKSI LLC,228 Hamilton avenue 3rd floor Palo Alto  US 94301 
 MA-S,70B3D57BF,Stone Three,24 Gardner Williams Ave Somerset West Western Cape ZA 7130 
@@ -3517,11 +3516,12 @@ MA-S,8C1F64C9E,CytoTronics,38 Wareham St FL 3 Boston MA US 02118
 MA-S,8C1F64FF9,Vtron Pty Ltd,"Unit 2, 62 Township Drive West West Burleigh Queensland AU 4219 "
 MA-S,8C1F64AB6,EMIT GmbH,Johannes-Mauthe-Straße 14 Albstadt Baden Württemberg DE 72458 
 MA-S,8C1F645D0,Image Engineering,7525 Perryman Court Baltimore MD US 21226 
-MA-S,8C1F64280,HEITEC AG,Dr.-Otto-Leich-Str. 16 Eckental Bavaria DE 90542 
-MA-S,8C1F642CC,SBS SpA,via Circonvallazione s/n Miasino NO IT 28010 
-MA-S,8C1F642A4,"YUYAMA MFG Co.,Ltd","1-4-30 MEISHINGUCHI,TOYONAKA OSAKA JP 561-0841 "
 MA-S,8C1F64481,VirtualV Trading Limited,1 Innovation Way Cramlington Northumberland GB NE23 7FP 
 MA-S,8C1F64E47,BRS Sistemas Eletrônicos,"Rua Capistrano de Abreu, 68 Canoas RS BR 92120130 "
+MA-S,8C1F642A4,"YUYAMA MFG Co.,Ltd","1-4-30 MEISHINGUCHI,TOYONAKA OSAKA JP 561-0841 "
+MA-S,8C1F64280,HEITEC AG,Dr.-Otto-Leich-Str. 16 Eckental Bavaria DE 90542 
+MA-S,8C1F642CC,SBS SpA,via Circonvallazione s/n Miasino NO IT 28010 
+MA-S,70B3D5304,Wartsila Voyage Oy,Hiililaiturinkuja 2 Helsinki  FI 00180 
 MA-S,8C1F6482B,Flow Power,"Suite 2, Level 3, 18 - 20 York St Sydney  AU 2000 "
 MA-S,8C1F645A7,RCH SPA,Via Cendon 39 Silea  IT 31057 
 MA-S,8C1F64049,NUANCES ORG,92 AVENUE DE WAGRAM PARIS  FR 75017 
@@ -4734,7 +4734,6 @@ MA-S,70B3D54DA,RADA Electronics Industries Ltd.,7 Gibory Israel St. Netanya  IL 
 MA-S,8C1F648A8,Massachusetts Institute of Technology,77 Massachusetts Ave Room W92-190 Cambridge MA US 02139 
 MA-S,8C1F64924,Magics Technologies,Cipalstraat 3 Geel Antwerp BE 2440 
 MA-S,8C1F64880,MB connect line GmbH Fernwartungssysteme,Winnettener Straße 6 Dinkelsbuehl Bavaria DE 91550 
-MA-S,8C1F6449B,Wartsila Voyage Limited,13-18 City Quay Dublin 2  IE D02 ED70 
 MA-S,8C1F64C12,PHYSEC GmbH,Suttner-Nobel-Allee 7 Bochum  DE 44803 
 MA-S,8C1F64B2F,Mtechnology - Gamma Commerciale Srl,dell'artigianato Carpiano MI IT 20080 
 MA-S,8C1F6420C,"Shanghai Stairmed Technology Co.,ltd","Floor 3,Unit 1,Buliding 4,No.160,Basheng Road,Pudong Shanghai Shanghai CN 200131 "
@@ -5593,7 +5592,6 @@ MA-S,70B3D5494,Schildknecht AG,Haugweg 26 Murr  DE 71711
 MA-S,70B3D5F6E,Streambox Inc,1848 Westlake Ave N Seattle WA US 98109 
 MA-S,70B3D5D76,attocube systems AG,Koeniginstrasse 11A Muenchen  DE 80997 
 MA-S,70B3D5AE0,"AnyComm.Co.,Ltd.","3F, 54, Simin-daero 327beon-gil Dongan-gu Anyang-si Gyeonggi-do Gyeonggi-do KR 14055 "
-MA-S,70B3D5AE2,Wartsila Voyage Limited,13-18 City Quay Dublin 2  IE D02 ED70 
 MA-S,70B3D5266,Spectra Displays Ltd,Unit 25 Lancaster Way Business Park Ely Cambridgeshire GB CB6 3NW 
 MA-S,70B3D516E,Jemac Sweden AB,Trångsundsvägen 20A Kalmar  SE 39356 
 MA-S,70B3D578E,effectas GmbH,Bundesstrasse 6 Zug  CH 6300 
@@ -5855,3 +5853,5 @@ MA-S,8C1F64E33,Amiad Water Systems,Kibbutz Amiad Amiad Galil IL 12335
 MA-S,8C1F64375,DUEVI SRL,VIA BARD 12/A TORINO TORINO IT 10142 
 MA-S,8C1F64F08,ADVANTOR CORPORATION,12612 CHALLENGER PARKWAY  ORLANDO   US 32826 
 MA-S,8C1F64813,Pribusin Inc.,743 Marquette Ave. Muskegon MI US 49442 
+MA-S,70B3D5AE2,Wartsila Voyage Oy,Hiililaiturinkuja 2 Helsinki  FI 00180 
+MA-S,8C1F6449B,Wartsila Voyage Oy,Hiililaiturinkuja 2 Helsinki  FI 00180 
