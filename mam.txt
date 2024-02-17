@@ -24587,6 +24587,12 @@ A00000-AFFFFF     (base 16)		Bunka Shutter Co., Ltd.
 				Noida    201301
 				IN
 
+08-63-32   (hex)		A Paul Software Systems Pvt. Ltd.
+500000-5FFFFF     (base 16)		A Paul Software Systems Pvt. Ltd.
+				D-6/3, Okhla Phase 1
+				NEW DELHI  DL  110020
+				IN
+
 C8-5C-E2   (hex)		Fela Management AG 
 000000-0FFFFF     (base 16)		Fela Management AG 
 				Basadingerstrasse 18
@@ -30859,3 +30865,9 @@ A00000-AFFFFF     (base 16)		Dynacom Communication
 				No.15-1 Zhonghua RoadHsinchu Industrial Park
 				Hsinchu  TW  30352
 				TW
+
+08-63-32   (hex)		akYtec GmbH
+D00000-DFFFFF     (base 16)		akYtec GmbH
+				Vahrenwalder Str. 269A
+				Hannover    30179
+				DE
