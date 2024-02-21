@@ -6272,6 +6272,18 @@ E00000-EFFFFF     (base 16)		Great Talent Technology Limited
 				riyadh    12583
 				SA
 
+08-63-32   (hex)		ShenZhen YuanXiang Digital Technology Co., Ltd
+B00000-BFFFFF     (base 16)		ShenZhen YuanXiang Digital Technology Co., Ltd
+				1117-1, Block A, Building 5, Huaqiang Creative Industry Park, Feng'en Road, Biyan Community, Guangming Street, Guangming
+				ShenZhen  GuangDong  518107
+				CN
+
+08-63-32   (hex)		SOFTWARE-AUTOMATION-CONTROL JOINT STOCK COMPANY (CADPRO., JSC)
+700000-7FFFFF     (base 16)		SOFTWARE-AUTOMATION-CONTROL JOINT STOCK COMPANY (CADPRO., JSC)
+				No.11 Chau Long Street, Truc Bach Ward, Ba Dinh District
+				Hanoi    100000
+				VN
+
 B8-4C-87   (hex)		Shenzhen Link-all Technology Co., Ltd
 300000-3FFFFF     (base 16)		Shenzhen Link-all Technology Co., Ltd
 				Floor 5th, Block 9th, Sunny Industrial Zone, Xili Town, Nanshan District, Shenzhen, China 
@@ -12156,6 +12168,12 @@ B00000-BFFFFF     (base 16)		Shanghai AMP&MOONS'Automation Co.,Ltd.
 E00000-EFFFFF     (base 16)		Guiyag Electrlcal Control Equipment Co.,Ltd
 				No.126 Chuangji Street, Shawen National High-tech Industrial Park, High-tech Zone
 				Guiyang  Guizhou  550018
+				CN
+
+08-63-32   (hex)		Beijing KELIBANG Information technology Co.,LTD
+400000-4FFFFF     (base 16)		Beijing KELIBANG Information technology Co.,LTD
+				Building 2, Zhongguancun Internet Cultural and Creative Industrial Park, No. 61 West Balizhuang Road, Balizhuang Street, Haidian District
+				Beijing    100000
 				CN
 
 B8-4C-87   (hex)		Altronix , Corp
@@ -18467,6 +18485,12 @@ C00000-CFFFFF     (base 16)		LINAK A/S
 				Mail box 15123  Haifa  3508409
 				IL
 
+08-63-32   (hex)		Shanghai eCloud Technologies Co.,ltd
+100000-1FFFFF     (base 16)		Shanghai eCloud Technologies Co.,ltd
+				RM 805,Huitu Building , No.898 TongPu Rd,Shanghai,200333,P.R.C.
+				SHANGHAI  SHANGHAI  200333
+				CN
+
 08-63-32   (hex)		Eaton
 000000-0FFFFF     (base 16)		Eaton
 				EatonMTL Instruments Pvt Ltd, No:3, Old Mahabalipuram Road,Sholinganallur, Chennai 600119 India
@@ -18478,6 +18502,12 @@ C00000-CFFFFF     (base 16)		LINAK A/S
 				1942 Broadway St., STE 314C
 				Boulder  CO  80302
 				US
+
+08-63-32   (hex)		Swiftronix AB
+C00000-CFFFFF     (base 16)		Swiftronix AB
+				Ågatan 39
+				Linköping    58222
+				SE
 
 D0-14-11   (hex)		P.B. Elettronica srl
 100000-1FFFFF     (base 16)		P.B. Elettronica srl
@@ -30854,17 +30884,23 @@ D00000-DFFFFF     (base 16)		Jiangsu Kangjie Data Co., Ltd.
 				Zhenjiang  Jiangsu  212114
 				CN
 
-14-1F-BA   (hex)		Revenue Collection Systems France SAS
-600000-6FFFFF     (base 16)		Revenue Collection Systems France SAS
-				Zone Industrielle les Bordes
-				Le Plessis-Pate    91220
-				FR
+08-63-32   (hex)		in.hub GmbH
+800000-8FFFFF     (base 16)		in.hub GmbH
+				Technologie-Campus 1
+				Chemnitz  Saxony  09126
+				DE
 
 08-63-32   (hex)		Dynacom Communication
 A00000-AFFFFF     (base 16)		Dynacom Communication
 				No.15-1 Zhonghua RoadHsinchu Industrial Park
 				Hsinchu  TW  30352
 				TW
+
+14-1F-BA   (hex)		Revenue Collection Systems France SAS
+600000-6FFFFF     (base 16)		Revenue Collection Systems France SAS
+				Zone Industrielle les Bordes
+				Le Plessis-Pate    91220
+				FR
 
 08-63-32   (hex)		akYtec GmbH
 D00000-DFFFFF     (base 16)		akYtec GmbH
