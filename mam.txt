@@ -6272,17 +6272,23 @@ E00000-EFFFFF     (base 16)		Great Talent Technology Limited
 				riyadh    12583
 				SA
 
+08-63-32   (hex)		SOFTWARE-AUTOMATION-CONTROL JOINT STOCK COMPANY (CADPRO., JSC)
+700000-7FFFFF     (base 16)		SOFTWARE-AUTOMATION-CONTROL JOINT STOCK COMPANY (CADPRO., JSC)
+				No.11 Chau Long Street, Truc Bach Ward, Ba Dinh District
+				Hanoi    100000
+				VN
+
 08-63-32   (hex)		ShenZhen YuanXiang Digital Technology Co., Ltd
 B00000-BFFFFF     (base 16)		ShenZhen YuanXiang Digital Technology Co., Ltd
 				1117-1, Block A, Building 5, Huaqiang Creative Industry Park, Feng'en Road, Biyan Community, Guangming Street, Guangming
 				ShenZhen  GuangDong  518107
 				CN
 
-08-63-32   (hex)		SOFTWARE-AUTOMATION-CONTROL JOINT STOCK COMPANY (CADPRO., JSC)
-700000-7FFFFF     (base 16)		SOFTWARE-AUTOMATION-CONTROL JOINT STOCK COMPANY (CADPRO., JSC)
-				No.11 Chau Long Street, Truc Bach Ward, Ba Dinh District
-				Hanoi    100000
-				VN
+48-E6-63   (hex)		EARWEISS TECHNOLOGY (SHENZHEN) CO,. LTD
+700000-7FFFFF     (base 16)		EARWEISS TECHNOLOGY (SHENZHEN) CO,. LTD
+				Room 302, Block B, Fu'an Technology Building, NO.013 Gaoxin Nanyi Street, High-Tech park, Nanshan
+				Shenzhen  Select State  518000
+				CN
 
 B8-4C-87   (hex)		Shenzhen Link-all Technology Co., Ltd
 300000-3FFFFF     (base 16)		Shenzhen Link-all Technology Co., Ltd
@@ -18509,6 +18515,18 @@ C00000-CFFFFF     (base 16)		Swiftronix AB
 				Linköping    58222
 				SE
 
+08-63-32   (hex)		C-VUE (SHANGHAI) AUDIO TECHNOLOGY CO.,LTD
+E00000-EFFFFF     (base 16)		C-VUE (SHANGHAI) AUDIO TECHNOLOGY CO.,LTD
+				Room 348, Building 9, No. 128 Cheting Road, Chedun Town, Songjiang District, Shanghai
+				SHANGHAI  SHANGHAI  201611
+				CN
+
+48-E6-63   (hex)		Smile Security and Survillence Private Limited
+400000-4FFFFF     (base 16)		Smile Security and Survillence Private Limited
+				#21/2, Bhattarahalli, Old Madras Road, 14 KM,K.R.Puram
+				Bangalore  Karnataka  560049
+				IN
+
 D0-14-11   (hex)		P.B. Elettronica srl
 100000-1FFFFF     (base 16)		P.B. Elettronica srl
 				Via Santorelli, 8
@@ -24611,17 +24629,29 @@ A00000-AFFFFF     (base 16)		Bunka Shutter Co., Ltd.
 				Oyama  Tochigi  3230063
 				JP
 
+08-63-32   (hex)		A Paul Software Systems Pvt. Ltd.
+500000-5FFFFF     (base 16)		A Paul Software Systems Pvt. Ltd.
+				D-6/3, Okhla Phase 1
+				NEW DELHI  DL  110020
+				IN
+
+08-63-32   (hex)		TZMedical Inc.
+900000-9FFFFF     (base 16)		TZMedical Inc.
+				20497 SW Teton Ave Suite A
+				Tualatin  OR  97062
+				US
+
 08-63-32   (hex)		OVT India pvt Ltd 
 600000-6FFFFF     (base 16)		OVT India pvt Ltd 
 				C-45, Sector 57 Rd, Rajat Vihar, Block C, Sector 57, Noida, Uttar Pradesh 201301
 				Noida    201301
 				IN
 
-08-63-32   (hex)		A Paul Software Systems Pvt. Ltd.
-500000-5FFFFF     (base 16)		A Paul Software Systems Pvt. Ltd.
-				D-6/3, Okhla Phase 1
-				NEW DELHI  DL  110020
-				IN
+48-E6-63   (hex)		Nakamura-Tome Precision  Industry Co.,Ltd.
+B00000-BFFFFF     (base 16)		Nakamura-Tome Precision  Industry Co.,Ltd.
+				Ro-15 Netsuno-machi
+				Hakusan-shi  Ishikawa-ken  920-2195
+				JP
 
 C8-5C-E2   (hex)		Fela Management AG 
 000000-0FFFFF     (base 16)		Fela Management AG 
