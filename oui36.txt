@@ -21140,6 +21140,12 @@ D4F000-D4FFFF     (base 16)		Henan Creatbot Technology Limited
 				Zhengzhou  Henan  450000
 				CN
 
+8C-1F-64   (hex)		Pro-Custom Group
+BD5000-BD5FFF     (base 16)		Pro-Custom Group
+				13030 Alondra Blvd. unit 101
+				Cerritos  CA  90703
+				US
+
 8C-1F-64   (hex)		PuS GmbH und Co. KG
 BFE000-BFEFFF     (base 16)		PuS GmbH und Co. KG
 				Hainstr. 13
@@ -21151,12 +21157,6 @@ E71000-E71FFF     (base 16)		Alma
 				La Bastide Blanche Bat B4
 				Vitrolles  PACA  13127
 				FR
-
-8C-1F-64   (hex)		Pro-Custom Group
-BD5000-BD5FFF     (base 16)		Pro-Custom Group
-				13030 Alondra Blvd. unit 101
-				Cerritos  CA  90703
-				US
 
 8C-1F-64   (hex)		Flow Power
 82B000-82BFFF     (base 16)		Flow Power
