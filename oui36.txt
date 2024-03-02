@@ -13820,12 +13820,6 @@ B79000-B79FFF     (base 16)		AddSecure Smart Grids
 				Karlskrona    37175
 				SE
 
-8C-1F-64   (hex)		Taoglas IoT Solutions Ltd 
-80E000-80EFFF     (base 16)		Taoglas IoT Solutions Ltd 
-				DCU Alpha , Innovation House, Old Finglas Road 
-				DUBLIN 11  Dublin  D11 KXN4
-				IE
-
 8C-1F-64   (hex)		James G. Biddle dba Megger
 7B7000-7B7FFF     (base 16)		James G. Biddle dba Megger
 				400 Opportunity Way
@@ -14149,6 +14143,24 @@ BF5000-BF5FFF     (base 16)		The Urban Jungle Project
 				50 Cottage Ave
 				Lancaster  PA  17602
 				US
+
+8C-1F-64   (hex)		TxWireless Limited
+80E000-80EFFF     (base 16)		TxWireless Limited
+				DCU Alpha, Innovation Campus, Old Finglas Road
+				Dublin  Glasnevin  D11 KXN4
+				IE
+
+8C-1F-64   (hex)		Spacelite Inc
+43A000-43AFFF     (base 16)		Spacelite Inc
+				152 Bull Domingo Lane
+				Westcliffe  CO  81252
+				US
+
+8C-1F-64   (hex)		eumig industrie-TV GmbH.
+CA2000-CA2FFF     (base 16)		eumig industrie-TV GmbH.
+				Gewerbeparkstrasse 9
+				Anif  Salzburg  5081
+				AT
 
 8C-1F-64   (hex)		Vision Systems Safety Tech
 E6F000-E6FFFF     (base 16)		Vision Systems Safety Tech
@@ -19997,12 +20009,6 @@ D9C000-D9CFFF     (base 16)		Subinitial LLC
 				South San Francisco  CA  94080
 				US
 
-70-B3-D5   (hex)		eumig industrie-tv GmbH
-923000-923FFF     (base 16)		eumig industrie-tv GmbH
-				Gewerbeparkstr. 9
-				Anif  Salzburg  5081
-				AT
-
 70-B3-D5   (hex)		HOERMANN GmbH
 B78000-B78FFF     (base 16)		HOERMANN GmbH
 				Hauptstr. 45-47
@@ -21163,6 +21169,12 @@ E71000-E71FFF     (base 16)		Alma
 				La Bastide Blanche Bat B4
 				Vitrolles  PACA  13127
 				FR
+
+70-B3-D5   (hex)		eumig industrie-TV GmbH.
+923000-923FFF     (base 16)		eumig industrie-TV GmbH.
+				Gewerbeparkstr. 9
+				Anif  Salzburg  5081
+				AT
 
 8C-1F-64   (hex)		Flow Power
 82B000-82BFFF     (base 16)		Flow Power
@@ -28238,6 +28250,12 @@ D77000-D77FFF     (base 16)		Private
 				THOIRY    78770
 				FR
 
+8C-1F-64   (hex)		KAYSONS ELECTRICALS PRIVATE LIMITED
+22D000-22DFFF     (base 16)		KAYSONS ELECTRICALS PRIVATE LIMITED
+				SH 15/79 A, Shivpur
+				Varanasi  Uttar Pradesh  221003
+				IN
+
 8C-1F-64   (hex)		Mobileye
 D63000-D63FFF     (base 16)		Mobileye
 				13 Hartom st.
@@ -35179,3 +35197,9 @@ ACB000-ACBFFF     (base 16)		Villari B.V.
 				Oostsingel 209
 				Delft    2612HL
 				NL
+
+8C-1F-64   (hex)		Gogo Business Aviation
+2BF000-2BFFFF     (base 16)		Gogo Business Aviation
+				105 Edgeview Dr., Suite 300
+				Broomfield  CO  80021
+				US

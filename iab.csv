@@ -137,7 +137,6 @@ IAB,40D85511A,Sicon srl,Via Sila 1/3 Isola Vicentina Vicenza IT 36033
 IAB,40D855117,RCS Energy Management Limited,RMS House Newbury Berkshire GB RG14 5PX 
 IAB,40D855120,ObjectFab GmbH,Pohlandstrasse 19 Dresden  DE D-01309 
 IAB,40D8550FD,MONOGRAM technologies ltd,Ilkovicova 6276 Bratislava  SK 84216 
-IAB,40D8550FC,eumig industrie-tv GmbH,Gewerbeparkstr.9 Salzburg Anif AT 5081 
 IAB,40D855107,"Smith Meter, Inc",1602 Wagner Ave Erie PA US 16514 
 IAB,40D8550E8,HEITEC AG,Dr.-Otto-Leich-Str. 16 Eckental Bavaria DE 90542 
 IAB,40D8550EA,A-Z-E,Brendelweg 98 Delmenhorst Niedersachsen DE 27755 
@@ -917,6 +916,7 @@ IAB,0050C2FDA,Bucher Automation Budapest,Ihasz u. 10 Budapest  HU 1105
 IAB,40D8550D2,Bucher Automation Budapest,Ihasz u. 10 Budapest  HU 1105 
 IAB,0050C2A59,Televic Rail GmbH,Teltowkanalstr. 1  Berlin DE 12247 
 IAB,0050C289B,Sensata Technologies,4467 White Bear Parkway White Bear Lake MN US 55110 
+IAB,40D8550FC,eumig industrie-TV GmbH.,Gewerbeparkstr.9 Salzburg Anif AT 5081 
 IAB,0050C293B,"Cleaveland/Price, Inc.",14000 Route 993 Trafford PA US 15085 
 IAB,0050C20BF,Private,
 IAB,0050C2689,RF Code,9229 Waterford Centre Blvd #500 Austin TX US 78758 
@@ -1183,7 +1183,6 @@ IAB,0050C2DCE,Mecsel Oy,Laitilankuja 5 Helsinki  FI 00420
 IAB,0050C2DD2,"Electronic Applications, Inc.",2513 W via de Pedro Miguel Phoenix AZ US 85086 
 IAB,0050C2DB8,Comsat VertriebsgmbH,Sonnenhang 29 Thalheim Steiermark AT 8754 
 IAB,0050C2DBD,Margento R&D,Gosposvetska 84 Maribor  SI 2000 
-IAB,0050C2DAF,eumig industrie-tv GmbH,Gewerbeparkstr.9 Salzburg Anif AT 5081 
 IAB,0050C2DAA,"M & PAUL, INC","#602, Jugong Bldg.,  Seoul  KR 138-120 "
 IAB,0050C2D73,Saia-Burgess Controls AG,Bahnhofstrasse 18 Murten FR CH 3280 
 IAB,0050C2D6E,"BC Illumination, Inc.",209 Westbury Lane Georgetown Texas US 78633 
@@ -1764,6 +1763,7 @@ IAB,0050C2012,Floware System Solutions Ltd.,"28 Hacharoshet St., P.O.B. 812   IL
 IAB,0050C2005,"GD California, Inc.",1799 Portola Ave. Livermore CA US 94550 
 IAB,0050C2D74,Computech International,110 Crossways Park Drive Woodbury NY US 11797 
 IAB,0050C255B,MATRIX COMSEC PRIVATE LIMITED,394-GIDC VADODARA GUJARAT IN 390010 
+IAB,0050C2DAF,eumig industrie-TV GmbH.,Gewerbeparkstr.9 Salzburg Anif AT 5081 
 IAB,0050C27F9,Karl DUNGS GmbH & Co. KG,Karl-Dungs-Platz 1 Urbach BW DE 73660 
 IAB,0050C23DC,3D perception AS,Nye Vakas vei 14 Hvalstad  NO 1395 
 IAB,0050C2BE5,RF Code,9229 Waterford Centre Blvd #500 Austin TX US 78758 

@@ -827,12 +827,6 @@ A0E000-A0EFFF                 (base 16)                     ENGICAM s.r.l.
                                                             Bratislava    84216                          
                                                             SK                                           
 
-40-D8-55                      (hex)                         eumig industrie-tv GmbH                      
-0FC000-0FCFFF                 (base 16)                     eumig industrie-tv GmbH                      
-                                                            Gewerbeparkstr.9                             
-                                                            Salzburg  Anif  5081                         
-                                                            AT                                           
-
 40-D8-55                      (hex)                         Smith Meter, Inc                             
 107000-107FFF                 (base 16)                     Smith Meter, Inc                             
                                                             1602 Wagner Ave                              
@@ -5498,6 +5492,12 @@ A59000-A59FFF                 (base 16)                     Televic Rail GmbH
                                                             White Bear Lake  MN  55110                   
                                                             US                                           
 
+40-D8-55                      (hex)                         eumig industrie-TV GmbH.                     
+0FC000-0FCFFF                 (base 16)                     eumig industrie-TV GmbH.                     
+                                                            Gewerbeparkstr.9                             
+                                                            Salzburg  Anif  5081                         
+                                                            AT                                           
+
 00-50-C2                      (hex)                         Cleaveland/Price, Inc.                       
 93B000-93BFFF                 (base 16)                     Cleaveland/Price, Inc.                       
                                                             14000 Route 993                              
@@ -7084,12 +7084,6 @@ DBD000-DBDFFF                 (base 16)                     Margento R&D
                                                             Gosposvetska 84                              
                                                             Maribor    2000                              
                                                             SI                                           
-
-00-50-C2                      (hex)                         eumig industrie-tv GmbH                      
-DAF000-DAFFFF                 (base 16)                     eumig industrie-tv GmbH                      
-                                                            Gewerbeparkstr.9                             
-                                                            Salzburg  Anif  5081                         
-                                                            AT                                           
 
 00-50-C2                      (hex)                         M & PAUL, INC                                
 DAA000-DAAFFF                 (base 16)                     M & PAUL, INC                                
@@ -10564,6 +10558,12 @@ D74000-D74FFF                 (base 16)                     Computech Internatio
                                                             394-GIDC                                     
                                                             VADODARA  GUJARAT  390010                    
                                                             IN                                           
+
+00-50-C2                      (hex)                         eumig industrie-TV GmbH.                     
+DAF000-DAFFFF                 (base 16)                     eumig industrie-TV GmbH.                     
+                                                            Gewerbeparkstr.9                             
+                                                            Salzburg  Anif  5081                         
+                                                            AT                                           
 
 00-50-C2                      (hex)                         Karl DUNGS GmbH & Co. KG                     
 7F9000-7F9FFF                 (base 16)                     Karl DUNGS GmbH & Co. KG                     
