@@ -12194,17 +12194,29 @@ E00000-EFFFFF     (base 16)		Guiyag Electrlcal Control Equipment Co.,Ltd
 				Beijing    101500
 				CN
 
-48-E6-63   (hex)		Shenzhen Jointelli Technologies Co.,Ltd 
-A00000-AFFFFF     (base 16)		Shenzhen Jointelli Technologies Co.,Ltd 
-				Room A4-1203, Building A, Kexing Science Park, No. 15, Keyuan Road,Keyuan Community,Yuehai Street,Nanshan District
-				Shenzhen  Guangdong  518000
-				CN
+C4-CC-37   (hex)		Pineberry Pi 
+400000-4FFFFF     (base 16)		Pineberry Pi 
+				Bartosza Głowackiego 7/15
+				Szczecin  Zachodniopomorskie  70-238
+				PL
 
 68-79-12   (hex)		Globus Infocom Limited
 C00000-CFFFFF     (base 16)		Globus Infocom Limited
 				A-106, Sector 04
 				Noida  U P  201301
 				IN
+
+48-E6-63   (hex)		Shenzhen Jointelli Technologies Co.,Ltd 
+A00000-AFFFFF     (base 16)		Shenzhen Jointelli Technologies Co.,Ltd 
+				Room A4-1203, Building A, Kexing Science Park, No. 15, Keyuan Road,Keyuan Community,Yuehai Street,Nanshan District
+				Shenzhen  Guangdong  518000
+				CN
+
+C4-CC-37   (hex)		CIX TECHNOLOGY INC.
+200000-2FFFFF     (base 16)		CIX TECHNOLOGY INC.
+				20410 TOWN CENTER LN STE 270
+				CUPERTINO  CA  95014
+				US
 
 B8-4C-87   (hex)		Altronix , Corp
 A00000-AFFFFF     (base 16)		Altronix , Corp
@@ -24707,6 +24719,12 @@ C00000-CFFFFF     (base 16)		BEIJING CUNYIN CHENGQI TECHNOLOGY CO., LTD.
 				Hangzhou    310000
 				CN
 
+C4-CC-37   (hex)		Taiwan Inpro International Co.Ltd
+100000-1FFFFF     (base 16)		Taiwan Inpro International Co.Ltd
+				No. 22, Xizhou W. Rd., Taiping Dist..
+				Taichung City  Taiwan  411
+				TW
+
 C8-5C-E2   (hex)		Fela Management AG 
 000000-0FFFFF     (base 16)		Fela Management AG 
 				Basadingerstrasse 18
@@ -31009,3 +31027,21 @@ D00000-DFFFFF     (base 16)		Neureality ltd
 				14 Tarshish Street, Industrial Park Caesarea
 				Caesarea  iSRAEL  3079559
 				IL
+
+C4-CC-37   (hex)		Shenzhen Zhiguang systems technology co,.Ltd
+800000-8FFFFF     (base 16)		Shenzhen Zhiguang systems technology co,.Ltd
+				Rm1612, Yishang Tower, #22 Jia'an South Road, Bao'an district
+				Shenzhen  Guangdong  518101
+				CN
+
+C4-CC-37   (hex)		Netavo Global Data Services Ltd
+D00000-DFFFFF     (base 16)		Netavo Global Data Services Ltd
+				C4DI, Queen Street
+				Hull    HU1 1UU
+				GB
+
+C4-CC-37   (hex)		Skychers Creations ShenZhen Limited
+900000-9FFFFF     (base 16)		Skychers Creations ShenZhen Limited
+				Room 907A, 9/F, Block T2, FongDa City, Longjing Village, Longzhu Avenue, Nanshan District
+				Shenzhen  Guangdong  518073
+				CN

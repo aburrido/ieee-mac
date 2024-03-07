@@ -7067,6 +7067,24 @@ F7D000-F7DFFF     (base 16)		RPG INFORMATICA, S.A.
 				Pozuelo de Alarcón  Madrid  28224
 				ES
 
+8C-1F-64   (hex)		Scancom
+3F3000-3F3FFF     (base 16)		Scancom
+				calle rio aguas 33
+				Mijas  Malaga  29651
+				ES
+
+8C-1F-64   (hex)		TELESTRIDER SA
+E0C000-E0CFFF     (base 16)		TELESTRIDER SA
+				Stilianou ke Nikoalou Giamalaki 50
+				HERAKLION    71202
+				GR
+
+8C-1F-64   (hex)		Potter Electric Signal Co. LLC
+7A0000-7A0FFF     (base 16)		Potter Electric Signal Co. LLC
+				1609 Park 370 Place
+				Hazelwood    63042
+				US
+
 8C-1F-64   (hex)		Jacobs Technology, Inc.
 A98000-A98FFF     (base 16)		Jacobs Technology, Inc.
 				7765 Old Telegraph Road
@@ -14167,6 +14185,12 @@ CA2000-CA2FFF     (base 16)		eumig industrie-TV GmbH.
 				50 Cottage Ave
 				Lancaster  PA  17602
 				US
+
+8C-1F-64   (hex)		Hebei Weiji Electric Co.,Ltd
+ADB000-ADBFFF     (base 16)		Hebei Weiji Electric Co.,Ltd
+				No. 2 Century Street, Economic Development Zone, Handan City,Hebei Province
+				Handan    056003
+				CN
 
 8C-1F-64   (hex)		Vision Systems Safety Tech
 E6F000-E6FFFF     (base 16)		Vision Systems Safety Tech
@@ -28273,6 +28297,12 @@ D77000-D77FFF     (base 16)		Private
 				167 Cherry St Ste 430
 				Milford  CT  06460
 				US
+
+8C-1F-64   (hex)		EA Elektro-Automatik
+9D3000-9D3FFF     (base 16)		EA Elektro-Automatik
+				Helmholtzstraße 31-37
+				Viersen  Nordrhein-Westfalen  41747
+				DE
 
 8C-1F-64   (hex)		Mobileye
 D63000-D63FFF     (base 16)		Mobileye
