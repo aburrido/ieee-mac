@@ -18539,12 +18539,6 @@ C00000-CFFFFF     (base 16)		LINAK A/S
 				Mail box 15123  Haifa  3508409
 				IL
 
-08-63-32   (hex)		Eaton
-000000-0FFFFF     (base 16)		Eaton
-				EatonMTL Instruments Pvt Ltd, No:3, Old Mahabalipuram Road,Sholinganallur, Chennai 600119 India
-				Chennai  Tamilnadu  600119
-				IN
-
 44-A9-2C   (hex)		Luxonis Holding Corporation
 300000-3FFFFF     (base 16)		Luxonis Holding Corporation
 				1942 Broadway St., STE 314C
@@ -18586,6 +18580,12 @@ E00000-EFFFFF     (base 16)		C-VUE (SHANGHAI) AUDIO TECHNOLOGY CO.,LTD
 				Room 907, Building 4, No. 157 Minzu Avenue, Qingxiu District, Nanning City, Guangxi Province
 				Nanning  Guangxi  530000
 				CN
+
+08-63-32   (hex)		Eaton Corporation
+000000-0FFFFF     (base 16)		Eaton Corporation
+				1000 Eaton Blvd
+				Cleveland  OH  44122-6058
+				US
 
 D0-14-11   (hex)		P.B. Elettronica srl
 100000-1FFFFF     (base 16)		P.B. Elettronica srl
@@ -31052,8 +31052,8 @@ C4-CC-37   (hex)		Skychers Creations ShenZhen Limited
 				Shenzhen  Guangdong  518073
 				CN
 
-C4-CC-37   (hex)		Smartlicht systems co., ltd
-800000-8FFFFF     (base 16)		Smartlicht systems co., ltd
+C4-CC-37   (hex)		SmartLicht systems co., ltd
+800000-8FFFFF     (base 16)		SmartLicht systems co., ltd
 				Rm1612, Yishang Tower, #22 Jia'an South Road, Bao'an district
 				Shenzhen  Guangdong  518101
 				CN
