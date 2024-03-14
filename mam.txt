@@ -6326,6 +6326,12 @@ C4-CC-37   (hex)		Changzhou runningtech industrial technology Co., Ltd.
 				Changzhou  Changzhou  213133
 				CN
 
+C4-CC-37   (hex)		INPAQ Technology Co., Ltd
+A00000-AFFFFF     (base 16)		INPAQ Technology Co., Ltd
+				No. 11 Keyi Street, adjacent to Gongyi Village, Zhunan Town, Miaoli County
+				Miao li  Taiwan  350402
+				TW
+
 B8-4C-87   (hex)		Shenzhen Link-all Technology Co., Ltd
 300000-3FFFFF     (base 16)		Shenzhen Link-all Technology Co., Ltd
 				Floor 5th, Block 9th, Sunny Industrial Zone, Xili Town, Nanshan District, Shenzhen, China 
@@ -24767,6 +24773,12 @@ C4-CC-37   (hex)		Qingdao Goertek Intelligent Sensor Co.,Ltd
 				Qingdao  Shandong  266000
 				CN
 
+C4-CC-37   (hex)		Joby Aviation, Inc.
+E00000-EFFFFF     (base 16)		Joby Aviation, Inc.
+				333 Encinal St
+				Santa Cruz  CA  95060
+				US
+
 C8-5C-E2   (hex)		Fela Management AG 
 000000-0FFFFF     (base 16)		Fela Management AG 
 				Basadingerstrasse 18
@@ -31087,3 +31099,9 @@ C4-CC-37   (hex)		SmartLicht systems co., ltd
 				Rm1612, Yishang Tower, #22 Jia'an South Road, Bao'an district
 				Shenzhen  Guangdong  518101
 				CN
+
+60-A4-34   (hex)		Annapurna labs
+C00000-CFFFFF     (base 16)		Annapurna labs
+				Matam Scientific Industries Center,   Building 8.2
+				Mail box 15123  Haifa  3508409
+				IL
