@@ -6344,6 +6344,18 @@ C4-CC-37   (hex)		Safety System Product GmbH & Co. KG
 				Busan   Gyeongsangnam-do  46201
 				KR
 
+60-A4-34   (hex)		Kaynes technology India Ltd
+D00000-DFFFFF     (base 16)		Kaynes technology India Ltd
+				23-25 Belagola Food Industrial AreaMetagalli 
+				Mysore  Karnataka  570016
+				IN
+
+60-A4-34   (hex)		Drov Technologies
+700000-7FFFFF     (base 16)		Drov Technologies
+				8232 SW 23rd Place
+				Oklahoma City  OK  73128
+				US
+
 B8-4C-87   (hex)		Shenzhen Link-all Technology Co., Ltd
 300000-3FFFFF     (base 16)		Shenzhen Link-all Technology Co., Ltd
 				Floor 5th, Block 9th, Sunny Industrial Zone, Xili Town, Nanshan District, Shenzhen, China 
@@ -12259,6 +12271,12 @@ C4-CC-37   (hex)		CIX TECHNOLOGY INC.
 				20410 TOWN CENTER LN STE 270
 				CUPERTINO  CA  95014
 				US
+
+60-A4-34   (hex)		Scancom
+A00000-AFFFFF     (base 16)		Scancom
+				calle rio aguas 33
+				Mijas  Malaga  29651
+				ES
 
 B8-4C-87   (hex)		Altronix , Corp
 A00000-AFFFFF     (base 16)		Altronix , Corp
@@ -18622,6 +18640,24 @@ C4-CC-37   (hex)		KAIS Co.,Ltd.
 				1000 Eaton Blvd
 				Cleveland  OH  44122-6058
 				US
+
+60-A4-34   (hex)		Human-life Information Platforms Institute
+400000-4FFFFF     (base 16)		Human-life Information Platforms Institute
+				1-9-24 Fujisaki
+				Tsuchiura  Ibaraki  300-0813
+				JP
+
+60-A4-34   (hex)		EEG Enterprises Inc
+100000-1FFFFF     (base 16)		EEG Enterprises Inc
+				586 Main Street
+				Farmingdale  NY  11735
+				US
+
+60-A4-34   (hex)		Hangzhou Zhongxinhui lntelligent Technology Co.,Ltd.
+200000-2FFFFF     (base 16)		Hangzhou Zhongxinhui lntelligent Technology Co.,Ltd.
+				Room 17337, No. 260 Jiangshu Road, Xixing Street, Binjiang District, Hangzhou City, Zhejiang Province
+				Hangzhou    310000
+				CN
 
 D0-14-11   (hex)		P.B. Elettronica srl
 100000-1FFFFF     (base 16)		P.B. Elettronica srl
@@ -31110,6 +31146,12 @@ C4-CC-37   (hex)		SmartLicht systems co., ltd
 800000-8FFFFF     (base 16)		SmartLicht systems co., ltd
 				Rm1612, Yishang Tower, #22 Jia'an South Road, Bao'an district
 				Shenzhen  Guangdong  518101
+				CN
+
+60-A4-34   (hex)		Shenzhen lncar Technology Co.,Ltd
+300000-3FFFFF     (base 16)		Shenzhen lncar Technology Co.,Ltd
+				18 / F, Building 8, Zhongxi Xiangbin Mountain Garden, Fenghuang Gang Community, Xixiang Street, Baoan District, Shenzhen
+				Shenzhen    518000
 				CN
 
 60-A4-34   (hex)		Annapurna labs
