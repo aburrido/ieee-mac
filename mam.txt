@@ -6356,6 +6356,12 @@ C4-CC-37   (hex)		Safety System Product GmbH & Co. KG
 				Oklahoma City  OK  73128
 				US
 
+60-A4-34   (hex)		KNVISION
+E00000-EFFFFF     (base 16)		KNVISION
+				13, Pyeongcheon-ro 255beon-gil, Bupyeong-gu, Incheon, 21315, Rep. of KOREA
+				Incheon    21315
+				KR
+
 B8-4C-87   (hex)		Shenzhen Link-all Technology Co., Ltd
 300000-3FFFFF     (base 16)		Shenzhen Link-all Technology Co., Ltd
 				Floor 5th, Block 9th, Sunny Industrial Zone, Xili Town, Nanshan District, Shenzhen, China 
@@ -18665,6 +18671,18 @@ C4-CC-37   (hex)		KAIS Co.,Ltd.
 				Ohguchi-cho, Niwa-gun  Aichi  480-0125
 				JP
 
+60-A4-34   (hex)		Bweetech Electronics Technology (Shanghai) Co.,Ltd
+B00000-BFFFFF     (base 16)		Bweetech Electronics Technology (Shanghai) Co.,Ltd
+				Room705-707,Building1,Lane99,NorthHuting Road,Shanghai
+				Shanghai  Shanghai  200000
+				CN
+
+60-A4-34   (hex)		Shenzhen HantangFengyun Technology Co.,Ltd
+900000-9FFFFF     (base 16)		Shenzhen HantangFengyun Technology Co.,Ltd
+				741, HUAMEIJU Building 2.， 82 of Haiyu Community., Xin'an Street, Bao'an District, Shenzhen
+				Shenzhen    518000
+				CN
+
 D0-14-11   (hex)		P.B. Elettronica srl
 100000-1FFFFF     (base 16)		P.B. Elettronica srl
 				Via Santorelli, 8
@@ -24831,6 +24849,12 @@ C4-CC-37   (hex)		Qingdao Goertek Intelligent Sensor Co.,Ltd
 300000-3FFFFF     (base 16)		Qingdao Goertek Intelligent Sensor Co.,Ltd
 				F Building, Phase Ⅱ, Qingdao International Innovation Park, No. 1, Keyuanwei 1st Road
 				Qingdao  Shandong  266000
+				CN
+
+60-A4-34   (hex)		Hangzhou Lanly Technology Co., Ltd.
+500000-5FFFFF     (base 16)		Hangzhou Lanly Technology Co., Ltd.
+				Room A2035-2A, floor 2, building 2, No. 148, Wuchang Avenue, Wuchang Street, Yuhang District, Hangzhou
+				Hangzhou  Zhejiang  310000
 				CN
 
 C8-5C-E2   (hex)		Fela Management AG 
