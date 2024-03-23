@@ -890,6 +890,12 @@ CA222B                        (base 16)                     Beijing Puma Gear Po
                                                             Beijing  Beijing  100037                     
                                                             CN                                           
 
+FA-EE-B6                      (hex)                         Shenzhen Jiahua Zhongli Technology Co., LTD  
+FAEEB6                        (base 16)                     Shenzhen Jiahua Zhongli Technology Co., LTD  
+                                                            Rm1807, Building 11, Tian'An Cloud Park, Phase 2, Bantian subdistrict, Longgang district, Shenzhen
+                                                            shenzhen  guangdong  518172                  
+                                                            CN                                           
+
 8A-7D-B3                      (hex)                         Evolv Technology, Inc.                       
 8A7DB3                        (base 16)                     Evolv Technology, Inc.                       
                                                             500 Totten Pond Road4th Floor                

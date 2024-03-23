@@ -12122,12 +12122,6 @@ D00000-DFFFFF     (base 16)		EFit partners
 				Bruxelles  Bruxelles-Capitale  1000
 				BE
 
-8C-A6-82   (hex)		Wuhan Canpoint Education&Technology Co.,Ltd
-700000-7FFFFF     (base 16)		Wuhan Canpoint Education&Technology Co.,Ltd
-				9F, buding A, The modern world trade center of Optics Valley, No.70, Guanggu avenue,Jiangxia District, Wuhan city
-				Wuhan  Hubei  430070
-				CN
-
 8C-A6-82   (hex)		Lion Energy
 200000-2FFFFF     (base 16)		Lion Energy
 				735 S Auto Mall Dr, STE#200
@@ -12289,6 +12283,12 @@ A00000-AFFFFF     (base 16)		Scancom
 				calle rio aguas 33
 				Mijas  Malaga  29651
 				ES
+
+8C-A6-82   (hex)		Anhui seeker electronic technology Co.,LTD
+700000-7FFFFF     (base 16)		Anhui seeker electronic technology Co.,LTD
+				No. 801 Shengli Road, Longzihu District, Bengbu City, Anhui Province
+				bengbu  anhui  0
+				CN
 
 B8-4C-87   (hex)		Altronix , Corp
 A00000-AFFFFF     (base 16)		Altronix , Corp
