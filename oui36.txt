@@ -7109,6 +7109,18 @@ D1F000-D1FFFF     (base 16)		Free Talk Engineering Co., Ltd
 				Miyazaki-shi  Miyazaki  880-0052
 				JP
 
+8C-1F-64   (hex)		Sterna Security Devices Pvt Ltd
+5E8000-5E8FFF     (base 16)		Sterna Security Devices Pvt Ltd
+				100 West sambandam road
+				Coimbatore  Tamilnadu  641002
+				IN
+
+8C-1F-64   (hex)		E-alarms
+260000-260FFF     (base 16)		E-alarms
+				Sauletekio al. 15-1
+				Vilnius    LT-10224
+				LT
+
 8C-1F-64   (hex)		Jacobs Technology, Inc.
 A98000-A98FFF     (base 16)		Jacobs Technology, Inc.
 				7765 Old Telegraph Road
@@ -10937,12 +10949,6 @@ CD0000-CD0FFF     (base 16)		Ellenex Pty Ltd
 				Munich    80807
 				DE
 
-70-B3-D5   (hex)		SiFive
-92F000-92FFFF     (base 16)		SiFive
-				1875 S Grant St
-				San Mateo  CA  94403
-				US
-
 70-B3-D5   (hex)		KnowRoaming
 D6A000-D6AFFF     (base 16)		KnowRoaming
 				90 Eglinton Ave. E
@@ -14233,6 +14239,12 @@ D80000-D80FFF     (base 16)		AZTEK SA
 				30 zare ouest
 				EHLERANGE    L-4384
 				LU
+
+70-B3-D5   (hex)		SiFive Inc
+92F000-92FFFF     (base 16)		SiFive Inc
+				1875 S Grant St
+				San Mateo  CA  94403
+				US
 
 8C-1F-64   (hex)		Vision Systems Safety Tech
 E6F000-E6FFFF     (base 16)		Vision Systems Safety Tech
@@ -35390,14 +35402,14 @@ D62000-D62FFF     (base 16)		Alpes recherche et développement
 				Alexandria  VA  22314
 				US
 
-8C-1F-64   (hex)		Q-Light AS
-760000-760FFF     (base 16)		Q-Light AS
-				Kongsgård Alle 62
-				Kristiansand s  Agder  4632
-				NO
-
 8C-1F-64   (hex)		SUN･TECTRO,Ltd.
 6DE000-6DEFFF     (base 16)		SUN･TECTRO,Ltd.
 				6-1, FUNAKOSHI-MINAMI 1-CHOME,
 				AKI-KU  HIROSHIMA  736-0082
 				JP
+
+8C-1F-64   (hex)		Q-Light AS
+760000-760FFF     (base 16)		Q-Light AS
+				Kongsgård Alle 62
+				Kristiansand s  Agder  4632
+				NO

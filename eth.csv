@@ -273,7 +273,6 @@ EtherType,874E,Hybrid,20863 Stevens Creek Blvd. Cupertino CA US 95014-8750 ,Prot
 EtherType,802E,Tymshare,Network Technology Division  Cupertino US CA ,Protocol unavailable.
 EtherType,8740,Siemens  AG,Otto-Han-Ring-6 Munich  DE D-81739 ,Protocol unavailable.
 EtherType,88D8,Metro Ethernet Forum,1300 Bristol St. N. Suite 160 Newport Beach CA US 92660 ,"The Metro Ethernet Forum's MEF 8, ""Implementation Agreement for the Emulation of PDH Circuits over Metro Ethernet Networks"", provides for the emulation of TDM services belonging to the Plesiochronous Digital Hierarchy (PDH) across a Metro Ethernet Network.  Specifically it covers emulation of Nx64 kbit/s, DS1, E1, DS3 and E3 circuits.  Generically this is referred to as Circuit Emulation Services over Ethernet (CESoETH)."
-EtherType,88EB,"Aruba, a Hewlett Packard Enterprise Company",3333 Scott Blvd Santa Clara CA US 95054 ,This is an application for a second e-type from Aruba at this time.
 EtherType,8900,Red Lion,820 S. University Blvd. Mobile AL US 36609 ,Red Lion Controls Inc. proprietary
 EtherType,8907,Zhejiang University,"Institute of Advanced Process Control,Zhejiang University Hangzhou Zhejiang CN 310027 ","DRP(Distributed Redundancy Protocol) is a high availability ethernet protocol developed by Zhejiang University. This protocol guarantee short recovery time in case of either link failure or switch failure. And in this protocol, all switches are distributed and equal without master and slave. This protocol is useful for ring/tree/star topology."
 EtherType,892F,International Electrotechnical Commission,"3, rue de Varembé Geneva GE CH CH-1211 ",High-availability Seamless Redundancy (HSR) protocol
@@ -755,6 +754,7 @@ EtherType,7016,Olteco (Olevetti),   US  ,Protocol unavailable.
 EtherType,7017,Olteco (Olevetti),   US  ,Protocol unavailable.
 EtherType,5005,Intel,   US  ,Protocol unavailable.
 EtherType,7003,Ungermann-Bass,   US  ,Protocol unavailable.
+EtherType,88EB,Hewlett Packard Enterprise,3333 Scott Blvd 6280 America Center Dr CA US 95002 ,This is an application for a second e-type from Aruba at this time.
 EtherType,8921,"Cisco Systems, Inc",3850 Zanker Rd. San Jose CA US 95134 ,Decline to disclose. Cisco Proprietary
 EtherType,0400,Private,,Invalid as an EtherType value since 1983
 EtherType,0103,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
@@ -1003,8 +1003,6 @@ EtherType,8743,Siemens  AG,Otto-Han-Ring-6 Munich  DE D-81739 ,Protocol unavaila
 EtherType,8745,Siemens  AG,Otto-Han-Ring-6 Munich  DE D-81739 ,Protocol unavailable.
 EtherType,8908,Waves Audio LTD,"Azrilei Center 3, Triangle tower Tel Aviv Central IL 67023 ","Following the EtherType are the following fields, 2 bytes each in little-endian order:
 Workgroup ID, Destination LUN, Source LUN, Opcode. The combination of the first three fields along with the Ethernet address is used for classifying packets into flows. The Opcode field determines the structure of the information contained in the remaining part of the packet. Detailed information regarding the packet structure for different opcode values is not being made public at this time."
-EtherType,88EA,"Aruba, a Hewlett Packard Enterprise Company",3333 Scott Blvd Santa Clara CA US 95054 ,For the use of transferring a new security authentication and encryption protocol between two devices at the L2 layer.  The protocol will transfer 802.1x and 256 bit AES-CBC encrypted frames across wired and wireless devices by encapsulating L2 packets.  The new ether type is needed to identify and differentiate from other packets in order to apply the the proper decryption functions.
-EtherType,88D6,"Aruba, a Hewlett Packard Enterprise Company",3333 Scott Blvd Santa Clara CA US 95054 ,Aruba Networks L2 AES
 EtherType,88DC,IEEE P1609 WG,3800 N Fairfax Drive #207 Arlington VA US 22203-1759 , (WAVE) Short Message Protocol (WSM) 
 EtherType,88AB,ETHERNET Powerlink Standarization Group (EPSG),Gebaude E301 Winterthur  US CH-8401 ,ETHERNET Powerlink (EPL)
 EtherType,86DD,USC/ISI,4676 Admiralty Way Marina del Rey CA US 90292 ,Internet Protocol Version 6 (IPV6)
@@ -1498,6 +1496,8 @@ EtherType,5002,Intel,   US  ,Protocol unavailable.
 EtherType,5009,Intel,   US  ,Protocol unavailable.
 EtherType,7001,Ungermann-Bass,   US  ,Protocol unavailable.
 EtherType,7015,Olteco (Olevetti),   US  ,Protocol unavailable.
+EtherType,88D6,Hewlett Packard Enterprise,3333 Scott Blvd 6280 America Center Dr CA US 95002 ,Aruba Networks L2 AES
+EtherType,88EA,Hewlett Packard Enterprise,3333 Scott Blvd 6280 America Center Dr CA US 95002 ,For the use of transferring a new security authentication and encryption protocol between two devices at the L2 layer.  The protocol will transfer 802.1x and 256 bit AES-CBC encrypted frames across wired and wireless devices by encapsulating L2 packets.  The new ether type is needed to identify and differentiate from other packets in order to apply the the proper decryption functions.
 EtherType,0500,University  of Berkeley,Computer Science Department Berkeley CA US 94720 ,Invalid as an EtherType value since 1983
 EtherType,0201,Private,,Invalid as an EtherType value since 1983
 EtherType,0107,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
