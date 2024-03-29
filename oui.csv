@@ -7067,17 +7067,18 @@ MA-L,F061C0,Hewlett Packard Enterprise,3333 Scott Blvd Santa Clara CA US 95054
 MA-L,B01F8C,Hewlett Packard Enterprise,3333 Scott Blvd Santa Clara CA US 95054 
 MA-L,48B4C3,Hewlett Packard Enterprise,3333 Scott Blvd 6280 America Center Dr CA US 95002 
 MA-L,209CB4,Hewlett Packard Enterprise,3333 Scott Blvd 6280 America Center Dr CA US 95002 
-MA-L,F01AA0,Hewlett Packard Enterprise,3333 Scott Blvd Santa Clara CA US 95054 
-MA-L,A0A001,Hewlett Packard Enterprise,3333 Scott Blvd Santa Clara CA US 95054 
-MA-L,8C7909,Hewlett Packard Enterprise,3333 Scott Blvd Santa Clara CA US 95054 
+MA-L,4472AC,AltoBeam Inc.,"B808, Tsinghua Tongfang Hi-Tech Plaza, Haidian Beijing Beijing CN 100083 "
+MA-L,A86E84,TP-LINK CORPORATION PTE. LTD.,7 Temasek Boulevard #29-03 Suntec Tower One Singapore  SG 038987 
 MA-L,4CD587,Hewlett Packard Enterprise,3333 Scott Blvd 6280 America Center Dr CA US 95002 
 MA-L,9C3708,Hewlett Packard Enterprise,3333 Scott Blvd Santa Clara CA US 95054 
 MA-L,34C515,Hewlett Packard Enterprise,3333 Scott Blvd 6280 America Center Dr CA US 95002 
+MA-L,F01AA0,Hewlett Packard Enterprise,3333 Scott Blvd Santa Clara CA US 95054 
+MA-L,A0A001,Hewlett Packard Enterprise,3333 Scott Blvd Santa Clara CA US 95054 
+MA-L,8C7909,Hewlett Packard Enterprise,3333 Scott Blvd Santa Clara CA US 95054 
 MA-L,68B76B,"Fiberhome Telecommunication Technologies Co.,LTD",No.5 DongXin Road Wuhan Hubei CN 430074 
-MA-L,4472AC,AltoBeam Inc.,"B808, Tsinghua Tongfang Hi-Tech Plaza, Haidian Beijing Beijing CN 100083 "
-MA-L,A86E84,TP-LINK CORPORATION PTE. LTD.,7 Temasek Boulevard #29-03 Suntec Tower One Singapore  SG 038987 
-MA-L,888C1B,EM Microelectronic,Rue des Sors 3 Marin-Epagnier Neuchatel CH 2074 
 MA-L,103F8C,"New H3C Technologies Co., Ltd","466 Changhe Road, Binjiang District Hangzhou Zhejiang CN 310052 "
+MA-L,F09E9E,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+MA-L,888C1B,EM Microelectronic,Rue des Sors 3 Marin-Epagnier Neuchatel CH 2074 
 MA-L,000130,Extreme Networks Headquarters,2121 RDU Center Drive  Morrisville NC US 27560 
 MA-L,FC0A81,Extreme Networks Headquarters,2121 RDU Center Drive  Morrisville NC US 27560 
 MA-L,00749C,"Ruijie Networks Co.,LTD","19# Building,Star-net Science Plaza,Juyuanzhou, 618 Jinshan Road Fuzhou Fujian CN 350002 "
@@ -14089,6 +14090,7 @@ MA-L,40E3D6,Hewlett Packard Enterprise,3333 Scott Blvd 6280 America Center Dr CA
 MA-L,9020C2,Hewlett Packard Enterprise,3333 Scott Blvd 6280 America Center Dr CA US 95002 
 MA-L,64E881,Hewlett Packard Enterprise,3333 Scott Blvd 6280 America Center Dr CA US 95002 
 MA-L,EC3BAF,EM Microelectronic,Rue des Sors 3 Marin-Epagnier Neuchatel CH 2074 
+MA-L,48E2AD,HUMAX NETWORKS,"HUMAX VILLAGE, 216Hwangsaeul-ro, Bundang gu Seongnam-si Gyeonggi-do KR 13595 "
 MA-L,6C8720,"New H3C Technologies Co., Ltd","466 Changhe Road, Binjiang District Hangzhou Zhejiang CN 310052 "
 MA-L,0C8D7A,RADiflow,HaBarzel St 38 Tel-Aviv  IL 6971054 
 MA-L,FCA9F5,Xiaomi Communications Co Ltd,"#019, 9th Floor, Building 6, 33 Xi'erqi Middle Road Beijing Haidian District CN 100085 "
@@ -21145,6 +21147,7 @@ MA-L,E89505,"Shenzhen MiaoMing Intelligent Technology Co.,Ltd","3F, Building 2, 
 MA-L,685377,"Bouffalo Lab (Nanjing) Co., Ltd.","5F, Gongxiang Space, No.100 Tuanjie Road, Nanjing, China Nanjing Jiangsu CN 211800 "
 MA-L,BC4632,"Fiberhome Telecommunication Technologies Co.,LTD",No.5 DongXin Road Wuhan Hubei CN 430074 
 MA-L,E0604A,"Fiberhome Telecommunication Technologies Co.,LTD",No.5 DongXin Road Wuhan Hubei CN 430074 
+MA-L,E80690,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
 MA-L,B00C9D,"Quectel Wireless Solutions Co.,Ltd.","7th Floor, Hongye Building, No.1801 Hongmei Road, Xuhui District Shanghai  CN 200233 "
 MA-L,F0AB1F,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
 MA-L,7CB30A,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
@@ -28224,6 +28227,7 @@ MA-L,F84477,Silicon Laboratories, 400 West Cesar Chavez Austin TX US 78701
 MA-L,6CFD22,Silicon Laboratories, 400 West Cesar Chavez Austin TX US 78701 
 MA-L,94A6D8,"New H3C Technologies Co., Ltd","466 Changhe Road, Binjiang District Hangzhou Zhejiang CN 310052 "
 MA-L,CC7E0F,Theben AG,Hohenbergstraße 32 Haigerloch Baden-Württemberg DE 72401 
+MA-L,A827C8,Edgecore Americas Networking Corporation,20 Mason Irvine CA US 92618 
 MA-L,C85CE2,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
 MA-L,DCEE14,ADT Technology,"Room 325, 3rd Floor, Building F, Xinmao Science and Technology Park, Huayuan Industrial Zone Tianjin Tianjin CN 300384 "
 MA-L,E84A54,"Beijing Xiaomi Mobile Software Co., Ltd","The Rainbow City Office Building, 68 Qinghe Middle Street Haidian District Beijing Beijing CN 100085 "
@@ -33097,7 +33101,6 @@ MA-L,001EB3,Primex Wireless,965 Wells Street Lake Geneva WI US 53147
 MA-L,001EB6,TAG Heuer SA,Rue Louis-Joseph Chevrolet 6A la Chaux-de-Fonds NE CH 2300 
 MA-L,001EAC,Armadeus Systems,Business Campus MULHOUSE cedex Haut-Rhin FR 68058 
 MA-L,001EAA,E-Senza Technologies GmbH,Blarerstrasse 56 Konstanz BW DE 78462 
-MA-L,001EC6,Obvius Holdings LLC,20811 NW Cornell Road Hillsboro OR US 97124 
 MA-L,001EC4,Celio Corp,265 E 100 S  # 280 Salt Lake City UT US 84111 
 MA-L,001EC1,3COM EUROPE LTD,Peoplebuilding 2 Hemel Hempstead HERTS. GB HP2 4NW 
 MA-L,001EBB,BLUELIGHT TECHNOLOGY INC.,"6472 CAMDEN AVE., SUITE 102B SAN JOSE CA US 95120 "
@@ -35281,3 +35284,4 @@ MA-L,D4E053,Hewlett Packard Enterprise,3333 Scott Blvd Santa Clara CA US 95054
 MA-L,441244,Hewlett Packard Enterprise,3333 Scott Blvd Santa Clara CA US 95054 
 MA-L,B837B2,Hewlett Packard Enterprise,3333 Scott Blvd Santa Clara CA US 95054 
 MA-L,54F0B1,Hewlett Packard Enterprise,3333 Scott Blvd 6280 America Center Dr CA US 95002 
+MA-L,001EC6,"Leviton Manufacturing Co., Inc",10385 SW Avery St Tualatin OR US 97062 

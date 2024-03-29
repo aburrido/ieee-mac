@@ -9812,12 +9812,6 @@ A09000-A09FFF                 (base 16)                     Innovative American 
                                                             Calgary  Alberta  T2P 3R5                    
                                                             CA                                           
 
-00-50-C2                      (hex)                         Obvius                                       
-30E000-30EFFF                 (base 16)                     Obvius                                       
-                                                            20811 NW Cornell Road                        
-                                                            Hillsboro  OR  97124                         
-                                                            US                                           
-
 00-50-C2                      (hex)                         Saab AB                                      
 2FE000-2FEFFF                 (base 16)                     Saab AB                                      
                                                             Nobymalmsvägen                               
@@ -10564,6 +10558,12 @@ DAF000-DAFFFF                 (base 16)                     eumig industrie-TV G
                                                             Gewerbeparkstr.9                             
                                                             Salzburg  Anif  5081                         
                                                             AT                                           
+
+00-50-C2                      (hex)                         Leviton Manufacturing Co., Inc               
+30E000-30EFFF                 (base 16)                     Leviton Manufacturing Co., Inc               
+                                                            10385 SW Avery St                            
+                                                            Tualatin  OR  97062                          
+                                                            US                                           
 
 00-50-C2                      (hex)                         Karl DUNGS GmbH & Co. KG                     
 7F9000-7F9FFF                 (base 16)                     Karl DUNGS GmbH & Co. KG                     

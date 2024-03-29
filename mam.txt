@@ -18731,6 +18731,12 @@ B00000-BFFFFF     (base 16)		Bweetech Electronics Technology (Shanghai) Co.,Ltd
 				Shanghai  Shanghai  200000
 				CN
 
+C8-FF-BF   (hex)		Accuphy Technologies Beijing Ltd
+600000-6FFFFF     (base 16)		Accuphy Technologies Beijing Ltd
+				Rm1409, Huasheng Intl Bldg, No.12, Yabao Rd., Chaoyang Dist
+				Beijing  Beijing  100020
+				CN
+
 D0-14-11   (hex)		P.B. Elettronica srl
 100000-1FFFFF     (base 16)		P.B. Elettronica srl
 				Via Santorelli, 8
@@ -24922,6 +24928,12 @@ D00000-DFFFFF     (base 16)		ALDES DomNexX
 				84 allée Galilée
 				Montbonnot St Martin    38330
 				FR
+
+C8-FF-BF   (hex)		PubliBike SA
+B00000-BFFFFF     (base 16)		PubliBike SA
+				Weltpoststrasse 5
+				Berne    3015
+				CH
 
 C8-5C-E2   (hex)		Fela Management AG 
 000000-0FFFFF     (base 16)		Fela Management AG 
@@ -31255,3 +31267,9 @@ C00000-CFFFFF     (base 16)		Annapurna labs
 				Matam Scientific Industries Center,   Building 8.2
 				Mail box 15123  Haifa  3508409
 				IL
+
+C8-FF-BF   (hex)		Indra Renewable Technologies
+700000-7FFFFF     (base 16)		Indra Renewable Technologies
+				Unit 1 Sentinel House, Sparrowhawk Close
+				Malvern  Worcestershire  WR14 1GL
+				GB
