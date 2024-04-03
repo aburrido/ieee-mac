@@ -6386,6 +6386,12 @@ C00000-CFFFFF     (base 16)		Density.IO
 				San Francisco  CA  94105
 				US
 
+10-63-A3   (hex)		Shenzhen C & D Electronics Co., Ltd.
+800000-8FFFFF     (base 16)		Shenzhen C & D Electronics Co., Ltd.
+				9th FIoor, Building 9, No.1 Qingxiang road, BaoNeng Science and TechnoIogy Industrial Park, Longhua New District
+				ShenZhen  GuangDong  518000
+				CN
+
 B8-4C-87   (hex)		Shenzhen Link-all Technology Co., Ltd
 300000-3FFFFF     (base 16)		Shenzhen Link-all Technology Co., Ltd
 				Floor 5th, Block 9th, Sunny Industrial Zone, Xili Town, Nanshan District, Shenzhen, China 
@@ -12331,6 +12337,12 @@ C8-FF-BF   (hex)		robert juliat
 				32 route de beaumont
 				fresnoy en thelle  Oise  60530
 				FR
+
+10-63-A3   (hex)		FLAT-PRO LLC
+C00000-CFFFFF     (base 16)		FLAT-PRO LLC
+				March 8 str., 1, building 12, Room 2/49
+				Moscow    127083
+				RU
 
 B8-4C-87   (hex)		Altronix , Corp
 A00000-AFFFFF     (base 16)		Altronix , Corp
@@ -18749,6 +18761,12 @@ C8-FF-BF   (hex)		Accuphy Technologies Beijing Ltd
 				Dalian    116000
 				CN
 
+10-63-A3   (hex)		Changsha Sunvote Limited
+000000-0FFFFF     (base 16)		Changsha Sunvote Limited
+				Room 1024, Building A, Biaozhi Business Center, No. 198，Xiang Fu Road, Tianxin District, Changsha, Hunan, PRC.
+				Changsha  Hunan  410002
+				CN
+
 D0-14-11   (hex)		P.B. Elettronica srl
 100000-1FFFFF     (base 16)		P.B. Elettronica srl
 				Via Santorelli, 8
@@ -24935,17 +24953,17 @@ C8-FF-BF   (hex)		Beijing Jingyibeifang Instrument Co.,Ltd.
 				Beijing  Beijing  102600
 				CN
 
-C8-FF-BF   (hex)		ALDES DomNexX
-D00000-DFFFFF     (base 16)		ALDES DomNexX
-				84 allée Galilée
-				Montbonnot St Martin    38330
-				FR
-
 C8-FF-BF   (hex)		PubliBike SA
 B00000-BFFFFF     (base 16)		PubliBike SA
 				Weltpoststrasse 5
 				Berne    3015
 				CH
+
+C8-FF-BF   (hex)		ALDES DomNexX
+D00000-DFFFFF     (base 16)		ALDES DomNexX
+				84 allée Galilée
+				Montbonnot St Martin    38330
+				FR
 
 10-63-A3   (hex)		Nexite
 900000-9FFFFF     (base 16)		Nexite
