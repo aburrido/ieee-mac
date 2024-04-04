@@ -7127,6 +7127,12 @@ D1F000-D1FFFF     (base 16)		Free Talk Engineering Co., Ltd
 				New Delhi  Delhi  110049
 				IN
 
+8C-1F-64   (hex)		Secuinfo Co.Ltd
+196000-196FFF     (base 16)		Secuinfo Co.Ltd
+				1411, Kranz Techno, 5442-1, Sangdaewon dong
+				Seongnam  Gyeonggi-do  462-729
+				KR
+
 8C-1F-64   (hex)		Jacobs Technology, Inc.
 A98000-A98FFF     (base 16)		Jacobs Technology, Inc.
 				7765 Old Telegraph Road
@@ -14264,17 +14270,17 @@ D80000-D80FFF     (base 16)		AZTEK SA
 				Staefa  Zurich  8712
 				CH
 
-8C-1F-64   (hex)		Landis+Gyr Equipamentos de Medição Ltda
-5AA000-5AAFFF     (base 16)		Landis+Gyr Equipamentos de Medição Ltda
-				Hasdrubal Bellegard, 400, CIC
-				Curitiba  Paraná  81460-120
-				BR
-
 8C-1F-64   (hex)		ideaForge Technology Limited
 0F1000-0F1FFF     (base 16)		ideaForge Technology Limited
 				702/Q2 Building, Aurum parkOp ghansoli railway station
 				navi mumbai  maharashtra  400710
 				IN
+
+8C-1F-64   (hex)		Landis+Gyr Equipamentos de Medição Ltda
+5AA000-5AAFFF     (base 16)		Landis+Gyr Equipamentos de Medição Ltda
+				Hasdrubal Bellegard, 400, CIC
+				Curitiba  Paraná  81460-120
+				BR
 
 8C-1F-64   (hex)		Vision Systems Safety Tech
 E6F000-E6FFFF     (base 16)		Vision Systems Safety Tech
@@ -35491,3 +35497,9 @@ BEF000-BEFFFF     (base 16)		Triumph SEC
 				POBOX 3306511 Charter Oak Boulevard
 				West Hartford  CT  06133
 				US
+
+8C-1F-64   (hex)		T4I Sp. z o.o.
+00D000-00DFFF     (base 16)		T4I Sp. z o.o.
+				Piotra Falińskiego 7B
+				Truskaw    05-080
+				PL
