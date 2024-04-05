@@ -6386,16 +6386,16 @@ E00000-EFFFFF     (base 16)		HT ITALIA SRL
 				Faenza  Outside of the US  48018
 				IT
 
-10-63-A3   (hex)		Shenzhen C & D Electronics Co., Ltd.
-800000-8FFFFF     (base 16)		Shenzhen C & D Electronics Co., Ltd.
-				9th FIoor, Building 9, No.1 Qingxiang road, BaoNeng Science and TechnoIogy Industrial Park, Longhua New District
-				ShenZhen  GuangDong  518000
-				CN
-
 10-63-A3   (hex)		Shen zhen shi shang mei dian zi shang wu you xian gong si
 B00000-BFFFFF     (base 16)		Shen zhen shi shang mei dian zi shang wu you xian gong si
 				Room 621,Building 1,D area,Huamei ju Business Center,Xinhu Road,Baoan District
 				Shenzhen  Guangdong Province  518100
+				CN
+
+10-63-A3   (hex)		Shenzhen C & D Electronics Co., Ltd.
+800000-8FFFFF     (base 16)		Shenzhen C & D Electronics Co., Ltd.
+				9th FIoor, Building 9, No.1 Qingxiang road, BaoNeng Science and TechnoIogy Industrial Park, Longhua New District
+				ShenZhen  GuangDong  518000
 				CN
 
 B8-4C-87   (hex)		Shenzhen Link-all Technology Co., Ltd
@@ -24994,6 +24994,12 @@ A00000-AFFFFF     (base 16)		ITAB Shop products
 				Instrumentvägen 2
 				Jönköping  Jonkoping  55302
 				SE
+
+10-63-A3   (hex)		Jacobs Technology, Inc.
+100000-1FFFFF     (base 16)		Jacobs Technology, Inc.
+				7765 Old Telegraph Road
+				Severn  MD  21144
+				US
 
 B8-4C-87   (hex)		Private
 E00000-EFFFFF     (base 16)		Private

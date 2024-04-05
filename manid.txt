@@ -11,19 +11,19 @@ MANUFACTURER ID               Organization
 106                           Dewesoft d.o.o.
 105                           IPETRONIK GmbH & Co.KG
 102                           tecsis LP
-93                            Monitran
+66                            Sinocera Piezotronics, Inc.
 94                            Test GmbH
+93                            Monitran
+44                            Fuji Ceramics
+59                            Interface, Inc.
 1097                          ETAS
 68                            VIP Sensors
-66                            Sinocera Piezotronics, Inc.
-59                            Interface, Inc.
-22                            Endevco Corporation
-37                            Lebow
-42                            Transducer Techniques
-44                            Fuji Ceramics
-34                            Esensors
 49                            Sensorex
 54                            imc MeBsysteme GmbH
+37                            Lebow
+42                            Transducer Techniques
+22                            Endevco Corporation
+34                            Esensors
 47                            LEM INTERNATIONAL SA
 7857                          X-SENSORS AG
 8163                          Scati Labs, S.A.
@@ -43,16 +43,16 @@ MANUFACTURER ID               Organization
 64                            MTS Systems Corp.
 76                            The Pinax Group, Inc.
 77                            Kulite Semiconductor Products Inc
-88                            Streamline Automation, LLC
-96                            B&W Sensing Technologies
-85                            Adcon Telemetry GmbH
-100                           LLC GlobalTest
 50                            Waycon
 52                            Pressure Systems
 31                            HBM
 18                            The Modal Shop, Inc.
 23                            PCB Piezotronics, Inc.
 38                            Celesco
+96                            B&W Sensing Technologies
+85                            Adcon Telemetry GmbH
+100                           LLC GlobalTest
+88                            Streamline Automation, LLC
 57                            Lorenz Messtechnik GmbH
 28                            Entek IRD
 32                            TEAC
@@ -75,18 +75,18 @@ MANUFACTURER ID               Organization
 98                            Proctor & Chester Measurements Ltd
 89                            NTI AG
 95                            ACO, Co., Ltd
-29                            Scitefair International, Inc.
 80                            Microtech Gefell GmbH
 82                            Studio Technologies, Inc.
 84                            Natec Sensors GmbH
-69                            Sensy SA
 78                            Showa Measuring Instruments Co., Ltd
 61                            Metra Mess-und Frequenztechnik Radebeul
+29                            Scitefair International, Inc.
 27                            Oceana Sensor Technologies
 58                            Kyowa Electronic Instruments Co., Ltd
 39                            Weed Instrument
 43                            Measurement Specialties
 40                            SensoTec
+69                            Sensy SA
 55                            Futek Advanced Sensor Technology, Inc.
 25                            Larson Davis
 33                            RION CO.
@@ -108,17 +108,17 @@ MANUFACTURER ID               Organization
 92                            A.S.T. Agewandte System Technik GmbH
 97                            ETH-messtechnik gmbh
 81                            Aikoh Engineering
-75                            Sensordata Technologies, Inc.
 63                            Mettler-Toledo GmbH Process Analytics
 67                            MSC Automotive Ltd
 70                            Druck Ltd.
-51                            AVL List GmbH
-19                            Kistler Instrument Corporation
-24                            G.R.A.S. Sound & Vibration
+75                            Sensordata Technologies, Inc.
 45                            Telemonitor
 46                            Lion Precision
 53                            ONO SOKKI
 20                            Macro Sensors
+51                            AVL List GmbH
+19                            Kistler Instrument Corporation
+24                            G.R.A.S. Sound & Vibration
 5154                          Opus-Two ICS
 2718                          Danisense
 4642                          MegaSig
@@ -140,21 +140,21 @@ MANUFACTURER ID               Organization
 1106                          Dynamic Systems Inc
 104                           Sentek Dynamics
 101                           L.S. Starrett Company
-91                            Fenda Technology Ltd.
 87                            SVANTEK Sp. z.o.o
 86                            LCM Systems Ltd
+99                            HEAD acoustics GmbH
+91                            Fenda Technology Ltd.
 62                            Ametek Denmark A/S
 65                            Viatran Corporation
 74                            BSWA Technology Co., Ltd
-99                            HEAD acoustics GmbH
-79                            CEA
 60                            Sherborne Sensors Limited
 35                            Dytran Instruments
+30                            National Instruments
+36                            SincoTec
+79                            CEA
+48                            RDP Electronics
 56                            Knick Elektronische Messgeraete GmbH Co. KG
 21                            Wilcoxon Research
 26                            Key Transducers, Inc.
-48                            RDP Electronics
-30                            National Instruments
-36                            SincoTec
 71                            Tokyo Sokki Kenkyujo Co., Ltd
 5872                          HANGZHOU CRYSOUND ELECTRONICS CO.,LTD.
