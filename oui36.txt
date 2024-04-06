@@ -4904,12 +4904,6 @@ A53000-A53FFF     (base 16)		GS Industrie-Elektronik GmbH
 				Leverkusen    51381
 				DE
 
-70-B3-D5   (hex)		Morgan Schaffer Inc.
-7C2000-7C2FFF     (base 16)		Morgan Schaffer Inc.
-				8300 rue St-Patrick bureau 150
-				LaSalle  Quebec  H8N 2H1
-				CA
-
 70-B3-D5   (hex)		PEEK TRAFFIC
 68F000-68FFFF     (base 16)		PEEK TRAFFIC
 				5401 N SAM HOUSTON PKWY W
@@ -7138,6 +7132,18 @@ DC6000-DC6FFF     (base 16)		R&K
 				maeda 721−1
 				fuji city  Shizuoka ken  416-8577
 				JP
+
+70-B3-D5   (hex)		Morgan Schaffer
+7C2000-7C2FFF     (base 16)		Morgan Schaffer
+				8300 rue St-Patrick bureau 150
+				LaSalle  Quebec  H8N 2H1
+				CA
+
+8C-1F-64   (hex)		General Dynamics IT
+F7C000-F7CFFF     (base 16)		General Dynamics IT
+				100 Mechanic Street
+				Pawcatuck  CT  06379
+				US
 
 8C-1F-64   (hex)		Jacobs Technology, Inc.
 A98000-A98FFF     (base 16)		Jacobs Technology, Inc.
@@ -10083,12 +10089,6 @@ DC3000-DC3FFF     (base 16)		Fath Mechatronics
 3CB000-3CBFFF     (base 16)		GeoSpectrum Technologies Inc
 				10 Akerley Blvd, #19
 				Dartmouth  Nova Scotia  B3B1J4
-				CA
-
-70-B3-D5   (hex)		Morgan Schaffer Inc.
-1F7000-1F7FFF     (base 16)		Morgan Schaffer Inc.
-				8300 rue St-Patrick bureau 150
-				LaSalle  Quebec  H8N 2H1
 				CA
 
 70-B3-D5   (hex)		Echogear
@@ -14287,6 +14287,12 @@ D80000-D80FFF     (base 16)		AZTEK SA
 				Hasdrubal Bellegard, 400, CIC
 				Curitiba  Paraná  81460-120
 				BR
+
+70-B3-D5   (hex)		Morgan Schaffer
+1F7000-1F7FFF     (base 16)		Morgan Schaffer
+				8300 rue St-Patrick bureau 150
+				LaSalle  Quebec  H8N 2H1
+				CA
 
 8C-1F-64   (hex)		Vision Systems Safety Tech
 E6F000-E6FFFF     (base 16)		Vision Systems Safety Tech
@@ -21349,6 +21355,12 @@ AA0000-AA0FFF     (base 16)		Flextronics International Kft
 				38. Zrinyi Str.
 				Zalaegerszeg  Zala  8900
 				HU
+
+8C-1F-64   (hex)		Exact Sciences
+4A8000-4A8FFF     (base 16)		Exact Sciences
+				5505 Endeavor Lane
+				Madison  WI  53719
+				US
 
 8C-1F-64   (hex)		Flow Power
 82B000-82BFFF     (base 16)		Flow Power
@@ -28484,6 +28496,12 @@ DC8000-DC8FFF     (base 16)		DWDM.RU LLC
 				Tver    170006
 				RU
 
+8C-1F-64   (hex)		Vision Systems Safety Tech
+F7F000-F7FFFF     (base 16)		Vision Systems Safety Tech
+				5 Chemin de Chiradie
+				Brignais    69530
+				FR
+
 8C-1F-64   (hex)		Mobileye
 D63000-D63FFF     (base 16)		Mobileye
 				13 Hartom st.
@@ -35521,3 +35539,9 @@ EBD000-EBDFFF     (base 16)		Esprit Digital Ltd
 				Unit 17-18, Gunnels Wood ParkGunnels Wood RoadGunnels Wood Park, Gunnels Wood Road
 				Stevenage  Hertfordshire  SG1 2BH
 				GB
+
+8C-1F-64   (hex)		BTEC INDUSTRIAL INSTRUMENT SDN. BHD.
+13E000-13EFFF     (base 16)		BTEC INDUSTRIAL INSTRUMENT SDN. BHD.
+				3, S-10-06 & S-10-08 , PERSIARAN KELICAP9C – SETIA TRI-ANGLE CORPORATE SUITE TOWER, 11900 BAYAN LEPAS, PENANG, MALAYSIA
+				BAYAN LEPAS  Pulau Pinang  11900
+				MY
