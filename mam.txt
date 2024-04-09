@@ -12374,6 +12374,12 @@ C00000-CFFFFF     (base 16)		FLAT-PRO LLC
 				Noida  Uttar Pradesh  201305
 				IN
 
+10-63-A3   (hex)		Nextvision Stabilized Systems LTD
+300000-3FFFFF     (base 16)		Nextvision Stabilized Systems LTD
+				6620 S Tenaya Way
+				Las Vegas  NV  89113
+				US
+
 B8-4C-87   (hex)		Altronix , Corp
 A00000-AFFFFF     (base 16)		Altronix , Corp
 				140 58th St. Bldg A, Ste 2N
@@ -31357,3 +31363,9 @@ C8-FF-BF   (hex)		Indra Renewable Technologies
 				Unit 1 Sentinel House, Sparrowhawk Close
 				Malvern  Worcestershire  WR14 1GL
 				GB
+
+10-63-A3   (hex)		Annapurna labs
+E00000-EFFFFF     (base 16)		Annapurna labs
+				Matam Scientific Industries Center,   Building 8.2
+				Mail box 15123  Haifa  3508409
+				IL
