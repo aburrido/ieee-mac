@@ -446,6 +446,12 @@ AA0F85                        (base 16)                     Yamaichi Electronics
                                                             Hiawatha  IA  52233                          
                                                             US                                           
 
+CA-FA-E6                      (hex)                         Tianjin Ronghui microelectronics Technology Co., Ltd.
+CAFAE6                        (base 16)                     Tianjin Ronghui microelectronics Technology Co., Ltd.
+                                                            601-2, Building 1, Science and Innovation Service Center, Intersection of Xuefu Middle Road and Chuangyuan Road, Jingwu Town, Xiqing District, Tianjin (Tiankai Xiqing Park)
+                                                            Tianjin  Tianjin  300384                     
+                                                            CN                                           
+
 8A-85-2E                      (hex)                         Kampr Systems                                
 8A852E                        (base 16)                     Kampr Systems                                
                                                             2047 Kings Lane                              
