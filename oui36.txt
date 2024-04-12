@@ -7127,18 +7127,6 @@ D1F000-D1FFFF     (base 16)		Free Talk Engineering Co., Ltd
 				Seongnam  Gyeonggi-do  462-729
 				KR
 
-8C-1F-64   (hex)		R&K
-DC6000-DC6FFF     (base 16)		R&K
-				maeda 721−1
-				fuji city  Shizuoka ken  416-8577
-				JP
-
-70-B3-D5   (hex)		Morgan Schaffer
-7C2000-7C2FFF     (base 16)		Morgan Schaffer
-				8300 rue St-Patrick bureau 150
-				LaSalle  Quebec  H8N 2H1
-				CA
-
 8C-1F-64   (hex)		General Dynamics IT
 F7C000-F7CFFF     (base 16)		General Dynamics IT
 				100 Mechanic Street
@@ -7156,6 +7144,18 @@ F7C000-F7CFFF     (base 16)		General Dynamics IT
 				Via A. Grandi 23
 				Cinisello Balsamo    20092
 				IT
+
+70-B3-D5   (hex)		Morgan Schaffer
+7C2000-7C2FFF     (base 16)		Morgan Schaffer
+				8300 rue St-Patrick bureau 150
+				LaSalle  Quebec  H8N 2H1
+				CA
+
+8C-1F-64   (hex)		R&K
+DC6000-DC6FFF     (base 16)		R&K
+				maeda 721−1
+				fuji city  Shizuoka ken  416-8577
+				JP
 
 8C-1F-64   (hex)		Jacobs Technology, Inc.
 A98000-A98FFF     (base 16)		Jacobs Technology, Inc.
