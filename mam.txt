@@ -18851,6 +18851,12 @@ A00000-AFFFFF     (base 16)		Piscis Networks Private Limited
 				Roznov pod Radhostem    75661
 				CZ
 
+5C-5A-4C   (hex)		Ferroamp AB (publ)
+300000-3FFFFF     (base 16)		Ferroamp AB (publ)
+				Odlingsgatan 7B
+				Sundbyberg    17453
+				SE
+
 D0-14-11   (hex)		P.B. Elettronica srl
 100000-1FFFFF     (base 16)		P.B. Elettronica srl
 				Via Santorelli, 8
@@ -25102,6 +25108,12 @@ D00000-DFFFFF     (base 16)		Zilia Technologies
 				1069 Stewart Drive, Suites 3-6
 				Ogden  UT  84404
 				US
+
+5C-5A-4C   (hex)		Orchid Products Limited
+100000-1FFFFF     (base 16)		Orchid Products Limited
+				Unit 702, 7th Floor, One Hung To Road
+				Kwun Tong  Hong Kong  kl1
+				HK
 
 B8-4C-87   (hex)		Private
 E00000-EFFFFF     (base 16)		Private
