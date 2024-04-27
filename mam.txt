@@ -18905,6 +18905,12 @@ F8-7A-39   (hex)		Zsystem technology co.,
 				Kaohsiung    804107
 				TW
 
+F8-7A-39   (hex)		FELTRIN INDUSTRIA E COMERCIO
+A00000-AFFFFF     (base 16)		FELTRIN INDUSTRIA E COMERCIO
+				Street Agostinho Fornetti 6-38
+				Bauru  SÃO PAULO  17064170
+				BR
+
 D0-14-11   (hex)		P.B. Elettronica srl
 100000-1FFFFF     (base 16)		P.B. Elettronica srl
 				Via Santorelli, 8
