@@ -7193,6 +7193,12 @@ D11000-D11FFF     (base 16)		Benetel
 				Oslo  Oslo  0504
 				NO
 
+8C-1F-64   (hex)		INTERNET PROTOCOLO LOGICA SL
+715000-715FFF     (base 16)		INTERNET PROTOCOLO LOGICA SL
+				Avenida Somosierra 12. Portal A. Planta 1ª. Letra I
+				San Sebastián de los Reyes  Madrid  28703
+				ES
+
 8C-1F-64   (hex)		Jacobs Technology, Inc.
 A98000-A98FFF     (base 16)		Jacobs Technology, Inc.
 				7765 Old Telegraph Road
@@ -21452,17 +21458,23 @@ AA0000-AA0FFF     (base 16)		Flextronics International Kft
 				GuangZhou  GuangDong  510370
 				CN
 
-8C-1F-64   (hex)		Potter Electric Signal Co. LLC
-4A7000-4A7FFF     (base 16)		Potter Electric Signal Co. LLC
-				1609 Park 370 Place
-				Hazelwood  MO  63042
-				US
-
 8C-1F-64   (hex)		Bavaria Digital Technik GmbH
 17B000-17BFFF     (base 16)		Bavaria Digital Technik GmbH
 				Rehbichler Weg 26
 				Pfronten  Bayern  87459
 				DE
+
+8C-1F-64   (hex)		Global Design Tech(ZS) Co.,Ltd
+A86000-A86FFF     (base 16)		Global Design Tech(ZS) Co.,Ltd
+				Building 1,No.6  jiusha Road,Torch High-Tech Industry Development Zone,Zhongshan City,Guangdong Province    
+				Zhongshan  Guangdong  528400
+				CN
+
+8C-1F-64   (hex)		Potter Electric Signal Co. LLC
+4A7000-4A7FFF     (base 16)		Potter Electric Signal Co. LLC
+				1609 Park 370 Place
+				Hazelwood  MO  63042
+				US
 
 8C-1F-64   (hex)		Flow Power
 82B000-82BFFF     (base 16)		Flow Power

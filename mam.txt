@@ -6440,17 +6440,23 @@ B00000-BFFFFF     (base 16)		Credo Diagnostics Biomedical Pte. Ltd. Taiwan branc
 				    
 				
 
-5C-5A-4C   (hex)		Ace Computers
-700000-7FFFFF     (base 16)		Ace Computers
-				340 Howard Ave
-				Des Plaines  IL  60018
-				US
-
 F8-7A-39   (hex)		Hangzhou Jiemu Electronic Technology Co.,Ltd
 100000-1FFFFF     (base 16)		Hangzhou Jiemu Electronic Technology Co.,Ltd
 				Room 920, No. 1451, Binxing Road, Changhe Street, Binjiang District, Hangzhou City, China (Zhejiang) Free Trade Pilot Zone
 				Hangzhou    310051
 				CN
+
+F8-7A-39   (hex)		Xiamen Tonmind Technology Co.,Ltd
+D00000-DFFFFF     (base 16)		Xiamen Tonmind Technology Co.,Ltd
+				Room 806, Building B, No.55 Wanghai Road, 2nd Software Park
+				Xiamen  Fujian  361008
+				CN
+
+5C-5A-4C   (hex)		Ace Computers
+700000-7FFFFF     (base 16)		Ace Computers
+				340 Howard Ave
+				Des Plaines  IL  60018
+				US
 
 B8-4C-87   (hex)		Shenzhen Link-all Technology Co., Ltd
 300000-3FFFFF     (base 16)		Shenzhen Link-all Technology Co., Ltd
@@ -12439,6 +12445,12 @@ C00000-CFFFFF     (base 16)		FLAT-PRO LLC
 				12 Marina Boulevard 17F
 				Singapore  Singapore  018982
 				SG
+
+F8-7A-39   (hex)		Beijing Zhongyuan Yishang Technology Co.,LTD
+800000-8FFFFF     (base 16)		Beijing Zhongyuan Yishang Technology Co.,LTD
+				M1005,10th Floor,RuidaBuilding,No.74Lugu Road,Shijingshan District,Beijing
+				Beijing    100000
+				CN
 
 B8-4C-87   (hex)		Altronix , Corp
 A00000-AFFFFF     (base 16)		Altronix , Corp
@@ -18910,6 +18922,12 @@ A00000-AFFFFF     (base 16)		FELTRIN INDUSTRIA E COMERCIO
 				Street Agostinho Fornetti 6-38
 				Bauru  SÃO PAULO  17064170
 				BR
+
+F8-7A-39   (hex)		FuyanshengElectronicFujian Co.ltd
+B00000-BFFFFF     (base 16)		FuyanshengElectronicFujian Co.ltd
+				Building 5, No. 398 BailongVillage,,Zhuqi Township, Minhou County
+				Fuzhou  FUJIAN  350107
+				CN
 
 D0-14-11   (hex)		P.B. Elettronica srl
 100000-1FFFFF     (base 16)		P.B. Elettronica srl
