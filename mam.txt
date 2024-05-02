@@ -12452,6 +12452,12 @@ F8-7A-39   (hex)		Beijing Zhongyuan Yishang Technology Co.,LTD
 				Beijing    100000
 				CN
 
+F8-7A-39   (hex)		Cognosos, Inc.
+E00000-EFFFFF     (base 16)		Cognosos, Inc.
+				1100 Spring St. NW, Suite 300A
+				Atlanta  GA  30309
+				US
+
 B8-4C-87   (hex)		Altronix , Corp
 A00000-AFFFFF     (base 16)		Altronix , Corp
 				140 58th St. Bldg A, Ste 2N
@@ -31627,3 +31633,9 @@ F8-7A-39   (hex)		Overview Limited
 				Overview House Kingswey Business ParkForsyth Road
 				Woking  Surrey  GU21 5SA
 				GB
+
+F8-7A-39   (hex)		tatwah SA
+500000-5FFFFF     (base 16)		tatwah SA
+				rue de Lausanne 47
+				Morges    1110
+				CH
