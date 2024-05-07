@@ -31657,3 +31657,9 @@ F8-7A-39   (hex)		tatwah SA
 				rue de Lausanne 47
 				Morges    1110
 				CH
+
+EC-5B-CD   (hex)		Quicklert Inc
+C00000-CFFFFF     (base 16)		Quicklert Inc
+				5401 N. Meridian St.
+				Indianapolis  IN  46208
+				US
