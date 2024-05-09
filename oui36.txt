@@ -7205,6 +7205,12 @@ D11000-D11FFF     (base 16)		Benetel
 				Cerdanyola del Vallès  Barcelona  08290
 				ES
 
+8C-1F-64   (hex)		Flextroincs International (Taiwain Ltd
+C45000-C45FFF     (base 16)		Flextroincs International (Taiwain Ltd
+				5F., No.6, Sec. 1, Jhongsing Rd., Wugu Dist., New Taipei City 24872,Taiwan
+				Taipei  New Taipei City  24872
+				TW
+
 8C-1F-64   (hex)		Jacobs Technology, Inc.
 A98000-A98FFF     (base 16)		Jacobs Technology, Inc.
 				7765 Old Telegraph Road
@@ -14389,6 +14395,12 @@ BB9000-BB9FFF     (base 16)		SmartD Technologies Inc
 				7352 Trade St
 				San Diego  CA  92121
 				US
+
+8C-1F-64   (hex)		Novatera(Shenzhen)Technologies Co.,Ltd.
+EFD000-EFDFFF     (base 16)		Novatera(Shenzhen)Technologies Co.,Ltd.
+				No.2007 Pingshan Avenue, Pingshan District, 
+				Shenzhen  Guangdong  518118
+				CN
 
 8C-1F-64   (hex)		Vision Systems Safety Tech
 E6F000-E6FFFF     (base 16)		Vision Systems Safety Tech
@@ -28664,6 +28676,12 @@ C5E000-C5EFFF     (base 16)		YUYAMA MFG Co.,Ltd
 				delhi  delhi  110020
 				IN
 
+8C-1F-64   (hex)		Monnit Corporation
+66E000-66EFFF     (base 16)		Monnit Corporation
+				3400 S West Temple
+				S Salt Lake  UT  84115
+				US
+
 8C-1F-64   (hex)		Mobileye
 D63000-D63FFF     (base 16)		Mobileye
 				13 Hartom st.
@@ -35743,3 +35761,15 @@ C96000-C96FFF     (base 16)		Smart Data (Shenzhen) Intelligent System Co., Ltd.
 				Plot no CP09 Cyberwalk Sector 08 IMT Manesar Gurgaon
 				Gurgaon  Haryana  122050
 				IN
+
+8C-1F-64   (hex)		VERIDAS Digital Authentication Solutions S.L
+195000-195FFF     (base 16)		VERIDAS Digital Authentication Solutions S.L
+				Poligono Industrial Talluntxe II, M 10
+				Tajonar  Navarra  31192
+				ES
+
+8C-1F-64   (hex)		attocube systems AG
+BD2000-BD2FFF     (base 16)		attocube systems AG
+				Eglfinger Weg 2
+				Haar  Bavaria  85540
+				DE
