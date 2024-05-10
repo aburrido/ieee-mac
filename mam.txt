@@ -31681,3 +31681,9 @@ C00000-CFFFFF     (base 16)		Quicklert Inc
 				5401 N. Meridian St.
 				Indianapolis  IN  46208
 				US
+
+EC-5B-CD   (hex)		Sfera Labs S.r.l.
+200000-2FFFFF     (base 16)		Sfera Labs S.r.l.
+				Strada 4, Palazzo Q6
+				Rozzano  MI  20089
+				IT

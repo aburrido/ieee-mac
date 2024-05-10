@@ -7211,6 +7211,12 @@ C45000-C45FFF     (base 16)		Flextroincs International (Taiwain Ltd
 				Taipei  New Taipei City  24872
 				TW
 
+8C-1F-64   (hex)		Hills Health Solutions
+72D000-72DFFF     (base 16)		Hills Health Solutions
+				237 Ingles Street
+				Port Melbourne  Victoria  3207
+				AU
+
 8C-1F-64   (hex)		Jacobs Technology, Inc.
 A98000-A98FFF     (base 16)		Jacobs Technology, Inc.
 				7765 Old Telegraph Road
@@ -14400,6 +14406,12 @@ BB9000-BB9FFF     (base 16)		SmartD Technologies Inc
 EFD000-EFDFFF     (base 16)		Novatera(Shenzhen)Technologies Co.,Ltd.
 				No.2007 Pingshan Avenue, Pingshan District, 
 				Shenzhen  Guangdong  518118
+				CN
+
+8C-1F-64   (hex)		Shanghai DIDON Industry Co,. Ltd.
+585000-585FFF     (base 16)		Shanghai DIDON Industry Co,. Ltd.
+				Room a205, Building 1, No. 2588 Hongmei South Road,Minhang District,Shanghai
+				Shanghai  Shanghai  201108
 				CN
 
 8C-1F-64   (hex)		Vision Systems Safety Tech
@@ -35762,11 +35774,23 @@ C96000-C96FFF     (base 16)		Smart Data (Shenzhen) Intelligent System Co., Ltd.
 				Gurgaon  Haryana  122050
 				IN
 
+8C-1F-64   (hex)		ROWAN ELETTRONICA SRL
+CB6000-CB6FFF     (base 16)		ROWAN ELETTRONICA SRL
+				VIA UGO FOSCOLO 20
+				CALDOGNO  VICENZA  36030
+				IT
+
 8C-1F-64   (hex)		VERIDAS Digital Authentication Solutions S.L
 195000-195FFF     (base 16)		VERIDAS Digital Authentication Solutions S.L
 				Poligono Industrial Talluntxe II, M 10
 				Tajonar  Navarra  31192
 				ES
+
+8C-1F-64   (hex)		UVIRCO Technologies
+3D2000-3D2FFF     (base 16)		UVIRCO Technologies
+				No33 De Havilland Crescent, Persequor Technopark
+				Pretoria  Gauteng  0020
+				ZA
 
 8C-1F-64   (hex)		attocube systems AG
 BD2000-BD2FFF     (base 16)		attocube systems AG
