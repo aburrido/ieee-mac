@@ -6470,6 +6470,12 @@ EC-5B-CD   (hex)		C&D Technologies
 				Horsham  PA  19044
 				US
 
+EC-5B-CD   (hex)		DONG GUAN YUNG FU ELECTRONICS LTD.
+000000-0FFFFF     (base 16)		DONG GUAN YUNG FU ELECTRONICS LTD.
+				No.3 LIAN SHENG INDUSTRIAL AREA,DENG WU VILLAGE,QIAO TOU TOWN
+				DONGGUAN CITY  GUANG DONG  523000
+				CN
+
 B8-4C-87   (hex)		Shenzhen Link-all Technology Co., Ltd
 300000-3FFFFF     (base 16)		Shenzhen Link-all Technology Co., Ltd
 				Floor 5th, Block 9th, Sunny Industrial Zone, Xili Town, Nanshan District, Shenzhen, China 
