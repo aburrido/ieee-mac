@@ -18983,6 +18983,12 @@ B00000-BFFFFF     (base 16)		StepOver GmbH
 				Stuttgart    70329
 				DE
 
+EC-5B-CD   (hex)		Jiangsu Fushi Electronic Technology Co., Ltd
+600000-6FFFFF     (base 16)		Jiangsu Fushi Electronic Technology Co., Ltd
+				Jiangsu Fushi Electronic Technology Co., Ltd
+				Changzhou  jiangsu  213000
+				CN
+
 D0-14-11   (hex)		P.B. Elettronica srl
 100000-1FFFFF     (base 16)		P.B. Elettronica srl
 				Via Santorelli, 8
