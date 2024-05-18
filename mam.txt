@@ -6482,6 +6482,12 @@ EC-5B-CD   (hex)		Ingersoll Rand
 				OVERLAND PARK  KS  66214
 				US
 
+34-46-63   (hex)		Luminys Systems Corporation
+400000-4FFFFF     (base 16)		Luminys Systems Corporation
+				15245 Alton PkwySTE100
+				Irvine  CA  92618
+				US
+
 B8-4C-87   (hex)		Shenzhen Link-all Technology Co., Ltd
 300000-3FFFFF     (base 16)		Shenzhen Link-all Technology Co., Ltd
 				Floor 5th, Block 9th, Sunny Industrial Zone, Xili Town, Nanshan District, Shenzhen, China 
@@ -12493,6 +12499,18 @@ EC-5B-CD   (hex)		Annapurna labs
 				Matam Scientific Industries Center,   Building 8.2
 				Mail box 15123  Haifa  3508409
 				IL
+
+EC-5B-CD   (hex)		Autel Robotics USA LLC
+E00000-EFFFFF     (base 16)		Autel Robotics USA LLC
+				22522 29th Dr SE 101
+				Bothell  WA  98021
+				US
+
+EC-5B-CD   (hex)		Doosan Bobcat North America
+800000-8FFFFF     (base 16)		Doosan Bobcat North America
+				3901 Morrison Avenue
+				Bismarck  ND  58504
+				US
 
 B8-4C-87   (hex)		Altronix , Corp
 A00000-AFFFFF     (base 16)		Altronix , Corp
@@ -18977,16 +18995,28 @@ EC-5B-CD   (hex)		Shenzhen Qunfang Technology Co., LTD.
 				Shenzhen    518000
 				CN
 
+EC-5B-CD   (hex)		Jiangsu Fushi Electronic Technology Co., Ltd
+600000-6FFFFF     (base 16)		Jiangsu Fushi Electronic Technology Co., Ltd
+				Jiangsu Fushi Electronic Technology Co., Ltd
+				Changzhou  jiangsu  213000
+				CN
+
+34-46-63   (hex)		mirle automation corporation
+C00000-CFFFFF     (base 16)		mirle automation corporation
+				No.3, R&D Rd. II, Science Park
+				Hsinchu  Taiwan  30076
+				TW
+
 EC-5B-CD   (hex)		StepOver GmbH
 B00000-BFFFFF     (base 16)		StepOver GmbH
 				Otto-Hirsch-Brücken 17
 				Stuttgart    70329
 				DE
 
-EC-5B-CD   (hex)		Jiangsu Fushi Electronic Technology Co., Ltd
-600000-6FFFFF     (base 16)		Jiangsu Fushi Electronic Technology Co., Ltd
-				Jiangsu Fushi Electronic Technology Co., Ltd
-				Changzhou  jiangsu  213000
+EC-5B-CD   (hex)		Green Solutions (Chengdu) Co., Ltd
+400000-4FFFFF     (base 16)		Green Solutions (Chengdu) Co., Ltd
+				Floor 4, Block B, Building 2, No. 2, Second Digital Road, Deyuan Town, Pidu District
+				Chengdu  Sichuan  611730
 				CN
 
 D0-14-11   (hex)		P.B. Elettronica srl
@@ -25288,6 +25318,12 @@ F8-7A-39   (hex)		Shenzhen Electron Technology Co., LTD.
 				Building 2, Yingfeng Industrial Zone, Tantou Community, Songgang Street, Bao'an District
 				Shenzhen  Guangzhou  51800
 				CN
+
+34-46-63   (hex)		Chain Reaction Ltd
+100000-1FFFFF     (base 16)		Chain Reaction Ltd
+				2 HaCarmel St.Alon Building BPO BOX 294
+				Yokneam llit    2069204 
+				IL
 
 B8-4C-87   (hex)		Private
 E00000-EFFFFF     (base 16)		Private
