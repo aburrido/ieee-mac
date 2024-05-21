@@ -6488,6 +6488,12 @@ EC-5B-CD   (hex)		DONG GUAN YUNG FU ELECTRONICS LTD.
 				Irvine  CA  92618
 				US
 
+34-46-63   (hex)		China Drive Electric Co.,Ltd（Zhe Jiang）
+000000-0FFFFF     (base 16)		China Drive Electric Co.,Ltd（Zhe Jiang）
+				No.3 Ruzhu road, Fuzhuyuan Village, Sidu Town, Jiangshan City, Zhejiang. 
+				zhejiang    324100
+				CN
+
 B8-4C-87   (hex)		Shenzhen Link-all Technology Co., Ltd
 300000-3FFFFF     (base 16)		Shenzhen Link-all Technology Co., Ltd
 				Floor 5th, Block 9th, Sunny Industrial Zone, Xili Town, Nanshan District, Shenzhen, China 
@@ -12511,6 +12517,12 @@ EC-5B-CD   (hex)		Doosan Bobcat North America
 				3901 Morrison Avenue
 				Bismarck  ND  58504
 				US
+
+34-46-63   (hex)		Shenzhen Shenhong Communication Technology Co., Ltd
+A00000-AFFFFF     (base 16)		Shenzhen Shenhong Communication Technology Co., Ltd
+				No. 27B, Baolong 1st Road, Nanyue Community, Lianhe Industrial Zone, Baolong Street, Longgang District, ShenzhenThe east side of the second floor of Building
+				Shenzhen  Guangdong  518000
+				CN
 
 B8-4C-87   (hex)		Altronix , Corp
 A00000-AFFFFF     (base 16)		Altronix , Corp
@@ -19001,12 +19013,6 @@ B00000-BFFFFF     (base 16)		StepOver GmbH
 				Stuttgart    70329
 				DE
 
-EC-5B-CD   (hex)		Jiangsu Fushi Electronic Technology Co., Ltd
-600000-6FFFFF     (base 16)		Jiangsu Fushi Electronic Technology Co., Ltd
-				Jiangsu Fushi Electronic Technology Co., Ltd
-				Changzhou  jiangsu  213000
-				CN
-
 34-46-63   (hex)		mirle automation corporation
 C00000-CFFFFF     (base 16)		mirle automation corporation
 				No.3, R&D Rd. II, Science Park
@@ -19017,6 +19023,12 @@ EC-5B-CD   (hex)		Green Solutions (Chengdu) Co., Ltd
 400000-4FFFFF     (base 16)		Green Solutions (Chengdu) Co., Ltd
 				Floor 4, Block B, Building 2, No. 2, Second Digital Road, Deyuan Town, Pidu District
 				Chengdu  Sichuan  611730
+				CN
+
+EC-5B-CD   (hex)		Jiangsu Fushi Electronic Technology Co., Ltd
+600000-6FFFFF     (base 16)		Jiangsu Fushi Electronic Technology Co., Ltd
+				Jiangsu Fushi Electronic Technology Co., Ltd
+				Changzhou  jiangsu  213000
 				CN
 
 D0-14-11   (hex)		P.B. Elettronica srl
@@ -31747,3 +31759,9 @@ EC-5B-CD   (hex)		Sfera Labs S.r.l.
 				Strada 4, Palazzo Q6
 				Rozzano  MI  20089
 				IT
+
+34-46-63   (hex)		Shenzhen C & D Electronics Co., Ltd.
+900000-9FFFFF     (base 16)		Shenzhen C & D Electronics Co., Ltd.
+				9th FIoor, Building 9, No.1 Qingxiang road, BaoNeng Science and TechnoIogy Industrial Park, Longhua New District
+				ShenZhen  GuangDong  518000
+				CN
