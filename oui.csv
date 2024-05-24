@@ -5251,7 +5251,6 @@ MA-L,00157E,Weidmüller Interface GmbH & Co. KG,Klingenbergstraße 16 Detmold  D
 MA-L,001580,U-WAY CORPORATION,"3F-2, NO. 125, LANE 235, PAO-CHIAO HSINTIEN CITY TAIPEI HSIEN TW 231 "
 MA-L,00157C,"Dave Networks, Inc.",2151 O'tool Avenue San Jose CA US 95131 
 MA-L,00157F,"ChuanG International Holding CO.,LTD.","1F, NO.12, Alley 1, Lane 125, Guolian Street 4Lirn, Wuhan Village Taoyuan Longtan US 325 "
-MA-L,00153B,EMH metering GmbH & Co. KG,Neu- Galliner Weg 1  Mecklenburg-Vorpommern DE  
 MA-L,001533,"NADAM.CO.,LTD",#91-3 Wangrim-Li Hwaseong Gyeonggi KR 445-895 
 MA-L,001537,Ventus Networks,800 Connecticut Ave Norwalk CT US 06854 
 MA-L,001534,"A Beltrónica-Companhia de Comunicações, Lda","Rua Dr. José Baptista de Sousa, 27 Lisbon  PT 1549-002 Lis "
@@ -7138,6 +7137,7 @@ MA-L,8492E5,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan
 MA-L,FCAE2B,Titan Products Ltd.,Titan Products Ltd. 15 Latham Close Bredbury Stockport  GB SK6 2SD 
 MA-L,685134,Hewlett Packard Enterprise,6280 America Center Dr San Jose CA US 95002 
 MA-L,F0CF4D,BitRecords GmbH,Marie-Curie-Ring 18 Flensburg  DE 24941 
+MA-L,00153B,EMH Metering GmbH & Co. KG,Neu- Galliner Weg 1  Mecklenburg-Vorpommern DE  
 MA-L,00749C,"Ruijie Networks Co.,LTD","19# Building,Star-net Science Plaza,Juyuanzhou, 618 Jinshan Road Fuzhou Fujian CN 350002 "
 MA-L,E01C41,Extreme Networks Headquarters,2121 RDU Center Drive  Morrisville NC US 27560 
 MA-L,BCF310,Extreme Networks Headquarters,2121 RDU Center Drive  Morrisville NC US 27560 
@@ -14194,12 +14194,13 @@ MA-L,B0C2C7,"Motorola Mobility LLC, a Lenovo Company",222 West Merchandise Mart 
 MA-L,648B9B,ALWAYS ON TECH PTE.LTD.,1 KIM SENG PROMENADE #17-04 GREAT WORLD CITY SINGAPORE SINGAPORE SINGAPORE SG  237994 
 MA-L,382835,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
 MA-L,68BF6C,Arista Networks,5453 Great America Parkway Santa Clara CA US 95054 
-MA-L,741213,"Linksys USA, Inc","121 Theory, Suite 200 Irvine  US 92617 "
-MA-L,A00A9A,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
-MA-L,38DE35,"GUANGZHOU YUANDIANHE COMMUNICATION TECHNOLOGY CO.,LTD","NO.477, HANXI AVENUE EAST GUANGZHOU PANYU CN 510000 "
-MA-L,343D7F,"Klipsch Group, Inc.",3502 Woodview Trce Ste 200 Indianapolis IN US 46268 
-MA-L,94B3F7,"Hui Zhou Gaoshengda Technology Co.,LTD","No.2,Jin-da Road,Huinan Industrial Park Hui Zhou Guangdong CN 516025 "
 MA-L,74A5C2,KYOCERA Corporation ,"3-3-31, Miyahara, Yodogawa-ku Osaka Osaka JP 532-0003 "
+MA-L,741213,"Linksys USA, Inc","121 Theory, Suite 200 Irvine  US 92617 "
+MA-L,343D7F,"Klipsch Group, Inc.",3502 Woodview Trce Ste 200 Indianapolis IN US 46268 
+MA-L,38DE35,"GUANGZHOU YUANDIANHE COMMUNICATION TECHNOLOGY CO.,LTD","NO.477, HANXI AVENUE EAST GUANGZHOU PANYU CN 510000 "
+MA-L,94B3F7,"Hui Zhou Gaoshengda Technology Co.,LTD","No.2,Jin-da Road,Huinan Industrial Park Hui Zhou Guangdong CN 516025 "
+MA-L,A00A9A,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
+MA-L,581F19,EMH Metering GmbH & Co. KG,Neu- Galliner Weg 1 Gallin  DE 19258 
 MA-L,6C8720,"New H3C Technologies Co., Ltd","466 Changhe Road, Binjiang District Hangzhou Zhejiang CN 310052 "
 MA-L,0C8D7A,RADiflow,HaBarzel St 38 Tel-Aviv  IL 6971054 
 MA-L,FCA9F5,Xiaomi Communications Co Ltd,"#019, 9th Floor, Building 6, 33 Xi'erqi Middle Road Beijing Haidian District CN 100085 "
@@ -35550,3 +35551,4 @@ MA-L,20A200,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan
 MA-L,7CA8EC,Hewlett Packard Enterprise,6280 America Center Dr San Jose CA US 95002 
 MA-L,F4D0A7,"Zhejiang Weilai Jingling Artificial Intelligence Technology Co., Ltd.","B2, 6th Floor (6-7 section), Xixi Campus, Ai Cheng Street, Wuchang Sub-district, Yuhang District, Hangzhou, Zhejiang Province, China Hangzhou Zhejiang CN 310024 "
 MA-L,B4E3D0,LG Electronics,"Lot CN02, Trang Due Industrial Park, Le Loi commune, An Duong District Hai Phong Select State VN 04400 "
+MA-L,EC554D,Private,

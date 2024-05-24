@@ -14420,6 +14420,12 @@ EFD000-EFDFFF     (base 16)		Novatera(Shenzhen)Technologies Co.,Ltd.
 				Shenzhen  Guangdong  518118
 				CN
 
+8C-1F-64   (hex)		TSS COMPANY s.r.o.
+2F9000-2F9FFF     (base 16)		TSS COMPANY s.r.o.
+				Pod Rovnicami 41
+				Bratislava    84104
+				SK
+
 8C-1F-64   (hex)		Savant Group
 021000-021FFF     (base 16)		Savant Group
 				4800 James Savage
@@ -14438,11 +14444,11 @@ EFD000-EFDFFF     (base 16)		Novatera(Shenzhen)Technologies Co.,Ltd.
 				Lichtenau    77839
 				DE
 
-8C-1F-64   (hex)		TSS COMPANY s.r.o.
-2F9000-2F9FFF     (base 16)		TSS COMPANY s.r.o.
-				Pod Rovnicami 41
-				Bratislava    84104
-				SK
+8C-1F-64   (hex)		TELETECH SERVICES
+E3F000-E3FFFF     (base 16)		TELETECH SERVICES
+				812, Vakratunda Corporate Park, Off Aarey Road, Churi Wadi, Goregaon East
+				Mumbai  Maharashtra  400097
+				IN
 
 8C-1F-64   (hex)		Vision Systems Safety Tech
 E6F000-E6FFFF     (base 16)		Vision Systems Safety Tech
@@ -21547,6 +21553,12 @@ CD9000-CD9FFF     (base 16)		Fingoti Limited
 				Unit 4-5 Creative Court 
 				Central Park Avenue  Plymouth  PL4 6NW
 				GB
+
+8C-1F-64   (hex)		Onbitel
+44A000-44AFFF     (base 16)		Onbitel
+				4F Wintek Building Beolmoruap-gil 14
+				Uiwang-si  Gyeonggi-do  16013
+				KR
 
 8C-1F-64   (hex)		Flow Power
 82B000-82BFFF     (base 16)		Flow Power
