@@ -19061,24 +19061,6 @@ EC-5B-CD   (hex)		Jiangsu Fushi Electronic Technology Co., Ltd
 				Changzhou  jiangsu  213000
 				CN
 
-34-46-63   (hex)		Wuhan IDXLINK Technology Co., Ltd
-500000-5FFFFF     (base 16)		Wuhan IDXLINK Technology Co., Ltd
-				Room 304, 3rd Floor, Building C, Phase II,Canglong Island Tuochuang Industrial Park,Jiangxia Economic Development Zone
-				Wuhan  Hubei  430205
-				CN
-
-34-46-63   (hex)		HANGZHOU TASHI INTERNET OF THINGS TECHNOLOGY CO., LTD
-D00000-DFFFFF     (base 16)		HANGZHOU TASHI INTERNET OF THINGS TECHNOLOGY CO., LTD
-				Room 1602, HSBC building, No. 1288, Jincheng Road, Beigan street, Xiaoshan District, Hangzhou, Zhejiang
-				Hangzhou  Zhejiang  311200
-				CN
-
-08-DA-33   (hex)		Videoline Surveillance Services Pvt. Ltd. 
-600000-6FFFFF     (base 16)		Videoline Surveillance Services Pvt. Ltd. 
-				A-103, A Block, Sector 63, Noida, Uttar Pradesh 201301
-				Noida  Uttar Pradesh  201301
-				IN
-
 08-DA-33   (hex)		AMPACS Corporation
 800000-8FFFFF     (base 16)		AMPACS Corporation
 				3F., No.19-3, Sanchong Rd., Nangang Dist.
@@ -19090,6 +19072,24 @@ D00000-DFFFFF     (base 16)		HANGZHOU TASHI INTERNET OF THINGS TECHNOLOGY CO., L
 				16 Baishi West Road, Xiangtan Economic and Technological Development Zone
 				Xiangtan  Hunan  411100
 				CN
+
+34-46-63   (hex)		HANGZHOU TASHI INTERNET OF THINGS TECHNOLOGY CO., LTD
+D00000-DFFFFF     (base 16)		HANGZHOU TASHI INTERNET OF THINGS TECHNOLOGY CO., LTD
+				Room 1602, HSBC building, No. 1288, Jincheng Road, Beigan street, Xiaoshan District, Hangzhou, Zhejiang
+				Hangzhou  Zhejiang  311200
+				CN
+
+34-46-63   (hex)		Wuhan IDXLINK Technology Co., Ltd
+500000-5FFFFF     (base 16)		Wuhan IDXLINK Technology Co., Ltd
+				Room 304, 3rd Floor, Building C, Phase II,Canglong Island Tuochuang Industrial Park,Jiangxia Economic Development Zone
+				Wuhan  Hubei  430205
+				CN
+
+08-DA-33   (hex)		Videoline Surveillance Services Pvt. Ltd. 
+600000-6FFFFF     (base 16)		Videoline Surveillance Services Pvt. Ltd. 
+				A-103, A Block, Sector 63, Noida, Uttar Pradesh 201301
+				Noida  Uttar Pradesh  201301
+				IN
 
 D0-14-11   (hex)		P.B. Elettronica srl
 100000-1FFFFF     (base 16)		P.B. Elettronica srl
