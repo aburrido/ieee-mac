@@ -1088,6 +1088,8 @@ MA-M,EC5BCD1,Ingersoll Rand,8340 MELROSE DR OVERLAND PARK KS US 66214
 MA-M,EC5BCD0,DONG GUAN YUNG FU ELECTRONICS LTD.,"No.3 LIAN SHENG INDUSTRIAL AREA,DENG WU VILLAGE,QIAO TOU TOWN DONGGUAN CITY GUANG DONG CN 523000 "
 MA-M,3446630,"China Drive Electric Co.,Ltd（Zhe Jiang）","No.3 Ruzhu road, Fuzhuyuan Village, Sidu Town, Jiangshan City, Zhejiang.  zhejiang  CN 324100 "
 MA-M,3446634,Luminys Systems Corporation,15245 Alton Pkwy STE100 Irvine CA US 92618 
+MA-M,08DA33C,"GITHON TECHNOLOGY CO., LTD.","ROOM 310, NO.1 THE 2ND AVENUE, AIRPORT INTERNATIONAL LOGISTICS ZONE, FREE TRADE DISTRICT (AIRPORT ECONOMIC DISTRICT) TIANJIN  CN 300399 "
+MA-M,08DA333,AI Storm,7207 Regency Square Blvd Suite 235 Houston TX US 77036 
 MA-M,B84C873,"Shenzhen Link-all Technology Co., Ltd","Floor 5th, Block 9th, Sunny Industrial Zone, Xili Town, Nanshan District, Shenzhen, China  Shenzhen Guangdong CN 518108 "
 MA-M,B84C875,"Psync Labs, Inc.",1825 Allison Way San Jose CA US 95132 
 MA-M,B84C87C,SOND,"1295 Beacon St, Unit #899 Brookline  US 02446 "
@@ -2669,7 +2671,6 @@ MA-M,D425CCB,Veea,164 E183rd street New York NY US 10028
 MA-M,9C69B44,Globalcom Engineering SPA,Via Volta 9 MORNAGO VA IT 21020 
 MA-M,9C69B42,"MOZI (Shenzhen) Artificial Intelligence Technology Co., Ltd. ","Room 1305, Building A Phase I Innovation and Technology Square, 4 Tairan Road, Futian  Shenzhen  Guangdong CN 518000 "
 MA-M,4C917A1,Inster Tecnología y Comunicaciones SAU,"Avda. Rita Levi Montalcini, 2 Parcela 5, Tecnogetafe - Getafe Madrid  ES 28906 "
-MA-M,4C917A7,S.I.C.E.S. srl,"Via Molinello, 8B Jerago con Orago VARESE IT 21040 "
 MA-M,9C69B43,"Appareo Systems, LLC",1830 NDSU Research Circle N Fargo ND US 58102 
 MA-M,6CDFFBC,Toucan Systems Ltd,3 Roseheyworth Business Park Abertillery Bleanau Gwent GB NP13 1SP 
 MA-M,6CDFFBA,"Guilin Zhishen Information TechonlogyCO.,Ltd","Creative Industrial Park,GuiMo Rd.,Qi Xing Guilin Guangxi CN 541004 "
@@ -3199,6 +3200,7 @@ MA-M,08DA339,"Lens Technology (Xiangtan) Co.,Ltd","16 Baishi West Road, Xiangtan
 MA-M,344663D,"HANGZHOU TASHI INTERNET OF THINGS TECHNOLOGY CO., LTD","Room 1602, HSBC building, No. 1288, Jincheng Road, Beigan street, Xiaoshan District, Hangzhou, Zhejiang Hangzhou Zhejiang CN 311200 "
 MA-M,3446635,"Wuhan IDXLINK Technology Co., Ltd","Room 304, 3rd Floor, Building C, Phase II, Canglong Island Tuochuang Industrial Park, Jiangxia Economic Development Zone Wuhan Hubei CN 430205 "
 MA-M,08DA336,Videoline Surveillance Services Pvt. Ltd. ,"A-103, A Block, Sector 63, Noida, Uttar Pradesh 201301 Noida Uttar Pradesh IN 201301 "
+MA-M,4C917A7,MECCALTE SPA,"Via Molinello, 8B Jerago con Orago VARESE IT 21040 "
 MA-M,D014111,P.B. Elettronica srl,"Via Santorelli, 8 Grugliasco Torino IT 10095 "
 MA-M,B84C870,Annapurna labs,"Matam Scientific Industries Center,   Building 8.2 Mail box 15123 Haifa IL 3508409 "
 MA-M,C022F13,Spectra Technologies India Private Limited,"8/33-C, FF, SF, Kirti Nagar Industrial Area, New Delhi New Delhi Delhi IN 110015 "
@@ -4263,6 +4265,7 @@ MA-M,3446633,LA Clippers,3930 W. Century Blvd Inglewood CA US 90303
 MA-M,3446636,China Motor Corporation,"No.618, Xiucai Rd., Yangmei Dist., Taoyuan City 326, Taiwan (R.O.C.) Taoyuan   TW 326 "
 MA-M,08DA33B,"Shenzhen Fanxiang lnformation Technology Co.,Ltd","Room 701, Building A, Ruziniu Building,No.56Zhonghao 1st Road,Xiangjiaotang Community,Bantian Street,Longgang ,District,Shenzhen Shenzhen  CN 518000 "
 MA-M,08DA33D,Shanghai ReeLink Global Communication Company LTD,"#1 Building,8218 Jinda  Road, Fengxian District, Shanghai, China Shanghai  CN 201203 "
+MA-M,08DA33A,"JAKA Robotics Co., Ltd.","Building 33-35, No.610 Jianchuan Rd, Minhang District Shanghai  CN 200240 "
 MA-M,C85CE20,Fela Management AG ,Basadingerstrasse 18 Diessenhofen  CH 8253 
 MA-M,B84C87E,Private,
 MA-M,B84C871,em-trak,"wireless house, westfield industrial estate Midsomer Norton Bath Somerset GB BA3 4BS "
@@ -5342,3 +5345,4 @@ MA-M,08DA337,Origalys ElectroChem SAS,"555 Chemin du Bois, 69140 Rillieux-la-Pap
 MA-M,3446639,"Shenzhen C & D Electronics Co., Ltd.","9th FIoor, Building 9, No.1 Qingxiang road, BaoNeng Science and TechnoIogy Industrial Park, Longhua New District ShenZhen GuangDong CN 518000 "
 MA-M,3446638,"Bluesoo Tech (HongKong) Co.,Limited","Room 05, 28 / F, good view business centre, 2-16 Garden Street, Mong Kok, Kowloon, Hongkong. HongKong  HK 999077 "
 MA-M,344663B,Grohe AG,Industriepark Edelburg Hemer NRW DE 58675 
+MA-M,08DA332,"Shenzhen Zhenghao lnnovation Techenology Co.,LTD","Building B1, Chuangzhi Cloud City, Nanshan District, Shenzhen Shenzhen  CN 518000 "

@@ -691,7 +691,6 @@ MA-S,70B3D5D6B,Uwinloc,57 Avenue Jean Monnet Colomiers  FR 31770
 MA-S,70B3D5608,EIIT SA,Camino Robledo de Chavela 9B Valdemorillo Madrid / Madrid ES 28210 
 MA-S,70B3D516B,IOT Engineering,3 Eglington Ave Epson Auckland NZ 1024 
 MA-S,70B3D5BA9,Alma,"4A, Bd de la Gare, Porte 1  Boissy St Léger PACA FR 94470 "
-MA-S,70B3D5EA7,S.I.C.E.S. srl,"Via Molinello, 8B Jerago con Orago VARESE IT 21040 "
 MA-S,70B3D53AA,RCATSONE,5925 Airport Road - Suite 905 Mississauga Ontario  CA L4V 1W1 
 MA-S,70B3D5B21,TATTILE SRL,"VIA DONIZETTI, 1/3/5 MAIRANO BRESCIA IT 25030 "
 MA-S,70B3D54B8,International Roll-Call Corporation,8346 Old Richfood Road Mechanicsville VA US 23116 
@@ -1206,6 +1205,7 @@ MA-S,8C1F6472D,Hills Health Solutions,237 Ingles Street Port Melbourne Victoria 
 MA-S,8C1F6485E,Apen Group S.p.A.  (VAT IT08767740155) ,"Via Isonzo, 1 Pessano con Bornago Milano IT 20042 "
 MA-S,8C1F640CD,DEUTA Werke GmbH,ET Bergisch Gladbach NRW DE 51465 
 MA-S,8C1F647DF,Secury360,Industrieweg-Zuid 1320 Zonhoven Limburg BE 3520 
+MA-S,70B3D5EA7,MECCALTE SPA,"Via Molinello, 8B Jerago con Orago VARESE IT 21040 "
 MA-S,8C1F64A98,"Jacobs Technology, Inc.",7765 Old Telegraph Road Severn MD US 21144 
 MA-S,8C1F644A9,Martec Marine S.p.a.,Via dell'industria 1/3 Vignate Milano IT 20052 
 MA-S,8C1F64E80,"Power Electronics Espana, S.L.","C/ Leonardo Da Vinci, 24-26 Paterna Valencia ES 46980 "
@@ -4809,6 +4809,7 @@ MA-S,8C1F64F97,Dentalhitec,"Rue de champ blanc, Zi de l'appentiere mazieres en m
 MA-S,8C1F64A47,Saarni Cloud Oy,Hatsinanpuisto 8 Espoo  FI 02600 
 MA-S,8C1F646BF,Automata GmbH & Co. KG,Gewerbering 5 Ried Bavaria DE 86510 
 MA-S,8C1F640DF,Leidos, 22635 Davis Dr Sterling VA US 20164 
+MA-S,8C1F648B7,DA-Design Oy,Kassimäenkatu 2 Forssa  FI 30300 
 MA-S,8C1F64D63,Mobileye,13 Hartom st. Jerusalem  IL 91450 
 MA-S,8C1F643C8,BTG Instruments AB,Industrigatan 1-3 Saffle Varmland SE 66132 
 MA-S,70B3D590E,Maytronics Ltd.,Kibbutz Yizrael Kibbutz Yizrael  IL 1935000 
@@ -5858,7 +5859,6 @@ MA-S,001BC50C0,"Digital Loggers, Inc.",2695 Walsh Avenue Santa Clara CA US 95051
 MA-S,001BC50B7,"Autelis, LLC",1820 W Calle De Pompas Phoenix Arizona US 85085 
 MA-S,001BC50AE,Techlan Reti s.r.l.,Via delle mondine 8 a/b Carpi Modena IT 41012 
 MA-S,001BC50A3,"P A Network Laboratory Co.,Ltd","2-12-10 Takanami Bld.3kai, Shiba, Minato-ku, Tokyo, 105-0014, Japan Minato-ku Tokyo JP 1050014 "
-MA-S,001BC509C,S.I.C.E.S. srl,"Via Molinello, 8B Jerago con Orago VARESE IT 21040 "
 MA-S,001BC5098,"Cubic Systems, Inc.",139 Dino Drive Ann Arbor MI US 48103 
 MA-S,001BC508D,EUREK  SRL,VIA CELLETTA 8/B IMOLA BOLOGNA US 40026 
 MA-S,001BC5081,"WonATech Co., Ltd.",171-17 Seocho-Gu Seoul KR 137-180 
@@ -6003,6 +6003,7 @@ MA-S,8C1F642A0,Connected Development,1001 Winstead Dr Suite 130 Cary NC US 27513
 MA-S,8C1F64D27,Taiv Inc,400-321 McDermot Ave  Winnipeg Manitoba CA R3A 0A3 
 MA-S,8C1F6498D,Aksel sp. z o.o.,Lipowa  17 Rybnik  PL 44-207 
 MA-S,8C1F642A2,SERAP,Route de Fougères Gorron Mayenne FR 53120 
-MA-S,8C1F64866,Unitron Systems b.v.,SCHANSESTRAAT 7 IJzendijke  NL 4515 RN 
 MA-S,8C1F64AA7,"SHENZHEN ANLIJI ELECTRONICS CO.,LTD","14th Floor, Building 9, Zhongsheng Science and Technology Park, Bulan Road, Shanglilang Community, Nanwan Street, Longgang District, Shenzhen, China Shenzhen Guangdong CN 518112 "
 MA-S,8C1F64D28,MapleCloud Technologies,"J-203, Stellar Jeevan, GH - 03 , Sec-01, Greater Noida, Gautam Buddha Nagar, Uttar Pradesh, 201318 Gautam Buddha Nagar Uttar Pradesh IN  201318 "
+MA-S,8C1F64866,Unitron Systems b.v.,SCHANSESTRAAT 7 IJzendijke  NL 4515 RN 
+MA-S,001BC509C,MECCALTE SPA,"Via Molinello, 8B Jerago con Orago VARESE IT 21040 "
