@@ -19157,6 +19157,12 @@ E00000-EFFFFF     (base 16)		Telo Communication（Shenzhen）Co.,Ltd
 				Shenzhen    518000
 				CN
 
+48-E6-C6   (hex)		Shenzhen ZK Technology CO.,LTD.
+400000-4FFFFF     (base 16)		Shenzhen ZK Technology CO.,LTD.
+				Shenzhen Overseas (Longgang) Innovation Park,Room323,Building No.1,Huanggekeng Community, Longcheng Street,Longgang District,Shenzhen City,518000,China
+				Shenzhen  Guangdong  518000
+				CN
+
 4C-91-7A   (hex)		MECCALTE SPA
 700000-7FFFFF     (base 16)		MECCALTE SPA
 				Via Roma 20
@@ -25511,17 +25517,17 @@ A00000-AFFFFF     (base 16)		JAKA Robotics Co., Ltd.
 				Valbonne    06560
 				FR
 
-48-E6-C6   (hex)		AL HAMI INFORMATION TECHNOLOGY - L.L.C
-A00000-AFFFFF     (base 16)		AL HAMI INFORMATION TECHNOLOGY - L.L.C
-				Blue Sky Tower, Office No. 1302, Abu Dhabi
-				AbuDhabi  AbuDhabi  29100
-				AE
-
 48-E6-C6   (hex)		Digital Matter Pty Ltd
 D00000-DFFFFF     (base 16)		Digital Matter Pty Ltd
 				9/100 Railway Rd
 				Subiaco  WA  6008
 				AU
+
+48-E6-C6   (hex)		AL HAMI INFORMATION TECHNOLOGY - L.L.C
+A00000-AFFFFF     (base 16)		AL HAMI INFORMATION TECHNOLOGY - L.L.C
+				Blue Sky Tower, Office No. 1302, Abu Dhabi
+				AbuDhabi  AbuDhabi  29100
+				AE
 
 48-E6-C6   (hex)		Satlab
 200000-2FFFFF     (base 16)		Satlab
