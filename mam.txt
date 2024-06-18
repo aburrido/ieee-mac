@@ -12620,6 +12620,12 @@ EC-5B-CD   (hex)		Doosan Bobcat North America
 				Minatoku  Tokyo  1080073
 				JP
 
+F4-20-55   (hex)		Shenzhen C & D Electronics Co., Ltd.
+A00000-AFFFFF     (base 16)		Shenzhen C & D Electronics Co., Ltd.
+				9th FIoor, Building 9, No.1 Qingxiang road, BaoNeng Science and TechnoIogy Industrial Park, Longhua New District
+				ShenZhen  GuangDong  518000
+				CN
+
 B8-4C-87   (hex)		Altronix , Corp
 A00000-AFFFFF     (base 16)		Altronix , Corp
 				140 58th St. Bldg A, Ste 2N
@@ -25541,6 +25547,18 @@ A00000-AFFFFF     (base 16)		AL HAMI INFORMATION TECHNOLOGY - L.L.C
 				Aalborg Ø    9220
 				DK
 
+F4-20-55   (hex)		Lens Technology (Xiangtan) Co.,Ltd
+900000-9FFFFF     (base 16)		Lens Technology (Xiangtan) Co.,Ltd
+				16 Baishi West Road, Xiangtan Economic and Technological Development Zone
+				Xiangtan  Hunan  411100
+				CN
+
+F4-20-55   (hex)		Proqualit Telecom LTDA
+500000-5FFFFF     (base 16)		Proqualit Telecom LTDA
+				Avenida João XXIII - Bloco I
+				Paraisópolis  Minas Gerais  37660000
+				BR
+
 B8-4C-87   (hex)		Private
 E00000-EFFFFF     (base 16)		Private
 
@@ -31993,3 +32011,15 @@ B00000-BFFFFF     (base 16)		Grohe AG
 				Building B1, Chuangzhi Cloud City, Nanshan District, Shenzhen
 				Shenzhen    518000
 				CN
+
+F4-20-55   (hex)		Huzhou Luxshare Precision industry Co.LTD
+800000-8FFFFF     (base 16)		Huzhou Luxshare Precision industry Co.LTD
+				399 Shengxun Road, Zhili Town, Wuxing District,Huzhou City, Zhejiang Province
+				Huzhou  Zhejiang  313008
+				CN
+
+48-E6-C6   (hex)		BEUPSYS
+E00000-EFFFFF     (base 16)		BEUPSYS
+				D-214 236, Jubuto-ro, Bypyeong-gu
+				Incheon  Korea(south)  21330
+				KR
