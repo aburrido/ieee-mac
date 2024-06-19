@@ -32012,8 +32012,8 @@ B00000-BFFFFF     (base 16)		Grohe AG
 				Shenzhen    518000
 				CN
 
-F4-20-55   (hex)		Huzhou Luxshare Precision industry Co.LTD
-800000-8FFFFF     (base 16)		Huzhou Luxshare Precision industry Co.LTD
+F4-20-55   (hex)		Huzhou Luxshare Precision Industry Co.LTD
+800000-8FFFFF     (base 16)		Huzhou Luxshare Precision Industry Co.LTD
 				399 Shengxun Road, Zhili Town, Wuxing District,Huzhou City, Zhejiang Province
 				Huzhou  Zhejiang  313008
 				CN
