@@ -8498,12 +8498,6 @@ A00000-A00FFF                 (base 16)                     Technovare Systems
                                                             Tel Aviv    69719                            
                                                             IL                                           
 
-00-50-C2                      (hex)                         Intelight Inc.                               
-816000-816FFF                 (base 16)                     Intelight Inc.                               
-                                                            3450 S Broadmont Drive  #126                 
-                                                            Tucson  Arizona  85713                       
-                                                            US                                           
-
 00-50-C2                      (hex)                         Odin TeleSystems Inc                         
 817000-817FFF                 (base 16)                     Odin TeleSystems Inc                         
                                                             800 E. Campbell Rd                           
@@ -10563,6 +10557,12 @@ DAF000-DAFFFF                 (base 16)                     eumig industrie-TV G
 30E000-30EFFF                 (base 16)                     Leviton Manufacturing Co., Inc               
                                                             10385 SW Avery St                            
                                                             Tualatin  OR  97062                          
+                                                            US                                           
+
+00-50-C2                      (hex)                         Q-Free America, Inc.                         
+816000-816FFF                 (base 16)                     Q-Free America, Inc.                         
+                                                            1420 Kristina Way, Suite #102                
+                                                            Chesapeake  VA  23320                        
                                                             US                                           
 
 00-50-C2                      (hex)                         Karl DUNGS GmbH & Co. KG                     
