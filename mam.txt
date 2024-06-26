@@ -6542,6 +6542,30 @@ D00000-DFFFFF     (base 16)		Wuxi Sunning Smart Devices Co.,Ltd
 				Wuxi  jiangsu  214174
 				CN
 
+F4-20-55   (hex)		AsicFlag
+000000-0FFFFF     (base 16)		AsicFlag
+				Room 2201, 22nd Floor, Longwei Building, No. 17 Jugong Road, Xixing Street, Binjiang District
+				Hangzhou  Zhejiang  310051
+				CN
+
+24-86-25   (hex)		Emerson Automation FCP Kft.
+200000-2FFFFF     (base 16)		Emerson Automation FCP Kft.
+				3. Bánki Donát utca
+				Eger  Heves  3300
+				HU
+
+F4-20-55   (hex)		Shenzhen Guangjian Technology Co.,Ltd
+C00000-CFFFFF     (base 16)		Shenzhen Guangjian Technology Co.,Ltd
+				Room 1905, Floor 19, Building B, Bojin Business Plaza, No. 1, Tairan 7th Road, Chegongmiao, Tian'an Community, Shatou Street, Futian District, Shenzhen
+				Shenzhen    518000
+				CN
+
+F4-20-55   (hex)		Annapurna labs
+300000-3FFFFF     (base 16)		Annapurna labs
+				Matam Scientific Industries Center,   Building 8.2
+				Mail box 15123  Haifa  3508409
+				IL
+
 B8-4C-87   (hex)		Shenzhen Link-all Technology Co., Ltd
 300000-3FFFFF     (base 16)		Shenzhen Link-all Technology Co., Ltd
 				Floor 5th, Block 9th, Sunny Industrial Zone, Xili Town, Nanshan District, Shenzhen, China 
@@ -12643,6 +12667,18 @@ A00000-AFFFFF     (base 16)		Shenzhen C & D Electronics Co., Ltd.
 				9th FIoor, Building 9, No.1 Qingxiang road, BaoNeng Science and TechnoIogy Industrial Park, Longhua New District
 				ShenZhen  GuangDong  518000
 				CN
+
+F4-20-55   (hex)		Shenzhen GuangXu Electronic Technology Co.,Ltd.
+600000-6FFFFF     (base 16)		Shenzhen GuangXu Electronic Technology Co.,Ltd.
+				No.13 Zongxing Road, Bantian Street, Longgang District, Yongchangjia Industrial Park, Building A, Room 105.
+				Shenzhen  Guangdong  518000
+				CN
+
+24-86-25   (hex)		Vtron Pty Ltd
+900000-9FFFFF     (base 16)		Vtron Pty Ltd
+				Unit 2, 62 Township Drive West
+				West Burleigh  Queensland  4219
+				AU
 
 B8-4C-87   (hex)		Altronix , Corp
 A00000-AFFFFF     (base 16)		Altronix , Corp
@@ -19187,17 +19223,17 @@ E00000-EFFFFF     (base 16)		Telo Communication（Shenzhen）Co.,Ltd
 				Creazzo    36051
 				IT
 
-48-E6-C6   (hex)		DRD Automation GmbH
-800000-8FFFFF     (base 16)		DRD Automation GmbH
-				Deventerstrasse 11
-				Muenster    48163
-				DE
-
 B4-4B-D6   (hex)		Private
 900000-9FFFFF     (base 16)		Private
 				311# Xindongxing Business Centre ,2rd Road liuxian ,Bao'an Shenzhen China
 				Shenzhen   Guangdong   518100
 				CN
+
+48-E6-C6   (hex)		DRD Automation GmbH
+800000-8FFFFF     (base 16)		DRD Automation GmbH
+				Deventerstrasse 11
+				Muenster    48163
+				DE
 
 D0-14-11   (hex)		P.B. Elettronica srl
 100000-1FFFFF     (base 16)		P.B. Elettronica srl
@@ -25576,6 +25612,12 @@ F4-20-55   (hex)		Proqualit Telecom LTDA
 				Avenida João XXIII - Bloco I
 				Paraisópolis  Minas Gerais  37660000
 				BR
+
+24-86-25   (hex)		Wynd Labs
+B00000-BFFFFF     (base 16)		Wynd Labs
+				2nd Fl., Goodman’s Bay Corporate Centre,  West Bay Street
+				Nassau  New Providence Island  SP-61567
+				BS
 
 B8-4C-87   (hex)		Private
 E00000-EFFFFF     (base 16)		Private
@@ -32047,3 +32089,21 @@ F4-20-55   (hex)		Beyond Laser Systems LLC
 				501 NORTH IH 35
 				Austin  TX  78702
 				US
+
+F4-20-55   (hex)		Pulsotronic-Anlagentechnik GmbH
+400000-4FFFFF     (base 16)		Pulsotronic-Anlagentechnik GmbH
+				Neue Schichtstrasse 7
+				Niederdorf    09366
+				DE
+
+F4-20-55   (hex)		Shenzhen Keyking Technology Limited
+E00000-EFFFFF     (base 16)		Shenzhen Keyking Technology Limited
+				Floor10, Block B, Keyking Hi-Tech Park, 12th, Shangwei Industrial 1st RD, Guanhu Town, Longhua District
+				ShenZhen  GuangDong  518110
+				CN
+
+F4-20-55   (hex)		Sichuan Gengyuan Technology Co.,Ltd
+100000-1FFFFF     (base 16)		Sichuan Gengyuan Technology Co.,Ltd
+				No. 2 Chuangye Road, hi tech Zone, Chengdu
+				Chengdu    610000
+				CN
