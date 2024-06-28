@@ -16526,12 +16526,6 @@ B2C000-B2CFFF                 (base 16)                     Concepteers, LLC
                                                             Jersey City  NJ  07306                       
                                                             US                                           
 
-00-50-C2                      (hex)                         Exi Flow Measurement Ltd                     
-945000-945FFF                 (base 16)                     Exi Flow Measurement Ltd                     
-                                                            Hawthorn Road                                
-                                                            Littlehampton  West Sussex  BN17 7LT         
-                                                            GB                                           
-
 40-D8-55                      (hex)                         QUANTAFLOW                                   
 0C9000-0C9FFF                 (base 16)                     QUANTAFLOW                                   
                                                             AVENUE DUPONT GRAVE                          
@@ -21559,6 +21553,12 @@ DD6000-DD6FFF                 (base 16)                     Wartsila Voyage Oy
                                                             Hiililaiturinkuja 2                          
                                                             Helsinki    00180                            
                                                             FI                                           
+
+00-50-C2                      (hex)                         Exi Flow Measurement Ltd                     
+945000-945FFF                 (base 16)                     Exi Flow Measurement Ltd                     
+                                                            Unit 22 Ford Lane Business Park Ford Lane    
+                                                            Ford  West Sussex  BN18 0UZ                  
+                                                            GB                                           
 
 00-50-C2                      (hex)                         RF Code                                      
 1A6000-1A6FFF                 (base 16)                     RF Code                                      

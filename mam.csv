@@ -1094,12 +1094,12 @@ MA-M,48E6C6C,"Odin Solutions, S.L. - B73845893",Calle Palma de Mallorca 2 Murcia
 MA-M,48E6C6B,Q-PAC,4010 Deerpark Blvd Elkton FL US 32033 
 MA-M,48E6C67,Macriot,"#1202, 120 Heungdeokjungang-ro Giheung-gu  Youngin-Si Gyeonggi-DO KR 16950 "
 MA-M,F420552,Elehear inc.,"708,Building 12, Shenzhen Bay Tech-Eco Park,Nanshan District, Shenzhen, China Shenzhen Guangdong CN 518067 "
-MA-M,F42055B,Synaps Technology S.r.l.,via Pietraferrata 9/1 Trieste TS IT 34147 
+MA-M,F42055C,"Shenzhen Guangjian Technology Co.,Ltd","Room 1905, Floor 19, Building B, Bojin Business Plaza, No. 1, Tairan 7th Road, Chegongmiao, Tian'an Community, Shatou Street, Futian District, Shenzhen Shenzhen  CN 518000 "
+MA-M,F420553,Annapurna labs,"Matam Scientific Industries Center,   Building 8.2 Mail box 15123 Haifa IL 3508409 "
 MA-M,F42055D,"Wuxi Sunning Smart Devices Co.,Ltd","No.52, Zone C, Huigu Pioneer Park, Huishan Economic  Development Zone, Wuxi  Wuxi jiangsu CN 214174 "
 MA-M,F420550,AsicFlag,"Room 2201, 22nd Floor, Longwei Building, No. 17 Jugong Road, Xixing Street, Binjiang District Hangzhou Zhejiang CN 310051 "
 MA-M,2486252,Emerson Automation FCP Kft.,3. Bánki Donát utca Eger Heves HU 3300 
-MA-M,F42055C,"Shenzhen Guangjian Technology Co.,Ltd","Room 1905, Floor 19, Building B, Bojin Business Plaza, No. 1, Tairan 7th Road, Chegongmiao, Tian'an Community, Shatou Street, Futian District, Shenzhen Shenzhen  CN 518000 "
-MA-M,F420553,Annapurna labs,"Matam Scientific Industries Center,   Building 8.2 Mail box 15123 Haifa IL 3508409 "
+MA-M,F42055B,Synaps Technology S.r.l.,via Pietraferrata 9/1 Trieste TS IT 34147 
 MA-M,B84C873,"Shenzhen Link-all Technology Co., Ltd","Floor 5th, Block 9th, Sunny Industrial Zone, Xili Town, Nanshan District, Shenzhen, China  Shenzhen Guangdong CN 518108 "
 MA-M,B84C87C,SOND,"1295 Beacon St, Unit #899 Brookline  US 02446 "
 MA-M,B84C87B,"Beijing Yunji Technology Co., Ltd.","Floor 7?Hailong Mansion?No.1 Zhongguancun Avenue,Haidian District,Beijing Beijing  CN 100080 "
@@ -2121,7 +2121,10 @@ MA-M,48E6C69,Takiguchi Corporation,"1-23-20,Kamata Otaku Tokyo JP 144-0052 "
 MA-M,48E6C65,Annapurna labs,"Matam Scientific Industries Center,   Building 8.2 Mail box 15123 Haifa IL 3508409 "
 MA-M,48E6C66,Moff Inc.,"101-TenshoOfficeAzabuJuban, 1-3-40, Mita Minatoku Tokyo JP 1080073 "
 MA-M,F42055A,"Shenzhen C & D Electronics Co., Ltd.","9th FIoor, Building 9, No.1 Qingxiang road, BaoNeng Science and TechnoIogy Industrial Park, Longhua New District ShenZhen GuangDong CN 518000 "
+MA-M,2486250,"Shanghai Xizhi Technology Co., Ltd.","Room 401, Building A, Lenovo Innovation And Technology Park, No. 696, Songtao Road Pudong New District Shanghai CN 201203 "
+MA-M,248625C,"L-LIGHT Co., Ltd.","33-7, Mira 16-gil, Seobuk-gu, Cheonan-si, Chungcheongnam-do Cheonan-si Chungcheongnam-do KR 31167 "
 MA-M,F420556,"Shenzhen GuangXu Electronic Technology Co.,Ltd.","No.13 Zongxing Road, Bantian Street, Longgang District, Yongchangjia Industrial Park, Building A, Room 105. Shenzhen Guangdong CN 518000 "
+MA-M,2486257,"Tianjin Optical Electrical Juneng Communication Co.,Ltd.","No.4 workshop, 1st floor, No.139 Shenzhou Avenue, Binhai high tech Zone, Tianjin Tianjin  CN 3000000 "
 MA-M,2486259,Vtron Pty Ltd,"Unit 2, 62 Township Drive West West Burleigh Queensland AU 4219 "
 MA-M,B84C87A,"Altronix , Corp","140 58th St. Bldg A, Ste 2N Brooklyn NY US 11220 "
 MA-M,8CC8F47,TableSafe,"12220 113th Ave NE, Suite 220 Kirkland WA US 98034 "
@@ -3222,7 +3225,6 @@ MA-M,08DA33E,"Telo Communication（Shenzhen）Co.,Ltd","6/F, No. 42 Liuxian 1st 
 MA-M,48E6C64,"Shenzhen ZK Technology CO.,LTD.","Shenzhen Overseas (Longgang) Innovation Park,Room323,Building No.1,Huanggekeng Community, Longcheng Street,Longgang District,Shenzhen City,518000,China Shenzhen Guangdong CN 518000 "
 MA-M,4C917A7,MECCALTE SPA,Via Roma 20 Creazzo  IT 36051 
 MA-M,B44BD69,Private,"311# Xindongxing Business Centre ,2rd Road liuxian ,Bao'an Shenzhen China Shenzhen  Guangdong  CN 518100 "
-MA-M,48E6C68,DRD Automation GmbH,Deventerstrasse 11 Muenster  DE 48163 
 MA-M,D014111,P.B. Elettronica srl,"Via Santorelli, 8 Grugliasco Torino IT 10095 "
 MA-M,B84C876,"HORIBA Precision Instruments (Beijing) Co.,Ltd","Building 1, No.3 Xixing Road, Houshayu Town, Shunyi District, Beijing, China Beijing Shunyi CN 101318 "
 MA-M,C022F13,Spectra Technologies India Private Limited,"8/33-C, FF, SF, Kirti Nagar Industrial Area, New Delhi New Delhi Delhi IN 110015 "
@@ -5378,6 +5380,7 @@ MA-M,08DA332,"Shenzhen Zhenghao lnnovation Techenology Co.,LTD","Building B1, Ch
 MA-M,F420558,Huzhou Luxshare Precision Industry Co.LTD,"399 Shengxun Road, Zhili Town, Wuxing District,Huzhou City, Zhejiang Province Huzhou Zhejiang CN 313008 "
 MA-M,48E6C6E,BEUPSYS,"D-214 236, Jubuto-ro, Bypyeong-gu Incheon Korea(south) KR 21330 "
 MA-M,F420557,Beyond Laser Systems LLC,501 NORTH IH 35 Austin TX US 78702 
-MA-M,F420554,Pulsotronic-Anlagentechnik GmbH,Neue Schichtstrasse 7 Niederdorf  DE 09366 
 MA-M,F42055E,Shenzhen Keyking Technology Limited,"Floor10, Block B, Keyking Hi-Tech Park, 12th, Shangwei Industrial 1st RD, Guanhu Town, Longhua District ShenZhen GuangDong CN 518110 "
 MA-M,F420551,"Sichuan Gengyuan Technology Co.,Ltd","No. 2 Chuangye Road, hi tech Zone, Chengdu Chengdu  CN 610000 "
+MA-M,2486258,"Ningbo Sigmatek Automation Co., Ltd.",Ningbo Ningbo Zhejiang CN 315040 
+MA-M,F420554,Pulsotronic-Anlagentechnik GmbH,Neue Schichtstrasse 7 Niederdorf  DE 09366 
