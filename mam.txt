@@ -6578,6 +6578,12 @@ A00000-AFFFFF     (base 16)		TAS INDIA PVT LTD
 				PUNE  MH  412308
 				IN
 
+24-86-25   (hex)		Codepoint Technologies, Inc.
+400000-4FFFFF     (base 16)		Codepoint Technologies, Inc.
+				10725 126th PL NE
+				Kirkland  WA  98033
+				US
+
 B8-4C-87   (hex)		Shenzhen Link-all Technology Co., Ltd
 300000-3FFFFF     (base 16)		Shenzhen Link-all Technology Co., Ltd
 				Floor 5th, Block 9th, Sunny Industrial Zone, Xili Town, Nanshan District, Shenzhen, China 
@@ -19259,6 +19265,12 @@ B4-4B-D6   (hex)		Private
 				Shenzhen   Guangdong   518100
 				CN
 
+24-86-25   (hex)		ViewSec Co., Ltd.
+300000-3FFFFF     (base 16)		ViewSec Co., Ltd.
+				7F.-3, No.5, Sec. 3, New Taiepi Blvd.,
+				New Taipei City    242032
+				TW
+
 D0-14-11   (hex)		P.B. Elettronica srl
 100000-1FFFFF     (base 16)		P.B. Elettronica srl
 				Via Santorelli, 8
@@ -25647,6 +25659,12 @@ B00000-BFFFFF     (base 16)		Wynd Labs
 D00000-DFFFFF     (base 16)		Chengdu HOLDTECS Co.,Ltd
 				Building 1, No. 30 Xixin Avenue, Chengdu
 				Chengdu  SiChuan  610000
+				CN
+
+24-86-25   (hex)		Shenzhen LianwangRuijie Communication Technology Co, Ltd.
+100000-1FFFFF     (base 16)		Shenzhen LianwangRuijie Communication Technology Co, Ltd.
+				502, Factory Building, Mai Feng Industrial Zone, No.34 Gui Yuan Road, Gui Xiang Community, Guanlan Street, Longhua District
+				Shenzhen  Guangdong  518000
 				CN
 
 B8-4C-87   (hex)		Private
@@ -32143,3 +32161,9 @@ F4-20-55   (hex)		Pulsotronic-Anlagentechnik GmbH
 				Neue Schichtstrasse 7
 				Niederdorf    09366
 				DE
+
+24-86-25   (hex)		ADTEK
+600000-6FFFFF     (base 16)		ADTEK
+				4F-18,No.14,Lane 609,Sec.5,Chongsin Rd.,Sanchong Dist,
+				New Taipei City  Taiwan,(R.O.C)  24159
+				TW
