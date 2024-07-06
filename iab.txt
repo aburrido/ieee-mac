@@ -19526,12 +19526,6 @@ A02000-A02FFF                 (base 16)                     Reference, LLC.
                                                             RAISIO  Finland  21210                       
                                                             FI                                           
 
-00-50-C2                      (hex)                         Lyngdorf Audio Aps                           
-7C6000-7C6FFF                 (base 16)                     Lyngdorf Audio Aps                           
-                                                            Ulvevej 28                                   
-                                                            Skive  Jylland  DK-7800                      
-                                                            DK                                           
-
 00-50-C2                      (hex)                         ViewPlus Technologies, Inc.                  
 7CB000-7CBFFF                 (base 16)                     ViewPlus Technologies, Inc.                  
                                                             1853 SW Airport Ave.                         
@@ -21559,6 +21553,12 @@ DD6000-DD6FFF                 (base 16)                     Wartsila Voyage Oy
                                                             Unit 22 Ford Lane Business Park Ford Lane    
                                                             Ford  West Sussex  BN18 0UZ                  
                                                             GB                                           
+
+00-50-C2                      (hex)                         SL Audio A/S                                 
+7C6000-7C6FFF                 (base 16)                     SL Audio A/S                                 
+                                                            Ulvevej 28                                   
+                                                            Skive  Jylland  DK-7800                      
+                                                            DK                                           
 
 00-50-C2                      (hex)                         RF Code                                      
 1A6000-1A6FFF                 (base 16)                     RF Code                                      

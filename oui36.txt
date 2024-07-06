@@ -7283,6 +7283,18 @@ E89000-E89FFF     (base 16)		PADL Software Pty Ltd
 				Ford  West Sussex  BN18 0UZ
 				GB
 
+8C-1F-64   (hex)		DORLET SAU
+A0F000-A0FFFF     (base 16)		DORLET SAU
+				C/ ALBERT EINSTEIN 34, PARQUE TECNOLOGICO DE ALAVA
+				VITORIA - GASTEIZ  ALAVA  01510
+				ES
+
+8C-1F-64   (hex)		Intozi Tech Pvt Ltd
+559000-559FFF     (base 16)		Intozi Tech Pvt Ltd
+				1103, Tower B, Spaze Itech Park, Sector 49
+				gurugram  haryana  122018
+				IN
+
 8C-1F-64   (hex)		Jacobs Technology, Inc.
 A98000-A98FFF     (base 16)		Jacobs Technology, Inc.
 				7765 Old Telegraph Road
@@ -18167,12 +18179,6 @@ C05000-C05FFF     (base 16)		KST technology
 				Erie    16514
 				US
 
-70-B3-D5   (hex)		SL Audio A/S
-E43000-E43FFF     (base 16)		SL Audio A/S
-				Ulvevej 28, Danmark
-				Skive  Denmark  7800
-				DK
-
 70-B3-D5   (hex)		Coheros Oy
 D2E000-D2EFFF     (base 16)		Coheros Oy
 				Tammukkakatu 6
@@ -21757,6 +21763,12 @@ B91000-B91FFF     (base 16)		CLEALINK TECHNOLOGY
 				1-7, Hikari-daiSeika
 				Seika  Kyoto  6190237
 				JP
+
+70-B3-D5   (hex)		SL Audio A/S
+E43000-E43FFF     (base 16)		SL Audio A/S
+				Raevevej 3
+				Skive  Denmark  7800
+				DK
 
 8C-1F-64   (hex)		Flow Power
 82B000-82BFFF     (base 16)		Flow Power
@@ -29018,6 +29030,12 @@ AAF000-AAFFFF     (base 16)		Exi Flow Measurement Ltd
 				Ford  West Sussex  BN18 0UZ
 				GB
 
+8C-1F-64   (hex)		Applied Electro Magnetics Pvt. Ltd.
+993000-993FFF     (base 16)		Applied Electro Magnetics Pvt. Ltd.
+				B-106 SEC 67
+				Noida  UttarPradesh  201301
+				IN
+
 8C-1F-64   (hex)		Mobileye
 D63000-D63FFF     (base 16)		Mobileye
 				13 Hartom st.
@@ -36235,3 +36253,9 @@ F83000-F83FFF     (base 16)		Vishay Nobel AB
 				Unit 22 Ford Lane Business Park Ford Lane
 				Ford  West Sussex  BN18 0UZ
 				GB
+
+8C-1F-64   (hex)		Integer.pl S.A.
+A49000-A49FFF     (base 16)		Integer.pl S.A.
+				Wielicka 28
+				Krakow    30-552
+				PL
