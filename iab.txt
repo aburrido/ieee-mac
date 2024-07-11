@@ -10001,12 +10001,6 @@ A09000-A09FFF                 (base 16)                     Innovative American 
                                                             Vezenobres  Gard  30360                      
                                                             FR                                           
 
-00-50-C2                      (hex)                         4Links Limited                               
-212000-212FFF                 (base 16)                     4Links Limited                               
-                                                            PO Box 816, The Mansion                      
-                                                            Milton Keynes  Buckinghamshire  MK3 6ZP      
-                                                            GB                                           
-
 00-50-C2                      (hex)                         OlympusNDT                                   
 201000-201FFF                 (base 16)                     OlympusNDT                                   
                                                             421 N Quay                                   
@@ -10564,6 +10558,12 @@ DAF000-DAFFFF                 (base 16)                     eumig industrie-TV G
                                                             1420 Kristina Way, Suite #102                
                                                             Chesapeake  VA  23320                        
                                                             US                                           
+
+00-50-C2                      (hex)                         4Links Limited                               
+212000-212FFF                 (base 16)                     4Links Limited                               
+                                                            12 Shenley Pavilions, Chalkdell Drive, Shenley Wood,
+                                                            Milton Keynes  Buckinghamshire  MK5 6LB      
+                                                            GB                                           
 
 00-50-C2                      (hex)                         Karl DUNGS GmbH & Co. KG                     
 7F9000-7F9FFF                 (base 16)                     Karl DUNGS GmbH & Co. KG                     
