@@ -758,7 +758,6 @@ MA-L,04EEE8,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554
 MA-L,9CB8B4,"AMPAK Technology,Inc.","3F, No.15-1 Zhonghua Road, Hsinchu Industrail Park, Hukou, Hsinchu Hsinchu,Taiwan R.O.C. TW 30352 "
 MA-L,DCCCE6,"Samsung Electronics Co.,Ltd","#94-1, Imsoo-Dong Gumi Gyeongbuk KR 730-350 "
 MA-L,F065AE,"Samsung Electronics Co.,Ltd","#94-1, Imsoo-Dong Gumi Gyeongbuk KR 730-350 "
-MA-L,C0BAE6,Application Solutions (Safety and Security) Ltd,"Unit 2 York Road, Burgess Hill England West Sussex, England, RH15 9TT GB RH15 9TT "
 MA-L,50874D,"GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD","NO.18 HAIBIN ROAD, DONG GUAN GUANG DONG CN 523860 "
 MA-L,A05394,"Shenzhen zediel co., Ltd.",Xixiang Shenzhen guangdong CN 518000 
 MA-L,18D793,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
@@ -7182,6 +7181,8 @@ MA-L,2C5683,"China Mobile Group Device Co.,Ltd.","32 Xuanwumen West Street,Xiche
 MA-L,0C9515,"Palltronics, Inc.",400 Water Street Suite 203 Rochester MI US 48307 
 MA-L,707DAF,Plucent AB,Aluddsparken 7D Stockholm  SE 11265 
 MA-L,A085E3,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+MA-L,64E815,Arcelik A.S,"Cumhuriyet Mah., E5 Yan Yol, No:1, Istanbul  TR 34520  "
+MA-L,C0BAE6,Zenitel GB Ltd,"Unit 17, Cliffe Industrial, Estate Lewes East Sussex GB BN8 6JL "
 MA-L,000130,Extreme Networks Headquarters,2121 RDU Center Drive  Morrisville NC US 27560 
 MA-L,FC0A81,Extreme Networks Headquarters,2121 RDU Center Drive  Morrisville NC US 27560 
 MA-L,00749C,"Ruijie Networks Co.,LTD","19# Building,Star-net Science Plaza,Juyuanzhou, 618 Jinshan Road Fuzhou Fujian CN 350002 "
@@ -14275,10 +14276,11 @@ MA-L,8CBFEA,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area S
 MA-L,B41DC4,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
 MA-L,105F02,"Ruijie Networks Co.,LTD","Building 19,Juyuanzhou Industrial Park, No.618 Jinshan Avenue, Cangshan District Fuzhou  CN 35000 "
 MA-L,00A159,LG Electronics,"222 LG-ro, JINWI-MYEON Pyeongtaek-si Gyeonggi-do KR 451-713 "
+MA-L,2824C9,Amazon Technologies Inc.,P.O Box 8102  Reno NV US 89507 
+MA-L,341736,"Shenzhen iComm Semiconductor CO.,LTD","Room 601,Block B ,Digital Building,Garden City Shenzhen No.1079 Nanhai Road,Nanshan District CN 518067 "
 MA-L,5000E0,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
 MA-L,74E2E7,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
 MA-L,CC6C52,DZS Inc.,"5700 Tennyson Parkway, Suite 400 Plano TX US 75024 "
-MA-L,341736,"Shenzhen iComm Semiconductor CO.,LTD","Room 601,Block B ,Digital Building,Garden City Shenzhen No.1079 Nanhai Road,Nanshan District CN 518067 "
 MA-L,6C8720,"New H3C Technologies Co., Ltd","466 Changhe Road, Binjiang District Hangzhou Zhejiang CN 310052 "
 MA-L,0C8D7A,RADiflow,HaBarzel St 38 Tel-Aviv  IL 6971054 
 MA-L,FCA9F5,Xiaomi Communications Co Ltd,"#019, 9th Floor, Building 6, 33 Xi'erqi Middle Road Beijing Haidian District CN 100085 "
@@ -21429,6 +21431,7 @@ MA-L,E8F673,Microsoft Corporation,One Microsoft Way REDMOND WA US 98052
 MA-L,7864A0,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
 MA-L,EC1B5F,Hewlett Packard Enterprise,6280 America Center Dr San Jose CA US 95002 
 MA-L,409249,"Shanghai Baud Data Communication Co.,Ltd.",NO.123 JULI RD PUDONG ZHANGJIANG HIGH-TECH PARK SHANGHAI CN 201203 
+MA-L,9C45F0,SKYLARK ELECTRONICS PVT LTD,"3, SAKLAT PLACE 3RD FLOOR, HINDUSTAN BUILDING, KOLKATA KOLKATA WEST BENGAL IN 700072 "
 MA-L,B00C9D,"Quectel Wireless Solutions Co.,Ltd.","7th Floor, Hongye Building, No.1801 Hongmei Road, Xuhui District Shanghai  CN 200233 "
 MA-L,F0AB1F,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
 MA-L,7CB30A,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
@@ -28629,6 +28632,9 @@ MA-L,00A91D,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan
 MA-L,E862BE,Intel Corporate,"Lot 8, Jalan Hi-Tech 2/3   Kulim Kedah MY 09000 "
 MA-L,E81DEE,i-TEK RFID,"PRIDE KUMAR SENATE-II, PLOT NO.402, C.T.S. NO. 970, SENAPATI BAPAT ROAD, SHIVAJI NAGAR,  PUNE MAHARASHTRA IN 411016 "
 MA-L,48A964,APEXSHA SMARTTECH PRIVATE LIMITED,"A1301, S&S Sarvam, 200 feet Radial Road, Pallikaranai CHENNAI Tamil Nadu IN 600100 "
+MA-L,485F2D,Amazon Technologies Inc.,P.O Box 8102  Reno NV US 89507 
+MA-L,A0FA9C,"WEIFANG GOERTEK ELECTRONICS CO.,LTD","Gaoxin 2 Road, Free Trade Zone,Weifang,Shandong,261205,P.R.China Weifang Shandong CN 261205 "
+MA-L,E4F58E,Schneider Electric USA,70 Mechanic St Foxboro MA US 02035 
 MA-L,C85CE2,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
 MA-L,DCEE14,ADT Technology,"Room 325, 3rd Floor, Building F, Xinmao Science and Technology Park, Huayuan Industrial Zone Tianjin Tianjin CN 300384 "
 MA-L,E84A54,"Beijing Xiaomi Mobile Software Co., Ltd","The Rainbow City Office Building, 68 Qinghe Middle Street Haidian District Beijing Beijing CN 100085 "
