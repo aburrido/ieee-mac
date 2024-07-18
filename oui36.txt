@@ -14624,6 +14624,12 @@ DC7000-DC7FFF     (base 16)		Wide Swath Research, LLC
 				Marlborough   CT  06447
 				US
 
+8C-1F-64   (hex)		Framatome Inc.
+B54000-B54FFF     (base 16)		Framatome Inc.
+				3315B Old Forest Road
+				Lynchburg  VA  24501
+				US
+
 8C-1F-64   (hex)		Rugged Science
 0E5000-0E5FFF     (base 16)		Rugged Science
 				47 Loveton Cir
@@ -14635,12 +14641,6 @@ DC7000-DC7FFF     (base 16)		Wide Swath Research, LLC
 				235075 Ryan Rd
 				Rocky View  AB  T1X 0K3
 				CA
-
-8C-1F-64   (hex)		Framatome Inc.
-B54000-B54FFF     (base 16)		Framatome Inc.
-				3315B Old Forest Road
-				Lynchburg  VA  24501
-				US
 
 8C-1F-64   (hex)		Vision Systems Safety Tech
 E6F000-E6FFFF     (base 16)		Vision Systems Safety Tech
@@ -29126,17 +29126,23 @@ DCF000-DCFFFF     (base 16)		REO AG
 				Solingen    42657
 				DE
 
-8C-1F-64   (hex)		EDC Acoustics
-9CA000-9CAFFF     (base 16)		EDC Acoustics
-				7023 Erin Ct
-				Charlottte  NC  28210
-				US
+8C-1F-64   (hex)		Hitachi Energy Poland sp. Z o o
+6D4000-6D4FFF     (base 16)		Hitachi Energy Poland sp. Z o o
+				Pawia 7
+				Krakow  Malopolskie  31-154
+				PL
 
 8C-1F-64   (hex)		BIOTAGE GB LTD
 185000-185FFF     (base 16)		BIOTAGE GB LTD
 				UNIT 10 DYFFRYN BUSINESS PARK
 				YSTRAD MYNACH    CF82 7TS
 				GB
+
+8C-1F-64   (hex)		EDC Acoustics
+9CA000-9CAFFF     (base 16)		EDC Acoustics
+				7023 Erin Ct
+				Charlottte  NC  28210
+				US
 
 8C-1F-64   (hex)		Mobileye
 D63000-D63FFF     (base 16)		Mobileye
