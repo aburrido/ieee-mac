@@ -6584,6 +6584,12 @@ A00000-AFFFFF     (base 16)		TAS INDIA PVT LTD
 				Kirkland  WA  98033
 				US
 
+48-5E-0E   (hex)		Shenzhen Anycon Electronics Technology Co.,Ltd
+300000-3FFFFF     (base 16)		Shenzhen Anycon Electronics Technology Co.,Ltd
+				1109,11th floor, Tower E, Galaxy world, Minle community, Minzhi, Longhua district
+				Shenzhen  Guangdong  518100
+				CN
+
 AC-86-D1   (hex)		Krixe Pte. Ltd.
 D00000-DFFFFF     (base 16)		Krixe Pte. Ltd.
 				18 SIN MING LANE, #07-13, MIDVIEW CITY
@@ -19307,12 +19313,6 @@ AC-86-D1   (hex)		RayThink Technology Co.,Ltd
 				Yantai  Shandong  264000
 				CN
 
-48-5E-0E   (hex)		MHE Electronics
-400000-4FFFFF     (base 16)		MHE Electronics
-				49Alexander Rd, Westmead
-				Durban  KwaZulu Natal  3610
-				ZA
-
 AC-86-D1   (hex)		Advanced Rugged System Co., LTD
 000000-0FFFFF     (base 16)		Advanced Rugged System Co., LTD
 				306,Building 1,Lane 777,Zhongshan Nan Er Road,Xuhui District,Shanghai,200032.P.R.China
@@ -19330,6 +19330,12 @@ B00000-BFFFFF     (base 16)		Vital Oricraft Flows Technology Co., Ltd.
 				9th FIoor, Building 9, No.1 Qingxiang road, BaoNeng Science and TechnoIogy Industrial Park, Longhua New District
 				ShenZhen  GuangDong  518000
 				CN
+
+48-5E-0E   (hex)		MHE Electronics
+400000-4FFFFF     (base 16)		MHE Electronics
+				49Alexander Rd, Westmead
+				Durban  KwaZulu Natal  3610
+				ZA
 
 D0-14-11   (hex)		P.B. Elettronica srl
 100000-1FFFFF     (base 16)		P.B. Elettronica srl
@@ -25762,6 +25768,12 @@ AC-86-D1   (hex)		PK Sound
 				235075 Ryan Rd
 				Rocky View  AB  T1X 0K3
 				CA
+
+48-5E-0E   (hex)		Dongguan YEHUO Technology Co.,LTD
+100000-1FFFFF     (base 16)		Dongguan YEHUO Technology Co.,LTD
+				Room 401, No. 722, Dalingshan Duan, Shida Road, Dalingshan Town, 
+				Dongguan  Guangdong  523820
+				CN
 
 C8-5C-E2   (hex)		Fela Management AG 
 000000-0FFFFF     (base 16)		Fela Management AG 
@@ -32294,17 +32306,17 @@ A00000-AFFFFF     (base 16)		EMIT GmbH
 				Albstadt  Baden Württemberg  72458
 				DE
 
-AC-86-D1   (hex)		Annapurna labs
-900000-9FFFFF     (base 16)		Annapurna labs
-				Matam Scientific Industries Center,   Building 8.2
-				Mail box 15123  Haifa  3508409
-				IL
-
 AC-86-D1   (hex)		Retina Development B.V.
 E00000-EFFFFF     (base 16)		Retina Development B.V.
 				Rivierdijk 452C
 				Hardinxveld-Giessendam  NB  3372BW
 				NL
+
+AC-86-D1   (hex)		Annapurna labs
+900000-9FFFFF     (base 16)		Annapurna labs
+				Matam Scientific Industries Center,   Building 8.2
+				Mail box 15123  Haifa  3508409
+				IL
 
 48-5E-0E   (hex)		GlobalXtreme
 500000-5FFFFF     (base 16)		GlobalXtreme

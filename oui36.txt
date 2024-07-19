@@ -7313,6 +7313,12 @@ A0F000-A0FFFF     (base 16)		DORLET SAU
 				Viersen  Nordrhein-Westfalen  41747
 				DE
 
+8C-1F-64   (hex)		HIGH RIGHT CO.,Ltd
+BB4000-BB4FFF     (base 16)		HIGH RIGHT CO.,Ltd
+				No. 14, Gong 3rd Rd., 2nd Industrial Park, Linkou Dist., New Taipei City 244010 , Taiwan (R.O.C.)
+				New Taipei City    244010
+				TW
+
 8C-1F-64   (hex)		Jacobs Technology, Inc.
 A98000-A98FFF     (base 16)		Jacobs Technology, Inc.
 				7765 Old Telegraph Road
@@ -21818,18 +21824,6 @@ E43000-E43FFF     (base 16)		SL Audio A/S
 				Skive  Denmark  7800
 				DK
 
-8C-1F-64   (hex)		Nextep Co.,Ltd.
-F1B000-F1BFFF     (base 16)		Nextep Co.,Ltd.
-				#1105, 92, Jomaru-ro 385beon-gil, Wonmi-gu
-				Bucheon-si  Gyeonggi-do  14558
-				KR
-
-8C-1F-64   (hex)		Vision Systems Safety Tech
-94A000-94AFFF     (base 16)		Vision Systems Safety Tech
-				5 Chemin de Chiradie
-				Brignais    69530
-				FR
-
 8C-1F-64   (hex)		AvMap srlu
 BA8000-BA8FFF     (base 16)		AvMap srlu
 				Viale Zaccagna 6
@@ -21841,6 +21835,18 @@ BA8000-BA8FFF     (base 16)		AvMap srlu
 				ul. MICKIEWICZA, 31/41, 96-300, ZYRARDOW, POLAN
 				ZYRARDOW    96-300
 				PL
+
+8C-1F-64   (hex)		Vision Systems Safety Tech
+94A000-94AFFF     (base 16)		Vision Systems Safety Tech
+				5 Chemin de Chiradie
+				Brignais    69530
+				FR
+
+8C-1F-64   (hex)		Nextep Co.,Ltd.
+F1B000-F1BFFF     (base 16)		Nextep Co.,Ltd.
+				#1105, 92, Jomaru-ro 385beon-gil, Wonmi-gu
+				Bucheon-si  Gyeonggi-do  14558
+				KR
 
 8C-1F-64   (hex)		Flow Power
 82B000-82BFFF     (base 16)		Flow Power
@@ -29144,6 +29150,12 @@ DCF000-DCFFFF     (base 16)		REO AG
 				Charlottte  NC  28210
 				US
 
+8C-1F-64   (hex)		Crosstek Co., Ltd
+368000-368FFF     (base 16)		Crosstek Co., Ltd
+				2F. No.10, Ln.73, Sec.3, Minsheng E. Rd.
+				Taipei  Taiwan  104480
+				TW
+
 8C-1F-64   (hex)		Mobileye
 D63000-D63FFF     (base 16)		Mobileye
 				13 Hartom st.
@@ -36385,3 +36397,9 @@ A49000-A49FFF     (base 16)		Integer.pl S.A.
 				Via Marconi 2
 				Saluzzo    12037
 				IT
+
+8C-1F-64   (hex)		Gogo BA 
+81D000-81DFFF     (base 16)		Gogo BA 
+				105 Edgeview Drive
+				Broomfield  CO  80021
+				US
