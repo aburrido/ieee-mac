@@ -12752,6 +12752,18 @@ D00000-DFFFFF     (base 16)		Huaqin Technology Co.,Ltd
 				Shanghai    201203
 				CN
 
+48-5E-0E   (hex)		SERNET (SUZHOU) TECHNOLOGIES CORPORATION
+600000-6FFFFF     (base 16)		SERNET (SUZHOU) TECHNOLOGIES CORPORATION
+				NO.8 Tangzhuang Road,Suzhou Industrial Park,Su ZhouCity,JiangSu Province,China
+				Suzhou    215021
+				CN
+
+48-5E-0E   (hex)		Shenzhen Shouchuang Micro Technology Co., Ltd
+200000-2FFFFF     (base 16)		Shenzhen Shouchuang Micro Technology Co., Ltd
+				Room 401, Building A, Tong'an Logistics Park, No. 30 Hanghang Road, Bao'an District
+				Shenzhen  Guangdong  518000
+				CN
+
 B8-4C-87   (hex)		Altronix , Corp
 A00000-AFFFFF     (base 16)		Altronix , Corp
 				140 58th St. Bldg A, Ste 2N
@@ -19337,6 +19349,12 @@ AC-86-D1   (hex)		RayThink Technology Co.,Ltd
 				Durban  KwaZulu Natal  3610
 				ZA
 
+48-5E-0E   (hex)		Transom Post OpCo LLC dba Bose Professional
+C00000-CFFFFF     (base 16)		Transom Post OpCo LLC dba Bose Professional
+				145 Pennsylvania Ave Framingham, MA 01701
+				Framingham  MA  01701
+				US
+
 D0-14-11   (hex)		P.B. Elettronica srl
 100000-1FFFFF     (base 16)		P.B. Elettronica srl
 				Via Santorelli, 8
@@ -25763,17 +25781,17 @@ AC-86-D1   (hex)		PK Sound
 				Rocky View  AB  T1X 0K3
 				CA
 
-48-5E-0E   (hex)		ITFC
-800000-8FFFFF     (base 16)		ITFC
-				365, Sinseon-ro, Nam-gu, Busan, Republic of Korea
-				Busan  Nam-gu  48548
-				KR
-
 48-5E-0E   (hex)		Dongguan YEHUO Technology Co.,LTD
 100000-1FFFFF     (base 16)		Dongguan YEHUO Technology Co.,LTD
 				Room 401, No. 722, Dalingshan Duan, Shida Road, Dalingshan Town, 
 				Dongguan  Guangdong  523820
 				CN
+
+48-5E-0E   (hex)		ITFC
+800000-8FFFFF     (base 16)		ITFC
+				365, Sinseon-ro, Nam-gu, Busan, Republic of Korea
+				Busan  Nam-gu  48548
+				KR
 
 B8-4C-87   (hex)		Private
 E00000-EFFFFF     (base 16)		Private
