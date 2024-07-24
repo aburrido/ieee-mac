@@ -7319,6 +7319,12 @@ BB4000-BB4FFF     (base 16)		HIGH RIGHT CO.,Ltd
 				New Taipei City    244010
 				TW
 
+8C-1F-64   (hex)		AKSE srl
+479000-479FFF     (base 16)		AKSE srl
+				Via Aldo Moro 39
+				Reggio Emilia    42124
+				IT
+
 8C-1F-64   (hex)		Jacobs Technology, Inc.
 A98000-A98FFF     (base 16)		Jacobs Technology, Inc.
 				7765 Old Telegraph Road
@@ -11045,12 +11051,6 @@ A54000-A54FFF     (base 16)		provedo
 				Leipzig    04109
 				DE
 
-70-B3-D5   (hex)		Akse srl
-09A000-09AFFF     (base 16)		Akse srl
-				Via Aldo Moro, 39
-				Reggio Emilia  Italy  42124
-				IT
-
 70-B3-D5   (hex)		Procon Electronics Pty Ltd
 8EB000-8EBFFF     (base 16)		Procon Electronics Pty Ltd
 				P O Box 164
@@ -14665,6 +14665,12 @@ C53000-C53FFF     (base 16)		Clockwork Dog
 				5-7 Buck Street
 				London    NW1 8NJ
 				GB
+
+70-B3-D5   (hex)		AKSE srl
+09A000-09AFFF     (base 16)		AKSE srl
+				Via Aldo Moro, 39
+				Reggio Emilia  Italy  42124
+				IT
 
 8C-1F-64   (hex)		Vision Systems Safety Tech
 E6F000-E6FFFF     (base 16)		Vision Systems Safety Tech
@@ -23627,12 +23633,6 @@ C6B000-C6BFFF     (base 16)		Herholdt Controls srl
 				Manassas  VA  20109
 				US
 
-70-B3-D5   (hex)		Akse srl
-128000-128FFF     (base 16)		Akse srl
-				Via Aldo Moro, 39
-				Reggio Emilia  Italy  42124
-				IT
-
 70-B3-D5   (hex)		EVPU Defence a.s.
 04F000-04FFFF     (base 16)		EVPU Defence a.s.
 				Jaktare 1781
@@ -25636,12 +25636,6 @@ A0A000-A0AFFF     (base 16)		CAPSYS
 				ZI Parc technologique des Fontaines
 				BERNIN    38190
 				FR
-
-70-B3-D5   (hex)		Akse srl
-5CC000-5CCFFF     (base 16)		Akse srl
-				Via Aldo Moro, 39
-				Reggio Emilia  Italy  42124
-				IT
 
 70-B3-D5   (hex)		SoFiHa
 78F000-78FFFF     (base 16)		SoFiHa
@@ -29185,6 +29179,18 @@ DCF000-DCFFFF     (base 16)		REO AG
 				2F. No.10, Ln.73, Sec.3, Minsheng E. Rd.
 				Taipei  Taiwan  104480
 				TW
+
+70-B3-D5   (hex)		AKSE srl
+5CC000-5CCFFF     (base 16)		AKSE srl
+				Via Aldo Moro, 39
+				Reggio Emilia  Italy  42124
+				IT
+
+70-B3-D5   (hex)		AKSE srl
+128000-128FFF     (base 16)		AKSE srl
+				Via Aldo Moro, 39
+				Reggio Emilia  Italy  42124
+				IT
 
 8C-1F-64   (hex)		Mobileye
 D63000-D63FFF     (base 16)		Mobileye
