@@ -19361,6 +19361,12 @@ C00000-CFFFFF     (base 16)		Transom Post OpCo LLC dba Bose Professional
 				Framingham  MA  01701
 				US
 
+C4-FF-84   (hex)		Atlas Copco
+900000-9FFFFF     (base 16)		Atlas Copco
+				Boomsesteenweg 957,Antwerpen, 2610, Wilrijk
+				Wilrijk    2610
+				BE
+
 D0-14-11   (hex)		P.B. Elettronica srl
 100000-1FFFFF     (base 16)		P.B. Elettronica srl
 				Via Santorelli, 8
@@ -25804,6 +25810,12 @@ E00000-EFFFFF     (base 16)		ELOOM SYSTEM
 				87-26, Seokjeong-ro 301beon-gil
 				Michuhol-gu  Incheon  22117
 				KR
+
+C4-FF-84   (hex)		NEKMA M.Mesek P.Mesek B.Mesek
+700000-7FFFFF     (base 16)		NEKMA M.Mesek P.Mesek B.Mesek
+				Przędzalniana 68
+				Łódź  Łódzkie  90-338
+				PL
 
 B8-4C-87   (hex)		Private
 E00000-EFFFFF     (base 16)		Private
@@ -32348,14 +32360,20 @@ AC-86-D1   (hex)		Annapurna labs
 				Mail box 15123  Haifa  3508409
 				IL
 
+48-5E-0E   (hex)		AIGNEP SPA
+A00000-AFFFFF     (base 16)		AIGNEP SPA
+				VIA DON GIUSEPPE BAZZOLI N. 34
+				BIONE  BRESCIA  25070
+				IT
+
 48-5E-0E   (hex)		GlobalXtreme
 500000-5FFFFF     (base 16)		GlobalXtreme
 				Jl Raya Kerobokan 388x
 				North Kuta  Bali  80361
 				ID
 
-48-5E-0E   (hex)		AIGNEP SPA
-A00000-AFFFFF     (base 16)		AIGNEP SPA
-				VIA DON GIUSEPPE BAZZOLI N. 34
-				BIONE  BRESCIA  25070
-				IT
+C4-FF-84   (hex)		Openeye
+A00000-AFFFFF     (base 16)		Openeye
+				23221 East Knox Avenue
+				Liberty Lake  WA  99019
+				US
