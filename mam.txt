@@ -6602,6 +6602,12 @@ D00000-DFFFFF     (base 16)		Krixe Pte. Ltd.
 				Navi Mumbai  Maharashtra  400614
 				IN
 
+C4-FF-84   (hex)		Elaraby Company For Engineering Industries
+B00000-BFFFFF     (base 16)		Elaraby Company For Engineering Industries
+				7 Gzeret Badran Street - Shobra
+				Cairo    11757
+				EG
+
 B8-4C-87   (hex)		Shenzhen Link-all Technology Co., Ltd
 300000-3FFFFF     (base 16)		Shenzhen Link-all Technology Co., Ltd
 				Floor 5th, Block 9th, Sunny Industrial Zone, Xili Town, Nanshan District, Shenzhen, China 
@@ -12758,16 +12764,16 @@ D00000-DFFFFF     (base 16)		Huaqin Technology Co.,Ltd
 				Shanghai    201203
 				CN
 
-48-5E-0E   (hex)		SERNET (SUZHOU) TECHNOLOGIES CORPORATION
-600000-6FFFFF     (base 16)		SERNET (SUZHOU) TECHNOLOGIES CORPORATION
-				NO.8 Tangzhuang Road,Suzhou Industrial Park,Su ZhouCity,JiangSu Province,China
-				Suzhou    215021
-				CN
-
 48-5E-0E   (hex)		Shenzhen Shouchuang Micro Technology Co., Ltd
 200000-2FFFFF     (base 16)		Shenzhen Shouchuang Micro Technology Co., Ltd
 				Room 401, Building A, Tong'an Logistics Park, No. 30 Hanghang Road, Bao'an District
 				Shenzhen  Guangdong  518000
+				CN
+
+48-5E-0E   (hex)		SERNET (SUZHOU) TECHNOLOGIES CORPORATION
+600000-6FFFFF     (base 16)		SERNET (SUZHOU) TECHNOLOGIES CORPORATION
+				NO.8 Tangzhuang Road,Suzhou Industrial Park,Su ZhouCity,JiangSu Province,China
+				Suzhou    215021
 				CN
 
 B8-4C-87   (hex)		Altronix , Corp
@@ -19355,17 +19361,35 @@ AC-86-D1   (hex)		RayThink Technology Co.,Ltd
 				Durban  KwaZulu Natal  3610
 				ZA
 
+C4-FF-84   (hex)		Atlas Copco
+900000-9FFFFF     (base 16)		Atlas Copco
+				Boomsesteenweg 957,Antwerpen, 2610, Wilrijk
+				Wilrijk    2610
+				BE
+
 48-5E-0E   (hex)		Transom Post OpCo LLC dba Bose Professional
 C00000-CFFFFF     (base 16)		Transom Post OpCo LLC dba Bose Professional
 				145 Pennsylvania Ave Framingham, MA 01701
 				Framingham  MA  01701
 				US
 
-C4-FF-84   (hex)		Atlas Copco
-900000-9FFFFF     (base 16)		Atlas Copco
-				Boomsesteenweg 957,Antwerpen, 2610, Wilrijk
-				Wilrijk    2610
-				BE
+C4-FF-84   (hex)		Eastern Acoustic Works
+500000-5FFFFF     (base 16)		Eastern Acoustic Works
+				19 National Drive
+				Franklin  MA  02038
+				US
+
+C4-FF-84   (hex)		KSB SE & Co. KGaA
+C00000-CFFFFF     (base 16)		KSB SE & Co. KGaA
+				Johann-Klein-Straße 9
+				Frankenthal    67227
+				DE
+
+C4-FF-84   (hex)		IBM
+800000-8FFFFF     (base 16)		IBM
+				23 Airport Boul.
+				Bromont  Quebec  J2L 1A3
+				CA
 
 D0-14-11   (hex)		P.B. Elettronica srl
 100000-1FFFFF     (base 16)		P.B. Elettronica srl
@@ -25816,6 +25840,12 @@ C4-FF-84   (hex)		NEKMA M.Mesek P.Mesek B.Mesek
 				Przędzalniana 68
 				Łódź  Łódzkie  90-338
 				PL
+
+C4-FF-84   (hex)		Lens Technology (Xiangtan) Co.,Ltd
+600000-6FFFFF     (base 16)		Lens Technology (Xiangtan) Co.,Ltd
+				16 Baishi West Road, Xiangtan Economic and Technological Development Zone
+				Xiangtan  Hunan  411100
+				CN
 
 B8-4C-87   (hex)		Private
 E00000-EFFFFF     (base 16)		Private
