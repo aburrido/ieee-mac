@@ -7325,6 +7325,12 @@ BB4000-BB4FFF     (base 16)		HIGH RIGHT CO.,Ltd
 				Reggio Emilia    42124
 				IT
 
+8C-1F-64   (hex)		Pixel Design & Manufacturing Sdn. Bhd.
+AEC000-AECFFF     (base 16)		Pixel Design & Manufacturing Sdn. Bhd.
+				87, Jalan 20/7, Paramount Garden
+				Petaling Jaya  Selangor  46300
+				MY
+
 8C-1F-64   (hex)		Jacobs Technology, Inc.
 A98000-A98FFF     (base 16)		Jacobs Technology, Inc.
 				7765 Old Telegraph Road
@@ -21896,6 +21902,12 @@ F1B000-F1BFFF     (base 16)		Nextep Co.,Ltd.
 				Cheongju-Si    28578
 				KR
 
+8C-1F-64   (hex)		Smart Data (Shenzhen) Intelligent System Co., Ltd.
+ED5000-ED5FFF     (base 16)		Smart Data (Shenzhen) Intelligent System Co., Ltd.
+				Unit 201-26, Luohu Business Center, No. 2028 Shennan East Road, Chengdong Community, Dongmen Street, Luohu District, Shenzhen
+				Shenzhen    518001
+				CN
+
 8C-1F-64   (hex)		Flow Power
 82B000-82BFFF     (base 16)		Flow Power
 				Suite 2, Level 3, 18 - 20 York St
@@ -29222,6 +29234,12 @@ DCF000-DCFFFF     (base 16)		REO AG
 				VERQUIN    62131
 				FR
 
+8C-1F-64   (hex)		Vismes sarl
+482000-482FFF     (base 16)		Vismes sarl
+				5 rue de boran
+				Aincourt  Val d'oise  95510
+				FR
+
 8C-1F-64   (hex)		Mobileye
 D63000-D63FFF     (base 16)		Mobileye
 				13 Hartom st.
@@ -36481,3 +36499,9 @@ A49000-A49FFF     (base 16)		Integer.pl S.A.
 				17 King Edwards Road
 				Ruislip  London  HA4 7AE
 				GB
+
+8C-1F-64   (hex)		SAFE INSTRUMENTS
+C6E000-C6EFFF     (base 16)		SAFE INSTRUMENTS
+				SCF-60, FF, Phase-2
+				SAS Nagar Mohali  Punjab  160055
+				IN
