@@ -6626,6 +6626,12 @@ EC-A7-B1   (hex)		AKOM Technologies Private Limited
 				New Delhi  Delhi  110076
 				IN
 
+EC-A7-B1   (hex)		Shenzhen zhst video technology co.,ltd
+800000-8FFFFF     (base 16)		Shenzhen zhst video technology co.,ltd
+				908Room 9th Floor, Jiaye Plaza, No. 2055, Bixin Road, Longgang Street
+				Shenzhen  Guangdong  518116
+				CN
+
 B8-4C-87   (hex)		Shenzhen Link-all Technology Co., Ltd
 300000-3FFFFF     (base 16)		Shenzhen Link-all Technology Co., Ltd
 				Floor 5th, Block 9th, Sunny Industrial Zone, Xili Town, Nanshan District, Shenzhen, China 
@@ -19456,6 +19462,12 @@ C4-FF-84   (hex)		Cloudhop Inc
 				7 Industrial Ave
 				Upper Saddle River  NJ  07458
 				US
+
+EC-A7-B1   (hex)		Annapurna labs
+A00000-AFFFFF     (base 16)		Annapurna labs
+				Matam Scientific Industries Center,   Building 8.2
+				Mail box 15123  Haifa  3508409
+				IL
 
 D0-14-11   (hex)		P.B. Elettronica srl
 100000-1FFFFF     (base 16)		P.B. Elettronica srl
