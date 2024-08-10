@@ -6638,6 +6638,12 @@ E00000-EFFFFF     (base 16)		Artisight, Inc.
 				Chicago  IL  60647
 				US
 
+F4-3A-FA   (hex)		Jiaxing Haishijiaan Smartcity Technology CO., LTD.
+300000-3FFFFF     (base 16)		Jiaxing Haishijiaan Smartcity Technology CO., LTD.
+				10th Floor, Building B, Nanhu Chamber of Commerce, 883 Guangyi Road, Nanhu District, Jiaxing City, Zhejiang Province
+				Jiaxing City  Zhejiang Province  314000
+				CN
+
 B8-4C-87   (hex)		Shenzhen Link-all Technology Co., Ltd
 300000-3FFFFF     (base 16)		Shenzhen Link-all Technology Co., Ltd
 				Floor 5th, Block 9th, Sunny Industrial Zone, Xili Town, Nanshan District, Shenzhen, China 
@@ -25955,8 +25961,8 @@ F4-3A-FA   (hex)		Hemant Electronics
 				Ahmedabad  Gujarat  380009
 				IN
 
-F4-3A-FA   (hex)		CECT Suntai Information Technology Co.,Ltd
-B00000-BFFFFF     (base 16)		CECT Suntai Information Technology Co.,Ltd
+F4-3A-FA   (hex)		CETC Suntai Information Technology Co., Ltd.
+B00000-BFFFFF     (base 16)		CETC Suntai Information Technology Co., Ltd.
 				Building 2, K-Park Business Center, No. 50 Xiuxi Road, Binhu District, Wuxi City, Jiangsu Province
 				Wuxi    214026
 				CN
@@ -32551,3 +32557,9 @@ EC-A7-B1   (hex)		Strongbyte Solutions Limited
 				Unit 7, Wychwood Business Centre
 				Chipping Norton  Oxfordshire  OX7 6XU
 				GB
+
+F4-3A-FA   (hex)		Grayeye IT Systems Private Limited
+500000-5FFFFF     (base 16)		Grayeye IT Systems Private Limited
+				No.220,TNHB OMR Road, 198 Ward,Sholinganallur, Chennai-600 119
+				Chennai  Tamil Nadu  600119
+				IN
