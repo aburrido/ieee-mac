@@ -6632,17 +6632,23 @@ EC-A7-B1   (hex)		Shenzhen zhst video technology co.,ltd
 				Shenzhen  Guangdong  518116
 				CN
 
-EC-A7-B1   (hex)		Artisight, Inc.
-E00000-EFFFFF     (base 16)		Artisight, Inc.
-				1658 N Milwaukee AveSTE B PMB 5661
-				Chicago  IL  60647
-				US
-
 F4-3A-FA   (hex)		Jiaxing Haishijiaan Smartcity Technology CO., LTD.
 300000-3FFFFF     (base 16)		Jiaxing Haishijiaan Smartcity Technology CO., LTD.
 				10th Floor, Building B, Nanhu Chamber of Commerce, 883 Guangyi Road, Nanhu District, Jiaxing City, Zhejiang Province
 				Jiaxing City  Zhejiang Province  314000
 				CN
+
+F4-3A-FA   (hex)		Dspread Technology (Beijing) Inc.
+100000-1FFFFF     (base 16)		Dspread Technology (Beijing) Inc.
+				Jingxin Building, 2045 Suite , Chaoyang District
+				Beijing    100027
+				CN
+
+EC-A7-B1   (hex)		Artisight, Inc.
+E00000-EFFFFF     (base 16)		Artisight, Inc.
+				1658 N Milwaukee AveSTE B PMB 5661
+				Chicago  IL  60647
+				US
 
 B8-4C-87   (hex)		Shenzhen Link-all Technology Co., Ltd
 300000-3FFFFF     (base 16)		Shenzhen Link-all Technology Co., Ltd
@@ -19487,6 +19493,12 @@ EC-A7-B1   (hex)		CHICONY POWER TECHNOLOGY (DONGGUAN) CO,. LTD.
 				Dongguan  Guangdong  523000
 				CN
 
+F4-3A-FA   (hex)		Houngfu Technology
+D00000-DFFFFF     (base 16)		Houngfu Technology
+				No. 63, Ln. 10, Sec. 4, Chengde Rd., Shilin Dist.,
+				Taipei    111
+				TW
+
 D0-14-11   (hex)		P.B. Elettronica srl
 100000-1FFFFF     (base 16)		P.B. Elettronica srl
 				Via Santorelli, 8
@@ -25955,10 +25967,10 @@ EC-A7-B1   (hex)		Digital Audio Labs
 				Chanhassen  MN  55317
 				US
 
-F4-3A-FA   (hex)		Hemant Electronics
-900000-9FFFFF     (base 16)		Hemant Electronics
-				B/45, Capital Commercial Center, Opposite LIC Building, Near Sanyas Ashram, Ashram Road, Ahmedabad-380009
-				Ahmedabad  Gujarat  380009
+F4-3A-FA   (hex)		AugustDevices India Private limited 
+000000-0FFFFF     (base 16)		AugustDevices India Private limited 
+				Flat number 407, Vasantha Vihar, Masjid Banda, Kondapur
+				Hyderabad  Telangana  500084
 				IN
 
 F4-3A-FA   (hex)		CETC Suntai Information Technology Co., Ltd.
@@ -25966,6 +25978,12 @@ B00000-BFFFFF     (base 16)		CETC Suntai Information Technology Co., Ltd.
 				Building 2, K-Park Business Center, No. 50 Xiuxi Road, Binhu District, Wuxi City, Jiangsu Province
 				Wuxi    214026
 				CN
+
+F4-3A-FA   (hex)		Hemant Electronics
+900000-9FFFFF     (base 16)		Hemant Electronics
+				B/45, Capital Commercial Center, Opposite LIC Building, Near Sanyas Ashram, Ashram Road, Ahmedabad-380009
+				Ahmedabad  Gujarat  380009
+				IN
 
 B8-4C-87   (hex)		Private
 E00000-EFFFFF     (base 16)		Private

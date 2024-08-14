@@ -7343,6 +7343,18 @@ EF4000-EF4FFF     (base 16)		Mediaport Systems Ltd
 				ENFIELD  Middlesex  EN2 8RY
 				GB
 
+8C-1F-64   (hex)		J&J Philippines Corporation
+2D5000-2D5FFF     (base 16)		J&J Philippines Corporation
+				Lot 24 Phase 1-A First Philippine Industrial Park, Brgy. Sta. Anastacia
+				Sto.Tomas  Batangas  4234
+				PH
+
+8C-1F-64   (hex)		ACCURATE OPTOELECTRONICS PVT. LTD.
+250000-250FFF     (base 16)		ACCURATE OPTOELECTRONICS PVT. LTD.
+				A-190, Road No. 5, M.I.A., Madri, Udaipur(Raj.) -313003, India
+				UDAIPUR  RAJASTHAN  313003
+				IN
+
 8C-1F-64   (hex)		Jacobs Technology, Inc.
 A98000-A98FFF     (base 16)		Jacobs Technology, Inc.
 				7765 Old Telegraph Road
@@ -14702,14 +14714,26 @@ A17000-A17FFF     (base 16)		Pneumax Spa
 				Lurano  Bergamo  24050
 				IT
 
-8C-1F-64   (hex)		Private
-48D000-48DFFF     (base 16)		Private
-
 8C-1F-64   (hex)		Potter Electric Signal Company
 8FE000-8FEFFF     (base 16)		Potter Electric Signal Company
 				5757 Phantom Drive
 				Hazelwood  MO  63042
 				US
+
+8C-1F-64   (hex)		KA Imaging Inc.
+AC1000-AC1FFF     (base 16)		KA Imaging Inc.
+				560 Parkside Drive, Unit 3
+				Waterloo  ON  N2L5Z4
+				CA
+
+8C-1F-64   (hex)		Adaptiv LTD
+693000-693FFF     (base 16)		Adaptiv LTD
+				4900 Nautilus Ct N Suite 220
+				Boulder  CO  80301
+				US
+
+8C-1F-64   (hex)		Private
+48D000-48DFFF     (base 16)		Private
 
 8C-1F-64   (hex)		Vision Systems Safety Tech
 E6F000-E6FFFF     (base 16)		Vision Systems Safety Tech
@@ -29279,6 +29303,12 @@ DCF000-DCFFFF     (base 16)		REO AG
 				Aincourt  Val d'oise  95510
 				FR
 
+8C-1F-64   (hex)		STV Electronic GmbH
+31F000-31FFFF     (base 16)		STV Electronic GmbH
+				Hellweg 203-205
+				Schloss Holte  Nordrhein Westfalen  33758
+				DE
+
 8C-1F-64   (hex)		Mobileye
 D63000-D63FFF     (base 16)		Mobileye
 				13 Hartom st.
@@ -36545,14 +36575,26 @@ C6E000-C6EFFF     (base 16)		SAFE INSTRUMENTS
 				Ruislip  London  HA4 7AE
 				GB
 
-8C-1F-64   (hex)		Arkham Technology
-FDA000-FDAFFF     (base 16)		Arkham Technology
-				2525 Main Street, Suite 250
-				Irvine  CA  92614
-				US
+8C-1F-64   (hex)		Abbott Diagnostics Technologies AS
+72B000-72BFFF     (base 16)		Abbott Diagnostics Technologies AS
+				P. O.  Box 6863 Rodeløkka
+				Oslo  Oslo  0504
+				NO
+
+8C-1F-64   (hex)		SICHUAN HUACUN ZHIGU TECHNOLOGY CO.,LTD
+EE3000-EE3FFF     (base 16)		SICHUAN HUACUN ZHIGU TECHNOLOGY CO.,LTD
+				1st to 4th Floor, No. 2 Workshop, No. 66 Antai 7th Road, High-tech Zone
+				Chengdu  Sichuan  610095
+				CN
 
 8C-1F-64   (hex)		Beijing Ceresdata Technology Co., LTD
 395000-395FFF     (base 16)		Beijing Ceresdata Technology Co., LTD
 				Tower B 2th FI., Bldg.12,(East Zone) No.10 Xibeiwangdong Road, Haidian District
 				Beijing  Beijing  100193
 				CN
+
+8C-1F-64   (hex)		Arkham Technology
+FDA000-FDAFFF     (base 16)		Arkham Technology
+				2525 Main Street, Suite 250
+				Irvine  CA  92614
+				US
