@@ -29309,6 +29309,18 @@ DCF000-DCFFFF     (base 16)		REO AG
 				Schloss Holte  Nordrhein Westfalen  33758
 				DE
 
+8C-1F-64   (hex)		Enki Multimedia
+40A000-40AFFF     (base 16)		Enki Multimedia
+				54 rue Henri Pauquet
+				Creil    60100
+				FR
+
+8C-1F-64   (hex)		Laser Mechanisms, Inc.
+B6C000-B6CFFF     (base 16)		Laser Mechanisms, Inc.
+				25325 Regency Dr.
+				Novi  MI  48375
+				US
+
 8C-1F-64   (hex)		Mobileye
 D63000-D63FFF     (base 16)		Mobileye
 				13 Hartom st.
@@ -36598,3 +36610,15 @@ FDA000-FDAFFF     (base 16)		Arkham Technology
 				2525 Main Street, Suite 250
 				Irvine  CA  92614
 				US
+
+8C-1F-64   (hex)		Escape Velocity Technologies
+ACD000-ACDFFF     (base 16)		Escape Velocity Technologies
+				4834 Bowness Road NW
+				Calgary  AB  T3B 0B7
+				CA
+
+8C-1F-64   (hex)		Softgent sp. z o.o.
+DE2000-DE2FFF     (base 16)		Softgent sp. z o.o.
+				Budowlanych 31d/301
+				Gdansk    80-298
+				PL
