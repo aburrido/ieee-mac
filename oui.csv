@@ -7228,6 +7228,8 @@ MA-L,3C3824,Xiaomi Communications Co Ltd,"#019, 9th Floor, Building 6, 33 Xi'erq
 MA-L,D0C0BF,Actions Microelectronics,"201, No 9 Building, Software Park,Kejizhonger Rd., Shenzhen Gangdong CN 518057 "
 MA-L,DC2FFA,GE Lighting,1975 Noble Rd East Cleveland OH US 44112 
 MA-L,C45746,Texas Instruments,12500 TI Blvd Dallas TX US 75243 
+MA-L,84CC11,LG Electornics ,LG Electronis 7 MŁAWA Mazowieckie PL 06-500 
+MA-L,284D7D,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
 MA-L,00749C,"Ruijie Networks Co.,LTD","19# Building,Star-net Science Plaza,Juyuanzhou, 618 Jinshan Road Fuzhou Fujian CN 350002 "
 MA-L,E01C41,Extreme Networks Headquarters,2121 RDU Center Drive  Morrisville NC US 27560 
 MA-L,BCF310,Extreme Networks Headquarters,2121 RDU Center Drive  Morrisville NC US 27560 
@@ -14366,6 +14368,9 @@ MA-L,F87BE0,Funtime Pickleball Inc.,2200 N. Commerce Parkway Weston FL US 33326
 MA-L,306893,TP-Link Systems Inc.,10 Mauchly  Irvine CA US 92618 
 MA-L,9C47F4,Nokia,600 March Road Kanata Ontario CA K2K 2E6 
 MA-L,D4C9B2,Quanergy Solutions Inc,128 Baytech Dr San Jose  US 95134 
+MA-L,242856,"Beijing Gctech Technology Co.,LTD","Room 409, 4 / F, Building 1, No. 18 Jingxing Street, East Industrial Base, Science and Technology Park, Changping District Beijing  CN 102200 "
+MA-L,A0D42D,G.Tech Technology Ltd.,"No.8,Jinyuan 1st Road,Tangjiawan Town, High-tech Zone Zhuhai Guangdong CN 519085 "
+MA-L,584BBC,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
 MA-L,6C8720,"New H3C Technologies Co., Ltd","466 Changhe Road, Binjiang District Hangzhou Zhejiang CN 310052 "
 MA-L,0C8D7A,RADiflow,HaBarzel St 38 Tel-Aviv  IL 6971054 
 MA-L,FCA9F5,Xiaomi Communications Co Ltd,"#019, 9th Floor, Building 6, 33 Xi'erqi Middle Road Beijing Haidian District CN 100085 "
@@ -21544,16 +21549,17 @@ MA-L,28F52B,FN-LINK TECHNOLOGY Ltd.,"No.8, Litong Road, Liuyang Economic & Techn
 MA-L,F8EF5D,"Motorola Mobility LLC, a Lenovo Company",222 West Merchandise Mart Plaza Chicago IL US 60654 
 MA-L,A409B3,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
 MA-L,3C07D7,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
-MA-L,1C1DD3,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
-MA-L,C81FE8,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
-MA-L,24B2B9,Liteon Technology Corporation,"4F, 90, Chien 1 Road New Taipei City Taiwan TW 23585 "
-MA-L,E8E7C3,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
-MA-L,08B95F,Silicon Laboratories, 400 West Cesar Chavez Austin TX US 78701 
-MA-L,F8E35F,"Sichuan Tianyi Comheart Telecom Co.,LTD","No.198,First Section,Snow Mountain Avenue, Jinyuan Town, Dayi County Chengdu Sichuan CN 611330 "
-MA-L,6CD7A0,"WIKO Terminal Technology (Dongguan) Co., Ltd.","Building 3, No. 6, Hongmian Road, Songshan Lake Park, Dongguan City, Guangdong Province Dongguan Guangdong CN 523808 "
 MA-L,A4B0F5,Texas Instruments,12500 TI Blvd Dallas TX US 75243 
 MA-L,2CD3AD,Texas Instruments,12500 TI Blvd Dallas TX US 75243 
 MA-L,54FB5A,Optomind Inc.,"16 Deogyeong-daero #1556, Suite B-301, Yeongtong-gu Suwon Gyeonggi-do KR 16690 "
+MA-L,6CD7A0,"WIKO Terminal Technology (Dongguan) Co., Ltd.","Building 3, No. 6, Hongmian Road, Songshan Lake Park, Dongguan City, Guangdong Province Dongguan Guangdong CN 523808 "
+MA-L,F8E35F,"Sichuan Tianyi Comheart Telecom Co.,LTD","No.198,First Section,Snow Mountain Avenue, Jinyuan Town, Dayi County Chengdu Sichuan CN 611330 "
+MA-L,E8E7C3,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
+MA-L,24B2B9,Liteon Technology Corporation,"4F, 90, Chien 1 Road New Taipei City Taiwan TW 23585 "
+MA-L,1C1DD3,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
+MA-L,C81FE8,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
+MA-L,08B95F,Silicon Laboratories, 400 West Cesar Chavez Austin TX US 78701 
+MA-L,747847,Interdisciplinary Consulting Corporation,2405 NW 66th Ct Gainesville FL US 32653-1633 
 MA-L,B4C799,Extreme Networks Headquarters,2121 RDU Center Drive  Morrisville NC US 27560 
 MA-L,58696C,"Ruijie Networks Co.,LTD","19# Building,Star-net Science Plaza,Juyuanzhou, 618 Jinshan Road Fuzhou Fujian CN 350002 "
 MA-L,8C8394,Arcadyan Corporation,"No.8, Sec.2, Guangfu Rd. Hsinchu City Hsinchu TW 30071 "
@@ -28797,11 +28803,11 @@ MA-L,40734D,"New H3C Technologies Co., Ltd","466 Changhe Road, Binjiang District
 MA-L,E458BC,Bose Corporation,The Mountain Framingham MA US 01701-9168 
 MA-L,840F4C,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
 MA-L,3C64CF,TP-LINK CORPORATION PTE. LTD.,7 Temasek Boulevard #29-03 Suntec Tower One Singapore  SG 038987 
-MA-L,5C2D08,Subeca,789 N Grove Rd   Suite 103 Richardson TX US 75081 
-MA-L,8439FC,Nokia,600 March Road Kanata Ontario CA K2K 2E6 
+MA-L,A0D91A,Texas Instruments,12500 TI Blvd Dallas TX US 75243 
 MA-L,C04A0E,Texas Instruments,12500 TI Blvd Dallas TX US 75243 
 MA-L,D4060F,Texas Instruments,12500 TI Blvd Dallas TX US 75243 
-MA-L,A0D91A,Texas Instruments,12500 TI Blvd Dallas TX US 75243 
+MA-L,5C2D08,Subeca,789 N Grove Rd   Suite 103 Richardson TX US 75081 
+MA-L,8439FC,Nokia,600 March Road Kanata Ontario CA K2K 2E6 
 MA-L,C85CE2,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
 MA-L,DCEE14,ADT Technology,"Room 325, 3rd Floor, Building F, Xinmao Science and Technology Park, Huayuan Industrial Zone Tianjin Tianjin CN 300384 "
 MA-L,10FFE0,"GIGA-BYTE TECHNOLOGY CO.,LTD.","Pin-Jen City, Taoyuan, Taiwan, R.O.C. Pin-Jen Taoyuan TW 324 "
@@ -35991,3 +35997,4 @@ MA-L,9082C3,Quanta Computer Inc.,"No. 211, Wenhua 2nd Rd., Guishan Dist. Taoyuan
 MA-L,1CC089,Silicon Laboratories, 400 West Cesar Chavez Austin TX US 78701 
 MA-L,007532,Integrated Engineering BV,Mariettahof 27 Haarlem NH NL 2033WS 
 MA-L,D4A365,Xiaomi Communications Co Ltd,"#019, 9th Floor, Building 6, 33 Xi'erqi Middle Road Beijing Haidian District CN 100085 "
+MA-L,7C60DB,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
