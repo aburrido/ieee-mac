@@ -14741,6 +14741,12 @@ AC1000-AC1FFF     (base 16)		KA Imaging Inc.
 				Santa Clara  CA  95054
 				US
 
+8C-1F-64   (hex)		Xlera Solutions, LLC
+EDF000-EDFFFF     (base 16)		Xlera Solutions, LLC
+				PO Box 4454
+				Alpharetta  GA  30023
+				US
+
 8C-1F-64   (hex)		Vision Systems Safety Tech
 E6F000-E6FFFF     (base 16)		Vision Systems Safety Tech
 				5 Chemin de Chiradie
@@ -21976,6 +21982,12 @@ A5F000-A5FFFF     (base 16)		Wattson Audio SA
 				Z.I. Le Tresi 6B
 				Preverenges  VD  1028
 				CH
+
+8C-1F-64   (hex)		Marson Technology Co., Ltd.
+235000-235FFF     (base 16)		Marson Technology Co., Ltd.
+				6F., No.108-1, Minquan Rd., Xindian Dist., New Taipei City 231, Taiwan
+				Taipei    231
+				TW
 
 8C-1F-64   (hex)		Flow Power
 82B000-82BFFF     (base 16)		Flow Power
@@ -29363,6 +29375,12 @@ DCB000-DCBFFF     (base 16)		Beijing Ceresdata Technology Co., LTD
 				Tamworth  Staffordshire  B77 4DP
 				GB
 
+8C-1F-64   (hex)		Sonatronic
+F6C000-F6CFFF     (base 16)		Sonatronic
+				8 rue Montespan
+				Evry    91000
+				FR
+
 8C-1F-64   (hex)		Mobileye
 D63000-D63FFF     (base 16)		Mobileye
 				13 Hartom st.
@@ -36653,6 +36671,12 @@ FDA000-FDAFFF     (base 16)		Arkham Technology
 				Irvine  CA  92614
 				US
 
+8C-1F-64   (hex)		Candela Technologies Inc
+B85000-B85FFF     (base 16)		Candela Technologies Inc
+				2417 Main Street, STE 201
+				Ferndale  WA  98248
+				US
+
 8C-1F-64   (hex)		Escape Velocity Technologies
 ACD000-ACDFFF     (base 16)		Escape Velocity Technologies
 				4834 Bowness Road NW
@@ -36665,14 +36689,8 @@ DE2000-DE2FFF     (base 16)		Softgent sp. z o.o.
 				Gdansk    80-298
 				PL
 
-8C-1F-64   (hex)		Candela Technologies Inc
-B85000-B85FFF     (base 16)		Candela Technologies Inc
-				2417 Main Street, STE 201
-				Ferndale  WA  98248
-				US
-
 8C-1F-64   (hex)		Exicom Technologies India Pvt. Ltd.
 21A000-21AFFF     (base 16)		Exicom Technologies India Pvt. Ltd.
-				B-2, R.S Industrial EstatePremises Co-op Society Ltd,Sonawala Cross Lane No.2, Goregaon-E
-				Mumbai  Maharashtra   400063
+				1002, Quantum Tower, Off S. V. Road, Rambaug Lane, Malad (w)
+				Mumbai    400064
 				IN

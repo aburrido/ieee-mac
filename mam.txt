@@ -6656,6 +6656,12 @@ F4-3A-FA   (hex)		Dspread Technology (Beijing) Inc.
 				Beijing    100027
 				CN
 
+C0-48-2F   (hex)		Lunar USA Inc.
+C00000-CFFFFF     (base 16)		Lunar USA Inc.
+				1721 W Plano Pkwy, Suite 128
+				Plano  TX  75075
+				US
+
 B8-4C-87   (hex)		Shenzhen Link-all Technology Co., Ltd
 300000-3FFFFF     (base 16)		Shenzhen Link-all Technology Co., Ltd
 				Floor 5th, Block 9th, Sunny Industrial Zone, Xili Town, Nanshan District, Shenzhen, China 
@@ -12850,6 +12856,12 @@ F4-3A-FA   (hex)		Valeo Schalter und Sensoren GmbH
 
 F4-3A-FA   (hex)		Private
 200000-2FFFFF     (base 16)		Private
+
+F4-3A-FA   (hex)		Metrasens Limited
+800000-8FFFFF     (base 16)		Metrasens Limited
+				8 Beauchamp Business Centre,, Sparrowhawk Close
+				Malvern  Worcestershire  WR14 1GL
+				GB
 
 B8-4C-87   (hex)		Altronix , Corp
 A00000-AFFFFF     (base 16)		Altronix , Corp
@@ -19514,6 +19526,12 @@ D00000-DFFFFF     (base 16)		Houngfu Technology
 				Taipei    111
 				TW
 
+F4-3A-FA   (hex)		WAKARI SOLUTIONS,S.L.
+E00000-EFFFFF     (base 16)		WAKARI SOLUTIONS,S.L.
+				Buenos Aires, 3 - Las Palmas de Gran Canaria 35002
+				Canaria    35002
+				ES
+
 D0-14-11   (hex)		P.B. Elettronica srl
 100000-1FFFFF     (base 16)		P.B. Elettronica srl
 				Via Santorelli, 8
@@ -25999,6 +26017,12 @@ F4-3A-FA   (hex)		Hemant Electronics
 				B/45, Capital Commercial Center, Opposite LIC Building, Near Sanyas Ashram, Ashram Road, Ahmedabad-380009
 				Ahmedabad  Gujarat  380009
 				IN
+
+C0-48-2F   (hex)		Shenzhen C & D Electronics Co., Ltd.
+B00000-BFFFFF     (base 16)		Shenzhen C & D Electronics Co., Ltd.
+				9th FIoor, Building 9, No.1 Qingxiang road, BaoNeng Science and TechnoIogy Industrial Park, Longhua New District
+				ShenZhen  GuangDong  518000
+				CN
 
 C8-5C-E2   (hex)		Fela Management AG 
 000000-0FFFFF     (base 16)		Fela Management AG 
@@ -32608,3 +32632,21 @@ C00000-CFFFFF     (base 16)		Lenovo India Private Limited
 				RS 19 1A 2A Edayarpalayam VillageCuddalore Main Road
 				Thavalakuppam    605007
 				IN
+
+F4-3A-FA   (hex)		Annapurna labs
+A00000-AFFFFF     (base 16)		Annapurna labs
+				Matam Scientific Industries Center,   Building 8.2
+				Mail box 15123  Haifa  3508409
+				IL
+
+C0-48-2F   (hex)		Megawin Switchgear Pvt. Ltd.
+700000-7FFFFF     (base 16)		Megawin Switchgear Pvt. Ltd.
+				P.B.No.434, Perumal Malai AdivaramAlagapuram PO
+				Salem  TamilNadu  636004
+				IN
+
+C0-48-2F   (hex)		PROTECT A/S
+000000-0FFFFF     (base 16)		PROTECT A/S
+				Hasselager Centervej 5
+				Viby J    8260
+				DK
