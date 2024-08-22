@@ -13,22 +13,22 @@ jobs:
 
       - name: download
         run : |
-          wget https://standards-oui.ieee.org/oui/oui.txt -O oui.txt
-          wget https://standards-oui.ieee.org/oui/oui.csv -O oui.csv
-          wget https://standards-oui.ieee.org/oui28/mam.txt -O mam.txt
-          wget https://standards-oui.ieee.org/oui28/mam.csv -O mam.csv
-          wget https://standards-oui.ieee.org/oui36/oui36.txt -O oui36.txt
-          wget https://standards-oui.ieee.org/oui36/oui36.csv -O oui36.csv
-          wget https://standards-oui.ieee.org/cid/cid.txt -O cid.txt
-          wget https://standards-oui.ieee.org/cid/cid.csv -O cid.csv
-          wget https://standards-oui.ieee.org/ethertype/eth.txt -O eth.txt
-          wget https://standards-oui.ieee.org/ethertype/eth.csv -O eth.csv
-          wget https://standards-oui.ieee.org/manid/manid.txt -O manid.txt
-          wget https://standards-oui.ieee.org/manid/manid.csv -O manid.csv
-          wget https://standards-oui.ieee.org/bopid/opid.txt -O opid.txt
-          wget https://standards-oui.ieee.org/bopid/opid.csv -O opid.csv
-          wget https://standards-oui.ieee.org/iab/iab.txt -O iab.txt
-          wget https://standards-oui.ieee.org/iab/iab.csv -O iab.csv
+          wget --user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:102.0) Gecko/20100101 Firefox/102.0" https://standards-oui.ieee.org/oui/oui.txt -O oui.txt
+          wget --user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:102.0) Gecko/20100101 Firefox/102.0" https://standards-oui.ieee.org/oui/oui.csv -O oui.csv
+          wget --user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:102.0) Gecko/20100101 Firefox/102.0" https://standards-oui.ieee.org/oui28/mam.txt -O mam.txt
+          wget --user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:102.0) Gecko/20100101 Firefox/102.0" https://standards-oui.ieee.org/oui28/mam.csv -O mam.csv
+          wget --user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:102.0) Gecko/20100101 Firefox/102.0" https://standards-oui.ieee.org/oui36/oui36.txt -O oui36.txt
+          wget --user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:102.0) Gecko/20100101 Firefox/102.0" https://standards-oui.ieee.org/oui36/oui36.csv -O oui36.csv
+          wget --user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:102.0) Gecko/20100101 Firefox/102.0" https://standards-oui.ieee.org/cid/cid.txt -O cid.txt
+          wget --user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:102.0) Gecko/20100101 Firefox/102.0" https://standards-oui.ieee.org/cid/cid.csv -O cid.csv
+          wget --user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:102.0) Gecko/20100101 Firefox/102.0" https://standards-oui.ieee.org/ethertype/eth.txt -O eth.txt
+          wget --user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:102.0) Gecko/20100101 Firefox/102.0" https://standards-oui.ieee.org/ethertype/eth.csv -O eth.csv
+          wget --user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:102.0) Gecko/20100101 Firefox/102.0" https://standards-oui.ieee.org/manid/manid.txt -O manid.txt
+          wget --user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:102.0) Gecko/20100101 Firefox/102.0" https://standards-oui.ieee.org/manid/manid.csv -O manid.csv
+          wget --user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:102.0) Gecko/20100101 Firefox/102.0" https://standards-oui.ieee.org/bopid/opid.txt -O opid.txt
+          wget --user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:102.0) Gecko/20100101 Firefox/102.0" https://standards-oui.ieee.org/bopid/opid.csv -O opid.csv
+          wget --user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:102.0) Gecko/20100101 Firefox/102.0" https://standards-oui.ieee.org/iab/iab.txt -O iab.txt
+          wget --user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:102.0) Gecko/20100101 Firefox/102.0" https://standards-oui.ieee.org/iab/iab.csv -O iab.csv
 
       - name: mkdir
         run : mkdir -p history/$(date +"%Y-%m-%d")
