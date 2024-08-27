@@ -7355,6 +7355,18 @@ EF4000-EF4FFF     (base 16)		Mediaport Systems Ltd
 				Sto.Tomas  Batangas  4234
 				PH
 
+8C-1F-64   (hex)		Finotex Electronic Solutions PVT LTD
+E3C000-E3CFFF     (base 16)		Finotex Electronic Solutions PVT LTD
+				F-443D Road No. 12 V.K.I Area Jaipur
+				Jaipur  Rajasthan  302013
+				IN
+
+8C-1F-64   (hex)		Hangzhou Huasu Technology CO., LTD.
+720000-720FFF     (base 16)		Hangzhou Huasu Technology CO., LTD.
+				2nd & 3rd Floor of No.3 Building, No.1418-50 Moganshan Road, Hangzhou, China
+				Hangzhou    310000
+				CN
+
 8C-1F-64   (hex)		Jacobs Technology, Inc.
 A98000-A98FFF     (base 16)		Jacobs Technology, Inc.
 				7765 Old Telegraph Road
@@ -21983,11 +21995,11 @@ DED000-DEDFFF     (base 16)		PhotonPath
 				Milano  MI  20158
 				IT
 
-8C-1F-64   (hex)		Wattson Audio SA
-A5F000-A5FFFF     (base 16)		Wattson Audio SA
-				Z.I. Le Tresi 6B
-				Preverenges  VD  1028
-				CH
+8C-1F-64   (hex)		Visiosoft Pty Ltd
+776000-776FFF     (base 16)		Visiosoft Pty Ltd
+				Unit 8, Stonewood Business ParkTanzanite Crescent
+				Kraaifontein  Western Cape  7570
+				ZA
 
 8C-1F-64   (hex)		Marson Technology Co., Ltd.
 235000-235FFF     (base 16)		Marson Technology Co., Ltd.
@@ -21995,11 +22007,11 @@ A5F000-A5FFFF     (base 16)		Wattson Audio SA
 				Taipei    231
 				TW
 
-8C-1F-64   (hex)		Visiosoft Pty Ltd
-776000-776FFF     (base 16)		Visiosoft Pty Ltd
-				Unit 8, Stonewood Business ParkTanzanite Crescent
-				Kraaifontein  Western Cape  7570
-				ZA
+8C-1F-64   (hex)		Wattson Audio SA
+A5F000-A5FFFF     (base 16)		Wattson Audio SA
+				Z.I. Le Tresi 6B
+				Preverenges  VD  1028
+				CH
 
 8C-1F-64   (hex)		Flow Power
 82B000-82BFFF     (base 16)		Flow Power
@@ -29381,17 +29393,17 @@ B6C000-B6CFFF     (base 16)		Laser Mechanisms, Inc.
 				Schloss Holte  Nordrhein Westfalen  33758
 				DE
 
+8C-1F-64   (hex)		Becton Dickinson
+6A3000-6A3FFF     (base 16)		Becton Dickinson
+				7 Loveton Circle
+				Sparks    21152
+				US
+
 8C-1F-64   (hex)		Beijing Ceresdata Technology Co., LTD
 DCB000-DCBFFF     (base 16)		Beijing Ceresdata Technology Co., LTD
 				Tower B 2th FI., Bldg.12,(East Zone) No.10 Xibeiwangdong Road, Haidian District
 				Beijing  Beijing  100193
 				CN
-
-8C-1F-64   (hex)		Sonatronic
-F6C000-F6CFFF     (base 16)		Sonatronic
-				8 rue Montespan
-				Evry    91000
-				FR
 
 8C-1F-64   (hex)		Portrait Displays, Inc.
 F60000-F60FFF     (base 16)		Portrait Displays, Inc.
@@ -29399,10 +29411,16 @@ F60000-F60FFF     (base 16)		Portrait Displays, Inc.
 				PLEASANTON    94588
 				US
 
-8C-1F-64   (hex)		Becton Dickinson
-6A3000-6A3FFF     (base 16)		Becton Dickinson
-				7 Loveton Circle
-				Sparks    21152
+8C-1F-64   (hex)		Sonatronic
+F6C000-F6CFFF     (base 16)		Sonatronic
+				8 rue Montespan
+				Evry    91000
+				FR
+
+8C-1F-64   (hex)		Oriux
+C67000-C67FFF     (base 16)		Oriux
+				5825 N. Sam Houston Pkwy WSuite 220 Houston TX 77086 United S
+				Houston  TX  77086
 				US
 
 8C-1F-64   (hex)		Mobileye
