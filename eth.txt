@@ -11638,6 +11638,12 @@ FC3D                          IEEE 1914 Next Generation Fronthaul Interface  Wor
                               US                                                                                                       
 
 
+B081                          Shenzhen Inovance Technology Co.,Ltd                                                                     WiTSnet is a real-time Ethernet communication protocol with flexible
+                              Inovance Headquarters Tower, High-tech Industrial Park,Guanlan Street, Longhua New District, Shenzhen P.R.Chinanetworking, multiple reliability guarantees, low latency and high          
+                              Shenzhen  Guangdong  518110                                                                              synchronisation accuracy, application layer compatibility and              
+                              CN                                                                                                       extensibility, and simple deployment and easy maintenance.                 
+
+
 013C                          Xerox (Experimental)                                                                                     Invalid as an EtherType value since 1983
                                                                                                                                        
                               Webster  NY                                                                                              
