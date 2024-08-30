@@ -14771,6 +14771,12 @@ EDF000-EDFFFF     (base 16)		Xlera Solutions, LLC
 				Alpharetta  GA  30023
 				US
 
+8C-1F-64   (hex)		YU YAN SYSTEM TECHNOLOGY CO., LTD.
+3F9000-3F9FFF     (base 16)		YU YAN SYSTEM TECHNOLOGY CO., LTD.
+				No. 195, Yong'an St., Xinzhuang Dist.
+				New Taipei City    242017
+				TW
+
 8C-1F-64   (hex)		Vision Systems Safety Tech
 E6F000-E6FFFF     (base 16)		Vision Systems Safety Tech
 				5 Chemin de Chiradie
@@ -29429,6 +29435,18 @@ F6C000-F6CFFF     (base 16)		Sonatronic
 				Evry    91000
 				FR
 
+8C-1F-64   (hex)		FUTURE LIFE TECHNOLOGY
+D49000-D49FFF     (base 16)		FUTURE LIFE TECHNOLOGY
+				13Fl., No. 963, Jong-Jeng Rd., Jong-Ho Dist., New Taipei City, Taiwan 23544
+				New Taipei  ChangHua County  23544
+				TW
+
+8C-1F-64   (hex)		IXORIGUE TECHNOLOGIES SL
+465000-465FFF     (base 16)		IXORIGUE TECHNOLOGIES SL
+				Calle Bailen 41
+				Madrid  Madrid  28005
+				ES
+
 8C-1F-64   (hex)		Oriux
 C67000-C67FFF     (base 16)		Oriux
 				5825 N. Sam Houston Pkwy WSuite 220 Houston TX 77086 United S
@@ -29440,12 +29458,6 @@ E2F000-E2FFFF     (base 16)		Breas Medical AB
 				Företagsvägen 1
 				Mölnlycke    SE-435 33
 				SE
-
-8C-1F-64   (hex)		FUTURE LIFE TECHNOLOGY
-D49000-D49FFF     (base 16)		FUTURE LIFE TECHNOLOGY
-				13Fl., No. 963, Jong-Jeng Rd., Jong-Ho Dist., New Taipei City, Taiwan 23544
-				New Taipei  ChangHua County  23544
-				TW
 
 8C-1F-64   (hex)		Mobileye
 D63000-D63FFF     (base 16)		Mobileye
@@ -36760,3 +36772,15 @@ DE2000-DE2FFF     (base 16)		Softgent sp. z o.o.
 				1002, Quantum Tower, Off S. V. Road, Rambaug Lane, Malad (w)
 				Mumbai    400064
 				IN
+
+8C-1F-64   (hex)		Golding Audio Ltd
+9C6000-9C6FFF     (base 16)		Golding Audio Ltd
+				8 Peartree Business Centre, Stanway
+				Colchester  Essex  CO30JN
+				GB
+
+8C-1F-64   (hex)		Televic Rail GmbH
+8FB000-8FBFFF     (base 16)		Televic Rail GmbH
+				Teltowkanalstr.1
+				Berlin    12247
+				DE

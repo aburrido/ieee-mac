@@ -12899,6 +12899,12 @@ F4-3A-FA   (hex)		Metrasens Limited
 F4-3A-FA   (hex)		Private
 200000-2FFFFF     (base 16)		Private
 
+24-A3-F0   (hex)		BEIJING CUNYIN CHENGQI TECHNOLOGY CO., LTD.
+C00000-CFFFFF     (base 16)		BEIJING CUNYIN CHENGQI TECHNOLOGY CO., LTD.
+				1201-02,12th Floor,Building 1,No.13,Linyin North Street,Pinggu District
+				Beijing    101200
+				CN
+
 B8-4C-87   (hex)		Altronix , Corp
 A00000-AFFFFF     (base 16)		Altronix , Corp
 				140 58th St. Bldg A, Ste 2N
@@ -32728,3 +32734,9 @@ C0-48-2F   (hex)		Qingdao Xijiao Ruihang Rail Equipment Co., Ltd.
 				No. 179, Keji Road, Hi-Tech. IDZ
 				Weihai  Shandong  246209
 				CN
+
+24-A3-F0   (hex)		EONCA Corporation
+900000-9FFFFF     (base 16)		EONCA Corporation
+				6889 Rexwood Road7
+				Mississauga  Ontario  L4V 1R2
+				CA
