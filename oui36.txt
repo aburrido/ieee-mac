@@ -533,12 +533,6 @@ B14000-B14FFF     (base 16)		Murata Manufacturing CO., Ltd.
 				Remscheid    42897
 				DE
 
-8C-1F-64   (hex)		Portrait Displays, Inc.
-5D6000-5D6FFF     (base 16)		Portrait Displays, Inc.
-				6663 OWENS DR
-				PLEASANTON    94588
-				US
-
 8C-1F-64   (hex)		Mesomat inc.
 1D8000-1D8FFF     (base 16)		Mesomat inc.
 				175 Longwood Road South, Suite 303A
@@ -7372,6 +7366,12 @@ E3C000-E3CFFF     (base 16)		Finotex Electronic Solutions PVT LTD
 				C/O Arena Partners, Immeuble Nice Premier A455 Promenade des Anglais
 				Nice  Alpes Maritimes  06200
 				FR
+
+8C-1F-64   (hex)		Portrait Displays, Inc.
+5D6000-5D6FFF     (base 16)		Portrait Displays, Inc.
+				4637 Chabot Drive, Suite 115
+				Pleasanton  CA  94588
+				US
 
 8C-1F-64   (hex)		Jacobs Technology, Inc.
 A98000-A98FFF     (base 16)		Jacobs Technology, Inc.
@@ -23546,12 +23546,6 @@ D7E000-D7EFFF     (base 16)		Thales Belgium
 				Pelotas  Rio Grande do Sul  96050460
 				BR
 
-8C-1F-64   (hex)		Portrait Displays, Inc.
-903000-903FFF     (base 16)		Portrait Displays, Inc.
-				6663 OWENS DR
-				PLEASANTON  CA  94588
-				US
-
 8C-1F-64   (hex)		BR. Voss Ingenjörsfirma AB
 264000-264FFF     (base 16)		BR. Voss Ingenjörsfirma AB
 				Getängsvägen 4
@@ -24450,12 +24444,6 @@ C94000-C94FFF     (base 16)		Vars Technology
 641000-641FFF     (base 16)		Burk Technology
 				7 Beaver Brook road
 				Littleton  MA  01460
-				US
-
-70-B3-D5   (hex)		Portrait Displays, Inc.
-D77000-D77FFF     (base 16)		Portrait Displays, Inc.
-				6663 OWENS DR
-				PLEASANTON  CA  94588
 				US
 
 70-B3-D5   (hex)		chargeBIG
@@ -29417,12 +29405,6 @@ DCB000-DCBFFF     (base 16)		Beijing Ceresdata Technology Co., LTD
 				Tamworth  Staffordshire  B77 4DP
 				GB
 
-8C-1F-64   (hex)		Portrait Displays, Inc.
-F60000-F60FFF     (base 16)		Portrait Displays, Inc.
-				6663 OWENS DR
-				PLEASANTON    94588
-				US
-
 8C-1F-64   (hex)		Becton Dickinson
 6A3000-6A3FFF     (base 16)		Becton Dickinson
 				7 Loveton Circle
@@ -29458,6 +29440,24 @@ E2F000-E2FFFF     (base 16)		Breas Medical AB
 				Företagsvägen 1
 				Mölnlycke    SE-435 33
 				SE
+
+70-B3-D5   (hex)		Portrait Displays, Inc.
+D77000-D77FFF     (base 16)		Portrait Displays, Inc.
+				4637 Chabot Drive, Suite 115
+				Pleasanton  CA  94588
+				US
+
+8C-1F-64   (hex)		Portrait Displays, Inc.
+903000-903FFF     (base 16)		Portrait Displays, Inc.
+				4637 Chabot Drive, Suite 115
+				Pleasanton  CA  94588
+				US
+
+8C-1F-64   (hex)		Portrait Displays, Inc.
+F60000-F60FFF     (base 16)		Portrait Displays, Inc.
+				4637 Chabot Drive, Suite 115
+				Pleasanton  CA  94588
+				US
 
 8C-1F-64   (hex)		Mobileye
 D63000-D63FFF     (base 16)		Mobileye
@@ -36784,3 +36784,15 @@ DE2000-DE2FFF     (base 16)		Softgent sp. z o.o.
 				Teltowkanalstr.1
 				Berlin    12247
 				DE
+
+8C-1F-64   (hex)		Gomero Nordic AB
+0A5000-0A5FFF     (base 16)		Gomero Nordic AB
+				Kämpegatan 16
+				Gothenburg    411 04
+				SE
+
+8C-1F-64   (hex)		Zumbach Electronic AG
+D58000-D58FFF     (base 16)		Zumbach Electronic AG
+				Hauptstrasse 93
+				Orpund    2552
+				CH

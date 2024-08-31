@@ -19586,6 +19586,12 @@ E00000-EFFFFF     (base 16)		WAKARI SOLUTIONS,S.L.
 				Regensburg    93055
 				DE
 
+24-A3-F0   (hex)		Shanghai AYAN Industry System Co.L,td
+000000-0FFFFF     (base 16)		Shanghai AYAN Industry System Co.L,td
+				Room 1278, Building B, No. 15, Changyi Road, Baoshan District, Shanghai
+				Shanghai  Shanghai  201900
+				CN
+
 D0-14-11   (hex)		P.B. Elettronica srl
 100000-1FFFFF     (base 16)		P.B. Elettronica srl
 				Via Santorelli, 8
