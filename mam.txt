@@ -6692,6 +6692,12 @@ D00000-DFFFFF     (base 16)		SECURICO ELECTRONICS INDIA LTD
 				Faridabad   Haryana  121003
 				IN
 
+24-A3-F0   (hex)		Shenzhen Woody International Trade Co., Ltd
+B00000-BFFFFF     (base 16)		Shenzhen Woody International Trade Co., Ltd
+				 No. 4144 Liuxian Avenue,Nanshan District
+				Shenzhen  Guangdong  512085
+				CN
+
 B8-4C-87   (hex)		Shenzhen Link-all Technology Co., Ltd
 300000-3FFFFF     (base 16)		Shenzhen Link-all Technology Co., Ltd
 				Floor 5th, Block 9th, Sunny Industrial Zone, Xili Town, Nanshan District, Shenzhen, China 
@@ -19585,6 +19591,12 @@ E00000-EFFFFF     (base 16)		WAKARI SOLUTIONS,S.L.
 				Franz-Mayer-Str. 1
 				Regensburg    93055
 				DE
+
+24-A3-F0   (hex)		Hunan Newman Internet of vehicles Co,Ltd
+100000-1FFFFF     (base 16)		Hunan Newman Internet of vehicles Co,Ltd
+				Li Xiang Road Changsha economic and Technological Development Zone No.128
+				Changsha  Hunan  410000
+				CN
 
 24-A3-F0   (hex)		Shanghai AYAN Industry System Co.L,td
 000000-0FFFFF     (base 16)		Shanghai AYAN Industry System Co.L,td
