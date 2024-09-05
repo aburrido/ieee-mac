@@ -12911,6 +12911,12 @@ C00000-CFFFFF     (base 16)		BEIJING CUNYIN CHENGQI TECHNOLOGY CO., LTD.
 				Beijing    101200
 				CN
 
+24-A3-F0   (hex)		Misaka Network, Inc.
+400000-4FFFFF     (base 16)		Misaka Network, Inc.
+				8 The Green, Suite 6288
+				Dover  DE  19901
+				US
+
 B8-4C-87   (hex)		Altronix , Corp
 A00000-AFFFFF     (base 16)		Altronix , Corp
 				140 58th St. Bldg A, Ste 2N
@@ -19603,6 +19609,12 @@ E00000-EFFFFF     (base 16)		WAKARI SOLUTIONS,S.L.
 				Room 1278, Building B, No. 15, Changyi Road, Baoshan District, Shanghai
 				Shanghai  Shanghai  201900
 				CN
+
+24-A3-F0   (hex)		Phoenix Season LLC
+500000-5FFFFF     (base 16)		Phoenix Season LLC
+				113 Cruiser lrvine, California 92618 UnitedStates
+				lrvine  CA  92618
+				US
 
 D0-14-11   (hex)		P.B. Elettronica srl
 100000-1FFFFF     (base 16)		P.B. Elettronica srl
