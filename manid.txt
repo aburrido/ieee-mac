@@ -28,6 +28,7 @@ MANUFACTURER ID               Organization
 10429                         Schneider Electric
 3661                          HBK Hottinger Brüel & Kjær A/S
 2528                          Interdisciplinary Consulting Corporation
+3887                          HKM-Messtechnik GmbH
 7857                          X-SENSORS AG
 8163                          Scati Labs, S.A.
 14599                         Delta Computers LLC.
