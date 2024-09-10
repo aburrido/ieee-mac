@@ -6698,6 +6698,12 @@ B00000-BFFFFF     (base 16)		Shenzhen Woody International Trade Co., Ltd
 				Shenzhen  Guangdong  512085
 				CN
 
+3C-DC-03   (hex)		ATANS Technology Inc.
+600000-6FFFFF     (base 16)		ATANS Technology Inc.
+				93., Ziqiang 6th street., Zhubei City
+				Hsinchu County  Taiwan  302
+				TW
+
 B8-4C-87   (hex)		Shenzhen Link-all Technology Co., Ltd
 300000-3FFFFF     (base 16)		Shenzhen Link-all Technology Co., Ltd
 				Floor 5th, Block 9th, Sunny Industrial Zone, Xili Town, Nanshan District, Shenzhen, China 
@@ -19610,23 +19616,29 @@ E00000-EFFFFF     (base 16)		WAKARI SOLUTIONS,S.L.
 				Shanghai  Shanghai  201900
 				CN
 
-24-A3-F0   (hex)		Phoenix Season LLC
-500000-5FFFFF     (base 16)		Phoenix Season LLC
-				113 Cruiser lrvine, California 92618 UnitedStates
-				lrvine  CA  92618
-				US
-
 24-A3-F0   (hex)		Shanghai Weirui Electronic Technology Co., Ltd.
 300000-3FFFFF     (base 16)		Shanghai Weirui Electronic Technology Co., Ltd.
 				Room 1106, building B, building 21, No. 1158, Zhongxin Road, Songjiang District, ShangHai
 				ShangHai    201100
 				CN
 
+24-A3-F0   (hex)		Phoenix Season LLC
+500000-5FFFFF     (base 16)		Phoenix Season LLC
+				113 Cruiser lrvine, California 92618 UnitedStates
+				lrvine  CA  92618
+				US
+
 24-A3-F0   (hex)		TeraNXT Global India Pvt Ltd.
 A00000-AFFFFF     (base 16)		TeraNXT Global India Pvt Ltd.
 				7A/61 W.E.A KAROL BAGH
 				DELHI  DELHI  110005
 				IN
+
+3C-DC-03   (hex)		Zaptec
+100000-1FFFFF     (base 16)		Zaptec
+				Vassbotnen 1
+				Stavanger  Rogaland  4313
+				NO
 
 D0-14-11   (hex)		P.B. Elettronica srl
 100000-1FFFFF     (base 16)		P.B. Elettronica srl
@@ -32803,6 +32815,12 @@ D00000-DFFFFF     (base 16)		Micro Electroninc Products
 
 24-A3-F0   (hex)		Magna Hong Co., Ltd.
 200000-2FFFFF     (base 16)		Magna Hong Co., Ltd.
-				10F-4, No.738, Chung Cheng Road, Chunh Ho Dist.,
+				10F-4, No.738, Chung Cheng Road, Chung Ho Dist.,
 				New Taipei City    23511
 				TW
+
+3C-DC-03   (hex)		Zhuhai Means Company Limited
+500000-5FFFFF     (base 16)		Zhuhai Means Company Limited
+				Room 102, Building 2, N0.199Shui'an 1st RD, Xiangzhou District
+				Zhuhai  Guangdong  519000
+				CN
