@@ -7391,6 +7391,12 @@ E3C000-E3CFFF     (base 16)		Finotex Electronic Solutions PVT LTD
 				Kedumim    4485600
 				IL
 
+8C-1F-64   (hex)		Forward Edge.AI
+5F6000-5F6FFF     (base 16)		Forward Edge.AI
+				10108 Carter Canyon
+				San Antonio  TX  78255
+				US
+
 8C-1F-64   (hex)		Jacobs Technology, Inc.
 A98000-A98FFF     (base 16)		Jacobs Technology, Inc.
 				7765 Old Telegraph Road
@@ -14800,6 +14806,12 @@ EDF000-EDFFFF     (base 16)		Xlera Solutions, LLC
 				55, Gukjegwahak 9-ro
 				Yuseong-gu  Daejeon  34002
 				KR
+
+8C-1F-64   (hex)		ELETTRONICA ADRIATICA SRL
+E78000-E78FFF     (base 16)		ELETTRONICA ADRIATICA SRL
+				VIA GALILEO GALILEI
+				CORROPOLI  TE  64013
+				IT
 
 8C-1F-64   (hex)		Vision Systems Safety Tech
 E6F000-E6FFFF     (base 16)		Vision Systems Safety Tech
@@ -29507,6 +29519,12 @@ EAD000-EADFFF     (base 16)		Messung Systems Pvt Ltd
 				Pune  Maharashtra  411014
 				IN
 
+8C-1F-64   (hex)		Tri-light Wuhan Electronics Technology Co.,Ltd
+B5B000-B5BFFF     (base 16)		Tri-light Wuhan Electronics Technology Co.,Ltd
+				Electronic Workshop, No.3, 777 Optics Valley 3rd Road, East Lake New Technology Development Zone, Wuhan，Hubei Province，ChinaTri-light Wuhan Electronic Technology Co., 
+				Wuhan  Hubei  430205
+				CN
+
 8C-1F-64   (hex)		Mobileye
 D63000-D63FFF     (base 16)		Mobileye
 				13 Hartom st.
@@ -36850,3 +36868,9 @@ D58000-D58FFF     (base 16)		Zumbach Electronic AG
 				3-4, Mohkampur Industrial Area - I, Delhi Road,
 				Meerut  UP  250002
 				IN
+
+8C-1F-64   (hex)		SEONGWON ENG CO.,LTD
+5A0000-5A0FFF     (base 16)		SEONGWON ENG CO.,LTD
+				Room 601, Human Skyvally 33, 132 Beon-gil, Gwonseon-gu
+				SUWON-SI  Gyeonggi-do  16642
+				KR
