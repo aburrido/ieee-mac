@@ -19634,17 +19634,17 @@ A00000-AFFFFF     (base 16)		TeraNXT Global India Pvt Ltd.
 				DELHI  DELHI  110005
 				IN
 
-3C-DC-03   (hex)		Zaptec
-100000-1FFFFF     (base 16)		Zaptec
-				Vassbotnen 1
-				Stavanger  Rogaland  4313
-				NO
-
 3C-DC-03   (hex)		LINX Corporation
 700000-7FFFFF     (base 16)		LINX Corporation
 				IK Building 5F, 2-24-9, 
 				Kamiosaki, Shinagawa-ku,   Tokyo,  141-0021
 				JP
+
+3C-DC-03   (hex)		Zaptec
+100000-1FFFFF     (base 16)		Zaptec
+				Vassbotnen 1
+				Stavanger  Rogaland  4313
+				NO
 
 D0-14-11   (hex)		P.B. Elettronica srl
 100000-1FFFFF     (base 16)		P.B. Elettronica srl
@@ -32836,3 +32836,9 @@ D00000-DFFFFF     (base 16)		Micro Electroninc Products
 				10F-4, No.738, Chung Cheng Road, Chung Ho Dist.,
 				New Taipei City    23511
 				TW
+
+3C-DC-03   (hex)		Annapurna labs
+400000-4FFFFF     (base 16)		Annapurna labs
+				Matam Scientific Industries Center,   Building 8.2
+				Mail box 15123  Haifa  3508409
+				IL
