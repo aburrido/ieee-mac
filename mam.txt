@@ -6704,6 +6704,12 @@ B00000-BFFFFF     (base 16)		Shenzhen Woody International Trade Co., Ltd
 				Hsinchu County  Taiwan  302
 				TW
 
+3C-DC-03   (hex)		Vieletech
+D00000-DFFFFF     (base 16)		Vieletech
+				333 West lake ave
+				Woodland park  CO  80863
+				US
+
 B8-4C-87   (hex)		Shenzhen Link-all Technology Co., Ltd
 300000-3FFFFF     (base 16)		Shenzhen Link-all Technology Co., Ltd
 				Floor 5th, Block 9th, Sunny Industrial Zone, Xili Town, Nanshan District, Shenzhen, China 
@@ -12922,6 +12928,12 @@ C00000-CFFFFF     (base 16)		BEIJING CUNYIN CHENGQI TECHNOLOGY CO., LTD.
 				8 The Green, Suite 6288
 				Dover  DE  19901
 				US
+
+3C-DC-03   (hex)		OCEASOFT SAS
+800000-8FFFFF     (base 16)		OCEASOFT SAS
+				720 RUE LOUIS LEPINE
+				Montpellier    34000
+				FR
 
 B8-4C-87   (hex)		Altronix , Corp
 A00000-AFFFFF     (base 16)		Altronix , Corp
@@ -19645,6 +19657,12 @@ A00000-AFFFFF     (base 16)		TeraNXT Global India Pvt Ltd.
 				Vassbotnen 1
 				Stavanger  Rogaland  4313
 				NO
+
+3C-DC-03   (hex)		pakflow
+B00000-BFFFFF     (base 16)		pakflow
+				Jingmeng High-tech Building, Shangdi 10th Street, Haidian District, Beijing, China
+				beijing    100085
+				CN
 
 D0-14-11   (hex)		P.B. Elettronica srl
 100000-1FFFFF     (base 16)		P.B. Elettronica srl
