@@ -12935,6 +12935,12 @@ C00000-CFFFFF     (base 16)		BEIJING CUNYIN CHENGQI TECHNOLOGY CO., LTD.
 				Montpellier    34000
 				FR
 
+3C-DC-03   (hex)		RANCOMMUNICATION SOLUTIONS PRIVATE LIMITED
+000000-0FFFFF     (base 16)		RANCOMMUNICATION SOLUTIONS PRIVATE LIMITED
+				Estex House, Unit 8, DLF, Indl Area,38 Kirti Nagar, Delhi Industrial Area, New Delhi, West Delhi- 110015, Delhi
+				New Delhi     110015
+				IN
+
 B8-4C-87   (hex)		Altronix , Corp
 A00000-AFFFFF     (base 16)		Altronix , Corp
 				140 58th St. Bldg A, Ste 2N
@@ -19663,6 +19669,12 @@ B00000-BFFFFF     (base 16)		pakflow
 				Jingmeng High-tech Building, Shangdi 10th Street, Haidian District, Beijing, China
 				beijing    100085
 				CN
+
+3C-DC-03   (hex)		WENET TECHNOLOGY LIMITED
+A00000-AFFFFF     (base 16)		WENET TECHNOLOGY LIMITED
+				UNIT 1507B 15/F EASTCORE, 398 KWUN TONG ROAD, KWUN TONG, KL,HONG KONG
+				HONG KONG    000000
+				HK
 
 D0-14-11   (hex)		P.B. Elettronica srl
 100000-1FFFFF     (base 16)		P.B. Elettronica srl
