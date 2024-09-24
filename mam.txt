@@ -12941,6 +12941,12 @@ C00000-CFFFFF     (base 16)		BEIJING CUNYIN CHENGQI TECHNOLOGY CO., LTD.
 				Montpellier    34000
 				FR
 
+3C-DC-03   (hex)		JP Morgan Chase Bank, N.A.
+E00000-EFFFFF     (base 16)		JP Morgan Chase Bank, N.A.
+				70 fargo st, boston, ma 02210
+				boston    02210
+				US
+
 B8-4C-87   (hex)		Altronix , Corp
 A00000-AFFFFF     (base 16)		Altronix , Corp
 				140 58th St. Bldg A, Ste 2N
@@ -19674,6 +19680,12 @@ A00000-AFFFFF     (base 16)		WENET TECHNOLOGY LIMITED
 B00000-BFFFFF     (base 16)		pakflow
 				Jingmeng High-tech Building, Shangdi 10th Street, Haidian District, Beijing, China
 				beijing    100085
+				CN
+
+3C-DC-03   (hex)		Shenzhen Xinruizhi Industrial Co., Ltd
+300000-3FFFFF     (base 16)		Shenzhen Xinruizhi Industrial Co., Ltd
+				7th Floor, Building 6, Rundongsheng Industrial Zone, Longteng Community, Xixiang Street, Bao'an District
+				Shenzhen  Guangdong  518123
 				CN
 
 D0-14-11   (hex)		P.B. Elettronica srl
@@ -32878,3 +32890,15 @@ D00000-DFFFFF     (base 16)		Micro Electroninc Products
 				12F-1, No. 17, Sec. 1, Chengde Rd., Datong Dist., Taipei City 103613, Taiwan
 				Taipei  選擇狀態  103
 				TW
+
+3C-DC-03   (hex)		WLY
+C00000-CFFFFF     (base 16)		WLY
+				Pinghu Smart Garden, Pinghu Street, Longgang District, Shenzhen City, Guangdong Province
+				shenzhen    518104
+				CN
+
+74-25-84   (hex)		Creative Synergy Ventures Pty. Ltd.
+100000-1FFFFF     (base 16)		Creative Synergy Ventures Pty. Ltd.
+				301 Westlake Drive 
+				Houston  TX  77036
+				US

@@ -7397,6 +7397,12 @@ E3C000-E3CFFF     (base 16)		Finotex Electronic Solutions PVT LTD
 				San Antonio  TX  78255
 				US
 
+8C-1F-64   (hex)		DSGio Global Pte Ltd
+A90000-A90FFF     (base 16)		DSGio Global Pte Ltd
+				3 LORONG BAKAR BATU #07-05UNION INDUSTRIAL CENTER
+				Singapore    348741
+				SG
+
 8C-1F-64   (hex)		Jacobs Technology, Inc.
 A98000-A98FFF     (base 16)		Jacobs Technology, Inc.
 				7765 Old Telegraph Road
@@ -14824,6 +14830,18 @@ E78000-E78FFF     (base 16)		ELETTRONICA ADRIATICA SRL
 				Vierlinghstraat 24
 				Dordrecht    3316 EL
 				NL
+
+8C-1F-64   (hex)		Comrex
+901000-901FFF     (base 16)		Comrex
+				19 Pine Rd
+				DEVENS  MA  01434
+				US
+
+8C-1F-64   (hex)		Larraioz Elektronika
+6B8000-6B8FFF     (base 16)		Larraioz Elektronika
+				FACT Larraioz, Ctra GI3162 km 2,2
+				Zarautz    20800
+				ES
 
 8C-1F-64   (hex)		Vision Systems Safety Tech
 E6F000-E6FFFF     (base 16)		Vision Systems Safety Tech
