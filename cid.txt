@@ -1111,3 +1111,9 @@ EA9FB1                        (base 16)                     Philips Internationa
                                                             Address: 6F.-2, No. 38, Beida Rd., Hsinchu City 300024 , Taiwan 
                                                             Hsinchu City     300024                      
                                                             TW                                           
+
+5A-55-AD                      (hex)                         Disruptive Cities SAPI DE CV                 
+5A55AD                        (base 16)                     Disruptive Cities SAPI DE CV                 
+                                                            Insurgentes Sur 64                           
+                                                            CDMX  CDMX  06600                            
+                                                            MX                                           

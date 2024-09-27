@@ -19700,6 +19700,12 @@ B00000-BFFFFF     (base 16)		pakflow
 				Shenzhen  Guangdong  518123
 				CN
 
+74-25-84   (hex)		Suzhou Surinno Photonics Technology Co.Ltd.
+200000-2FFFFF     (base 16)		Suzhou Surinno Photonics Technology Co.Ltd.
+				No. 168, Jiaotong North Road, Wujiang District
+				Suzhou  Jiangsu  215200
+				CN
+
 D0-14-11   (hex)		P.B. Elettronica srl
 100000-1FFFFF     (base 16)		P.B. Elettronica srl
 				Via Santorelli, 8
@@ -26215,6 +26221,12 @@ E00000-EFFFFF     (base 16)		P4S
 				Yada industry park, Gaopugang, Heyuan city,
 				Heyuan  Guangdong  517099
 				CN
+
+74-25-84   (hex)		alt digital s.r.o.
+300000-3FFFFF     (base 16)		alt digital s.r.o.
+				Smolný vrch 410/3
+				Liberec    46015
+				CZ
 
 B8-4C-87   (hex)		Private
 E00000-EFFFFF     (base 16)		Private
