@@ -19706,6 +19706,12 @@ B00000-BFFFFF     (base 16)		pakflow
 				Suzhou  Jiangsu  215200
 				CN
 
+74-25-84   (hex)		Annapurna labs
+700000-7FFFFF     (base 16)		Annapurna labs
+				Matam Scientific Industries Center,   Building 8.2
+				Mail box 15123  Haifa  3508409
+				IL
+
 D0-14-11   (hex)		P.B. Elettronica srl
 100000-1FFFFF     (base 16)		P.B. Elettronica srl
 				Via Santorelli, 8
@@ -26221,6 +26227,12 @@ E00000-EFFFFF     (base 16)		P4S
 				Yada industry park, Gaopugang, Heyuan city,
 				Heyuan  Guangdong  517099
 				CN
+
+74-25-84   (hex)		HSPTEK JSC
+C00000-CFFFFF     (base 16)		HSPTEK JSC
+				98D Tue Tinh, Nguyen Du ward, Hai Ba Trung district, Hanoi city, Vietnam
+				HANOI CENTER  ON  100000
+				VN
 
 74-25-84   (hex)		alt digital s.r.o.
 300000-3FFFFF     (base 16)		alt digital s.r.o.
