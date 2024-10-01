@@ -212,6 +212,12 @@ EA34B4                        (base 16)                     ThinkRF Inc.
                                                             Stockport  Cheshire  SK4 3EJ                 
                                                             GB                                           
 
+3A-C6-CF                      (hex)                         Parakey AB                                   
+3AC6CF                        (base 16)                     Parakey AB                                   
+                                                            Sankt Eriksgatan 6                           
+                                                            Göteborg    41666                            
+                                                            SE                                           
+
 CA-C2-76                      (hex)                         Saab Seaeye Ltd                              
 CAC276                        (base 16)                     Saab Seaeye Ltd                              
                                                             20 Brunel Way                                
