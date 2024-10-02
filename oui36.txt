@@ -7403,17 +7403,29 @@ A90000-A90FFF     (base 16)		DSGio Global Pte Ltd
 				Singapore    348741
 				SG
 
-8C-1F-64   (hex)		Evolution Ventures LLC
-BFF000-BFFFFF     (base 16)		Evolution Ventures LLC
-				320 Cook st
-				Denver  CO  80206
-				US
+8C-1F-64   (hex)		Longhorn lntelligent Tech Co.,Ltd.
+486000-486FFF     (base 16)		Longhorn lntelligent Tech Co.,Ltd.
+				Longhorn Hi-tech Estate, Gongyeyuan Rd., Dalang Str. Longhua District, Shenzhen
+				Shenzhen    518000
+				CN
 
 8C-1F-64   (hex)		H&abyz
 8A0000-8A0FFF     (base 16)		H&abyz
 				(Postal 17118) 41-16, Cheoinseong-ro, Namsa-eup, Cheoin-gu, Yongin-si, Gyeonggi-do, Republic of Korea
 				Yongin Special City  Gyeonggi  17118
 				KR
+
+8C-1F-64   (hex)		Evolution Ventures LLC
+BFF000-BFFFFF     (base 16)		Evolution Ventures LLC
+				320 Cook st
+				Denver  CO  80206
+				US
+
+8C-1F-64   (hex)		Data Conversion Systems Ltd
+AA6000-AA6FFF     (base 16)		Data Conversion Systems Ltd
+				Unit 1 Buckingway Business ParkSwavesey
+				Cambridge  Cambridgeshire  CB24 4AE
+				GB
 
 8C-1F-64   (hex)		Jacobs Technology, Inc.
 A98000-A98FFF     (base 16)		Jacobs Technology, Inc.

@@ -6710,6 +6710,12 @@ D00000-DFFFFF     (base 16)		Vieletech
 				Woodland park  CO  80863
 				US
 
+74-25-84   (hex)		Annapurna labs
+A00000-AFFFFF     (base 16)		Annapurna labs
+				Matam Scientific Industries Center,   Building 8.2
+				Mail box 15123  Haifa  3508409
+				IL
+
 74-25-84   (hex)		Hive Media Control
 400000-4FFFFF     (base 16)		Hive Media Control
 				2 Riverside House, Sedgwick Lane
@@ -26251,6 +26257,12 @@ C00000-CFFFFF     (base 16)		HSPTEK JSC
 				Smolný vrch 410/3
 				Liberec    46015
 				CZ
+
+74-25-84   (hex)		International Technology And Telecomminication FZC 
+B00000-BFFFFF     (base 16)		International Technology And Telecomminication FZC 
+				Business Centre,Sharjah Publishing City Free Zone
+				Sharjah  Sharjah  77239
+				AE
 
 B8-4C-87   (hex)		Private
 E00000-EFFFFF     (base 16)		Private
