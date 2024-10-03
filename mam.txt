@@ -6722,6 +6722,18 @@ A00000-AFFFFF     (base 16)		Annapurna labs
 				Horsham  West Sussex  RH13 6QE
 				GB
 
+74-25-84   (hex)		Annapurna labs
+800000-8FFFFF     (base 16)		Annapurna labs
+				Matam Scientific Industries Center,   Building 8.2
+				Mail box 15123  Haifa  3508409
+				IL
+
+74-25-84   (hex)		Dexter Laundry Inc.
+500000-5FFFFF     (base 16)		Dexter Laundry Inc.
+				2211 West Grimes Avenue
+				Fairfield  IA  52556
+				US
+
 B8-4C-87   (hex)		Shenzhen Link-all Technology Co., Ltd
 300000-3FFFFF     (base 16)		Shenzhen Link-all Technology Co., Ltd
 				Floor 5th, Block 9th, Sunny Industrial Zone, Xili Town, Nanshan District, Shenzhen, China 
