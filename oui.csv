@@ -7026,7 +7026,6 @@ MA-L,4CAEA3,Hewlett Packard Enterprise ,8000 Foothills Blvd. Roseville CA US 957
 MA-L,B8977A,Nokia Solutions and Networks GmbH & Co. KG,Werinherstrasse 91 München Bavaria DE D-81541 
 MA-L,20A6CD,Hewlett Packard Enterprise ,8000 Foothills Blvd. Roseville CA US 95747 
 MA-L,703A0E,Hewlett Packard Enterprise,3333 Scott Blvd 6280 America Center Dr CA US 95002 
-MA-L,D8C7C8,Hewlett Packard Enterprise,3333 Scott Blvd Santa Clara CA US 95054 
 MA-L,6CC49F,Hewlett Packard Enterprise,3333 Scott Blvd Santa Clara CA US 95054 
 MA-L,EC50AA,Hewlett Packard Enterprise,3333 Scott Blvd 6280 America Center Dr CA US 95002 
 MA-L,F061C0,Hewlett Packard Enterprise,3333 Scott Blvd Santa Clara CA US 95054 
@@ -7277,6 +7276,8 @@ MA-L,C0B22F,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014
 MA-L,608110,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
 MA-L,684465,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
 MA-L,2478EF,Nokia,600 March Road Kanata Ontario CA K2K 2E6 
+MA-L,D8C7C8,Hewlett Packard Enterprise,3333 Scott Blvd 6280 America Center Dr CA US 95002 
+MA-L,009D85,Sigmastar Technology Ltd.,"No. 1, HoZan Road, Tong'an District X iamen Fujian Province CN 361100 "
 MA-L,00749C,"Ruijie Networks Co.,LTD","19# Building,Star-net Science Plaza,Juyuanzhou, 618 Jinshan Road Fuzhou Fujian CN 350002 "
 MA-L,E01C41,Extreme Networks Headquarters,2121 RDU Center Drive  Morrisville NC US 27560 
 MA-L,BCF310,Extreme Networks Headquarters,2121 RDU Center Drive  Morrisville NC US 27560 
@@ -28994,14 +28995,14 @@ MA-L,48D682,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.C
 MA-L,24DEEB,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
 MA-L,E0F325,Elkor Technologies Inc.,6 Bainard Street London Ontario CA N6P1A8 
 MA-L,E8AC7E,TERAHOP PTE.LTD.,25 INTERNATIONAL BUSINESS PARK #02-72/75 GERMAN CENTRE SINGAPORE (609916) Singapore  SG 609916 
-MA-L,D06C37,ikeja wireless (pty) ltd,"218 Roan Crescent, Corporate Park North Midrand Gauteng ZA 1685 "
 MA-L,A4C3BE,Xiaomi Communications Co Ltd,"#019, 9th Floor, Building 6, 33 Xi'erqi Middle Road Beijing Haidian District CN 100085 "
 MA-L,FC4345,Xiaomi Communications Co Ltd,"#019, 9th Floor, Building 6, 33 Xi'erqi Middle Road Beijing Haidian District CN 100085 "
-MA-L,7CD2DA,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
-MA-L,80AF19,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
+MA-L,D45E89,"Motorola Mobility LLC, a Lenovo Company",222 West Merchandise Mart Plaza Chicago IL US 60654 
+MA-L,D06C37,ikeja wireless (pty) ltd,"218 Roan Crescent, Corporate Park North Midrand Gauteng ZA 1685 "
 MA-L,A4F921,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
 MA-L,FCA5C8,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
-MA-L,D45E89,"Motorola Mobility LLC, a Lenovo Company",222 West Merchandise Mart Plaza Chicago IL US 60654 
+MA-L,7CD2DA,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
+MA-L,80AF19,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
 MA-L,C85CE2,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
 MA-L,DCEE14,ADT Technology,"Room 325, 3rd Floor, Building F, Xinmao Science and Technology Park, Huayuan Industrial Zone Tianjin Tianjin CN 300384 "
 MA-L,10FFE0,"GIGA-BYTE TECHNOLOGY CO.,LTD.","Pin-Jen City, Taoyuan, Taiwan, R.O.C. Pin-Jen Taoyuan TW 324 "

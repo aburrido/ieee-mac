@@ -19748,6 +19748,12 @@ B00000-BFFFFF     (base 16)		pakflow
 				Suzhou  Jiangsu  215200
 				CN
 
+B0-47-5E   (hex)		SHRI MOHAN JI INTERNATIONAL
+800000-8FFFFF     (base 16)		SHRI MOHAN JI INTERNATIONAL
+				49/31 site 4 UPSIDC industrial area Sahibabad Ghaziabad
+				Ghaziabad  Uttar Pradesh  201010
+				IN
+
 D0-14-11   (hex)		P.B. Elettronica srl
 100000-1FFFFF     (base 16)		P.B. Elettronica srl
 				Via Santorelli, 8
@@ -26269,6 +26275,12 @@ C00000-CFFFFF     (base 16)		HSPTEK JSC
 				Smolný vrch 410/3
 				Liberec    46015
 				CZ
+
+B0-47-5E   (hex)		Omnitech Security
+500000-5FFFFF     (base 16)		Omnitech Security
+				18 avenue Cassiopée
+				Saint-Médard-en-Jalles  CS 10152  33167
+				FR
 
 74-25-84   (hex)		International Technology And Telecomminication FZC 
 B00000-BFFFFF     (base 16)		International Technology And Telecomminication FZC 
