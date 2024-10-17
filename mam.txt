@@ -26336,6 +26336,12 @@ B0-47-5E   (hex)		Annapurna labs
 				Mail box 15123  Haifa  3508409
 				IL
 
+B0-47-5E   (hex)		Shenzhen Jointelli Technologies Co.,Ltd 
+A00000-AFFFFF     (base 16)		Shenzhen Jointelli Technologies Co.,Ltd 
+				Room A4-1105, Building A, Kexing Science Park, No. 15, Keyuan Road,
+				Shenzhen  Guangdong  518000
+				CN
+
 C8-5C-E2   (hex)		Fela Management AG 
 000000-0FFFFF     (base 16)		Fela Management AG 
 				Basadingerstrasse 18
@@ -33052,3 +33058,9 @@ B0-47-5E   (hex)		Qsic Pty Ltd
 				18-28 Flockhart St
 				Abbotsford  Victoria  3067
 				AU
+
+B0-47-5E   (hex)		MK Vision Joint Stock Company
+700000-7FFFFF     (base 16)		MK Vision Joint Stock Company
+				Lot C-1B, Thang Long Vinh Phuc Industrial Park, Thien Ke Commune, Binh Xuyen District
+				Vinh Phuc    280000
+				VN
