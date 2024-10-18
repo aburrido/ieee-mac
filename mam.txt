@@ -6746,11 +6746,23 @@ B0-47-5E   (hex)		DRS Sustainment Systems, Inc.
 				Bridgeton  MO  63044
 				US
 
+B0-47-5E   (hex)		ikegawa co., Ltd
+C00000-CFFFFF     (base 16)		ikegawa co., Ltd
+				2033-12 Miyoshi
+				Naka-ku Okayama City  Okayama-ken  703-8261
+				JP
+
 B0-47-5E   (hex)		tintech
 100000-1FFFFF     (base 16)		tintech
-				205 hangang-daero
-				seoul  seoul  04322
+				room 201 A-dong 205, Hangang-daero,
+				Yongsan-gu  seoul  04322
 				KR
+
+B0-47-5E   (hex)		NEO.NET Jakub Koperski
+E00000-EFFFFF     (base 16)		NEO.NET Jakub Koperski
+				Aleja Lotnikow Polskich 1
+				Swidnik    21-040
+				PL
 
 B8-4C-87   (hex)		Shenzhen Link-all Technology Co., Ltd
 300000-3FFFFF     (base 16)		Shenzhen Link-all Technology Co., Ltd
@@ -13012,6 +13024,12 @@ B0-47-5E   (hex)		Shenzhen C & D Electronics Co., Ltd.
 				9th FIoor, Building 9, No.1 Qingxiang road, BaoNeng Science and TechnoIogy Industrial Park, Longhua New District
 				ShenZhen  GuangDong  518000
 				CN
+
+AC-EF-92   (hex)		PROGNOST Systems GmbH
+500000-5FFFFF     (base 16)		PROGNOST Systems GmbH
+				Daimlerstrasse 10
+				Rheine  NRW  48431
+				DE
 
 B8-4C-87   (hex)		Altronix , Corp
 A00000-AFFFFF     (base 16)		Altronix , Corp
