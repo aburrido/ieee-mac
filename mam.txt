@@ -6764,6 +6764,12 @@ E00000-EFFFFF     (base 16)		NEO.NET Jakub Koperski
 				Swidnik    21-040
 				PL
 
+AC-EF-92   (hex)		Dongguan Sunhans Technology Co., Ltd.
+100000-1FFFFF     (base 16)		Dongguan Sunhans Technology Co., Ltd.
+				Room 1103,Building 8,Gemdale Wisdom Park,Jiaoping Road 95#, Tangxia Town
+				Dongguan  Guangdong  518129
+				CN
+
 B8-4C-87   (hex)		Shenzhen Link-all Technology Co., Ltd
 300000-3FFFFF     (base 16)		Shenzhen Link-all Technology Co., Ltd
 				Floor 5th, Block 9th, Sunny Industrial Zone, Xili Town, Nanshan District, Shenzhen, China 
@@ -19807,6 +19813,12 @@ B0-47-5E   (hex)		Lanmus Networks Ltd
 				418 Broadway STE Y Albany
 				new york   NY  12207
 				US
+
+AC-EF-92   (hex)		JiZhiKang (Beijing) Technology Co., Ltd
+300000-3FFFFF     (base 16)		JiZhiKang (Beijing) Technology Co., Ltd
+				Room 220B, Building 1, No. 18 Longqing Street, Beijing Economic and Technological Development Zone
+				Beijing    100176
+				CN
 
 D0-14-11   (hex)		P.B. Elettronica srl
 100000-1FFFFF     (base 16)		P.B. Elettronica srl
@@ -33082,3 +33094,9 @@ B0-47-5E   (hex)		MK Vision Joint Stock Company
 				Lot C-1B, Thang Long Vinh Phuc Industrial Park, Thien Ke Commune, Binh Xuyen District
 				Vinh Phuc    280000
 				VN
+
+AC-EF-92   (hex)		Robotic Assistance Devices Residential Inc
+D00000-DFFFFF     (base 16)		Robotic Assistance Devices Residential Inc
+				10800 Galaxie Ave
+				Ferndale  MI  48220
+				US
