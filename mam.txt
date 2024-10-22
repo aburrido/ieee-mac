@@ -6746,12 +6746,6 @@ B0-47-5E   (hex)		DRS Sustainment Systems, Inc.
 				Bridgeton  MO  63044
 				US
 
-B0-47-5E   (hex)		ikegawa co., Ltd
-C00000-CFFFFF     (base 16)		ikegawa co., Ltd
-				2033-12 Miyoshi
-				Naka-ku Okayama City  Okayama-ken  703-8261
-				JP
-
 B0-47-5E   (hex)		tintech
 100000-1FFFFF     (base 16)		tintech
 				room 201 A-dong 205, Hangang-daero,
@@ -6763,6 +6757,12 @@ E00000-EFFFFF     (base 16)		NEO.NET Jakub Koperski
 				Aleja Lotnikow Polskich 1
 				Swidnik    21-040
 				PL
+
+B0-47-5E   (hex)		ikegawa co., Ltd
+C00000-CFFFFF     (base 16)		ikegawa co., Ltd
+				2033-12 Miyoshi
+				Naka-ku Okayama City  Okayama-ken  703-8261
+				JP
 
 AC-EF-92   (hex)		Dongguan Sunhans Technology Co., Ltd.
 100000-1FFFFF     (base 16)		Dongguan Sunhans Technology Co., Ltd.

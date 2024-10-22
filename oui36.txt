@@ -7439,6 +7439,18 @@ D4D000-D4DFFF     (base 16)		Liburdi Dimetrics Corp.
 				Hamilton  Ontario  L9H7L8
 				CA
 
+8C-1F-64   (hex)		TECHPLUS-LINK Technology Co.,Ltd
+3C9000-3C9FFF     (base 16)		TECHPLUS-LINK Technology Co.,Ltd
+				12F., No. 2, Ln. 8, Datong St., Banqiao Dist
+				New Taipei  Taiwan(R.O.C.)  220018
+				TW
+
+8C-1F-64   (hex)		Nagy Márton Jozsef e.v.
+F0B000-F0BFFF     (base 16)		Nagy Márton Jozsef e.v.
+				Kishaz Str. 2
+				Sopron    9400
+				HU
+
 8C-1F-64   (hex)		Jacobs Technology, Inc.
 A98000-A98FFF     (base 16)		Jacobs Technology, Inc.
 				7765 Old Telegraph Road
