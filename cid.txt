@@ -476,6 +476,12 @@ EA8F96                        (base 16)                     Proficium, LLC
                                                             Lawrenceville  GA  30043                     
                                                             US                                           
 
+BA-2D-FC                      (hex)                         LINKWING(DONGGUAN)INTELLIGENT ELECTRONICS CO.,LTD
+BA2DFC                        (base 16)                     LINKWING(DONGGUAN)INTELLIGENT ELECTRONICS CO.,LTD
+                                                            ROOM 101, BUILDING 5, NO.3 XIN CHENG ROAD, SONGSHANHU PARK, DONGGUAN CITY, GUANDONG PROVINCE, CN
+                                                            DONGGUAN  GUANGDONG  523808                  
+                                                            CN                                           
+
 8A-85-2E                      (hex)                         Kampr Systems                                
 8A852E                        (base 16)                     Kampr Systems                                
                                                             2047 Kings Lane                              

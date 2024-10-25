@@ -22307,6 +22307,18 @@ BE1000-BE1FFF     (base 16)		Geolux
 				Chikkamagaluru  Karnataka  577101
 				IN
 
+8C-1F-64   (hex)		CAES Systems LLC
+767000-767FFF     (base 16)		CAES Systems LLC
+				2121 Crystal Drive Suite 800
+				Arlington  VA  22202
+				US
+
+8C-1F-64   (hex)		All Points Broadband
+38A000-38AFFF     (base 16)		All Points Broadband
+				1051 E Cary St Ste 1200
+				Richmond  VA  23219
+				US
+
 8C-1F-64   (hex)		Flow Power
 82B000-82BFFF     (base 16)		Flow Power
 				Suite 2, Level 3, 18 - 20 York St
