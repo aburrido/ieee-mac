@@ -2887,7 +2887,6 @@ EtherType,8887,Alloptic Inc.,6960 Koll Center Parkway Pleasanton CA US 94566 ,Pr
 EtherType,887D,"Nishan Systems, Inc.",3850 North First Street San Jose CA US 95134-1702 ,Protocol unavailable.
 EtherType,887B,Intellon Corporation,5100 West Silver Springs Blvd. Ocala FL US 34482 ,Protocol unavailable.
 EtherType,886C,"Epigram, Inc.",870 West Maude Ave. Sunnyvale CA US 94086 ,Protocol unavailable.
-EtherType,886A,"Electronic Theatre Controls, Inc.",3030 Laura Lane Middleton WI US 53562 ,Protocol unavailable.
 EtherType,8863,"UUNET Technologies, Inc.",3060 Williams Drive Fairafx CA US 22031-4648 ,Protocol unavailable.
 EtherType,8F86,Xerox,   US  ,Protocol unavailable.
 EtherType,8F89,Xerox,   US  ,Protocol unavailable.
@@ -3068,6 +3067,7 @@ EtherType,7034,InterLan,160 Turnpike Road Chelmsford MA US 01824 ,Protocol unava
 EtherType,7012,Olteco (Olevetti),   US  ,Protocol unavailable.
 EtherType,7018,Olteco (Olevetti),   US  ,Protocol unavailable.
 EtherType,5008,Intel,   US  ,Protocol unavailable.
+EtherType,886A,"Electronic Theatre Controls, Inc.",3031 Pleasant View Rd Middleton WI US 53562 ,Protocol unavailable.
 EtherType,0101,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
 EtherType,0168,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
 EtherType,016D,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983

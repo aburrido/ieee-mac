@@ -14624,12 +14624,6 @@ FF0F                          Private                                           
                               US                                                                                                       
 
 
-886A                          Electronic Theatre Controls, Inc.                                                                        Protocol unavailable.
-                              3030 Laura Lane                                                                                          
-                              Middleton  WI  53562                                                                                     
-                              US                                                                                                       
-
-
 8863                          UUNET Technologies, Inc.                                                                                 Protocol unavailable.
                               3060 Williams Drive                                                                                      
                               Fairafx  CA  22031-4648                                                                                  
@@ -15707,6 +15701,12 @@ C226                          University of Berkeley                            
 5008                          Intel                                                                                                    Protocol unavailable.
                                                                                                                                        
                                                                                                                                        
+                              US                                                                                                       
+
+
+886A                          Electronic Theatre Controls, Inc.                                                                        Protocol unavailable.
+                              3031 Pleasant View Rd                                                                                    
+                              Middleton  WI  53562                                                                                     
                               US                                                                                                       
 
 

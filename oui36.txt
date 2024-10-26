@@ -1856,12 +1856,6 @@ F26000-F26FFF     (base 16)		XJ ELECTRIC CO., LTD.
 				Bratislava    82109
 				SK
 
-70-B3-D5   (hex)		Plenty Unlimited Inc
-D04000-D04FFF     (base 16)		Plenty Unlimited Inc
-				590 Eccles Ave
-				South San Francisco  CA  94080
-				US
-
 70-B3-D5   (hex)		SIAME
 66E000-66EFFF     (base 16)		SIAME
 				RUE DES MATHEMATIQUES
@@ -7450,6 +7444,12 @@ F0B000-F0BFFF     (base 16)		Nagy Márton Jozsef e.v.
 				Kishaz Str. 2
 				Sopron    9400
 				HU
+
+70-B3-D5   (hex)		Plenty Unlimited Inc
+D04000-D04FFF     (base 16)		Plenty Unlimited Inc
+				1460 Commerce Drive
+				Laramie  WY  82070
+				US
 
 8C-1F-64   (hex)		Jacobs Technology, Inc.
 A98000-A98FFF     (base 16)		Jacobs Technology, Inc.
@@ -14933,12 +14933,6 @@ F88000-F88FFF     (base 16)		LAMTEC Mess- und Regeltechnik für Feuerungen GmbH 
 				Walldorf  Baden Württemberg  69190
 				DE
 
-8C-1F-64   (hex)		ShenZhen Australis Electronic Technology Co.,Ltd.
-B83000-B83FFF     (base 16)		ShenZhen Australis Electronic Technology Co.,Ltd.
-				Shenzhen Baoan District Songgang Street Tantou Community Tantou Stone Field House 101
-				Shenzhen    518105
-				CN
-
 8C-1F-64   (hex)		Guan Show Technologe Co., Ltd.
 8CD000-8CDFFF     (base 16)		Guan Show Technologe Co., Ltd.
 				No.127, Jianguo 1st Rd., Lingya Dist.
@@ -14951,6 +14945,12 @@ B83000-B83FFF     (base 16)		ShenZhen Australis Electronic Technology Co.,Ltd.
 				Pune    411038
 				IN
 
+8C-1F-64   (hex)		ShenZhen Australis Electronic Technology Co.,Ltd.
+B83000-B83FFF     (base 16)		ShenZhen Australis Electronic Technology Co.,Ltd.
+				Shenzhen Baoan District Songgang Street Tantou Community Tantou Stone Field House 101
+				Shenzhen    518105
+				CN
+
 8C-1F-64   (hex)		Abbott Diagnostics Technologies AS
 921000-921FFF     (base 16)		Abbott Diagnostics Technologies AS
 				P. O.  Box 6863 Rodeløkka
@@ -14962,6 +14962,12 @@ B83000-B83FFF     (base 16)		ShenZhen Australis Electronic Technology Co.,Ltd.
 				300 S 68th Street Place, Suite 100
 				Lincoln  NE  68510
 				US
+
+8C-1F-64   (hex)		Scame Sistemi srl
+2F4000-2F4FFF     (base 16)		Scame Sistemi srl
+				Via Lombardia 5
+				Arluno  Milan  20010
+				IT
 
 8C-1F-64   (hex)		Vision Systems Safety Tech
 E6F000-E6FFFF     (base 16)		Vision Systems Safety Tech
@@ -22301,12 +22307,6 @@ BE1000-BE1FFF     (base 16)		Geolux
 				Samobor    10000
 				HR
 
-8C-1F-64   (hex)		CHIPSCAPE SECURITY SYSTEMS
-3EA000-3EAFFF     (base 16)		CHIPSCAPE SECURITY SYSTEMS
-				No 156 Near Malabar Gold and Diamonds KM Road Chikkamagaluru 577101
-				Chikkamagaluru  Karnataka  577101
-				IN
-
 8C-1F-64   (hex)		CAES Systems LLC
 767000-767FFF     (base 16)		CAES Systems LLC
 				2121 Crystal Drive Suite 800
@@ -22318,6 +22318,12 @@ BE1000-BE1FFF     (base 16)		Geolux
 				1051 E Cary St Ste 1200
 				Richmond  VA  23219
 				US
+
+8C-1F-64   (hex)		CHIPSCAPE SECURITY SYSTEMS
+3EA000-3EAFFF     (base 16)		CHIPSCAPE SECURITY SYSTEMS
+				No 156 Near Malabar Gold and Diamonds KM Road Chikkamagaluru 577101
+				Chikkamagaluru  Karnataka  577101
+				IN
 
 8C-1F-64   (hex)		Flow Power
 82B000-82BFFF     (base 16)		Flow Power
