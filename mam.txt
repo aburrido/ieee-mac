@@ -6782,6 +6782,12 @@ AC-EF-92   (hex)		shenzhen Microlumin Electronic Technology Co., Ltd.
 				Shanghai  Jiading  201899
 				CN
 
+0C-47-A9   (hex)		Shanghai BST Electric Co.,ltd
+100000-1FFFFF     (base 16)		Shanghai BST Electric Co.,ltd
+				No.1 hangqi Rd, Damaiwan Industrial Zone, Hangtou, Pudong, New Area, Shanghai 201316, China
+				Shanghai    201316
+				CN
+
 B8-4C-87   (hex)		Shenzhen Link-all Technology Co., Ltd
 300000-3FFFFF     (base 16)		Shenzhen Link-all Technology Co., Ltd
 				Floor 5th, Block 9th, Sunny Industrial Zone, Xili Town, Nanshan District, Shenzhen, China 
@@ -26437,6 +26443,12 @@ E00000-EFFFFF     (base 16)		JET OPTOELECTRONICS CO., LTD.
 				7F, 300 Yangguang St
 				Taipei City  Neihu Dist.  11491
 				TW
+
+0C-47-A9   (hex)		Annapurna labs
+700000-7FFFFF     (base 16)		Annapurna labs
+				Matam Scientific Industries Center,   Building 8.2
+				Mail box 15123  Haifa  3508409
+				IL
 
 B8-4C-87   (hex)		Private
 E00000-EFFFFF     (base 16)		Private
