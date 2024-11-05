@@ -1135,3 +1135,9 @@ EA9FB1                        (base 16)                     Philips Internationa
                                                             Insurgentes Sur 64                           
                                                             CDMX  CDMX  06600                            
                                                             MX                                           
+
+AA-78-A3                      (hex)                         Dongguan Yiertek Co., Ltd                    
+AA78A3                        (base 16)                     Dongguan Yiertek Co., Ltd                    
+                                                            Room 901, Building 4, Xinlikang Industrial Park, Huangchong
+                                                            Dongguan  China  523000                      
+                                                            CN                                           
