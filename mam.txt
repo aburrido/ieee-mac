@@ -33205,3 +33205,9 @@ C00000-CFFFFF     (base 16)		Annapurna labs
 				Matam Scientific Industries Center,   Building 8.2
 				Mail box 15123  Haifa  3508409
 				IL
+
+0C-47-A9   (hex)		Shenzhen Hebang Electronic Co., Ltd
+B00000-BFFFFF     (base 16)		Shenzhen Hebang Electronic Co., Ltd
+				2nd Floor West, Bldg B, Kelunte Low Carbon Industry Park, Huarong Road, Dalang, Longhua District
+				Shenzhen    518000
+				CN
