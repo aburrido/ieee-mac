@@ -2565,8 +2565,6 @@ EtherType,"=""22E6""",Nethra Imaging Incorporated,2855 Bowers Ave Santa Clara CA
 EtherType,8901,Nokia Networks/IP Mobility Networks,P.O.BOX 370 Espoo  FI FI-00045 Nok ,Flow Layer Internal Protocol (FLIP) for inter-unit messaging.
 EtherType,820C,"Xyplex, Inc.",330 Codman Hill Road Boxborough MA US 01719 ,Protocol unavailable.
 EtherType,820F,"Xyplex, Inc.",330 Codman Hill Road Boxborough MA US 01719 ,Protocol unavailable.
-EtherType,8923,PHOENIX CONTACT Electronics GmbH,Dringenauer Strasse 30 Bad Pyrmont Lower Saxony DE D-31812 ,Protocol unavailable
-EtherType,8934,PHOENIX CONTACT Electronics GmbH,Dringenauer Strasse 30 Bad Pyrmont Lower Saxony DE D-31812 ,Protocol unavailable
 EtherType,8856,Private,,Protocol unavailable.
 EtherType,81FC,"Cabletron Systems, Inc.",35 Industrial Way Rochester NH US 03867 ,Protocol unavailable.
 EtherType,81FD,"Cabletron Systems, Inc.",35 Industrial Way Rochester NH US 03867 ,Protocol unavailable.
@@ -3068,6 +3066,8 @@ EtherType,7012,Olteco (Olevetti),   US  ,Protocol unavailable.
 EtherType,7018,Olteco (Olevetti),   US  ,Protocol unavailable.
 EtherType,5008,Intel,   US  ,Protocol unavailable.
 EtherType,886A,"Electronic Theatre Controls, Inc.",3031 Pleasant View Rd Middleton WI US 53562 ,Protocol unavailable.
+EtherType,8934,Phoenix Contact GmbH & Co. KG,Dringenauer Strasse 30 Bad Pyrmont Lower Saxony DE D-31812 ,Protocol unavailable
+EtherType,8923,Phoenix Contact GmbH & Co. KG,Dringenauer Strasse 30 Bad Pyrmont Lower Saxony DE D-31812 ,Protocol unavailable
 EtherType,0101,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
 EtherType,0168,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
 EtherType,016D,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
