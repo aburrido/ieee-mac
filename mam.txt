@@ -13091,16 +13091,16 @@ A00000-AFFFFF     (base 16)		Lens Technology (Xiangtan) Co.,Ltd
 				Xiangtan  Hunan  411100
 				CN
 
-EC-74-CD   (hex)		iSolution Technologies Co.,Ltd.
-300000-3FFFFF     (base 16)		iSolution Technologies Co.,Ltd.
-				5F,Bldg #6, Zhongguan Honghualing Industrial South Park
-				Shenzhen  Guangdong  518055
-				CN
-
 EC-74-CD   (hex)		Shenzhen Ting-Shine Technology Co., Ltd.
 D00000-DFFFFF     (base 16)		Shenzhen Ting-Shine Technology Co., Ltd.
 				No. 148, Huarong Road, Longhua District, Shenzhen
 				Shenzhen  Guangdong  518083
+				CN
+
+EC-74-CD   (hex)		iSolution Technologies Co.,Ltd.
+300000-3FFFFF     (base 16)		iSolution Technologies Co.,Ltd.
+				5F,Bldg #6, Zhongguan Honghualing Industrial South Park
+				Shenzhen  Guangdong  518055
 				CN
 
 B8-4C-87   (hex)		Altronix , Corp
@@ -19921,6 +19921,12 @@ EC-74-CD   (hex)		Sound Health Systems
 				650B Fremont Ave #65
 				Los Altos  CA  94024
 				US
+
+EC-74-CD   (hex)		Hitachi Rail GTS Austria GmbH
+B00000-BFFFFF     (base 16)		Hitachi Rail GTS Austria GmbH
+				Handelskai 92
+				Vienna    1200
+				AT
 
 D0-14-11   (hex)		P.B. Elettronica srl
 100000-1FFFFF     (base 16)		P.B. Elettronica srl
