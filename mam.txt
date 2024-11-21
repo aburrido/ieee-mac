@@ -26579,6 +26579,18 @@ EC-74-CD   (hex)		Vialis BV
 				HOUTEN    3991 CJ
 				NL
 
+90-88-A9   (hex)		Skysolid Information Security Systems(Shenzhen) Co., Ltd
+600000-6FFFFF     (base 16)		Skysolid Information Security Systems(Shenzhen) Co., Ltd
+				5th Floor West/6th Floor West,  building NO.2, Shunheda industry district, XiLi street, Nanshan district, Shenzhen, Guangdong Province, China.
+				Shenzhen    518000
+				CN
+
+90-88-A9   (hex)		Shortcut Labs AB
+500000-5FFFFF     (base 16)		Shortcut Labs AB
+				Teknikringen 26, C/O Student Inc
+				Stockholm  Stockholm  11428
+				SE
+
 B8-4C-87   (hex)		Private
 E00000-EFFFFF     (base 16)		Private
 
@@ -33348,4 +33360,16 @@ EC-74-CD   (hex)		Smart Data (Shenzhen) Intelligent System Co., Ltd.
 C00000-CFFFFF     (base 16)		Smart Data (Shenzhen) Intelligent System Co., Ltd.
 				Unit 201-26, Luohu Business Center, No. 2028 Shennan East Road, Chengdong Community, Dongmen Street, Luohu District, Shenzhen
 				Shenzhen    518001
+				CN
+
+90-88-A9   (hex)		asmote ltd.
+400000-4FFFFF     (base 16)		asmote ltd.
+				 Unit 310 Building C, Luneng International Center, No 52 Shiboguan Road, Pudong New District, Shanghai, China 
+				shanghai    200126
+				CN
+
+90-88-A9   (hex)		shenzhen zovoton electronic co.,ltd
+000000-0FFFFF     (base 16)		shenzhen zovoton electronic co.,ltd
+				1F 4 Blok, jinrui zhonghe industrial park, huarong road, tongsheng community, dalang street, longhua district, Shenzhen city, Guangdong province, china
+				shenzhen  guangdong  518100
 				CN
