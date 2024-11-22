@@ -6806,6 +6806,12 @@ A00000-AFFFFF     (base 16)		Bosch (zhuhai) Security Systems Company, Ltd.
 				Taoyuan    338
 				TW
 
+90-88-A9   (hex)		Yi Tunnel(beijing) Technology Co.,Ltd
+A00000-AFFFFF     (base 16)		Yi Tunnel(beijing) Technology Co.,Ltd
+				Room1511, Block B, SOHO Shangdu North Tower,100020 Chaoyang District, Beijing,
+				Beijing    100020
+				CN
+
 B8-4C-87   (hex)		Shenzhen Link-all Technology Co., Ltd
 300000-3FFFFF     (base 16)		Shenzhen Link-all Technology Co., Ltd
 				Floor 5th, Block 9th, Sunny Industrial Zone, Xili Town, Nanshan District, Shenzhen, China 
@@ -33373,3 +33379,9 @@ C00000-CFFFFF     (base 16)		Smart Data (Shenzhen) Intelligent System Co., Ltd.
 				1F 4 Blok, jinrui zhonghe industrial park, huarong road, tongsheng community, dalang street, longhua district, Shenzhen city, Guangdong province, china
 				shenzhen  guangdong  518100
 				CN
+
+90-88-A9   (hex)		REMOWIRELESS COMMUNICATION INTERNATIONAL CO.,LIMITED
+D00000-DFFFFF     (base 16)		REMOWIRELESS COMMUNICATION INTERNATIONAL CO.,LIMITED
+				RM1202,12/F,TUNG CHUN COMM CTR 438-444 SHANGHAI ST KL
+				HONG KONG  HONG KONG  999077
+				HK
