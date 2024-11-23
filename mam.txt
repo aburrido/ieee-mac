@@ -19970,6 +19970,12 @@ EC-74-CD   (hex)		Sound Health Systems
 				Hefei  Anhui  230000
 				CN
 
+90-88-A9   (hex)		UXV Technologies ApS
+B00000-BFFFFF     (base 16)		UXV Technologies ApS
+				Brogrenen 7
+				Ishoj    2635
+				DK
+
 D0-14-11   (hex)		P.B. Elettronica srl
 100000-1FFFFF     (base 16)		P.B. Elettronica srl
 				Via Santorelli, 8
@@ -26573,6 +26579,18 @@ C00000-CFFFFF     (base 16)		Senix
 				New York  NY  10038
 				US
 
+90-88-A9   (hex)		Shortcut Labs AB
+500000-5FFFFF     (base 16)		Shortcut Labs AB
+				Teknikringen 26, C/O Student Inc
+				Stockholm  Stockholm  11428
+				SE
+
+90-88-A9   (hex)		Skysolid Information Security Systems(Shenzhen) Co., Ltd
+600000-6FFFFF     (base 16)		Skysolid Information Security Systems(Shenzhen) Co., Ltd
+				5th Floor West/6th Floor West,  building NO.2, Shunheda industry district, XiLi street, Nanshan district, Shenzhen, Guangdong Province, China.
+				Shenzhen    518000
+				CN
+
 EC-74-CD   (hex)		L.T.H. Electronics Limited
 200000-2FFFFF     (base 16)		L.T.H. Electronics Limited
 				Eltelec Works, Chaul End Lane
@@ -26584,18 +26602,6 @@ EC-74-CD   (hex)		Vialis BV
 				Loodsboot 15
 				HOUTEN    3991 CJ
 				NL
-
-90-88-A9   (hex)		Skysolid Information Security Systems(Shenzhen) Co., Ltd
-600000-6FFFFF     (base 16)		Skysolid Information Security Systems(Shenzhen) Co., Ltd
-				5th Floor West/6th Floor West,  building NO.2, Shunheda industry district, XiLi street, Nanshan district, Shenzhen, Guangdong Province, China.
-				Shenzhen    518000
-				CN
-
-90-88-A9   (hex)		Shortcut Labs AB
-500000-5FFFFF     (base 16)		Shortcut Labs AB
-				Teknikringen 26, C/O Student Inc
-				Stockholm  Stockholm  11428
-				SE
 
 B8-4C-87   (hex)		Private
 E00000-EFFFFF     (base 16)		Private
@@ -33385,3 +33391,9 @@ D00000-DFFFFF     (base 16)		REMOWIRELESS COMMUNICATION INTERNATIONAL CO.,LIMITE
 				RM1202,12/F,TUNG CHUN COMM CTR 438-444 SHANGHAI ST KL
 				HONG KONG  HONG KONG  999077
 				HK
+
+90-88-A9   (hex)		Samway Electronic SRL
+800000-8FFFFF     (base 16)		Samway Electronic SRL
+				Str Maltopol nr 16
+				Bucharest    011048
+				RO
