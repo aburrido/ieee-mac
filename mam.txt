@@ -13121,6 +13121,12 @@ E00000-EFFFFF     (base 16)		Shenzhen Eweat Technology Co.,Ltd
 				Jiaxing  Zhejiang  314000
 				CN
 
+90-88-A9   (hex)		TeeJet Technologies
+E00000-EFFFFF     (base 16)		TeeJet Technologies
+				Moelhavevej 2
+				Aabybro    9440
+				DK
+
 B8-4C-87   (hex)		Altronix , Corp
 A00000-AFFFFF     (base 16)		Altronix , Corp
 				140 58th St. Bldg A, Ste 2N
@@ -26608,6 +26614,30 @@ EC-74-CD   (hex)		Vialis BV
 				Loodsboot 15
 				HOUTEN    3991 CJ
 				NL
+
+90-88-A9   (hex)		Nanjing Boswell Industrial Communication Technology Co., Ltd
+900000-9FFFFF     (base 16)		Nanjing Boswell Industrial Communication Technology Co., Ltd
+				1st Floor, Building A2, China Wireless Valley, No. 9 Mozhou East Road, Jiangning District
+				Nanjing  Jiangsu  211100
+				CN
+
+90-88-A9   (hex)		Hangzhou Hollysys Automation Co., Ltd
+300000-3FFFFF     (base 16)		Hangzhou Hollysys Automation Co., Ltd
+				No. 12, Baiyang Street, Qiantang District, Hangzhou City, Zhejiang Province
+				Hangzhou  Zhejiang   310000
+				CN
+
+90-88-A9   (hex)		Akarui Networks Pvt Ltd
+100000-1FFFFF     (base 16)		Akarui Networks Pvt Ltd
+				B- 60 GROUND FLOOR, SECTOR - 88anand vihar
+				Noida  Uttar Pradesh  201305
+				IN
+
+D0-AA-5F   (hex)		Indra Air Traffic Inc
+A00000-AFFFFF     (base 16)		Indra Air Traffic Inc
+				11300 W 89th St
+				Overland Park  KS  66214
+				US
 
 C8-5C-E2   (hex)		Fela Management AG 
 000000-0FFFFF     (base 16)		Fela Management AG 
