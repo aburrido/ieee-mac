@@ -6818,6 +6818,12 @@ D0-AA-5F   (hex)		KOMER
 				Taipei  Taiwn  105
 				TW
 
+D0-AA-5F   (hex)		Hangzhou Jingtang Communication Technology Co.,Ltd.
+000000-0FFFFF     (base 16)		Hangzhou Jingtang Communication Technology Co.,Ltd.
+				 8th Floor, Building 1418-42, Moganshan Road, Yuhang District,Hangzhou City, Zhejiang Province
+				Hangzhou  ZheJiang  311100
+				CN
+
 B8-4C-87   (hex)		Shenzhen Link-all Technology Co., Ltd
 300000-3FFFFF     (base 16)		Shenzhen Link-all Technology Co., Ltd
 				Floor 5th, Block 9th, Sunny Industrial Zone, Xili Town, Nanshan District, Shenzhen, China 
@@ -13132,6 +13138,12 @@ E00000-EFFFFF     (base 16)		TeeJet Technologies
 				No.777,Yazhong Road,Nanhu District
 				Jiaxing  Zhejiang  314000
 				CN
+
+D0-AA-5F   (hex)		SORDIN AB
+600000-6FFFFF     (base 16)		SORDIN AB
+				Rorlaggarvagen 8
+				Varnamo  Smaland  S-331 34
+				SE
 
 B8-4C-87   (hex)		Altronix , Corp
 A00000-AFFFFF     (base 16)		Altronix , Corp
@@ -26643,6 +26655,18 @@ D0-AA-5F   (hex)		Indra Air Traffic Inc
 A00000-AFFFFF     (base 16)		Indra Air Traffic Inc
 				11300 W 89th St
 				Overland Park  KS  66214
+				US
+
+D0-AA-5F   (hex)		WARNER ELECTRONICS (I) PVT. LTD.
+B00000-BFFFFF     (base 16)		WARNER ELECTRONICS (I) PVT. LTD.
+				Plot No. A114/6, Five Star Industrial Area, Mumbai – Nagpur Highway, Shendra
+				Aurangabad  maharastra   431007
+				IN
+
+D0-AA-5F   (hex)		Level Up Holding Co., Inc.
+D00000-DFFFFF     (base 16)		Level Up Holding Co., Inc.
+				10210 N 25th Ave., Suite 100
+				Phoenix  AZ  85021
 				US
 
 B8-4C-87   (hex)		Private
