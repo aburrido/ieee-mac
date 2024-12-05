@@ -7331,13 +7331,20 @@ MA-L,389231,TECNO MOBILE LIMITED,"ROOMS 05-15, 13A/F., SOUTH TOWER, WORLD FINANC
 MA-L,6C05D3,CHINA DRAGON TECHNOLOGY LIMITED,"B4 Building,No.3 First industrial Zone,Nanpu Road,Lao Community,Xinqian Street,Baoan District,Shenzhen,City ShenZhen  CN 518100 "
 MA-L,7C8C09,"Mellanox Technologies, Inc.","350 Oakmead Parkway, Suite 100  Sunnyvale CA US 94085 "
 MA-L,443E8A,Texas Instruments,12500 TI Blvd Dallas TX US 75243 
-MA-L,DC567B,CLOUD NETWORK TECHNOLOGY SINGAPORE PTE. LTD.,"B22 Building,NO.51 Tongle Road, Shajing Town, Jiangnan District, Nanning, Guangxi Province, China Nanning Guangxi CN 530007 "
 MA-L,348E89,"Hangzhou BroadLink Technology Co., Ltd","Room 101,1/F,Unit C,Building 1,No.57 Jiang'er Road,Changhe Street,Binjiang District Hangzhou ZheJiang CN 310052 "
 MA-L,8428D6,SERVERCOM (INDIA) PRIVATE LIMITED,E-43/1 OKHLA INDUSTRIAL AREA PHASE-II NEW DELHI SOUTH DELHI NEW DELHI  IN NA 
 MA-L,ACD929,"Quectel Wireless Solutions Co.,Ltd.","7th Floor, Hongye Building, No.1801 Hongmei Road, Xuhui District Shanghai  CN 200233 "
 MA-L,10C735,Microsoft Corporation,One Microsoft Way REDMOND  US 98052 
+MA-L,64028F,Silicon Laboratories, 400 West Cesar Chavez Austin TX US 78701 
 MA-L,CCB148,Arcadyan Corporation,"No.8, Sec.2, Guangfu Rd. Hsinchu City Hsinchu TW 30071 "
+MA-L,DC567B,CLOUD NETWORK TECHNOLOGY SINGAPORE PTE. LTD.,"B22 Building,NO.51 Tongle Road, Shajing Town, Jiangnan District, Nanning, Guangxi Province, China Nanning Guangxi CN 530007 "
 MA-L,74FB17,"Qingdao Goertek  Horizons Tecnology  Co.,LTD","155 Zhuzhou,road Qingdao Shandong CN 266101 "
+MA-L,1CF9D5,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
+MA-L,783F4D,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
+MA-L,9C79E3,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
+MA-L,8851F2,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
+MA-L,5CADBA,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
+MA-L,546749,"Google, Inc.",1600 Amphitheatre Parkway Mountain View CA US 94043 
 MA-L,00749C,"Ruijie Networks Co.,LTD","19# Building,Star-net Science Plaza,Juyuanzhou, 618 Jinshan Road Fuzhou Fujian CN 350002 "
 MA-L,E01C41,Extreme Networks Headquarters,2121 RDU Center Drive  Morrisville NC US 27560 
 MA-L,BCF310,Extreme Networks Headquarters,2121 RDU Center Drive  Morrisville NC US 27560 
@@ -14579,6 +14586,11 @@ MA-L,74761F,Microsoft Corporation,One Microsoft Way REDMOND  US 98052
 MA-L,14EA63,"Hui Zhou Gaoshengda Technology Co.,LTD","No.2,Jin-da Road,Huinan Industrial Park Hui Zhou Guangdong CN 516025 "
 MA-L,E8E49D,Nexthop Systems Inc.,3110 Coronado Drive Santa Clara CA US 95054 
 MA-L,A0C7D2,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
+MA-L,603D61,Private,
+MA-L,04BFD5,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
+MA-L,44A10E,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
+MA-L,7CC8DF,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
+MA-L,8083F6,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
 MA-L,6C8720,"New H3C Technologies Co., Ltd","466 Changhe Road, Binjiang District Hangzhou Zhejiang CN 310052 "
 MA-L,0C8D7A,RADiflow,HaBarzel St 38 Tel-Aviv  IL 6971054 
 MA-L,FCA9F5,Xiaomi Communications Co Ltd,"#019, 9th Floor, Building 6, 33 Xi'erqi Middle Road Beijing Haidian District CN 100085 "
@@ -21876,6 +21888,10 @@ MA-L,E441D4,"vivo Mobile Communication Co., Ltd.","No.1, vivo Road, Chang'an Don
 MA-L,64447B,"vivo Mobile Communication Co., Ltd.","No.1, vivo Road, Chang'an Dongguan Guangdong CN 523860 "
 MA-L,4C858A,BUFFALO.INC,"AKAMONDORI Bld.,30-20,Ohsu 3-chome,Naka-ku Nagoya Aichi Pref. JP 460-8315 "
 MA-L,10A450,Kwikset,110 Sargent Dr. New Haven CT US 06511 
+MA-L,346691,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
+MA-L,ECFF3A,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
+MA-L,701384,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
+MA-L,84A824,"Google, Inc.",1600 Amphitheatre Parkway Mountain View CA US 94043 
 MA-L,B4C799,Extreme Networks Headquarters,2121 RDU Center Drive  Morrisville NC US 27560 
 MA-L,58696C,"Ruijie Networks Co.,LTD","19# Building,Star-net Science Plaza,Juyuanzhou, 618 Jinshan Road Fuzhou Fujian CN 350002 "
 MA-L,8C8394,Arcadyan Corporation,"No.8, Sec.2, Guangfu Rd. Hsinchu City Hsinchu TW 30071 "
@@ -29229,6 +29245,15 @@ MA-L,D08543,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568
 MA-L,5056A8,Jollyboys Ltd,Polttimonkatu 3 Tampere   FI 33210 
 MA-L,F4B549,"Xiamen Yeastar Digital Technology Co., Ltd","Building C09, Software Park Phase III, Xiamen Fujian CN 361024 "
 MA-L,001A01,"ICU Medical, Inc.",4350 Rivergreen Parkway Duluth GA US 30096 
+MA-L,A85BD1,INVENTEC CORPORATION,"NO.88, DAZHI RD. TAOYUAN  TW 33068 "
+MA-L,F4CBE7,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
+MA-L,5C9BA6,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
+MA-L,38C43A,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
+MA-L,B01831,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
+MA-L,D04D86,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
+MA-L,34D509,Genexis B.V.,Lodewijkstraat 1A Eindhoven  NL 5652AC 
+MA-L,203543,Sagemcom Broadband SAS,"250, route de l'Empereur Rueil Malmaison Cedex hauts de seine FR 92848 "
+MA-L,6867C7,Sagemcom Broadband SAS,"250, route de l'Empereur Rueil Malmaison Cedex hauts de seine FR 92848 "
 MA-L,C85CE2,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
 MA-L,DCEE14,ADT Technology,"Room 325, 3rd Floor, Building F, Xinmao Science and Technology Park, Huayuan Industrial Zone Tianjin Tianjin CN 300384 "
 MA-L,10FFE0,"GIGA-BYTE TECHNOLOGY CO.,LTD.","Pin-Jen City, Taoyuan, Taiwan, R.O.C. Pin-Jen Taoyuan TW 324 "
@@ -36523,8 +36548,14 @@ MA-L,68286C,Sony Interactive Entertainment Inc.,1-7-1 Konan Minato-ku Tokyo JP 1
 MA-L,5000E6,"Mellanox Technologies, Inc.","350 Oakmead Parkway, Suite 100  Sunnyvale CA US 94085 "
 MA-L,38AA09,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
 MA-L,D0AA5F,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
-MA-L,3CBD14,Diebold Nixdorf,Wohlrabedamm 31 Berlin  DE 13629 
-MA-L,00210E,Gilbarco Inc. ,POB 22087 Greensboro NC US 27420 
-MA-L,70EDFA,imperix Ltd,Routes des Ronquos 23 Sion  CH 1950 
 MA-L,DC3262,"Nanjing Qinheng Microelectronics Co., Ltd.","No.18, Ningshuang Road  Nanjing Jiangsu CN 210012 "
 MA-L,E4FE43,"Beijing Xiaomi Mobile Software Co., Ltd","The Rainbow City Office Building, 68 Qinghe Middle Street Haidian District Beijing Beijing CN 100085 "
+MA-L,38D6E0,"TOPDON TECHNOLOGY Co.,Ltd.",Nanshan Shenzhen Guangdong CN 518000 
+MA-L,D806F3,Arista Networks,5453 Great America Parkway Santa Clara CA US 95054 
+MA-L,781C9D,Silicon Laboratories, 400 West Cesar Chavez Austin TX US 78701 
+MA-L,3CBD14,Diebold Nixdorf,Wohlrabedamm 31 Berlin  DE 13629 
+MA-L,A09A8E,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
+MA-L,BC9F58,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
+MA-L,90CDE8,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
+MA-L,70EDFA,imperix Ltd,Routes des Ronquos 23 Sion  CH 1950 
+MA-L,00210E,Gilbarco Inc. ,POB 22087 Greensboro NC US 27420 
