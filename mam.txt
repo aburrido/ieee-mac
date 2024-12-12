@@ -6836,6 +6836,12 @@ D0-AA-5F   (hex)		Shenzhen Liandian Communication Technology Co.LTD
 				Shenzhen  Guangdong  518112
 				CN
 
+A4-59-D3   (hex)		Rheinmetall Electronics UK Ltd
+100000-1FFFFF     (base 16)		Rheinmetall Electronics UK Ltd
+				Unit B, The ApexSt. Cross Business Park, Monks Brook
+				Newport    PO30 5XW
+				GB
+
 B8-4C-87   (hex)		Shenzhen Link-all Technology Co., Ltd
 300000-3FFFFF     (base 16)		Shenzhen Link-all Technology Co., Ltd
 				Floor 5th, Block 9th, Sunny Industrial Zone, Xili Town, Nanshan District, Shenzhen, China 
@@ -13163,17 +13169,17 @@ D0-AA-5F   (hex)		SORDIN AB
 				Varnamo  Smaland  S-331 34
 				SE
 
-D0-AA-5F   (hex)		ACCEL LAB ltd.
-200000-2FFFFF     (base 16)		ACCEL LAB ltd.
-				1-8-1 Nishishinjuku Shinjuku Building 5F 
-				Shinjuku-ku  Tokyo-to  160-0023
-				JP
-
 A4-59-D3   (hex)		Shenzhen Welltech Cable Co., Ltd
 200000-2FFFFF     (base 16)		Shenzhen Welltech Cable Co., Ltd
 				3/F, Workshop 42, Xingye 1st Road, Fenghuang Community, Fuyong Subdistrict, Bao'an District
 				Shenzhen  Guangdong  518103
 				CN
+
+D0-AA-5F   (hex)		ACCEL LAB ltd.
+200000-2FFFFF     (base 16)		ACCEL LAB ltd.
+				1-8-1 Nishishinjuku Shinjuku Building 5F 
+				Shinjuku-ku  Tokyo-to  160-0023
+				JP
 
 A4-59-D3   (hex)		Vivi International Pty Ltd
 900000-9FFFFF     (base 16)		Vivi International Pty Ltd
@@ -26729,6 +26735,12 @@ D0-AA-5F   (hex)		广东美的暖通设备有限公司
 				佛山    528000
 				CN
 
+A4-59-D3   (hex)		Safebase AS
+C00000-CFFFFF     (base 16)		Safebase AS
+				Havnegata 9
+				Trondheim    7010
+				NO
+
 B8-4C-87   (hex)		Private
 E00000-EFFFFF     (base 16)		Private
 
@@ -33541,3 +33553,9 @@ A00000-AFFFFF     (base 16)		OREX SAI Inc.
 				59-16 Nisshin-cho, Kawasaki-ku
 				Kawasaki  Kanagawa  210-0024
 				JP
+
+A4-59-D3   (hex)		VTECH Technology Corportion
+000000-0FFFFF     (base 16)		VTECH Technology Corportion
+				6F-8, No.27, Sec. 3, Zhongshan N. Rd.,
+				TAIPEI  TAIWAN  104
+				TW
