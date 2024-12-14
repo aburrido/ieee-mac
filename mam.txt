@@ -13187,6 +13187,12 @@ D0-AA-5F   (hex)		ACCEL LAB ltd.
 				Shinjuku-ku  Tokyo-to  160-0023
 				JP
 
+A4-59-D3   (hex)		SEAVAN TECHNOLOGY LIMITED
+D00000-DFFFFF     (base 16)		SEAVAN TECHNOLOGY LIMITED
+				Room 511, 5/F, Mingsang Industrial Building,19-21 Hing Yip Street, Kwun Tong, Hong Kong
+				Hong Kong    999077
+				HK
+
 B8-4C-87   (hex)		Altronix , Corp
 A00000-AFFFFF     (base 16)		Altronix , Corp
 				140 58th St. Bldg A, Ste 2N
@@ -20048,6 +20054,12 @@ B00000-BFFFFF     (base 16)		UXV Technologies ApS
 				Ishoj    2635
 				DK
 
+A4-59-D3   (hex)		GRE SYSTEM INC.
+400000-4FFFFF     (base 16)		GRE SYSTEM INC.
+				A-311, Higgsutower, 184, Jungbu-daero, Giheung-gu
+				Yongin-si  Gyeonggi-do  17095
+				KR
+
 D0-14-11   (hex)		P.B. Elettronica srl
 100000-1FFFFF     (base 16)		P.B. Elettronica srl
 				Via Santorelli, 8
@@ -26705,12 +26717,6 @@ A00000-AFFFFF     (base 16)		Indra Air Traffic Inc
 				Hangzhou  Zhejiang   310000
 				CN
 
-D0-AA-5F   (hex)		广东美的暖通设备有限公司
-700000-7FFFFF     (base 16)		广东美的暖通设备有限公司
-				广东佛山市顺德区北滘镇蓬莱路工业大道
-				佛山    528000
-				CN
-
 D0-AA-5F   (hex)		HONGCI MONITOR INTERNATIONAL CO., LTD.
 900000-9FFFFF     (base 16)		HONGCI MONITOR INTERNATIONAL CO., LTD.
 				1 F., No. 67, Sec. 2, Zhongshan Rd., Furen Vil., Tanzi Dist
@@ -26740,6 +26746,12 @@ C00000-CFFFFF     (base 16)		Safebase AS
 				Havnegata 9
 				Trondheim    7010
 				NO
+
+D0-AA-5F   (hex)		GD Midea Heating & Ventilating Equipment Co., Ltd
+700000-7FFFFF     (base 16)		GD Midea Heating & Ventilating Equipment Co., Ltd
+				广东佛山市顺德区北滘镇蓬莱路工业大道
+				佛山    528000
+				CN
 
 C8-5C-E2   (hex)		Fela Management AG 
 000000-0FFFFF     (base 16)		Fela Management AG 
