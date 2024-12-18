@@ -15101,18 +15101,6 @@ BB6000-BB6FFF     (base 16)		NEOiD
 				Belo Horizonte  MG  30310-040
 				BR
 
-8C-1F-64   (hex)		Joust Security Inc.
-A35000-A35FFF     (base 16)		Joust Security Inc.
-				925 Boul. de Maisonneuve Ouest, Suite 318
-				Montreal  QC  H3A 0A5
-				CA
-
-8C-1F-64   (hex)		ITG Co.Ltd
-F6E000-F6EFFF     (base 16)		ITG Co.Ltd
-				617, anyang Megavally, 268, Hagui-ro, Dongan-gu
-				Anyang    14056
-				KR
-
 8C-1F-64   (hex)		Channel Master LLC
 A0B000-A0BFFF     (base 16)		Channel Master LLC
 				1725 E Germann Rd, Suite 31
@@ -15124,6 +15112,18 @@ EAE000-EAEFFF     (base 16)		Traffic Polska sp. z o. o.
 				Strzelecka 5A
 				Marki  Mazowieckie  05-270
 				PL
+
+8C-1F-64   (hex)		ITG Co.Ltd
+F6E000-F6EFFF     (base 16)		ITG Co.Ltd
+				617, anyang Megavally, 268, Hagui-ro, Dongan-gu
+				Anyang    14056
+				KR
+
+8C-1F-64   (hex)		Joust Security Inc.
+A35000-A35FFF     (base 16)		Joust Security Inc.
+				925 Boul. de Maisonneuve Ouest, Suite 318
+				Montreal  QC  H3A 0A5
+				CA
 
 8C-1F-64   (hex)		Vision Systems Safety Tech
 E6F000-E6FFFF     (base 16)		Vision Systems Safety Tech
@@ -30149,6 +30149,12 @@ E3A000-E3AFFF     (base 16)		AITEC Corporation
 				Broomfield  CO  80021
 				US
 
+8C-1F-64   (hex)		MAS TECHNOLOGY
+BDF000-BDFFFF     (base 16)		MAS TECHNOLOGY
+				PLOT NO0273, SECTOR-24
+				FARIDABAD  HR  121004
+				IN
+
 8C-1F-64   (hex)		Mobileye
 D63000-D63FFF     (base 16)		Mobileye
 				13 Hartom st.
@@ -37600,3 +37606,9 @@ D0C000-D0CFFF     (base 16)		KS Beschallungstechnik GmbH
 				C/ Leonardo Da Vinci, 24-26
 				Paterna  Valencia  46980
 				ES
+
+8C-1F-64   (hex)		Broyce Control Ltd
+70C000-70CFFF     (base 16)		Broyce Control Ltd
+				Pool Street
+				Wolverhampton    PE13 5AD
+				GB

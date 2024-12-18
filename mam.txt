@@ -13187,6 +13187,12 @@ A4-59-D3   (hex)		Vivi International Pty Ltd
 				South Yarra  VIC  3141
 				AU
 
+A4-59-D3   (hex)		HANSHIN YUSOKI Co,Ltd
+B00000-BFFFFF     (base 16)		HANSHIN YUSOKI Co,Ltd
+				1-14-8 oyodonaka,kita-ku
+				Osaka-shi  Osaka  531-0076
+				JP
+
 A4-59-D3   (hex)		SEAVAN TECHNOLOGY LIMITED
 D00000-DFFFFF     (base 16)		SEAVAN TECHNOLOGY LIMITED
 				Room 511, 5/F, Mingsang Industrial Building,19-21 Hing Yip Street, Kwun Tong, Hong Kong
@@ -26764,6 +26770,12 @@ A4-59-D3   (hex)		SoftEnergy Controls  Inc.
 				4-35 Hibikino Kita Wakamatsu-ku
 				Kitakyushu  Fukuoka  8080138
 				JP
+
+A4-59-D3   (hex)		Bettear - Accessibility Technologies Development Ltd
+500000-5FFFFF     (base 16)		Bettear - Accessibility Technologies Development Ltd
+				33 Ha'Barzel
+				Tel-Aviv    6971049
+				IL
 
 B8-4C-87   (hex)		Private
 E00000-EFFFFF     (base 16)		Private
