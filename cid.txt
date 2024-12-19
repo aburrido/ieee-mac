@@ -704,6 +704,12 @@ EADA6E                        (base 16)                     FUJIFILM Recording M
                                                             Kleve    47533                               
                                                             DE                                           
 
+0A-F9-9D                      (hex)                         Fitipower Integrated Technology              
+0AF99D                        (base 16)                     Fitipower Integrated Technology              
+                                                            3 Floor, No.6-8, Duxing Rd.,Hsinchu Science-Park
+                                                            Hsinchu    30078                             
+                                                            TW                                           
+
 DA-C4-51                      (hex)                         Takaratomy                                   
 DAC451                        (base 16)                     Takaratomy                                   
                                                             7-9-10 Tateishi                              
