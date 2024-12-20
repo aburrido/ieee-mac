@@ -6842,6 +6842,12 @@ A4-59-D3   (hex)		Rheinmetall Electronics UK Ltd
 				Newport    PO30 5XW
 				GB
 
+58-23-BC   (hex)		Annapurna labs
+900000-9FFFFF     (base 16)		Annapurna labs
+				Matam Scientific Industries Center,   Building 8.2
+				Mail box 15123  Haifa  3508409
+				IL
+
 B8-4C-87   (hex)		Shenzhen Link-all Technology Co., Ltd
 300000-3FFFFF     (base 16)		Shenzhen Link-all Technology Co., Ltd
 				Floor 5th, Block 9th, Sunny Industrial Zone, Xili Town, Nanshan District, Shenzhen, China 
@@ -33613,3 +33619,9 @@ E00000-EFFFFF     (base 16)		Ngen d.o.o.
 				Moste 101
 				Žirovnica    4274
 				SI
+
+58-23-BC   (hex)		SHSYSTEM.Co.,LTD
+300000-3FFFFF     (base 16)		SHSYSTEM.Co.,LTD
+				1101ho, 108, Gasan digital 2-ro
+				Geumcheon-gu  Seoul, Republic of Korea  08506
+				KR

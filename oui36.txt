@@ -22577,6 +22577,12 @@ BB0000-BB0FFF     (base 16)		Shanghai Sansi Electronic Engineering Co., Ltd.
 				Göteborg    41263
 				SE
 
+8C-1F-64   (hex)		Lamontec
+687000-687FFF     (base 16)		Lamontec
+				480 E Pine St
+				Ponchatoula  LA  70454
+				US
+
 8C-1F-64   (hex)		Flow Power
 82B000-82BFFF     (base 16)		Flow Power
 				Suite 2, Level 3, 18 - 20 York St
@@ -30155,6 +30161,12 @@ BDF000-BDFFFF     (base 16)		MAS TECHNOLOGY
 				FARIDABAD  HR  121004
 				IN
 
+8C-1F-64   (hex)		astTECS Communications Private Limited
+4B8000-4B8FFF     (base 16)		astTECS Communications Private Limited
+				No# 35, Krishna Reddy Layout,Domlur
+				Bangalore  Karnataka  560071
+				IN
+
 8C-1F-64   (hex)		Mobileye
 D63000-D63FFF     (base 16)		Mobileye
 				13 Hartom st.
@@ -37607,14 +37619,14 @@ D0C000-D0CFFF     (base 16)		KS Beschallungstechnik GmbH
 				Paterna  Valencia  46980
 				ES
 
-8C-1F-64   (hex)		Broyce Control Ltd
-70C000-70CFFF     (base 16)		Broyce Control Ltd
-				Pool Street
-				Wolverhampton    PE13 5AD
-				GB
-
 8C-1F-64   (hex)		Natron Energy
 DEA000-DEAFFF     (base 16)		Natron Energy
 				3542 Bassett St 
 				Santa Clara  CA   95054
 				US
+
+8C-1F-64   (hex)		Broyce Control Ltd
+70C000-70CFFF     (base 16)		Broyce Control Ltd
+				Pool Street
+				Wolverhampton    PE13 5AD
+				GB
