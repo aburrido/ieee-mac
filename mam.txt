@@ -20090,6 +20090,12 @@ A00000-AFFFFF     (base 16)		Hangzhou Xindatong Communication Technology Co.,Ltd
 				Hangzhou City  Zhejiang Province  310000
 				CN
 
+58-23-BC   (hex)		Great Wall Power Supply Technology Co., Ltd.
+200000-2FFFFF     (base 16)		Great Wall Power Supply Technology Co., Ltd.
+				Gangyuan North Road,Zhongbei Hi-tech Industries Development Zone
+				Taiyuan  shanxi  030000
+				CN
+
 D0-14-11   (hex)		P.B. Elettronica srl
 100000-1FFFFF     (base 16)		P.B. Elettronica srl
 				Via Santorelli, 8
@@ -26806,6 +26812,12 @@ B00000-BFFFFF     (base 16)		Annapurna labs
 				Matam Scientific Industries Center,   Building 8.2
 				Mail box 15123  Haifa  3508409
 				IL
+
+58-23-BC   (hex)		Yuyao Sunny Optical Intelligence Technology Co., Ltd
+C00000-CFFFFF     (base 16)		Yuyao Sunny Optical Intelligence Technology Co., Ltd
+				Yuyao Add: No.1918,Shinan West Road,Yuyao,Zhejiang China
+				Yuyao  Zhejiang  315400
+				CN
 
 B8-4C-87   (hex)		Private
 E00000-EFFFFF     (base 16)		Private
@@ -33649,3 +33661,9 @@ E00000-EFFFFF     (base 16)		Ngen d.o.o.
 				1101ho, 108, Gasan digital 2-ro
 				Geumcheon-gu  Seoul, Republic of Korea  08506
 				KR
+
+58-23-BC   (hex)		New Energy Technology Co.,Ltd
+D00000-DFFFFF     (base 16)		New Energy Technology Co.,Ltd
+				Room 1606, Building 2, Guanggu Enterprise World, Guanggu Avenue, East Lake High-tech Development Zone, Wuhan City
+				Wuhan  Hubei  430074
+				CN

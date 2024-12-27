@@ -62,6 +62,7 @@ MANUFACTURER ID               Organization
 32                            TEAC
 41                            Watlow
 17                            Bruel & Kjaer
+7358                          Energie-Plan + Management GmbH
 6893                          Messotron GmbH & Co. KG
 11418                         Delta Solutions LLC
 11699                         Mantracourt Electronics Ltd
