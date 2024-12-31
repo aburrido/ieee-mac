@@ -6848,6 +6848,12 @@ A4-59-D3   (hex)		Rheinmetall Electronics UK Ltd
 				Mail box 15123  Haifa  3508409
 				IL
 
+58-23-BC   (hex)		Shenzhen Zhixuan Network Technology Co., Ltd.
+500000-5FFFFF     (base 16)		Shenzhen Zhixuan Network Technology Co., Ltd.
+				Room 402, Building 22, Chentian Industrial Zone, Baomin 2nd Road
+				 Shenzhen,  Guangdong Province.  518000
+				CN
+
 B8-4C-87   (hex)		Shenzhen Link-all Technology Co., Ltd
 300000-3FFFFF     (base 16)		Shenzhen Link-all Technology Co., Ltd
 				Floor 5th, Block 9th, Sunny Industrial Zone, Xili Town, Nanshan District, Shenzhen, China 
@@ -13215,6 +13221,12 @@ B00000-BFFFFF     (base 16)		HANSHIN YUSOKI Co,Ltd
 800000-8FFFFF     (base 16)		Wuhan Rayoptek Co.,Ltd
 				G3-201, New Energy Building No.999Gao Xin Road, Wuhan, China
 				wuhan  hubei  430206
+				CN
+
+58-23-BC   (hex)		Shenzhen C & D Electronics Co., Ltd.
+400000-4FFFFF     (base 16)		Shenzhen C & D Electronics Co., Ltd.
+				9th FIoor, Building 9, No.1 Qingxiang road, BaoNeng Science and TechnoIogy Industrial Park, Longhua New District
+				ShenZhen  GuangDong  518000
 				CN
 
 B8-4C-87   (hex)		Altronix , Corp
@@ -20094,6 +20106,12 @@ A00000-AFFFFF     (base 16)		Hangzhou Xindatong Communication Technology Co.,Ltd
 200000-2FFFFF     (base 16)		Great Wall Power Supply Technology Co., Ltd.
 				Gangyuan North Road,Zhongbei Hi-tech Industries Development Zone
 				Taiyuan  shanxi  030000
+				CN
+
+58-23-BC   (hex)		Lens Technology (Xiangtan) Co.,Ltd
+100000-1FFFFF     (base 16)		Lens Technology (Xiangtan) Co.,Ltd
+				16 Baishi West Road, Xiangtan Economic and Technological Development Zone
+				Xiangtan  Hunan  411100
 				CN
 
 D0-14-11   (hex)		P.B. Elettronica srl
