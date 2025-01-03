@@ -7371,6 +7371,8 @@ MA-L,30BE29,AltoBeam Inc.,"B808, Tsinghua Tongfang Hi-Tech Plaza, Haidian Beijin
 MA-L,7410E0,Broadcom Limited,15191 Alton Parkway Irvine CA US 92618 
 MA-L,8449EE,Demant Enterprise A/S,Kongebakken 9 Smorum  DK 2765 
 MA-L,9877D5,WiZ,"Unit 1203-5, 12/F, Tower 1, Enterprise Square, 9 Sheung Yuet Road Kowloon Bay Hong Kong HK 0000 "
+MA-L,C400B5,"HongKong Tenry Technology Co., Ltd. ","12/F, Building 10A,the Ninth Road,South of Hi-Tech Park,Shenzhen Bay Science and Technology Ecological Park, Nanshan District shenzhen guangdong CN 518052 "
+MA-L,845234,Juniper Networks,1133 Innovation Way Sunnyvale CA US 94089 
 MA-L,000130,Extreme Networks Headquarters,2121 RDU Center Drive  Morrisville NC US 27560 
 MA-L,FC0A81,Extreme Networks Headquarters,2121 RDU Center Drive  Morrisville NC US 27560 
 MA-L,00749C,"Ruijie Networks Co.,LTD","19# Building,Star-net Science Plaza,Juyuanzhou, 618 Jinshan Road Fuzhou Fujian CN 350002 "
@@ -14640,6 +14642,8 @@ MA-L,A844AA,"Fiberhome Telecommunication Technologies Co.,LTD",No.5 DongXin Road
 MA-L,D87D45,"Nicent Technology Co., Ltd.","F/4, BLK1, No.9 JinHeng 1st Rd. Hi-Tech Park Zhuhai Guangdong CN 519085 "
 MA-L,C8D959,"Motorola Mobility LLC, a Lenovo Company",222 West Merchandise Mart Plaza Chicago IL US 60654 
 MA-L,9C5A8A,DJI BAIWANG TECHNOLOGY CO LTD,"Room 101, Building 12, Baiwangxin Industrial Park, 1002 Songbai Road, Sunshine Community, Xili Street Shenzhen Guangdong CN 518057 "
+MA-L,74FC45,SIEMENS AG,Oestliche Rheinbrückenstraße 50 Karlsruhe Baden-Württemberg DE 76181 
+MA-L,D4958E,"Universal Electronics, Inc.",201 E. Sandpointe Ave Santa Ana CA US 92707 
 MA-L,6C8720,"New H3C Technologies Co., Ltd","466 Changhe Road, Binjiang District Hangzhou Zhejiang CN 310052 "
 MA-L,0C8D7A,RADiflow,HaBarzel St 38 Tel-Aviv  IL 6971054 
 MA-L,FCA9F5,Xiaomi Communications Co Ltd,"#019, 9th Floor, Building 6, 33 Xi'erqi Middle Road Beijing Haidian District CN 100085 "
@@ -35791,7 +35795,6 @@ MA-L,002036,BMC SOFTWARE,"1600 CITY WEST BLVD., #1600 HOUSTON TX US 77042 "
 MA-L,0020F8,"CARRERA COMPUTERS, INC.",23181 VERDUGO DRIVE-STE.#105A LAGUNA HILLS CA US 92653 
 MA-L,00C006,"NIPPON AVIONICS CO., LTD.",INDUSTRIAL SYSTEM DIVISION   JP  
 MA-L,00C0A4,UNIGRAF OY,RUUKINTIE 18   FI  
-MA-L,00C029,Nexans Deutschland GmbH - ANS,Bonnenbroicher Str. 100   DE  
 MA-L,00C0FA,"CANARY COMMUNICATIONS, INC.",1851 ZANKER ROAD SAN JOSE CA US 95112-4213 
 MA-L,00C079,"FONSYS CO.,LTD.","209-5, YANGJAE, SEOCHO   KR KOREA "
 MA-L,00C02F,OKUMA CORPORATION,"OGUCHI-CHO, NIWA-GUN   JP  "
@@ -36678,8 +36681,12 @@ MA-L,14BAAF,BKS GmbH,Heidestr. 71 Velbert  DE 42549
 MA-L,5CCDA8,ITEL MOBILE LIMITED,"RM B3 & B4 BLOCK B, KO FAI INDUSTRIAL BUILDING  NO.7 KO FAI ROAD, YAU TONG, KLN, H.K Hong Kong KOWLOON HK 999077 "
 MA-L,34D868,Broadcom Limited,15191 Alton Parkway Irvine CA US 92618 
 MA-L,3C1A65,Nokia,600 March Road Kanata Ontario CA K2K 2E6 
-MA-L,24F3E3,eero inc.,660 3rd Street San Francisco CA US 94107 
-MA-L,94224C,"Qingdao Haier Technology Co.,Ltd","Building C01,Haier Information Park,No.1 Haier Road Qingdao  CN 266101 "
-MA-L,54263D,Sony Corporation,1-7-1 Konan Minato-ku Tokyo  JP 108-0075 
 MA-L,54808A,PT. BIZLINK TECHNOLOGY INDONESIA,"Latrade Industrial Park Block K10-K12, Jl. Sei Binti Tanjung Uncang, Batam City, Riau Islands, Indonesia  Batam Riau Islands ID 29422 "
 MA-L,F8388D,"New H3C Technologies Co., Ltd","466 Changhe Road, Binjiang District Hangzhou Zhejiang CN 310052 "
+MA-L,8CF0DF,"Beijing Zhongyuan Yishang Technology Co.,LTD","M1005,10th Floor,RuidaBuilding,No.74Lugu Road,Shijingshan District,Beijing Beijing  CN 100000 "
+MA-L,94224C,"Qingdao Haier Technology Co.,Ltd","Building C01,Haier Information Park,No.1 Haier Road Qingdao  CN 266101 "
+MA-L,6C78C1,Juniper Networks,1133 Innovation Way Sunnyvale CA US 94089 
+MA-L,24F3E3,eero inc.,660 3rd Street San Francisco CA US 94107 
+MA-L,54263D,Sony Corporation,1-7-1 Konan Minato-ku Tokyo  JP 108-0075 
+MA-L,F0F069,Private,
+MA-L,00C029,Aginode Germany GmbH,Am Hockeypark 10 Mönchengladbach  DE 41179  
