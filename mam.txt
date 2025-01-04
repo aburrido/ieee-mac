@@ -6854,6 +6854,12 @@ A4-59-D3   (hex)		Rheinmetall Electronics UK Ltd
 				 Shenzhen,  Guangdong Province.  518000
 				CN
 
+BC-DF-E1   (hex)		Annapurna labs
+900000-9FFFFF     (base 16)		Annapurna labs
+				Matam Scientific Industries Center,   Building 8.2
+				Mail box 15123  Haifa  3508409
+				IL
+
 B8-4C-87   (hex)		Shenzhen Link-all Technology Co., Ltd
 300000-3FFFFF     (base 16)		Shenzhen Link-all Technology Co., Ltd
 				Floor 5th, Block 9th, Sunny Industrial Zone, Xili Town, Nanshan District, Shenzhen, China 
@@ -20119,6 +20125,12 @@ A00000-AFFFFF     (base 16)		Hangzhou Xindatong Communication Technology Co.,Ltd
 				619, 6th Floor, Building D3, Mingjun Industrial Park, No. 2 Yuangao Road, Xinshi Community, Dalang Street, Longhua District, Shenzhen
 				shenzhen    518109
 				CN
+
+BC-DF-E1   (hex)		Building Automation Products Inc.
+A00000-AFFFFF     (base 16)		Building Automation Products Inc.
+				750 N Royal Ave
+				Gays Mills  WI  54631
+				US
 
 D0-14-11   (hex)		P.B. Elettronica srl
 100000-1FFFFF     (base 16)		P.B. Elettronica srl
@@ -33697,3 +33709,9 @@ D00000-DFFFFF     (base 16)		New Energy Technology Co.,Ltd
 				Room 1606, Building 2, Guanggu Enterprise World, Guanggu Avenue, East Lake High-tech Development Zone, Wuhan City
 				Wuhan  Hubei  430074
 				CN
+
+58-23-BC   (hex)		BROADRADIO INTERNATIONAL PTE.LTD.
+E00000-EFFFFF     (base 16)		BROADRADIO INTERNATIONAL PTE.LTD.
+				2 JURONG EAST STREET 21 #04-20 IMM BUILDING SINGAPORE (609601)
+				SINGAPORE    609601
+				SG
