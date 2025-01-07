@@ -20132,6 +20132,12 @@ A00000-AFFFFF     (base 16)		Building Automation Products Inc.
 				Gays Mills  WI  54631
 				US
 
+BC-DF-E1   (hex)		UGPA LLC
+D00000-DFFFFF     (base 16)		UGPA LLC
+				Lenin Avenue, 44/13
+				Rostov-on-Don    344038
+				RU
+
 D0-14-11   (hex)		P.B. Elettronica srl
 100000-1FFFFF     (base 16)		P.B. Elettronica srl
 				Via Santorelli, 8
@@ -26859,6 +26865,12 @@ C00000-CFFFFF     (base 16)		Yuyao Sunny Optical Intelligence Technology Co., Lt
 700000-7FFFFF     (base 16)		Shenzhen MinDe Electronics Technology Ltd.
 				5th Floor, Section 1, 25th Block, No.5, Kezhi Xi Road, Keji Yuan, Nanshan District
 				Shenzhen    518057
+				CN
+
+BC-DF-E1   (hex)		HI-TARGET SURVEYING INSTRUMENT CO.,LTD
+B00000-BFFFFF     (base 16)		HI-TARGET SURVEYING INSTRUMENT CO.,LTD
+				Room 202,Building 13,Tian'an HeadquartersCenter,No.555,North Panyu Avenue DonghuanStree
+				Guangzhou  GuangDong  511400
 				CN
 
 B8-4C-87   (hex)		Private
