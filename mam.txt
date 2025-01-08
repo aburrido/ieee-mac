@@ -19346,12 +19346,6 @@ E00000-EFFFFF     (base 16)		The Engineerix Group
 				Ann Arbor  MI  48108
 				US
 
-2C-C4-4F   (hex)		Falcon V Systems S. A.
-200000-2FFFFF     (base 16)		Falcon V Systems S. A.
-				Krzemowa 6
-				Gdynia    81-577
-				PL
-
 2C-C4-4F   (hex)		Beijing Siling Robot Technology Co.,Ltd
 400000-4FFFFF     (base 16)		Beijing Siling Robot Technology Co.,Ltd
 				Room 215, Floor 2, Building 2, No.1 Yongtaizhuang North Road, Haidian District, Beijing.
@@ -20137,6 +20131,12 @@ D00000-DFFFFF     (base 16)		UGPA LLC
 				Lenin Avenue, 44/13
 				Rostov-on-Don    344038
 				RU
+
+2C-C4-4F   (hex)		Vecima Networks Inc.
+200000-2FFFFF     (base 16)		Vecima Networks Inc.
+				Krzemowa 6
+				Gdynia    81-577
+				PL
 
 D0-14-11   (hex)		P.B. Elettronica srl
 100000-1FFFFF     (base 16)		P.B. Elettronica srl
