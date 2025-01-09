@@ -13235,6 +13235,12 @@ A4-59-D3   (hex)		FrontAct Co., Ltd.
 				ShenZhen  GuangDong  518000
 				CN
 
+BC-DF-E1   (hex)		System Industrie Electronic GmbH
+300000-3FFFFF     (base 16)		System Industrie Electronic GmbH
+				Millennium Park 12
+				Lustenau  Vorarlberg  6890
+				AT
+
 B8-4C-87   (hex)		Altronix , Corp
 A00000-AFFFFF     (base 16)		Altronix , Corp
 				140 58th St. Bldg A, Ste 2N
@@ -20137,6 +20143,18 @@ D00000-DFFFFF     (base 16)		UGPA LLC
 				Krzemowa 6
 				Gdynia    81-577
 				PL
+
+BC-DF-E1   (hex)		Ochno AB
+400000-4FFFFF     (base 16)		Ochno AB
+				c/o Westras, Kopparbergsv 6
+				Västerås    72213
+				SE
+
+BC-DF-E1   (hex)		Databridge Dynamic
+700000-7FFFFF     (base 16)		Databridge Dynamic
+				414/A, Orion Business ParkNear Cinewonder MallGhodbunder Road
+				Thane (W)  Maharashtra  400607
+				IN
 
 D0-14-11   (hex)		P.B. Elettronica srl
 100000-1FFFFF     (base 16)		P.B. Elettronica srl
@@ -33727,3 +33745,9 @@ E00000-EFFFFF     (base 16)		BROADRADIO INTERNATIONAL PTE.LTD.
 				2 JURONG EAST STREET 21 #04-20 IMM BUILDING SINGAPORE (609601)
 				SINGAPORE    609601
 				SG
+
+BC-DF-E1   (hex)		Cortex Systems
+800000-8FFFFF     (base 16)		Cortex Systems
+				601 NW 8th st
+				McMinnville  OR  97128
+				US
