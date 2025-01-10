@@ -218,6 +218,12 @@ EA34B4                        (base 16)                     ThinkRF Inc.
                                                             Göteborg    41666                            
                                                             SE                                           
 
+2A-15-97                      (hex)                         COTSWORKS                                    
+2A1597                        (base 16)                     COTSWORKS                                    
+                                                            749 Miner Road                               
+                                                            Highland Heights  OH  44143                  
+                                                            US                                           
+
 CA-C2-76                      (hex)                         Saab Seaeye Ltd                              
 CAC276                        (base 16)                     Saab Seaeye Ltd                              
                                                             20 Brunel Way                                
