@@ -37774,3 +37774,9 @@ D15000-D15FFF     (base 16)		MB connect line GmbH
 				No. 17 Qianwan Road, Shiqiao Town, Economic Development Zone
 				Yangzhou  Jiangsu  225000
 				CN
+
+8C-1F-64   (hex)		Innovative Industries
+4C4000-4C4FFF     (base 16)		Innovative Industries
+				8002 Kew Gardens Rd. Suite 5002
+				Kew Gardens  NY  11415
+				US
