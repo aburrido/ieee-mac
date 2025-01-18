@@ -15197,6 +15197,12 @@ A75000-A75FFF     (base 16)		Procon Electronics Pty Ltd
 				Seven Hills  NSW  1730
 				AU
 
+8C-1F-64   (hex)		Sichuan Youke Communication Technology Co., Ltd
+B71000-B71FFF     (base 16)		Sichuan Youke Communication Technology Co., Ltd
+				Building 10.No.2, Shiyang Road, Yangma Sub-district,
+				Dongbu New District  Chengdu City  641419
+				CN
+
 8C-1F-64   (hex)		Vision Systems Safety Tech
 E6F000-E6FFFF     (base 16)		Vision Systems Safety Tech
 				5 Chemin de Chiradie

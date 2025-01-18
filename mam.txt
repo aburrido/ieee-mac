@@ -6872,6 +6872,12 @@ C0-83-59   (hex)		Ista SE
 				Essen  NRW  45131
 				DE
 
+18-66-96   (hex)		Turtle AV
+100000-1FFFFF     (base 16)		Turtle AV
+				16 Bruce St
+				Preston  VIC  3072
+				AU
+
 B8-4C-87   (hex)		Shenzhen Link-all Technology Co., Ltd
 300000-3FFFFF     (base 16)		Shenzhen Link-all Technology Co., Ltd
 				Floor 5th, Block 9th, Sunny Industrial Zone, Xili Town, Nanshan District, Shenzhen, China 
@@ -13281,6 +13287,12 @@ BC-DF-E1   (hex)		D3 Technical Partners, LLC
 B00000-BFFFFF     (base 16)		HUNAN SONGBEN INFORMATION CO., LTD
 				1305 BUIDING A ZHONGJIAN PLAZA ZHENGTANGPO ROAD YUHUA DISTRICT
 				CHANGSHA  HUNAN  410000
+				CN
+
+18-66-96   (hex)		Cheersu(Shenzhen) Technology Co., Ltd
+300000-3FFFFF     (base 16)		Cheersu(Shenzhen) Technology Co., Ltd
+				Room 201, Block C, Tongfang Information Port, No. 11, Langshan Road, Songping Mountain, Songping Community, Xili Street, Nanshan District, Shenzhen 
+				Shenzhen  Guangdong  518000
 				CN
 
 B8-4C-87   (hex)		Altronix , Corp
