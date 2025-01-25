@@ -13331,6 +13331,12 @@ D00000-DFFFFF     (base 16)		VIVA CO.,LTD.
 				Incheon    21315
 				KR
 
+18-66-96   (hex)		Indusenz AS
+E00000-EFFFFF     (base 16)		Indusenz AS
+				Falkenborgvegen 36B
+				TRONDHEIM    7044
+				NO
+
 B8-4C-87   (hex)		Altronix , Corp
 A00000-AFFFFF     (base 16)		Altronix , Corp
 				140 58th St. Bldg A, Ste 2N
@@ -20252,16 +20258,16 @@ BC-DF-E1   (hex)		Ochno AB
 				Västerås    72213
 				SE
 
-18-66-96   (hex)		Wuhan Precise Electronics Co.,Ltd.
-500000-5FFFFF     (base 16)		Wuhan Precise Electronics Co.,Ltd.
-				Building 1, Mobile Terminal Industrial Park, No.777 Guanggu 3rd Road, East Lake High-tech Zone
-				Wuhan  Hubei  430200
-				CN
-
 18-66-96   (hex)		Coocaa Network Technology Co.,Ltd.
 900000-9FFFFF     (base 16)		Coocaa Network Technology Co.,Ltd.
 				Room 1906R, Qianhai Xiangbin Building, No. 18 Zimao West Street, Qianhai Shenzhen-Hong Kong Cooperation Zone
 				Shenzhen  Guangdong  518000
+				CN
+
+18-66-96   (hex)		Wuhan Precise Electronics Co.,Ltd.
+500000-5FFFFF     (base 16)		Wuhan Precise Electronics Co.,Ltd.
+				Building 1, Mobile Terminal Industrial Park, No.777 Guanggu 3rd Road, East Lake High-tech Zone
+				Wuhan  Hubei  430200
 				CN
 
 D0-14-11   (hex)		P.B. Elettronica srl
