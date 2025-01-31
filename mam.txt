@@ -27041,6 +27041,12 @@ E00000-EFFFFF     (base 16)		Clairvoyant Technology Inc.
 				Durham  NC  27707
 				US
 
+9C-E5-49   (hex)		SHENZHEN LINGDU AUTO ELECTRONICS CO.,LTD
+B00000-BFFFFF     (base 16)		SHENZHEN LINGDU AUTO ELECTRONICS CO.,LTD
+				Room 2901, Unit 1, Building 1, Lechuanghui Building, No. 1211, Guanguang Road, Guihua Community, Guanlan Street, Longhua District,
+				SHENZHEN    518000
+				CN
+
 B8-4C-87   (hex)		Private
 E00000-EFFFFF     (base 16)		Private
 
