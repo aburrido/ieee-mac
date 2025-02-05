@@ -4886,7 +4886,6 @@ MA-L,001C49,Zoltan Technology Inc.,"4F, No.30, Wunsi St. Jhubei Hsinchu TW 302 "
 MA-L,001C3F,"International Police Technologies, Inc.",4150 S. 87th E. Avenue Tulsa OK US 74145 
 MA-L,001C3B,AmRoad Technology Inc.,"18F-3 No. 150 , Chien I Rd Chung Ho Taipei Hsien TW 23511 "
 MA-L,001C32,Telian Corporation,4FL. Namjeon Bldg. 53-3 Haandong Kwangmyungsi Kyoungkido KR 423060 
-MA-L,001C2B,Alertme.com Limited,30 Station Road Cambridge Cambridgeshire GB CB1 2RE 
 MA-L,001B93,JC Decaux SA DNT,21 rue claude Bernard MAUREPAS  FR 78310 
 MA-L,001B9B,Hose-McCann Communications,1241 West Newport Center Drive Deerfield Beach FL US 33442 
 MA-L,001B9C,SATEL sp. z o.o.,Schuberta 79 Gdansk pomorskie PL 80-172 
@@ -7404,6 +7403,7 @@ MA-L,4C2F7B,AltoBeam Inc.,"B808, Tsinghua Tongfang Hi-Tech Plaza, Haidian Beijin
 MA-L,BC8D7E,Silicon Laboratories, 400 West Cesar Chavez Austin TX US 78701 
 MA-L,640864,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
 MA-L,C47981,Ehya LTD,2570 Al Khalij Rd - Ash Shati Al Gharbi Dist. Unit Number 11 Dammam   SA 32413 
+MA-L,001C2B,Hive,30 Station Road Cambridge Cambridgeshire GB CB1 2RE 
 MA-L,000130,Extreme Networks Headquarters,2121 RDU Center Drive  Morrisville NC US 27560 
 MA-L,FC0A81,Extreme Networks Headquarters,2121 RDU Center Drive  Morrisville NC US 27560 
 MA-L,00749C,"Ruijie Networks Co.,LTD","19# Building,Star-net Science Plaza,Juyuanzhou, 618 Jinshan Road Fuzhou Fujian CN 350002 "
@@ -14697,18 +14697,18 @@ MA-L,DC9566,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014
 MA-L,B845EB,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
 MA-L,989D39,"China Mobile Group Device Co.,Ltd.","32 Xuanwumen West Street,Xicheng District Beijing  CN 100053 "
 MA-L,1C61BF,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
-MA-L,48F97F,"shenzhen Huaxufeng Technology Development Co.,Ltd","Room 1102, Minzhi Youcheng Building, Longhua District, Shenzhen shenzhen Guangdong CN 518111 "
 MA-L,9C69D3,ASIX Electronics Corporation,"4F, No. 8, Hsin Ann Road, Hsinchu Science Park Hsinchu  TW 30078 "
 MA-L,343C30,NXP Semiconductor (Tianjin) LTD.,"No.15 Xinghua Avenue, Xiqing Economic Development Area Tianjin  CN 300385 "
 MA-L,340557,"vivo Mobile Communication Co., Ltd.","No.1, vivo Road, Chang'an Dongguan Guangdong CN 523860 "
 MA-L,9CF1D4,"Roku, Inc",1173 Coleman Ave San Jose CA US 95110 
 MA-L,20EFBD,"Roku, Inc",1173 Coleman Ave San Jose CA US 95110 
-MA-L,D46C62,"MultiTracks.com, LLC","1500 Arrow Point Drive Building 7, Suite 701 Cedar Park TX US 78613 "
-MA-L,00D0CE,TASKING Labs,"BRODISCE 7, 10C  Trzin  SI 1236 "
 MA-L,846EBC,Nokia solutions and networks Pvt Ltd,"Radiance Ivy terrace, Block 4, 9R, Egattur, Chennai Chennai TamilNadu IN 600130 "
-MA-L,00596C,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
-MA-L,E0280A,TP-Link Systems Inc.,10 Mauchly  Irvine CA US 92618 
+MA-L,D46C62,"MultiTracks.com, LLC","1500 Arrow Point Drive Building 7, Suite 701 Cedar Park TX US 78613 "
+MA-L,9CDAB7,Hewlett Packard Enterprise,6280 America Center Dr San Jose CA US 95002 
 MA-L,8CC573,Xsight Labs LTD.,1 Leshem Street Kiryat Gat Other (Non US) IL 8258401 
+MA-L,E0280A,TP-Link Systems Inc.,10 Mauchly  Irvine CA US 92618 
+MA-L,00596C,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
+MA-L,00D0CE,TASKING Labs,"BRODISCE 7, 10C  Trzin  SI 1236 "
 MA-L,6C8720,"New H3C Technologies Co., Ltd","466 Changhe Road, Binjiang District Hangzhou Zhejiang CN 310052 "
 MA-L,0C8D7A,RADiflow,HaBarzel St 38 Tel-Aviv  IL 6971054 
 MA-L,FCA9F5,Xiaomi Communications Co Ltd,"#019, 9th Floor, Building 6, 33 Xi'erqi Middle Road Beijing Haidian District CN 100085 "
