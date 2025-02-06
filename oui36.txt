@@ -7553,24 +7553,6 @@ AE2000-AE2FFF     (base 16)		Jiangsu Yi Rong Mstar Technology Ltd.
 				Eckental  Bavaria  90542
 				DE
 
-8C-1F-64   (hex)		BESO sp. z o.o.
-BA2000-BA2FFF     (base 16)		BESO sp. z o.o.
-				Mlynska 1a
-				Brzeg Dolny    56-120
-				PL
-
-8C-1F-64   (hex)		BERKELEY NUCLEONICS CORP
-9B5000-9B5FFF     (base 16)		BERKELEY NUCLEONICS CORP
-				2955 Kerner Blvd #D
-				San Rafael  CA  94901
-				US
-
-8C-1F-64   (hex)		Exyte Technology GmbH
-EB0000-EB0FFF     (base 16)		Exyte Technology GmbH
-				Rosine Startz Str. 2-4
-				Renningen  Baden-Wuertemberg  71272
-				DE
-
 8C-1F-64   (hex)		AUTOMATIZACION Y CONECTIVIDAD
 771000-771FFF     (base 16)		AUTOMATIZACION Y CONECTIVIDAD
 				PLUTON 7
@@ -7582,6 +7564,30 @@ DE6000-DE6FFF     (base 16)		IHI Inspection & Instrumentation Co.,Ltd.
 				watanabe4593@ihi-g.com
 				yokohama KANAGAWA    235-8501
 				JP
+
+8C-1F-64   (hex)		Exyte Technology GmbH
+EB0000-EB0FFF     (base 16)		Exyte Technology GmbH
+				Rosine Startz Str. 2-4
+				Renningen  Baden-Wuertemberg  71272
+				DE
+
+8C-1F-64   (hex)		GS Elektromedizinsiche Geräte G. Stemple GmbH
+04A000-04AFFF     (base 16)		GS Elektromedizinsiche Geräte G. Stemple GmbH
+				Hauswiesenstr. 26
+				Kaufering  Bayern  86916
+				DE
+
+8C-1F-64   (hex)		BERKELEY NUCLEONICS CORP
+9B5000-9B5FFF     (base 16)		BERKELEY NUCLEONICS CORP
+				2955 Kerner Blvd #D
+				San Rafael  CA  94901
+				US
+
+8C-1F-64   (hex)		BESO sp. z o.o.
+BA2000-BA2FFF     (base 16)		BESO sp. z o.o.
+				Mlynska 1a
+				Brzeg Dolny    56-120
+				PL
 
 8C-1F-64   (hex)		Jacobs Technology, Inc.
 A98000-A98FFF     (base 16)		Jacobs Technology, Inc.
@@ -22781,23 +22787,11 @@ CFC000-CFCFFF     (base 16)		Abbott Diagnostics Technologies AS
 				Kanata  Ontario  K2K3B8
 				CA
 
-8C-1F-64   (hex)		DORLET SAU
-FC4000-FC4FFF     (base 16)		DORLET SAU
-				C/ ALBERT EINSTEIN 34, PARQUE TECNOLOGICO DE ALAVA
-				VITORIA - GASTEIZ  ALAVA  01510
-				ES
-
 8C-1F-64   (hex)		Zhejiang Healnoc Technology Co., Ltd.
 D91000-D91FFF     (base 16)		Zhejiang Healnoc Technology Co., Ltd.
 				Room 1201, 12th Floor, Building 3, No.580,Liye Road, Changhe Subdistrict, Binjiang District, Hangzhou, China (Zhejiang) Pilot Free Trade Zone, Zhejiang.
 				HangZhou    310056
 				CN
-
-8C-1F-64   (hex)		SUS Corporation
-5BF000-5BFFFF     (base 16)		SUS Corporation
-				6F, S-patio Bldg. 14-25 Minami-cho, Suruga-ku,
-				Shizuoka city,  Shizuoka  422-8067
-				JP
 
 8C-1F-64   (hex)		Tocho Marking Systems America, Inc
 B1D000-B1DFFF     (base 16)		Tocho Marking Systems America, Inc
@@ -22805,11 +22799,35 @@ B1D000-B1DFFF     (base 16)		Tocho Marking Systems America, Inc
 				Torrance  CA  90503
 				US
 
+8C-1F-64   (hex)		SUS Corporation
+5BF000-5BFFFF     (base 16)		SUS Corporation
+				6F, S-patio Bldg. 14-25 Minami-cho, Suruga-ku,
+				Shizuoka city,  Shizuoka  422-8067
+				JP
+
+8C-1F-64   (hex)		DORLET SAU
+FC4000-FC4FFF     (base 16)		DORLET SAU
+				C/ ALBERT EINSTEIN 34, PARQUE TECNOLOGICO DE ALAVA
+				VITORIA - GASTEIZ  ALAVA  01510
+				ES
+
+8C-1F-64   (hex)		SOCA TECHNOLOGY CO., LTD.
+480000-480FFF     (base 16)		SOCA TECHNOLOGY CO., LTD.
+				NO.140, Dadun 11th St., Nantun Dist.,
+				Taichung City    408
+				TW
+
 8C-1F-64   (hex)		LOGICUBE INC
 824000-824FFF     (base 16)		LOGICUBE INC
 				19755 Nordhoff Place
 				Chatsworth  CA  91311
 				US
+
+8C-1F-64   (hex)		COBES GmbH
+06C000-06CFFF     (base 16)		COBES GmbH
+				Rudolf-Hell-Str. 8A
+				Ettenheim    77955
+				DE
 
 8C-1F-64   (hex)		Flow Power
 82B000-82BFFF     (base 16)		Flow Power
@@ -37946,26 +37964,26 @@ D1A000-D1AFFF     (base 16)		Monnit Corporation
 				Delhi  Delhi  110092
 				IN
 
-8C-1F-64   (hex)		Fell Technology AS
-B3F000-B3FFFF     (base 16)		Fell Technology AS
-				Bragernes Torg 2
-				Drammen  Buskerud  3017
-				NO
-
 8C-1F-64   (hex)		Imagenet Co.,Ltd
 E08000-E08FFF     (base 16)		Imagenet Co.,Ltd
 				2-25-1-3F Narusegaoka
 				Machida-City  Tokyo  194-0011
 				JP
 
-8C-1F-64   (hex)		MARIAN GmbH
-912000-912FFF     (base 16)		MARIAN GmbH
-				Berggartenstr. 12
-				Leipzig    04155
-				DE
+8C-1F-64   (hex)		Fell Technology AS
+B3F000-B3FFFF     (base 16)		Fell Technology AS
+				Bragernes Torg 2
+				Drammen  Buskerud  3017
+				NO
 
 8C-1F-64   (hex)		Wallenius Water Innovation AB
 A48000-A48FFF     (base 16)		Wallenius Water Innovation AB
 				Junohällsvägen 1E
 				Stockholm    SE-11264
 				SE
+
+8C-1F-64   (hex)		MARIAN GmbH
+912000-912FFF     (base 16)		MARIAN GmbH
+				Berggartenstr. 12
+				Leipzig    04155
+				DE
