@@ -30446,6 +30446,12 @@ BDF000-BDFFFF     (base 16)		MAS TECHNOLOGY
 8C-1F-64   (hex)		Private
 59C000-59CFFF     (base 16)		Private
 
+8C-1F-64   (hex)		EA Elektro-Automatik
+7E8000-7E8FFF     (base 16)		EA Elektro-Automatik
+				Helmholtzstraße 31-37
+				Viersen  Nordrhein-Westfalen  41747
+				DE
+
 8C-1F-64   (hex)		Mobileye
 D63000-D63FFF     (base 16)		Mobileye
 				13 Hartom st.
