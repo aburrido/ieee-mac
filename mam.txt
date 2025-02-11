@@ -6926,17 +6926,17 @@ A00000-AFFFFF     (base 16)		Arcteq Relays Ltd.
 				VAASA    65300
 				FI
 
-9C-E5-49   (hex)		INNODEP INC.
-C00000-CFFFFF     (base 16)		INNODEP INC.
-				9F, Hansin IT Tower 2-Cha, 47, Digital-ro 9gil, Geumcheon-gu
-				Seoul    08511
-				KR
-
 9C-E5-49   (hex)		shenzhen Huaxufeng Technology Development Co.,Ltd
 600000-6FFFFF     (base 16)		shenzhen Huaxufeng Technology Development Co.,Ltd
 				Room 1102, Minzhi Youcheng Building, Longhua District, Shenzhen
 				shenzhen  Guangdong  518111
 				CN
+
+9C-E5-49   (hex)		INNODEP INC.
+C00000-CFFFFF     (base 16)		INNODEP INC.
+				9F, Hansin IT Tower 2-Cha, 47, Digital-ro 9gil, Geumcheon-gu
+				Seoul    08511
+				KR
 
 B8-4C-87   (hex)		Shenzhen Link-all Technology Co., Ltd
 300000-3FFFFF     (base 16)		Shenzhen Link-all Technology Co., Ltd
@@ -20323,6 +20323,24 @@ D00000-DFFFFF     (base 16)		UGPA LLC
 				Box 3309
 				Stockholm    10366
 				SE
+
+04-A1-6F   (hex)		DOM Security
+500000-5FFFFF     (base 16)		DOM Security
+				20, Rue de l’Arc de Triomphe
+				Paris    75017
+				FR
+
+04-A1-6F   (hex)		iENSO Inc.
+100000-1FFFFF     (base 16)		iENSO Inc.
+				20 Mural St, Unit 7
+				Richmond Hill  Ontario  L4B1K3
+				CA
+
+9C-E5-49   (hex)		Amoi Mobile Co.,Ltd.
+E00000-EFFFFF     (base 16)		Amoi Mobile Co.,Ltd.
+				Unit 5F-502,Kexun Building,Torch Hi-tech Zone
+				Xiamen  Fujian  361000
+				CN
 
 D0-14-11   (hex)		P.B. Elettronica srl
 100000-1FFFFF     (base 16)		P.B. Elettronica srl
