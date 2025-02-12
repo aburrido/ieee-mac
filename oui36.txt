@@ -7289,12 +7289,6 @@ A0F000-A0FFFF     (base 16)		DORLET SAU
 				Hangzhou  ZheJiang  311100
 				CN
 
-8C-1F-64   (hex)		EA Elektro-Automatik
-0C8000-0C8FFF     (base 16)		EA Elektro-Automatik
-				Helmholtzstraße 31-37
-				Viersen  Nordrhein-Westfalen  41747
-				DE
-
 8C-1F-64   (hex)		HIGH RIGHT CO.,Ltd
 BB4000-BB4FFF     (base 16)		HIGH RIGHT CO.,Ltd
 				No. 14, Gong 3rd Rd., 2nd Industrial Park, Linkou Dist., New Taipei City 244010 , Taiwan (R.O.C.)
@@ -7600,6 +7594,18 @@ A7C000-A7CFFF     (base 16)		Proprietary Controls Systems Corporation
 				Leopoldstr. 2-8
 				Herford    32051
 				DE
+
+8C-1F-64   (hex)		EA Elektro-Automatik GmbH
+0C8000-0C8FFF     (base 16)		EA Elektro-Automatik GmbH
+				Helmholtzstraße 31-37
+				Viersen  Nordrhein-Westfalen  41747
+				DE
+
+8C-1F-64   (hex)		Limitless Electromechanical Works LLC
+091000-091FFF     (base 16)		Limitless Electromechanical Works LLC
+				Light Industrial Units Phase 1, Office 6
+				Dubai Silicon Oasis  Dubai  34646
+				AE
 
 8C-1F-64   (hex)		Jacobs Technology, Inc.
 A98000-A98FFF     (base 16)		Jacobs Technology, Inc.
@@ -14216,12 +14222,6 @@ EDD000-EDDFFF     (base 16)		Solar Network & Partners
 				 Kaohsiung City     802
 				TW
 
-8C-1F-64   (hex)		EA Elektro-Automatik
-C6D000-C6DFFF     (base 16)		EA Elektro-Automatik
-				Helmholtzstraße 31-37
-				Viersen  Nordrhein-Westfalen  41747
-				DE
-
 8C-1F-64   (hex)		Scitel
 558000-558FFF     (base 16)		Scitel
 				FIRST FLOOR, 19/35, MOUNT ROAD, Church Street, Saidapet
@@ -15299,6 +15299,12 @@ E7D000-E7DFFF     (base 16)		AUDIO VISUAL DIGITAL SYSTEMS
 				ALPIGNANO    10091
 				IT
 
+8C-1F-64   (hex)		EA Elektro-Automatik GmbH
+C6D000-C6DFFF     (base 16)		EA Elektro-Automatik GmbH
+				Helmholtzstraße 31-37
+				Viersen  Nordrhein-Westfalen  41747
+				DE
+
 8C-1F-64   (hex)		Vision Systems Safety Tech
 E6F000-E6FFFF     (base 16)		Vision Systems Safety Tech
 				5 Chemin de Chiradie
@@ -15668,12 +15674,6 @@ CB7000-CB7FFF     (base 16)		ARKRAY,Inc.Kyoto Laboratory
 				Melbourne  FL  32904
 				US
 
-8C-1F-64   (hex)		EA Elektro-Automatik
-E92000-E92FFF     (base 16)		EA Elektro-Automatik
-				Helmholtzstraße 31-37
-				Viersen  Nordrhein-Westfalen  41747
-				DE
-
 8C-1F-64   (hex)		Bitmapper Integration Technologies Private Limited
 84A000-84AFFF     (base 16)		Bitmapper Integration Technologies Private Limited
 				Shewale Centre A, Survey No. 22/2 CTS No 4691, 4889, 4990
@@ -15970,12 +15970,6 @@ C52000-C52FFF     (base 16)		Invendis Technologies India Pvt Ltd
 				105 route du Pin Montard
 				BIOT  PACA  06410
 				FR
-
-8C-1F-64   (hex)		EA Elektro-Automatik
-F57000-F57FFF     (base 16)		EA Elektro-Automatik
-				Helmholtzstraße 31-37
-				Viersen  Nordrhein-Westfalen  41747
-				DE
 
 8C-1F-64   (hex)		Flextronics International Kft
 3B0000-3B0FFF     (base 16)		Flextronics International Kft
@@ -21044,12 +21038,6 @@ F54000-F54FFF     (base 16)		Revolution Retail Systems
 				Bellevue  WA  98005
 				US
 
-70-B3-D5   (hex)		Remote Sensing Solutions, Inc.
-3D7000-3D7FFF     (base 16)		Remote Sensing Solutions, Inc.
-				3179 MAIN ST UNIT 3
-				BARNSTABLE  MA  02630
-				US
-
 70-B3-D5   (hex)		ASL Holdings
 F73000-F73FFF     (base 16)		ASL Holdings
 				The Oaks
@@ -22847,6 +22835,30 @@ FC4000-FC4FFF     (base 16)		DORLET SAU
 				Ettenheim    77955
 				DE
 
+70-B3-D5   (hex)		Tomorrow Companies Inc
+3D7000-3D7FFF     (base 16)		Tomorrow Companies Inc
+				3179 MAIN ST UNIT 3
+				BARNSTABLE  MA  02630
+				US
+
+8C-1F-64   (hex)		EA Elektro-Automatik GmbH
+F57000-F57FFF     (base 16)		EA Elektro-Automatik GmbH
+				Helmholtzstraße 31-37
+				Viersen  Nordrhein-Westfalen  41747
+				DE
+
+8C-1F-64   (hex)		EA Elektro-Automatik GmbH
+E92000-E92FFF     (base 16)		EA Elektro-Automatik GmbH
+				Helmholtzstraße 31-37
+				Viersen  Nordrhein-Westfalen  41747
+				DE
+
+8C-1F-64   (hex)		Code Blue Corporation 
+B5F000-B5FFFF     (base 16)		Code Blue Corporation 
+				259 Hedcor Street
+				Holland  MI  49423
+				US
+
 8C-1F-64   (hex)		Flow Power
 82B000-82BFFF     (base 16)		Flow Power
 				Suite 2, Level 3, 18 - 20 York St
@@ -22981,12 +22993,6 @@ D74000-D74FFF     (base 16)		TEX COMPUTER SRL
 				Via O. Respighi 13
 				CATTOLICA   RIMINI   47841
 				IT
-
-8C-1F-64   (hex)		EA Elektro-Automatik
-7B1000-7B1FFF     (base 16)		EA Elektro-Automatik
-				Helmholtzstraße 31-37
-				Viersen  Nordrhein-Westfalen  41747
-				DE
 
 8C-1F-64   (hex)		Potter Electric Signal Co. LLC
 91B000-91BFFF     (base 16)		Potter Electric Signal Co. LLC
@@ -29534,12 +29540,6 @@ B64000-B64FFF     (base 16)		Televic Rail GmbH
 				Milano    20143
 				IT
 
-8C-1F-64   (hex)		EA Elektro-Automatik
-804000-804FFF     (base 16)		EA Elektro-Automatik
-				Helmholtzstraße 31-37
-				Viersen  Nordrhein-Westfalen  41747
-				DE
-
 8C-1F-64   (hex)		Filgis Elektronik
 53C000-53CFFF     (base 16)		Filgis Elektronik
 				Grillparzerstr 42
@@ -29611,12 +29611,6 @@ A33000-A33FFF     (base 16)		RT Vision Technologies PVT LTD
 				7556 SW Bridgeport Road
 				Durham    97224
 				US
-
-8C-1F-64   (hex)		EA Elektro-Automatik
-96A000-96AFFF     (base 16)		EA Elektro-Automatik
-				Helmholtzstraße 31-37
-				Viersen  Nordrhein-Westfalen  41747
-				DE
 
 8C-1F-64   (hex)		Nidec asi spa
 FC1000-FC1FFF     (base 16)		Nidec asi spa
@@ -29884,12 +29878,6 @@ D77000-D77FFF     (base 16)		Private
 				SH 15/79 A, Shivpur
 				Varanasi  Uttar Pradesh  221003
 				IN
-
-8C-1F-64   (hex)		EA Elektro-Automatik
-9D3000-9D3FFF     (base 16)		EA Elektro-Automatik
-				Helmholtzstraße 31-37
-				Viersen  Nordrhein-Westfalen  41747
-				DE
 
 8C-1F-64   (hex)		Skymira
 9F1000-9F1FFF     (base 16)		Skymira
@@ -30461,12 +30449,6 @@ BDF000-BDFFFF     (base 16)		MAS TECHNOLOGY
 				Tirat Hacarmel    3912001
 				IL
 
-8C-1F-64   (hex)		EA Elektro-Automatik
-7E8000-7E8FFF     (base 16)		EA Elektro-Automatik
-				Helmholtzstraße 31-37
-				Viersen  Nordrhein-Westfalen  41747
-				DE
-
 8C-1F-64   (hex)		Private
 59C000-59CFFF     (base 16)		Private
 
@@ -30481,6 +30463,36 @@ BDF000-BDFFFF     (base 16)		MAS TECHNOLOGY
 				1-4-30
 				MEISHINGUCHI,TOYONAKA  OSAKA  561-0841
 				JP
+
+8C-1F-64   (hex)		EA Elektro-Automatik GmbH
+7B1000-7B1FFF     (base 16)		EA Elektro-Automatik GmbH
+				Helmholtzstraße 31-37
+				Viersen  Nordrhein-Westfalen  41747
+				DE
+
+8C-1F-64   (hex)		EA Elektro-Automatik GmbH
+804000-804FFF     (base 16)		EA Elektro-Automatik GmbH
+				Helmholtzstraße 31-37
+				Viersen  Nordrhein-Westfalen  41747
+				DE
+
+8C-1F-64   (hex)		EA Elektro-Automatik GmbH
+96A000-96AFFF     (base 16)		EA Elektro-Automatik GmbH
+				Helmholtzstraße 31-37
+				Viersen  Nordrhein-Westfalen  41747
+				DE
+
+8C-1F-64   (hex)		EA Elektro-Automatik GmbH
+9D3000-9D3FFF     (base 16)		EA Elektro-Automatik GmbH
+				Helmholtzstraße 31-37
+				Viersen  Nordrhein-Westfalen  41747
+				DE
+
+8C-1F-64   (hex)		EA Elektro-Automatik GmbH
+7E8000-7E8FFF     (base 16)		EA Elektro-Automatik GmbH
+				Helmholtzstraße 31-37
+				Viersen  Nordrhein-Westfalen  41747
+				DE
 
 8C-1F-64   (hex)		Mobileye
 D63000-D63FFF     (base 16)		Mobileye
@@ -38035,3 +38047,9 @@ E40000-E40FFF     (base 16)		ThermoG Limited
 				Suite A, 16th Floor, Tesbury Centre, 24-32 Queen's Road East
 				Hong Kong    HK
 				HK
+
+8C-1F-64   (hex)		Modern Server Solutions LLP
+B93000-B93FFF     (base 16)		Modern Server Solutions LLP
+				Saryarka district, Beibitshilik Street, building 14, Office 910
+				Astana    010000
+				KZ
