@@ -6944,6 +6944,12 @@ C00000-CFFFFF     (base 16)		INNODEP INC.
 				Ottawa  Ontario  K1Z 7T2
 				CA
 
+04-A1-6F   (hex)		Suzhou Lianshichuangzhi Technology Co.,Ltd
+200000-2FFFFF     (base 16)		Suzhou Lianshichuangzhi Technology Co.,Ltd
+				Room 201-2-01 ,No.58 Xuyang Road,High-Tech Industrial Zone
+				Suzhou  Jiangsu  215000
+				CN
+
 B8-4C-87   (hex)		Shenzhen Link-all Technology Co., Ltd
 300000-3FFFFF     (base 16)		Shenzhen Link-all Technology Co., Ltd
 				Floor 5th, Block 9th, Sunny Industrial Zone, Xili Town, Nanshan District, Shenzhen, China 
