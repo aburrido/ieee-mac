@@ -15311,6 +15311,18 @@ C6D000-C6DFFF     (base 16)		EA Elektro-Automatik GmbH
 				Viersen  Nordrhein-Westfalen  41747
 				DE
 
+8C-1F-64   (hex)		Ascon Tecnologic S.r.l.
+A4F000-A4FFFF     (base 16)		Ascon Tecnologic S.r.l.
+				via Indipendenza, 56
+				Vigevano  PV  27029
+				IT
+
+8C-1F-64   (hex)		P3LAB
+C79000-C79FFF     (base 16)		P3LAB
+				33 rue du Morimont
+				CEROUX-MOUSTY  Brabant-Wallon  1341
+				BE
+
 8C-1F-64   (hex)		Vision Systems Safety Tech
 E6F000-E6FFFF     (base 16)		Vision Systems Safety Tech
 				5 Chemin de Chiradie
@@ -22853,16 +22865,22 @@ E92000-E92FFF     (base 16)		EA Elektro-Automatik GmbH
 				Viersen  Nordrhein-Westfalen  41747
 				DE
 
-8C-1F-64   (hex)		Code Blue Corporation 
-B5F000-B5FFFF     (base 16)		Code Blue Corporation 
-				259 Hedcor Street
-				Holland  MI  49423
-				US
-
 8C-1F-64   (hex)		Potter Electric Signal Company
 965000-965FFF     (base 16)		Potter Electric Signal Company
 				5757 Phantom Drive
 				Hazelwood  MO  63042
+				US
+
+8C-1F-64   (hex)		Fluid Components Intl
+47B000-47BFFF     (base 16)		Fluid Components Intl
+				1755 La Costa Meadows Dr.
+				San Marcos  CA  92078
+				US
+
+8C-1F-64   (hex)		Code Blue Corporation 
+B5F000-B5FFFF     (base 16)		Code Blue Corporation 
+				259 Hedcor Street
+				Holland  MI  49423
 				US
 
 70-B3-D5   (hex)		Tomorrow Companies Inc
@@ -30512,6 +30530,12 @@ D18000-D18FFF     (base 16)		Wuxi Tongxin Hengtong Technology Co., Ltd.
 				Krakow    30-552
 				PL
 
+8C-1F-64   (hex)		ZER01CHI Corporation
+729000-729FFF     (base 16)		ZER01CHI Corporation
+				Level 27, Tokyo Sankei Building 1-7-2, Otemachi
+				Chiyoda City  Tokyo  100-0004
+				JP
+
 8C-1F-64   (hex)		Mobileye
 D63000-D63FFF     (base 16)		Mobileye
 				13 Hartom st.
@@ -38076,4 +38100,16 @@ B93000-B93FFF     (base 16)		Modern Server Solutions LLP
 BA0000-BA0FFF     (base 16)		JMV LPS LTD
 				W-50, Sec-11 Noida (U.P)
 				Noida   Uttar Pradesh  201301
+				IN
+
+8C-1F-64   (hex)		Xworks NZ Limited
+E1D000-E1DFFF     (base 16)		Xworks NZ Limited
+				29 Alexandra St, Level 1
+				Te Awamutu  Waipa  3800
+				NZ
+
+8C-1F-64   (hex)		DevRay IT Solutions Private Limited
+754000-754FFF     (base 16)		DevRay IT Solutions Private Limited
+				Stellar Jeevan , GH - 03, Sec- 01, Greater Noida,, 2, I.A. Surajpur, Noida,, Noida, GAUTAM BUDDHA NAGAR, 
+				Greater Noida  Uttar Pradesh  201306
 				IN
