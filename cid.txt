@@ -980,12 +980,6 @@ DA19B3                        (base 16)                     LG Uplus
                                                             Englewood Cliffs  NJ  07632                  
                                                             US                                           
 
-EA-BE-A7                      (hex)                         Sonos, Inc.                                  
-EABEA7                        (base 16)                     Sonos, Inc.                                  
-                                                            614 Chapala St                               
-                                                            Santa Barbara  CA  93101                     
-                                                            US                                           
-
 2A-AC-53                      (hex)                         Wolfspyre Labs                               
 2AAC53                        (base 16)                     Wolfspyre Labs                               
                                                             5007 Highland Ct #WPL-IEEE                   
@@ -1159,3 +1153,9 @@ AA78A3                        (base 16)                     Dongguan Yiertek Co.
                                                             Room 901, Building 4, Xinlikang Industrial Park, Huangchong
                                                             Dongguan  China  523000                      
                                                             CN                                           
+
+EA-BE-A7                      (hex)                         Sonos, Inc.                                  
+EABEA7                        (base 16)                     Sonos, Inc.                                  
+                                                            301 Coromar Dr                               
+                                                            Goleta  CA  93117                            
+                                                            US                                           
