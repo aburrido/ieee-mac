@@ -6974,6 +6974,12 @@ D00000-DFFFFF     (base 16)		Zettlab Innovation Technology CO.,LTD
 				Waalwijk  NB  5145PE
 				NL
 
+94-3E-FD   (hex)		Brooks Instrument
+000000-0FFFFF     (base 16)		Brooks Instrument
+				407 W. Vine St.
+				Hatfield  PA  19440
+				US
+
 B8-4C-87   (hex)		Shenzhen Link-all Technology Co., Ltd
 300000-3FFFFF     (base 16)		Shenzhen Link-all Technology Co., Ltd
 				Floor 5th, Block 9th, Sunny Industrial Zone, Xili Town, Nanshan District, Shenzhen, China 
@@ -20438,6 +20444,12 @@ B00000-BFFFFF     (base 16)		Chroma-Q
 				Singapore    737778
 				SG
 
+94-3E-FD   (hex)		KulpLights LLC
+D00000-DFFFFF     (base 16)		KulpLights LLC
+				30 Perry Henderson Dr
+				Framingham  MA  01701
+				US
+
 D0-14-11   (hex)		P.B. Elettronica srl
 100000-1FFFFF     (base 16)		P.B. Elettronica srl
 				Via Santorelli, 8
@@ -27208,6 +27220,12 @@ B00000-BFFFFF     (base 16)		SHENZHEN LINGDU AUTO ELECTRONICS CO.,LTD
 				A2(Block 7), Liangjiang Semiconductor Industrial Park, Shuitu Street, Beibei District, 
 				Chongqing    400000
 				CN
+
+94-3E-FD   (hex)		AM General LLC
+500000-5FFFFF     (base 16)		AM General LLC
+				1399 Pacific Drive
+				Auburn Hills  MI  48326
+				US
 
 C8-5C-E2   (hex)		Fela Management AG 
 000000-0FFFFF     (base 16)		Fela Management AG 
