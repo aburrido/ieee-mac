@@ -15359,6 +15359,12 @@ C6D000-C6DFFF     (base 16)		EA Elektro-Automatik GmbH
 				Delhi  Delhi  110039
 				IN
 
+8C-1F-64   (hex)		SPEKTRA Schwingungstechnik und Akustik GmbH Dresden
+523000-523FFF     (base 16)		SPEKTRA Schwingungstechnik und Akustik GmbH Dresden
+				Heidelberger Str. 12
+				Dresden    01189
+				DE
+
 8C-1F-64   (hex)		Tomorrow Companies Inc
 42F000-42FFFF     (base 16)		Tomorrow Companies Inc
 				9 Channel Center St, 7th Floor
@@ -30601,6 +30607,12 @@ D18000-D18FFF     (base 16)		Wuxi Tongxin Hengtong Technology Co., Ltd.
 				Level 27, Tokyo Sankei Building 1-7-2, Otemachi
 				Chiyoda City  Tokyo  100-0004
 				JP
+
+8C-1F-64   (hex)		Frazer-Nash Consultancy
+FA5000-FA5FFF     (base 16)		Frazer-Nash Consultancy
+				Hill Park South, Springfield Drive
+				Leatherhead  Surrey  KT22 7LH
+				GB
 
 8C-1F-64   (hex)		PROSECURE FZCO
 B6F000-B6FFFF     (base 16)		PROSECURE FZCO
