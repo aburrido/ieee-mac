@@ -1273,6 +1273,7 @@ MA-S,8C1F64D00,POLAK CZ s.r.o.,Opatov 348 Opatov Svitavy CZ 568 02
 MA-S,8C1F64F9B,Elsist Srl,"Via G. Brodolini, 15 Casale Monf.to Alessandria IT 15033 "
 MA-S,8C1F64407,broadtek,"No 301~303,unit D,40, Imi-ro, Uiwang-si, Gyeonggi-do, Republic of Korea Uiwang-si  KR 16006 "
 MA-S,8C1F64AC8,Teledatics Incorporated,9 Cornerstone Sq Westford MA US 01886 
+MA-S,8C1F64345,"Kreafeuer AG, Swiss finsh",Bernstarsse 261 Heimberg Bern CH 3627 
 MA-S,8C1F64A98,"Jacobs Technology, Inc.",7765 Old Telegraph Road Severn MD US 21144 
 MA-S,8C1F644A9,Martec Marine S.p.a.,Via dell'industria 1/3 Vignate Milano IT 20052 
 MA-S,8C1F64E80,"Power Electronics Espana, S.L.","C/ Leonardo Da Vinci, 24-26 Paterna Valencia ES 46980 "
@@ -1839,7 +1840,6 @@ MA-S,70B3D530F,Cardinal Scales Manufacturing Co,203 East Daugherty Street Webb C
 MA-S,70B3D56CB,NAJIN automation,"7F Rm.144, Hyoryeong-Ro 304 Seocho-Gu Seoul KR 06720 "
 MA-S,70B3D5EC3,Virtual Control Systems Ltd,"27 Main Street, Overton Morecambe Lancashire GB LA3 3HF "
 MA-S,70B3D5B9A,Potter Electric Signal Co. LLC,1609 Park 370 Place Hazelwood MO US 63042 
-MA-S,70B3D5A84,SOREL GmbH Mikroelektronik,REME-Str. 12 Wetter  DE 58300 
 MA-S,70B3D5990,Energy Wall,1002 New Holland Ave Lancaster PA US 17601 
 MA-S,70B3D549E,"CAPTEMP, Lda","Rua São João, s/n - Ladeira das Leais Pombal  PT 3100-346 "
 MA-S,70B3D5D01,Vision4ce Ltd,"Unit 4, Wokingham Commercial Centre Wokingham Berkshire GB RG41 2RF "
@@ -2563,6 +2563,7 @@ MA-S,8C1F6498A,LIGPT,"167, Jukdong-ro Daejeon  Yuseong-gu KR 34127 "
 MA-S,8C1F6430C,Narnix Edge Pvt. Ltd.,"Plot No 216, Ground Floor, Pkt-K, Sec-5, DSIDC BAWANA Delhi Delhi IN 110039 "
 MA-S,8C1F64523,SPEKTRA Schwingungstechnik und Akustik GmbH Dresden,Heidelberger Str. 12 Dresden  DE 01189 
 MA-S,8C1F6442F,Tomorrow Companies Inc,"9 Channel Center St, 7th Floor Boston MA US 02210 "
+MA-S,70B3D5A84,SOREL GmbH,REME-Str. 12 Wetter  DE 58300 
 MA-S,8C1F64E6F,Vision Systems Safety Tech,5 Chemin de Chiradie Brignais  FR 69530 
 MA-S,70B3D5119,YPP Corporation,24 Geumchon-gu Seoul KR 153-802 
 MA-S,70B3D5159,RCH SPA,Via Cendon 39 Silea  IT 31057 
@@ -3830,6 +3831,7 @@ MA-S,70B3D53D7,Tomorrow Companies Inc,"9 Channel Center St, 7th Floor Boston MA 
 MA-S,8C1F64D19,YNM SYSTEMS INC.,"A-1224, 135 Gasan digital 2-ro, Geumcheon-gu Seoul  KR 08504 "
 MA-S,8C1F646C8,Taiko Audio B.V.,Zandbreeweg 6 Oldenzaal Overijssel NL 7577 BZ 
 MA-S,8C1F64B61,Breas Medical AB,Företagsvägen 1 Mölnlycke  SE SE-435 33 
+MA-S,8C1F64277,"FAST PHOTONICS HK CO., LIMITED","FLAT/RM B3, 19/F, TUNG LEE COMMERCIAL BUILDING, 91-97 JERVOIS STREET, SHEUNG WAN HONG KONG  CN HK "
 MA-S,8C1F6482B,Flow Power,"Suite 2, Level 3, 18 - 20 York St Sydney  AU 2000 "
 MA-S,8C1F64049,NUANCES ORG,92 AVENUE DE WAGRAM PARIS  FR 75017 
 MA-S,8C1F644F6,Private,
@@ -5111,6 +5113,8 @@ MA-S,8C1F64D18,"Wuxi Tongxin Hengtong Technology Co., Ltd.","8th Floor, Building
 MA-S,8C1F64729,ZER01CHI Corporation,"Level 27, Tokyo Sankei Building 1-7-2, Otemachi Chiyoda City Tokyo JP 100-0004 "
 MA-S,8C1F64FA5,Frazer-Nash Consultancy,"Hill Park South, Springfield Drive Leatherhead Surrey GB KT22 7LH "
 MA-S,8C1F64B6F,PROSECURE FZCO,"IFZA Business Park, Dubai Silicon Oasis Dubai Dubai AE 3876 "
+MA-S,8C1F648F5,DAVE SRL,Via Talponedo 29a Porcia Pordenone IT 33080 
+MA-S,8C1F64FE1,SOREL GmbH,REME-Str. 12 Wetter  DE 58300 
 MA-S,8C1F64D63,Mobileye,13 Hartom st. Jerusalem  IL 91450 
 MA-S,8C1F643C8,BTG Instruments AB,Industrigatan 1-3 Saffle Varmland SE 66132 
 MA-S,70B3D590E,Maytronics Ltd.,Kibbutz Yizrael Kibbutz Yizrael  IL 1935000 
