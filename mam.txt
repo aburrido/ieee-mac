@@ -6992,6 +6992,18 @@ D00000-DFFFFF     (base 16)		Zettlab Innovation Technology CO.,LTD
 				Kowloon    999077
 				HK
 
+6C-27-C8   (hex)		Sensio AS
+B00000-BFFFFF     (base 16)		Sensio AS
+				Nordre Fokserød 12
+				SANDEFJORD    3241
+				NO
+
+6C-27-C8   (hex)		BG T&A CO.
+D00000-DFFFFF     (base 16)		BG T&A CO.
+				6F, L&C Tower,153-18 LS-ro,
+				Gunpo-si  Kyeonggi-do  15808
+				KR
+
 B8-4C-87   (hex)		Shenzhen Link-all Technology Co., Ltd
 300000-3FFFFF     (base 16)		Shenzhen Link-all Technology Co., Ltd
 				Floor 5th, Block 9th, Sunny Industrial Zone, Xili Town, Nanshan District, Shenzhen, China 
@@ -13480,6 +13492,12 @@ E00000-EFFFFF     (base 16)		Annapurna labs
 				Matam Scientific Industries Center,   Building 8.2
 				Mail box 15123  Haifa  3508409
 				IL
+
+6C-27-C8   (hex)		Mitsubishi Electric Europe B.V UK Branch
+900000-9FFFFF     (base 16)		Mitsubishi Electric Europe B.V UK Branch
+				Travelers Lane  
+				Hatfield    AL10 8XB
+				GB
 
 B8-4C-87   (hex)		Altronix , Corp
 A00000-AFFFFF     (base 16)		Altronix , Corp
