@@ -13499,6 +13499,12 @@ E00000-EFFFFF     (base 16)		Annapurna labs
 				Hatfield    AL10 8XB
 				GB
 
+6C-27-C8   (hex)		Reduxi GmbH
+200000-2FFFFF     (base 16)		Reduxi GmbH
+				Europaplatz 2
+				Vienna    1150
+				AT
+
 B8-4C-87   (hex)		Altronix , Corp
 A00000-AFFFFF     (base 16)		Altronix , Corp
 				140 58th St. Bldg A, Ste 2N
