@@ -16922,12 +16922,6 @@ F58000-F58FFF                 (base 16)                     IEEE Registration Au
                                                             Rishon Le Zion  Israel  75654                
                                                             US                                           
 
-40-D8-55                      (hex)                         MG S.r.l.                                    
-1CB000-1CBFFF                 (base 16)                     MG S.r.l.                                    
-                                                            via Monte Bianco, 1                          
-                                                            SOlbiate Olona  VA  21058                    
-                                                            IT                                           
-
 40-D8-55                      (hex)                         Owl Cyber Defense Solutions, LLC             
 1D8000-1D8FFF                 (base 16)                     Owl Cyber Defense Solutions, LLC             
                                                             38A Grove Street                             
@@ -21558,6 +21552,12 @@ DD6000-DD6FFF                 (base 16)                     Wartsila Voyage Oy
 128000-128FFF                 (base 16)                     AKSE srl                                     
                                                             Via Aldo Moro, 39                            
                                                             Reggio Emilia  Italy  42124                  
+                                                            IT                                           
+
+40-D8-55                      (hex)                         MG s.r.l.                                    
+1CB000-1CBFFF                 (base 16)                     MG s.r.l.                                    
+                                                            via Monte Bianco, 1                          
+                                                            SOlbiate Olona  VA  21058                    
                                                             IT                                           
 
 00-50-C2                      (hex)                         RF Code                                      
