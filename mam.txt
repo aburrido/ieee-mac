@@ -7004,6 +7004,12 @@ D00000-DFFFFF     (base 16)		BG T&A CO.
 				Gunpo-si  Kyeonggi-do  15808
 				KR
 
+6C-27-C8   (hex)		PickUp Kft.
+400000-4FFFFF     (base 16)		PickUp Kft.
+				Bajcsy-Zsilinszky Endre utca 8.
+				Komárom    2900
+				HU
+
 B8-4C-87   (hex)		Shenzhen Link-all Technology Co., Ltd
 300000-3FFFFF     (base 16)		Shenzhen Link-all Technology Co., Ltd
 				Floor 5th, Block 9th, Sunny Industrial Zone, Xili Town, Nanshan District, Shenzhen, China 
@@ -13504,6 +13510,12 @@ E00000-EFFFFF     (base 16)		Annapurna labs
 				Europaplatz 2
 				Vienna    1150
 				AT
+
+6C-27-C8   (hex)		Chongqing Seres Phoenix Intelligent Innovation Technology Co.,Ltd.
+100000-1FFFFF     (base 16)		Chongqing Seres Phoenix Intelligent Innovation Technology Co.,Ltd.
+				No.3 Building, Office Building of Seres Group, No.7 Wuyunhu Road, Shapingba District, Chongqing
+				Chongqing    401335
+				CN
 
 B8-4C-87   (hex)		Altronix , Corp
 A00000-AFFFFF     (base 16)		Altronix , Corp
