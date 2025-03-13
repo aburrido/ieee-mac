@@ -22634,12 +22634,6 @@ CC7000-CC7FFF                 (base 16)                     TOPROOTTechnology Co
                                                               Toyama  930-8511                           
                                                             JP                                           
 
-40-D8-55                      (hex)                         Parallel Wireless                            
-065000-065FFF                 (base 16)                     Parallel Wireless                            
-                                                            1 Tara Blvd                                  
-                                                            Nashua  NH  03062                            
-                                                            US                                           
-
 40-D8-55                      (hex)                         Sphere Medical Ltd                           
 074000-074FFF                 (base 16)                     Sphere Medical Ltd                           
                                                             Harston Mill                                 
@@ -27379,3 +27373,9 @@ DB7000-DB7FFF                 (base 16)                     SOREL GmbH
                                                             Jahnstrasse 36                               
                                                             Sprockhovel    45549                         
                                                             DE                                           
+
+40-D8-55                      (hex)                         Parallel Wireless, Inc                       
+065000-065FFF                 (base 16)                     Parallel Wireless, Inc                       
+                                                            1 Tara Blvd                                  
+                                                            Nashua  NH  03062                            
+                                                            US                                           

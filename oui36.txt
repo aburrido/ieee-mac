@@ -22997,6 +22997,12 @@ A39000-A39FFF     (base 16)		MG s.r.l.
 				Solbiate Olona  VA  21058
 				IT
 
+8C-1F-64   (hex)		Retronix Technology Inc.
+127000-127FFF     (base 16)		Retronix Technology Inc.
+				5F., No.15, Ln. 48, Xingshan Rd., Neihu Dist.,
+				Taipei City    114
+				TW
+
 8C-1F-64   (hex)		Flow Power
 82B000-82BFFF     (base 16)		Flow Power
 				Suite 2, Level 3, 18 - 20 York St
@@ -30674,12 +30680,6 @@ FE1000-FE1FFF     (base 16)		SOREL GmbH
 				Wetter    58300
 				DE
 
-8C-1F-64   (hex)		Profcon AB
-26B000-26BFFF     (base 16)		Profcon AB
-				Victor Hasselblads gata 9
-				Västra Frölunda    42131
-				SE
-
 8C-1F-64   (hex)		Talleres de Escoriaza SAU
 849000-849FFF     (base 16)		Talleres de Escoriaza SAU
 				Barrio Ventas 35, Irun
@@ -30697,6 +30697,12 @@ FDB000-FDBFFF     (base 16)		DeepSenXe International ltd.
 				Ignatki, ul. Wspólna 19
 				Kleosin  No States Found. Use Address  16-001
 				PL
+
+8C-1F-64   (hex)		Profcon AB
+26B000-26BFFF     (base 16)		Profcon AB
+				Victor Hasselblads gata 9
+				Västra Frölunda    42131
+				SE
 
 8C-1F-64   (hex)		Mobileye
 D63000-D63FFF     (base 16)		Mobileye
@@ -38287,3 +38293,9 @@ BA0000-BA0FFF     (base 16)		JMV LPS LTD
 				Rudolf-Diesel-Str. 24-28
 				Wiesloch-Baiertal    69168
 				DE
+
+8C-1F-64   (hex)		BRS Sistemas Eletrônicos
+3DB000-3DBFFF     (base 16)		BRS Sistemas Eletrônicos
+				Rua Capistrano de Abreu, 68
+				Canoas  RS  92120130
+				BR
