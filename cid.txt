@@ -224,6 +224,12 @@ EA34B4                        (base 16)                     ThinkRF Inc.
                                                             Highland Heights  OH  44143                  
                                                             US                                           
 
+FA-7A-CB                      (hex)                         Ultra Ethernet Consortium                    
+FA7ACB                        (base 16)                     Ultra Ethernet Consortium                    
+                                                            c/o The Linux Foundation, 548 Market St. PMB 57274
+                                                            San Francisco  CA  94104-5401                
+                                                            US                                           
+
 CA-C2-76                      (hex)                         Saab Seaeye Ltd                              
 CAC276                        (base 16)                     Saab Seaeye Ltd                              
                                                             20 Brunel Way                                
@@ -325,12 +331,6 @@ EAB89B                        (base 16)                     Thread Group, Inc.
                                                             2083 Old Middlefield Way #204                
                                                             Mountain View  CA  94043                     
                                                             US                                           
-
-BA-A2-D0                      (hex)                         Wireless Broadband Alliance Ltd              
-BAA2D0                        (base 16)                     Wireless Broadband Alliance Ltd              
-                                                            3 Tai Seng Dr #04-01                         
-                                                            Singapore    535216                          
-                                                            SG                                           
 
 BA-F2-1C                      (hex)                         ISO/TC22/SC31                                
 BAF21C                        (base 16)                     ISO/TC22/SC31                                
@@ -494,6 +494,12 @@ CA083C                        (base 16)                     Western Digital Tech
                                                             San Jose  CA  95119-1003                     
                                                             US                                           
 
+BA-A2-D0                      (hex)                         Wireless Broadband Alliance, Inc             
+BAA2D0                        (base 16)                     Wireless Broadband Alliance, Inc             
+                                                            5000 Executive Parkway, Suite 302            
+                                                            San Ramon  CA  94583                         
+                                                            SG                                           
+
 8A-85-2E                      (hex)                         Kampr Systems                                
 8A852E                        (base 16)                     Kampr Systems                                
                                                             2047 Kings Lane                              
@@ -589,12 +595,6 @@ EA1ED0                        (base 16)                     ZIGPOS GmbH
                                                             3855 SW 153RD Drive                          
                                                             Beaverton  OR  97003                         
                                                             US                                           
-
-5A-03-BA                      (hex)                         Wireless Broadband Alliance Ltd              
-5A03BA                        (base 16)                     Wireless Broadband Alliance Ltd              
-                                                            3 Tai Seng Dr #04-01                         
-                                                            Singapore    535216                          
-                                                            SG                                           
 
 EA-BC-04                      (hex)                         G3-PLC Alliance                              
 EABC04                        (base 16)                     G3-PLC Alliance                              
@@ -721,6 +721,12 @@ EADA6E                        (base 16)                     FUJIFILM Recording M
                                                             3 Floor, No.6-8, Duxing Rd.,Hsinchu Science-Park
                                                             Hsinchu    30078                             
                                                             TW                                           
+
+5A-03-BA                      (hex)                         Wireless Broadband Alliance, Inc             
+5A03BA                        (base 16)                     Wireless Broadband Alliance, Inc             
+                                                            5000 Executive Parkway, Suite 302            
+                                                            San Ramon  CA  94583                         
+                                                            SG                                           
 
 DA-C4-51                      (hex)                         Takaratomy                                   
 DAC451                        (base 16)                     Takaratomy                                   

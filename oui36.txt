@@ -15413,6 +15413,12 @@ D30000-D30FFF     (base 16)		FMC Technologies Measurement Solutions Inc
 				Offenburg  BW  77656
 				DE
 
+8C-1F-64   (hex)		HORIZON.INC
+F0A000-F0AFFF     (base 16)		HORIZON.INC
+				1600 Aza-Shironoshita Asahi
+				Shin Asahi-cho, Takashima  Shiga  520-1501
+				JP
+
 8C-1F-64   (hex)		Vision Systems Safety Tech
 E6F000-E6FFFF     (base 16)		Vision Systems Safety Tech
 				5 Chemin de Chiradie
@@ -23014,6 +23020,12 @@ A39000-A39FFF     (base 16)		MG s.r.l.
 				5F., No.15, Ln. 48, Xingshan Rd., Neihu Dist.,
 				Taipei City    114
 				TW
+
+8C-1F-64   (hex)		INNOS TECHNOLOGIES
+BFD000-BFDFFF     (base 16)		INNOS TECHNOLOGIES
+				25 Sheppard Avenue West, Suite #300
+				North York  Ontario  M4N 6S6
+				CA
 
 8C-1F-64   (hex)		Flow Power
 82B000-82BFFF     (base 16)		Flow Power
@@ -30716,6 +30728,12 @@ FDB000-FDBFFF     (base 16)		DeepSenXe International ltd.
 				Västra Frölunda    42131
 				SE
 
+8C-1F-64   (hex)		Newtouch Electronics (Shanghai) Co., LTD.
+6CC000-6CCFFF     (base 16)		Newtouch Electronics (Shanghai) Co., LTD.
+				No.489 Songtao Road, Building B, Gate C, Pudong New Area
+				Shanghai    200120
+				CN
+
 8C-1F-64   (hex)		Mobileye
 D63000-D63FFF     (base 16)		Mobileye
 				13 Hartom st.
@@ -38316,4 +38334,10 @@ E1C000-E1CFFF     (base 16)		CLOUD TELECOM Inc.
 6B6000-6B6FFF     (base 16)		Engelmann Sensor GmbH
 				Rudolf-Diesel-Str. 24-28
 				Wiesloch-Baiertal    69168
+				DE
+
+8C-1F-64   (hex)		INTRONIK GmbH
+B88000-B88FFF     (base 16)		INTRONIK GmbH
+				Am Promigberg 8
+				Dresden  SN  01108
 				DE
