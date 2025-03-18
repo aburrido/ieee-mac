@@ -7022,6 +7022,18 @@ F8-2B-E6   (hex)		Coastal Source
 				Moorestown  NJ  08057
 				US
 
+F8-2B-E6   (hex)		Wistron Corporation
+400000-4FFFFF     (base 16)		Wistron Corporation
+				No. 1, Zhihui Rd.,Zhubei City
+				Hsinchu County    302
+				TW
+
+F8-2B-E6   (hex)		Flextronics Computing（SuZhou)Co.,LTD.
+200000-2FFFFF     (base 16)		Flextronics Computing（SuZhou)Co.,LTD.
+				No.1 Guanpu Road, Guoxiang Street, Wuzhong District,Suzhou, Jiangsu, China
+				Suzhou    215128
+				CN
+
 B8-4C-87   (hex)		Shenzhen Link-all Technology Co., Ltd
 300000-3FFFFF     (base 16)		Shenzhen Link-all Technology Co., Ltd
 				Floor 5th, Block 9th, Sunny Industrial Zone, Xili Town, Nanshan District, Shenzhen, China 
@@ -13552,6 +13564,12 @@ F8-2B-E6   (hex)		Annapurna labs
 				Matam Scientific Industries Center,   Building 8.2
 				Mail box 15123  Haifa  3508409
 				IL
+
+F8-2B-E6   (hex)		ATHEER CONNECTIVITY
+D00000-DFFFFF     (base 16)		ATHEER CONNECTIVITY
+				4196 Mohammad Bin Salman Street
+				Riyadh  Riyadh  13516
+				SA
 
 B8-4C-87   (hex)		Altronix , Corp
 A00000-AFFFFF     (base 16)		Altronix , Corp
@@ -20575,6 +20593,12 @@ C00000-CFFFFF     (base 16)		Maia Tech, Inc
 				77 S. Bedford Street
 				Burlington  MA  01803
 				US
+
+F8-2B-E6   (hex)		Hitek Electronics Co.,Ltd
+800000-8FFFFF     (base 16)		Hitek Electronics Co.,Ltd
+				203-404,397 Seokcheon-ro,Ojeong-gu,Bucheon-si,Gyeonggi-do,14449,Republic of korea
+				Bucheon-si  Gyeonggi-do  14449
+				KR
 
 D0-14-11   (hex)		P.B. Elettronica srl
 100000-1FFFFF     (base 16)		P.B. Elettronica srl
