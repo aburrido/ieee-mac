@@ -7436,6 +7436,7 @@ MA-L,F0A731,TP-Link Systems Inc,"Room 901,9/F.New East Ocean Centre, 9 Science M
 MA-L,48FC07,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
 MA-L,A8EE67,"Samsung Electronics Co.,Ltd","129, Samsung-ro, Youngtongl-Gu Suwon Gyeonggi-Do KR 16677 "
 MA-L,94FF06,Hewlett Packard Enterprise,6280 America Center Dr San Jose CA US 95002 
+MA-L,B841D9,Guangzhou Shiyuan Electronic Technology Company Limited,"No.6, 4th Yunpu Road, Yunpu industry District Guangzhou Guangdong CN 510530 "
 MA-L,000130,Extreme Networks Headquarters,2121 RDU Center Drive  Morrisville NC US 27560 
 MA-L,FC0A81,Extreme Networks Headquarters,2121 RDU Center Drive  Morrisville NC US 27560 
 MA-L,00749C,"Ruijie Networks Co.,LTD","19# Building,Star-net Science Plaza,Juyuanzhou, 618 Jinshan Road Fuzhou Fujian CN 350002 "
@@ -14778,14 +14779,17 @@ MA-L,687FF0,TP-Link Systems Inc,"Room 901,9/F.New East Ocean Centre, 9 Science M
 MA-L,30DE4B,TP-Link Systems Inc,"Room 901,9/F.New East Ocean Centre, 9 Science Museum Road  Tsim Sha Tsui Kowloon HK 999077 "
 MA-L,A842A1,TP-Link Systems Inc,"Room 901,9/F.New East Ocean Centre, 9 Science Museum Road  Tsim Sha Tsui Kowloon HK 999077 "
 MA-L,000302,Charles Industries,5600 Apollo Drive Rolling Meadows IL US 60008 
-MA-L,D4B4C0,"Fortinet, Inc.",899 Kifer Road Sunnyvale  US 94086 
-MA-L,8C9A8F,Sagemcom Broadband SAS,"250, route de l'Empereur Rueil Malmaison Cedex hauts de seine FR 92848 "
-MA-L,10666A,Zabbly,24 Saxby S Shefford QC CA J2M1S2 
-MA-L,4027A8,Cisco Meraki,500 Terry A. Francois Blvd San Francisco  US 94158 
-MA-L,B882F2,Wistron Neweb Corporation,"No.20,Park Avenue II,Hsinchu Science Park Hsin-Chu R.O.C. TW 308 "
 MA-L,A40B78,"FAST PHOTONICS HK CO., LIMITED","FLAT/RM B3, 19/F, TUNG LEE COMMERCIAL BUILDING, 91-97 JERVOIS STREET, SHEUNG WAN HONG KONG  CN HK "
 MA-L,F83EB0,Arcadyan Corporation,"No.8, Sec.2, Guangfu Rd. Hsinchu City Hsinchu TW 30071 "
 MA-L,D4808B,Seiko Epson Corporation,2070 Kotobuki Koaka Matsumoto-shi Nagano-ken JP 399-8702 
+MA-L,8C9A8F,Sagemcom Broadband SAS,"250, route de l'Empereur Rueil Malmaison Cedex hauts de seine FR 92848 "
+MA-L,10666A,Zabbly,24 Saxby S Shefford QC CA J2M1S2 
+MA-L,B882F2,Wistron Neweb Corporation,"No.20,Park Avenue II,Hsinchu Science Park Hsin-Chu R.O.C. TW 308 "
+MA-L,8CCD55,EM Microelectronic,Rue des Sors 3 Marin-Epagnier Neuchatel CH 2074 
+MA-L,4027A8,Cisco Meraki,500 Terry A. Francois Blvd San Francisco  US 94158 
+MA-L,D4B4C0,"Fortinet, Inc.",899 Kifer Road Sunnyvale  US 94086 
+MA-L,F4462A,maxon zub,Buzibachstrasse 31 Rothenburg  CH 6023 
+MA-L,CC3BFB,Ring LLC,12515 Cerise Ave Hawthorne CA US 90250 
 MA-L,6C8720,"New H3C Technologies Co., Ltd","466 Changhe Road, Binjiang District Hangzhou Zhejiang CN 310052 "
 MA-L,0C8D7A,RADiflow,HaBarzel St 38 Tel-Aviv  IL 6971054 
 MA-L,FCA9F5,Xiaomi Communications Co Ltd,"#019, 9th Floor, Building 6, 33 Xi'erqi Middle Road Beijing Haidian District CN 100085 "
@@ -22183,10 +22187,12 @@ MA-L,E848B8,TP-Link Systems Inc,"Room 901,9/F.New East Ocean Centre, 9 Science M
 MA-L,4CDE48,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
 MA-L,F0090D,TP-Link Systems Inc,7 Temasek Boulevard #29-03 Suntec Tower One Singapore  SG 038987 
 MA-L,F82BE6,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
-MA-L,98E55B,Intelbras,"BR 101, km 210, S/N° São José Santa Catarina BR 88104800 "
-MA-L,006201,"Motorola Mobility LLC, a Lenovo Company",222 West Merchandise Mart Plaza Chicago IL US 60654 
 MA-L,E4A430,"Samsung Electronics Co.,Ltd","129, Samsung-ro, Youngtongl-Gu Suwon Gyeonggi-Do KR 16677 "
 MA-L,183D2D,"LCFC(Hefei) Electronics Technology co., ltd","No. 3188-1 Yungu Road (Comprehensive Bonded Zone), Hefei Economic & Technological Development Area，Anhui HEFEI ANHUI CN 230601 "
+MA-L,006201,"Motorola Mobility LLC, a Lenovo Company",222 West Merchandise Mart Plaza Chicago IL US 60654 
+MA-L,08CE94,EM Microelectronic,Rue des Sors 3 Marin-Epagnier Neuchatel CH 2074 
+MA-L,98E55B,Intelbras,"BR 101, km 210, S/N° São José Santa Catarina BR 88104800 "
+MA-L,C0BA1F,Private,
 MA-L,B00C9D,"Quectel Wireless Solutions Co.,Ltd.","7th Floor, Hongye Building, No.1801 Hongmei Road, Xuhui District Shanghai  CN 200233 "
 MA-L,F0AB1F,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
 MA-L,7CB30A,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
@@ -29667,6 +29673,8 @@ MA-L,D484D0,Shanghai Xiaodu Technology Limited,"	4th Floor Building No.1 , No.70
 MA-L,441524,Sagemcom Broadband SAS,"250, route de l'Empereur Rueil Malmaison Cedex hauts de seine FR 92848 "
 MA-L,C8A1DC,"Motorola Mobility LLC, a Lenovo Company",222 West Merchandise Mart Plaza Chicago IL US 60654 
 MA-L,A02884,Garmin International,1200 E. 151st St Olathe KS US 66062 
+MA-L,0C4EA0,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+MA-L,30ACED,Packet Clearing House,49 Boulevard de La Tour-Maubourg Paris Paris FR 75007 
 MA-L,C85CE2,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
 MA-L,DCEE14,ADT Technology,"Room 325, 3rd Floor, Building F, Xinmao Science and Technology Park, Huayuan Industrial Zone Tianjin Tianjin CN 300384 "
 MA-L,E84A54,"Beijing Xiaomi Mobile Software Co., Ltd","The Rainbow City Office Building, 68 Qinghe Middle Street Haidian District Beijing Beijing CN 100085 "
@@ -37075,3 +37083,5 @@ MA-L,60A4B7,TP-Link Systems Inc,"Room 901,9/F.New East Ocean Centre, 9 Science M
 MA-L,FC4CEF,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
 MA-L,ACC3E5,Cisco Meraki,500 Terry A. Francois Blvd San Francisco  US 94158 
 MA-L,D8B293,TOPSSD,"Room101,Building#11,Xingong Industrial Park, No.100 Luyun Road, Yuelu District Changsha Hunan CN 410000 "
+MA-L,443659,Robert Bosch GmbH,Robert-Bosch-Platz 1 Gerlingen-Schillerhöhe  DE 70839 
+MA-L,28562F,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
