@@ -7028,12 +7028,6 @@ F8-2B-E6   (hex)		Wistron Corporation
 				Hsinchu County    302
 				TW
 
-F8-2B-E6   (hex)		Flextronics Computing（SuZhou)Co.,LTD.
-200000-2FFFFF     (base 16)		Flextronics Computing（SuZhou)Co.,LTD.
-				No.1 Guanpu Road, Guoxiang Street, Wuzhong District,Suzhou, Jiangsu, China
-				Suzhou    215128
-				CN
-
 F8-2B-E6   (hex)		ViewSonic Corp
 000000-0FFFFF     (base 16)		ViewSonic Corp
 				10 Point Drive Brea, CA 92821 USA
@@ -7044,6 +7038,12 @@ F8-2B-E6   (hex)		Shenzhen C & D Electronics Co., Ltd.
 B00000-BFFFFF     (base 16)		Shenzhen C & D Electronics Co., Ltd.
 				9th FIoor, Building 9, No.1 Qingxiang road, BaoNeng Science and TechnoIogy Industrial Park, Longhua New District
 				ShenZhen  GuangDong  518000
+				CN
+
+F8-2B-E6   (hex)		Flextronics Computing（SuZhou)Co.,LTD.
+200000-2FFFFF     (base 16)		Flextronics Computing（SuZhou)Co.,LTD.
+				No.1 Guanpu Road, Guoxiang Street, Wuzhong District,Suzhou, Jiangsu, China
+				Suzhou    215128
 				CN
 
 B8-4C-87   (hex)		Shenzhen Link-all Technology Co., Ltd
@@ -13571,17 +13571,17 @@ F8-2B-E6   (hex)		S-BOND TECHNOLOGY CORP.
 				New Taipei City  Taiwan (R.O.C.)  23107
 				TW
 
-F8-2B-E6   (hex)		Annapurna labs
-900000-9FFFFF     (base 16)		Annapurna labs
-				Matam Scientific Industries Center,   Building 8.2
-				Mail box 15123  Haifa  3508409
-				IL
-
 F8-2B-E6   (hex)		ATHEER CONNECTIVITY
 D00000-DFFFFF     (base 16)		ATHEER CONNECTIVITY
 				4196 Mohammad Bin Salman Street
 				Riyadh  Riyadh  13516
 				SA
+
+F8-2B-E6   (hex)		Annapurna labs
+900000-9FFFFF     (base 16)		Annapurna labs
+				Matam Scientific Industries Center,   Building 8.2
+				Mail box 15123  Haifa  3508409
+				IL
 
 B8-4C-87   (hex)		Altronix , Corp
 A00000-AFFFFF     (base 16)		Altronix , Corp
@@ -20612,6 +20612,12 @@ F8-2B-E6   (hex)		Hitek Electronics Co.,Ltd
 				Bucheon-si  Gyeonggi-do  14449
 				KR
 
+F8-2B-E6   (hex)		Wayren OÜ
+600000-6FFFFF     (base 16)		Wayren OÜ
+				Järvevana tee 7b
+				TALLINN  Harjumaa  10112
+				EE
+
 D0-14-11   (hex)		P.B. Elettronica srl
 100000-1FFFFF     (base 16)		P.B. Elettronica srl
 				Via Santorelli, 8
@@ -27400,6 +27406,12 @@ C00000-CFFFFF     (base 16)		Annapurna labs
 				Heerstraße 149
 				Frankfurt am Main  Hessen  60488
 				DE
+
+F8-2B-E6   (hex)		Suzhou Etag-Technology Corporation
+E00000-EFFFFF     (base 16)		Suzhou Etag-Technology Corporation
+				Room 1506,building E, Nanotechnology University Sciene park, No.388 Ruoshuiroad,Suzhou industrial park
+				Suzhou  Jiangsu  215123
+				CN
 
 C8-5C-E2   (hex)		Fela Management AG 
 000000-0FFFFF     (base 16)		Fela Management AG 
@@ -34315,3 +34327,9 @@ E00000-EFFFFF     (base 16)		ScentedVents
 				28 Freeland Street, Suite 1009
 				Toronto  Ontario  M5E 0E3
 				CA
+
+F8-2B-E6   (hex)		VNT electronics s.r.o.
+500000-5FFFFF     (base 16)		VNT electronics s.r.o.
+				Dvorská, 605
+				Lanškroun-Ostrovské Předměstí (okres Ústí nad Orlicí)    56301
+				CZ
