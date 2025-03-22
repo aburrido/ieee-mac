@@ -13589,6 +13589,12 @@ F8-2B-E6   (hex)		Annapurna labs
 				Mail box 15123  Haifa  3508409
 				IL
 
+04-C9-8B   (hex)		DELTA NETWORKS (XIAMEN) LIMITED
+800000-8FFFFF     (base 16)		DELTA NETWORKS (XIAMEN) LIMITED
+				Unit A-3, No. 03, 8th Floor, Building D, Xiamen International Shipping Center, No. 97 Xiangyu Road, Xiamen Area of China (Fujian) Pilot Free Trade Zone
+				Xiamen  Fujian  361026
+				CN
+
 B8-4C-87   (hex)		Altronix , Corp
 A00000-AFFFFF     (base 16)		Altronix , Corp
 				140 58th St. Bldg A, Ste 2N
