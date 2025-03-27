@@ -7685,6 +7685,24 @@ EED000-EEDFFF     (base 16)		Viziontech UK
 				Fort Worth     76179
 				US
 
+8C-1F-64   (hex)		Automata GmbH & Co. KG
+29D000-29DFFF     (base 16)		Automata GmbH & Co. KG
+				Gewerbering 5
+				Ried  Bavaria  86510
+				DE
+
+8C-1F-64   (hex)		DEUTA Werke GmbH
+616000-616FFF     (base 16)		DEUTA Werke GmbH
+				ET
+				Bergisch Gladbach  NRW  51465
+				DE
+
+8C-1F-64   (hex)		MJK Automation AB
+926000-926FFF     (base 16)		MJK Automation AB
+				Tingvallastrand 12
+				Säffle    66140
+				SE
+
 8C-1F-64   (hex)		Jacobs Technology, Inc.
 A98000-A98FFF     (base 16)		Jacobs Technology, Inc.
 				7765 Old Telegraph Road
@@ -38455,3 +38473,15 @@ B88000-B88FFF     (base 16)		INTRONIK GmbH
 				Am Promigberg 8
 				Dresden  SN  01108
 				DE
+
+8C-1F-64   (hex)		SeAIoT Solutions Ltda
+E32000-E32FFF     (base 16)		SeAIoT Solutions Ltda
+				Av. Flores da Cunha, 650
+				Carazinho  RS  99500-000
+				BR
+
+8C-1F-64   (hex)		Fugro Technology B.V.
+7CD000-7CDFFF     (base 16)		Fugro Technology B.V.
+				Veurse Achterweg 10
+				Leidschendam  Zuid Holland  2264 SG
+				NL

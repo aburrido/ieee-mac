@@ -34357,3 +34357,9 @@ F8-2B-E6   (hex)		VNT electronics s.r.o.
 				Dvorská, 605
 				Lanškroun-Ostrovské Předměstí (okres Ústí nad Orlicí)    56301
 				CZ
+
+04-C9-8B   (hex)		Shenzhen Xiangrui Shixian Technology Co., Ltd.
+D00000-DFFFFF     (base 16)		Shenzhen Xiangrui Shixian Technology Co., Ltd.
+				Room 408, 4/F, 7 Heping Industrial Park, Heping Road, Yucui Community, Longhua Sub-district, Longhua District
+				Shenzhen  Guangdong  518057
+				CN
