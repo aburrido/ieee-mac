@@ -7058,6 +7058,18 @@ F8-2B-E6   (hex)		Flextronics Computing（SuZhou)Co.,LTD.
 				Mail box 15123  Haifa  3508409
 				IL
 
+04-C9-8B   (hex)		OPEX CORPORATION
+700000-7FFFFF     (base 16)		OPEX CORPORATION
+				305 COMMERCE DRIVEMOORESTOWN
+				Moorestown  NJ  08057-4215
+				US
+
+04-C9-8B   (hex)		Annapurna labs
+400000-4FFFFF     (base 16)		Annapurna labs
+				Matam Scientific Industries Center,   Building 8.2
+				Mail box 15123  Haifa  3508409
+				IL
+
 B8-4C-87   (hex)		Shenzhen Link-all Technology Co., Ltd
 300000-3FFFFF     (base 16)		Shenzhen Link-all Technology Co., Ltd
 				Floor 5th, Block 9th, Sunny Industrial Zone, Xili Town, Nanshan District, Shenzhen, China 
@@ -20636,11 +20648,23 @@ F8-2B-E6   (hex)		Wayren OÜ
 				TALLINN  Harjumaa  10112
 				EE
 
+04-C9-8B   (hex)		Freedom Factory
+B00000-BFFFFF     (base 16)		Freedom Factory
+				4 Peddlers Row 295
+				Newark  DE  19702
+				US
+
 04-C9-8B   (hex)		Rovox Solutions Sdn Bhd
 C00000-CFFFFF     (base 16)		Rovox Solutions Sdn Bhd
 				17-12, Menara K1, Lorong 3/137C, Off Jalan Klang Lama,
 				Kuala Lumpur  Kuala Lumpur  58200
 				MY
+
+04-C9-8B   (hex)		TinyPilot, LLC
+100000-1FFFFF     (base 16)		TinyPilot, LLC
+				5335 Robinhood Village Dr, Suite 107
+				Winston-Salem  NC  27106
+				US
 
 D0-14-11   (hex)		P.B. Elettronica srl
 100000-1FFFFF     (base 16)		P.B. Elettronica srl

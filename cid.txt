@@ -1171,3 +1171,9 @@ EABEA7                        (base 16)                     Sonos, Inc.
                                                             301 Coromar Dr                               
                                                             Goleta  CA  93117                            
                                                             US                                           
+
+4A-59-09                      (hex)                         MIWA LOCK CO.,LTD.                           
+4A5909                        (base 16)                     MIWA LOCK CO.,LTD.                           
+                                                            1028-1,Yamagami                              
+                                                            Tamaki-tyou  Mie  519-0436                   
+                                                            JP                                           
