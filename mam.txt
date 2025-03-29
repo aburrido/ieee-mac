@@ -7070,6 +7070,12 @@ F8-2B-E6   (hex)		Flextronics Computing（SuZhou)Co.,LTD.
 				Mail box 15123  Haifa  3508409
 				IL
 
+04-C9-8B   (hex)		Secury360
+A00000-AFFFFF     (base 16)		Secury360
+				Industrieweg-Zuid 1320
+				Zonhoven  Limburg  3520
+				BE
+
 B8-4C-87   (hex)		Shenzhen Link-all Technology Co., Ltd
 300000-3FFFFF     (base 16)		Shenzhen Link-all Technology Co., Ltd
 				Floor 5th, Block 9th, Sunny Industrial Zone, Xili Town, Nanshan District, Shenzhen, China 
@@ -13611,6 +13617,12 @@ F8-2B-E6   (hex)		Annapurna labs
 800000-8FFFFF     (base 16)		DELTA NETWORKS (XIAMEN) LIMITED
 				Unit A-3, No. 03, 8th Floor, Building D, Xiamen International Shipping Center, No. 97 Xiangyu Road, Xiamen Area of China (Fujian) Pilot Free Trade Zone
 				Xiamen  Fujian  361026
+				CN
+
+04-C9-8B   (hex)		SERNET (SUZHOU) TECHNOLOGIES CORPORATION
+000000-0FFFFF     (base 16)		SERNET (SUZHOU) TECHNOLOGIES CORPORATION
+				NO.8 Tangzhuang Road,Suzhou Industrial Park,Su ZhouCity,JiangSu Province,China
+				Suzhou    215021
 				CN
 
 B8-4C-87   (hex)		Altronix , Corp
@@ -34386,4 +34398,10 @@ F8-2B-E6   (hex)		VNT electronics s.r.o.
 D00000-DFFFFF     (base 16)		Shenzhen Xiangrui Shixian Technology Co., Ltd.
 				Room 408, 4/F, 7 Heping Industrial Park, Heping Road, Yucui Community, Longhua Sub-district, Longhua District
 				Shenzhen  Guangdong  518057
+				CN
+
+04-C9-8B   (hex)		Beijing BOE optoelectronic Technology Co. Ltd
+900000-9FFFFF     (base 16)		Beijing BOE optoelectronic Technology Co. Ltd
+				Daxing Xihuan Center Road No. 9
+				Beijing  Beijing  100176
 				CN
