@@ -7082,6 +7082,18 @@ A00000-AFFFFF     (base 16)		Secury360
 				Huizhou     516000
 				CN
 
+38-05-25   (hex)		Shenzhen Meigao Electronic Equipment Co.,Ltd
+300000-3FFFFF     (base 16)		Shenzhen Meigao Electronic Equipment Co.,Ltd
+				B201 B221-B222, Pinghu Center Plant, Shenye Logistics  No. 6 Fukang Rd., Hehua Community, Pinghu Street   Longgang District, Shenzhen
+				ShenZhen    518111
+				CN
+
+38-05-25   (hex)		CAMMAX OPTRONICS CO., LTD.
+B00000-BFFFFF     (base 16)		CAMMAX OPTRONICS CO., LTD.
+				No. 1, Lane 36, Dongshun St., Shulin District
+				New Taipei City  TAIWAN  23850
+				TW
+
 B8-4C-87   (hex)		Shenzhen Link-all Technology Co., Ltd
 300000-3FFFFF     (base 16)		Shenzhen Link-all Technology Co., Ltd
 				Floor 5th, Block 9th, Sunny Industrial Zone, Xili Town, Nanshan District, Shenzhen, China 
@@ -13660,6 +13672,12 @@ E00000-EFFFFF     (base 16)		Agile Workspace Limited
 				1500 NW Bethany Blvd, Suite 200
 				Beaverton  OR  97006
 				US
+
+38-05-25   (hex)		Annapurna labs
+900000-9FFFFF     (base 16)		Annapurna labs
+				Matam Scientific Industries Center,   Building 8.2
+				Mail box 15123  Haifa  3508409
+				IL
 
 B8-4C-87   (hex)		Altronix , Corp
 A00000-AFFFFF     (base 16)		Altronix , Corp
@@ -20713,6 +20731,12 @@ C00000-CFFFFF     (base 16)		Rovox Solutions Sdn Bhd
 				5335 Robinhood Village Dr, Suite 107
 				Winston-Salem  NC  27106
 				US
+
+38-05-25   (hex)		nbeings private limited 
+A00000-AFFFFF     (base 16)		nbeings private limited 
+				vamsiram Jyoti granules, 6th floor, masjid Banda, kondapur
+				hyderabad  telangana  500084
+				IN
 
 D0-14-11   (hex)		P.B. Elettronica srl
 100000-1FFFFF     (base 16)		P.B. Elettronica srl
@@ -34465,3 +34489,15 @@ D00000-DFFFFF     (base 16)		Shenzhen Xiangrui Shixian Technology Co., Ltd.
 				530 DIVISADERO ST, PMB 722
 				San Francisco  CA  94117
 				US
+
+38-05-25   (hex)		Shenzhen Blovedream Technology Co., Ltd
+600000-6FFFFF     (base 16)		Shenzhen Blovedream Technology Co., Ltd
+				4th Floor,Building A, Country Garden Fenghuang Zhigu Building, No. 50,Tiezai Road, Xixiang Street,Bao 'an District, Shenzhen
+				Shenzhen    518000
+				CN
+
+38-05-25   (hex)		Halliday Holdings PTE. LTD.
+D00000-DFFFFF     (base 16)		Halliday Holdings PTE. LTD.
+				8 Kaki Bukit Avenue 4 #08-32 Premier
+				Singapore    415875
+				SG
