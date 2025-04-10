@@ -7733,6 +7733,12 @@ D1E000-D1EFFF     (base 16)		Tycon Systems Inc
 				Bluffdale  UT  84065
 				US
 
+8C-1F-64   (hex)		Leidos Inc
+176000-176FFF     (base 16)		Leidos Inc
+				1121 W Reeves Ave
+				Ridgecrest  CA  93555
+				US
+
 8C-1F-64   (hex)		Jacobs Technology, Inc.
 A98000-A98FFF     (base 16)		Jacobs Technology, Inc.
 				7765 Old Telegraph Road
@@ -15526,6 +15532,12 @@ E3B000-E3BFFF     (base 16)		Neways Technologies B.V.
 				ul. Gaudiego 7
 				Gliwice   Śląskie  44-100
 				PL
+
+8C-1F-64   (hex)		flsystem
+4EB000-4EBFFF     (base 16)		flsystem
+				bundang-gu yatap-ro 28
+				seonam    13522
+				KR
 
 8C-1F-64   (hex)		Vision Systems Safety Tech
 E6F000-E6FFFF     (base 16)		Vision Systems Safety Tech
@@ -30956,6 +30968,12 @@ A27000-A27FFF     (base 16)		NAPINO CONTINENTAL VEHICLE ELCTRONICS PRIVATE LIMIT
 				MEISHINGUCHI,TOYONAKA  OSAKA  561-0841
 				JP
 
+8C-1F-64   (hex)		Northern Design (Electronics) Ltd
+F18000-F18FFF     (base 16)		Northern Design (Electronics) Ltd
+				228 Bolton Road
+				Bradford  West Yorkshire  BD3 0QW
+				GB
+
 8C-1F-64   (hex)		Mobileye
 D63000-D63FFF     (base 16)		Mobileye
 				13 Hartom st.
@@ -38611,3 +38629,9 @@ E87000-E87FFF     (base 16)		CHEMI-CON
 				5-6-4, Osaki
 				Shinagawa-ku  TOKYO  1418605
 				JP
+
+8C-1F-64   (hex)		Tesollo
+CCE000-CCEFFF     (base 16)		Tesollo
+				43, Iljik-ro
+				Gwangmyeong-si  Gyeonggi-do  14353
+				KR
