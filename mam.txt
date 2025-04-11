@@ -7082,18 +7082,6 @@ A00000-AFFFFF     (base 16)		Secury360
 				Huizhou     516000
 				CN
 
-38-05-25   (hex)		Shenzhen Meigao Electronic Equipment Co.,Ltd
-300000-3FFFFF     (base 16)		Shenzhen Meigao Electronic Equipment Co.,Ltd
-				B201 B221-B222, Pinghu Center Plant, Shenye Logistics  No. 6 Fukang Rd., Hehua Community, Pinghu Street   Longgang District, Shenzhen
-				ShenZhen    518111
-				CN
-
-38-05-25   (hex)		CAMMAX OPTRONICS CO., LTD.
-B00000-BFFFFF     (base 16)		CAMMAX OPTRONICS CO., LTD.
-				No. 1, Lane 36, Dongshun St., Shulin District
-				New Taipei City  TAIWAN  23850
-				TW
-
 38-05-25   (hex)		Groeneveld-BEKA GmbH
 000000-0FFFFF     (base 16)		Groeneveld-BEKA GmbH
 				Wannberg 100
@@ -7108,6 +7096,24 @@ C00000-CFFFFF     (base 16)		Kunshan QTech Smart-Forward Limited
 
 38-05-25   (hex)		Private
 E00000-EFFFFF     (base 16)		Private
+
+38-05-25   (hex)		Shenzhen Meigao Electronic Equipment Co.,Ltd
+300000-3FFFFF     (base 16)		Shenzhen Meigao Electronic Equipment Co.,Ltd
+				B201 B221-B222, Pinghu Center Plant, Shenye Logistics  No. 6 Fukang Rd., Hehua Community, Pinghu Street   Longgang District, Shenzhen
+				ShenZhen    518111
+				CN
+
+DC-76-C3   (hex)		J&J Philippines Corporation
+800000-8FFFFF     (base 16)		J&J Philippines Corporation
+				Lot 24 Phase 1-A First Philippine Industrial Park, Brgy. Sta. Anastacia
+				Sto.Tomas  Batangas  4234
+				PH
+
+38-05-25   (hex)		CAMMAX OPTRONICS CO., LTD.
+B00000-BFFFFF     (base 16)		CAMMAX OPTRONICS CO., LTD.
+				No. 1, Lane 36, Dongshun St., Shulin District
+				New Taipei City  TAIWAN  23850
+				TW
 
 B8-4C-87   (hex)		Shenzhen Link-all Technology Co., Ltd
 300000-3FFFFF     (base 16)		Shenzhen Link-all Technology Co., Ltd
