@@ -1290,6 +1290,7 @@ MA-S,8C1F646D2,VectorNav Technologies,10501 Markison Road Dallas TX US 75238
 MA-S,8C1F64068,"Shenzhen ROLSTONE Technology Co., Ltd","4F?Block 3, Fushijie Industry Park, Dalang District,  Shenzhen Guangdong CN 518110 "
 MA-S,8C1F64176,Leidos Inc,1121 W Reeves Ave Ridgecrest CA US 93555 
 MA-S,8C1F64D1E,Tycon Systems Inc,930 W 14600 S Suite 600 Bluffdale UT US 84065 
+MA-S,8C1F64875,EPC Power Corporation,13250 Gregg St suite a-2  Poway CA US 92064 
 MA-S,8C1F64A98,"Jacobs Technology, Inc.",7765 Old Telegraph Road Severn MD US 21144 
 MA-S,8C1F644A9,Martec Marine S.p.a.,Via dell'industria 1/3 Vignate Milano IT 20052 
 MA-S,8C1F64E80,"Power Electronics Espana, S.L.","C/ Leonardo Da Vinci, 24-26 Paterna Valencia ES 46980 "
@@ -2591,6 +2592,8 @@ MA-S,8C1F64871,ENTE Sp. z o.o.,ul. Gaudiego 7 Gliwice  Śląskie PL 44-100
 MA-S,8C1F64A08,Statcon Electronics India Ltd. ,"A-34, SECTOR-59 , NOIDA NOIDA UTTAR PRADESH IN 201301 "
 MA-S,8C1F64E3B,Neways Technologies B.V.,Science Park Eindhoven 5525  Son en Breugel  NL 5692EM 
 MA-S,8C1F644EB,flsystem,bundang-gu yatap-ro 28 seonam  KR 13522 
+MA-S,8C1F640C3,Eurek srl,via Celletta 8/b Imola Bologna IT 40026 
+MA-S,8C1F640CC,Smart I Electronics Systems Pvt. Ltd.,"Bhumi World Industrial Park, D-7/250, Pimplas, Bhiwandi  Thane MHARASHTRA IN 421302 "
 MA-S,8C1F64E6F,Vision Systems Safety Tech,5 Chemin de Chiradie Brignais  FR 69530 
 MA-S,70B3D5119,YPP Corporation,24 Geumchon-gu Seoul KR 153-802 
 MA-S,70B3D5159,RCH SPA,Via Cendon 39 Silea  IT 31057 
@@ -2633,7 +2636,6 @@ MA-S,8C1F6456F,ADETEC SAS,596 avenue Antoine Laurent Lavoisier ZA Laprade Saint 
 MA-S,8C1F64499,TIAMA,215 Chemin du Grand Revoyet Saint-Genis Laval Auvergne Rhone Alpes FR 69230 
 MA-S,8C1F6482F,AnySignal,16421 Halldale Ave Gardena CA US 90247 
 MA-S,8C1F645D9,Opdi-tex GmbH,"Gewebering, 9 9 Eresing Deutschland DE 86922 "
-MA-S,8C1F64263,EPC Power Corporation,13250 Gregg St suite a-2 Poway CA US 92064 
 MA-S,8C1F64560,Dexter Laundry Inc.,2211 West Grimes Avenue Fairfield IA US 52556 
 MA-S,8C1F642CB,Smart Component Technologies Ltd,Unit 19 Innovation Centre 320 Cambridge Science Park Cambridge Cambridgeshire GB CB4 0WG 
 MA-S,8C1F644A0,Tantec A/S,Industrivej 6 Lunderskov  DK 6640 
@@ -3871,6 +3873,8 @@ MA-S,8C1F64DF5,Concept Pro Surveillance,"54 Thomas Street, Lees,  Oldham Greater
 MA-S,8C1F64EBE,Trafag Italia S.r.l.,"Via Cremona, 1 Legnano Milano IT 20025 "
 MA-S,8C1F6416A,KEYLINE S.P.A.,"VIA CAMILLO BIANCHI, 2 CONEGLIANO TV IT 31015 "
 MA-S,8C1F644AA,"GigaIO Networks, Inc.","5924 Balfour Ct., Suite 101 Carlsbad CA US 92008 "
+MA-S,8C1F6428B,"Power Electronics Espana, S.L.","C/ Leonardo Da Vinci, 24-26  Paterna Valencia ES 46980 "
+MA-S,8C1F64263,EPC Power Corporation,13250 Gregg St suite a-2  Poway CA US 92064 
 MA-S,8C1F6482B,Flow Power,"Suite 2, Level 3, 18 - 20 York St Sydney  AU 2000 "
 MA-S,8C1F64049,NUANCES ORG,92 AVENUE DE WAGRAM PARIS  FR 75017 
 MA-S,8C1F644F6,Private,
@@ -5171,6 +5175,10 @@ MA-S,8C1F64839,CEDAR Audio Ltd,"Cedar Audio Ltd, 20 Home End, Fulbourn, CAMBRIDG
 MA-S,8C1F64F18,Northern Design (Electronics) Ltd,228 Bolton Road Bradford West Yorkshire GB BD3 0QW 
 MA-S,8C1F64914,"MITOMI GIKEN CO.,LTD",1100-1 Funako Atsugi-Shi Kanagawa JP 243-0034 
 MA-S,8C1F64357,"YUYAMA MFG Co.,Ltd","1-4-30 MEISHINGUCHI,TOYONAKA OSAKA JP 561-0841 "
+MA-S,8C1F64A80,NEXTtec srl,Via Ivrea 71/B Rivoli TO IT 10098 
+MA-S,8C1F64AB8,Private,
+MA-S,8C1F64B8B,DogWatch Inc,10 Michigan Drive Natick MA US 01760 
+MA-S,8C1F6461D,Lewitt GmbH,Schanzstrasse 14  Vienna Vienna AT 1150 
 MA-S,8C1F64D63,Mobileye,13 Hartom st. Jerusalem  IL 91450 
 MA-S,8C1F643C8,BTG Instruments AB,Industrigatan 1-3 Saffle Varmland SE 66132 
 MA-S,70B3D590E,Maytronics Ltd.,Kibbutz Yizrael Kibbutz Yizrael  IL 1935000 

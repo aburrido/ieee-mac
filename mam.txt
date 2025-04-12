@@ -7115,6 +7115,12 @@ B00000-BFFFFF     (base 16)		CAMMAX OPTRONICS CO., LTD.
 				New Taipei City  TAIWAN  23850
 				TW
 
+DC-76-C3   (hex)		NCE Network Consulting Engineering srl
+B00000-BFFFFF     (base 16)		NCE Network Consulting Engineering srl
+				via Novaluce 42
+				Tremestieri Etneo  Catania  95030
+				IT
+
 B8-4C-87   (hex)		Shenzhen Link-all Technology Co., Ltd
 300000-3FFFFF     (base 16)		Shenzhen Link-all Technology Co., Ltd
 				Floor 5th, Block 9th, Sunny Industrial Zone, Xili Town, Nanshan District, Shenzhen, China 
@@ -13688,17 +13694,17 @@ E00000-EFFFFF     (base 16)		Agile Workspace Limited
 				Kgs. Lyngby    2800
 				DK
 
-38-05-25   (hex)		Things Of A Feather LLC
-700000-7FFFFF     (base 16)		Things Of A Feather LLC
-				1500 NW Bethany Blvd, Suite 200
-				Beaverton  OR  97006
-				US
-
 38-05-25   (hex)		Annapurna labs
 900000-9FFFFF     (base 16)		Annapurna labs
 				Matam Scientific Industries Center,   Building 8.2
 				Mail box 15123  Haifa  3508409
 				IL
+
+38-05-25   (hex)		Things Of A Feather LLC
+700000-7FFFFF     (base 16)		Things Of A Feather LLC
+				1500 NW Bethany Blvd, Suite 200
+				Beaverton  OR  97006
+				US
 
 B8-4C-87   (hex)		Altronix , Corp
 A00000-AFFFFF     (base 16)		Altronix , Corp
@@ -27571,6 +27577,12 @@ A00000-AFFFFF     (base 16)		Annapurna labs
 				Matam Scientific Industries Center,   Building 8.2
 				Mail box 15123  Haifa  3508409
 				IL
+
+DC-76-C3   (hex)		IRE SOLUTION
+200000-2FFFFF     (base 16)		IRE SOLUTION
+				D1203, Hanam-Daero 947
+				HaNam  GyeongGi  12982
+				KR
 
 B8-4C-87   (hex)		Private
 E00000-EFFFFF     (base 16)		Private

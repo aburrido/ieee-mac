@@ -7739,6 +7739,12 @@ D1E000-D1EFFF     (base 16)		Tycon Systems Inc
 				Ridgecrest  CA  93555
 				US
 
+8C-1F-64   (hex)		EPC Power Corporation
+875000-875FFF     (base 16)		EPC Power Corporation
+				13250 Gregg St suite a-2 
+				Poway  CA  92064
+				US
+
 8C-1F-64   (hex)		Jacobs Technology, Inc.
 A98000-A98FFF     (base 16)		Jacobs Technology, Inc.
 				7765 Old Telegraph Road
@@ -15527,6 +15533,12 @@ E3B000-E3BFFF     (base 16)		Neways Technologies B.V.
 				Son en Breugel    5692EM
 				NL
 
+8C-1F-64   (hex)		Eurek srl
+0C3000-0C3FFF     (base 16)		Eurek srl
+				via Celletta 8/b
+				Imola  Bologna  40026
+				IT
+
 8C-1F-64   (hex)		ENTE Sp. z o.o.
 871000-871FFF     (base 16)		ENTE Sp. z o.o.
 				ul. Gaudiego 7
@@ -15538,6 +15550,12 @@ E3B000-E3BFFF     (base 16)		Neways Technologies B.V.
 				bundang-gu yatap-ro 28
 				seonam    13522
 				KR
+
+8C-1F-64   (hex)		Smart I Electronics Systems Pvt. Ltd.
+0CC000-0CCFFF     (base 16)		Smart I Electronics Systems Pvt. Ltd.
+				Bhumi World Industrial Park, D-7/250, Pimplas, Bhiwandi 
+				Thane  MHARASHTRA  421302
+				IN
 
 8C-1F-64   (hex)		Vision Systems Safety Tech
 E6F000-E6FFFF     (base 16)		Vision Systems Safety Tech
@@ -15781,12 +15799,6 @@ EF5000-EF5FFF     (base 16)		Sigma Defense Systems LLC
 
 70-B3-D5   (hex)		Private
 401000-401FFF     (base 16)		Private
-
-8C-1F-64   (hex)		EPC Power Corporation
-263000-263FFF     (base 16)		EPC Power Corporation
-				13250 Gregg St suite a-2
-				Poway  CA  92064
-				US
 
 8C-1F-64   (hex)		Dexter Laundry Inc.
 560000-560FFF     (base 16)		Dexter Laundry Inc.
@@ -23199,6 +23211,18 @@ EBE000-EBEFFF     (base 16)		Trafag Italia S.r.l.
 4AA000-4AAFFF     (base 16)		GigaIO Networks, Inc.
 				5924 Balfour Ct., Suite 101
 				Carlsbad  CA  92008
+				US
+
+8C-1F-64   (hex)		Power Electronics Espana, S.L.
+28B000-28BFFF     (base 16)		Power Electronics Espana, S.L.
+				C/ Leonardo Da Vinci, 24-26 
+				Paterna  Valencia  46980
+				ES
+
+8C-1F-64   (hex)		EPC Power Corporation
+263000-263FFF     (base 16)		EPC Power Corporation
+				13250 Gregg St suite a-2 
+				Poway  CA  92064
 				US
 
 8C-1F-64   (hex)		Flow Power
@@ -30968,17 +30992,38 @@ A27000-A27FFF     (base 16)		NAPINO CONTINENTAL VEHICLE ELCTRONICS PRIVATE LIMIT
 				Atsugi-Shi  Kanagawa  243-0034
 				JP
 
+8C-1F-64   (hex)		Northern Design (Electronics) Ltd
+F18000-F18FFF     (base 16)		Northern Design (Electronics) Ltd
+				228 Bolton Road
+				Bradford  West Yorkshire  BD3 0QW
+				GB
+
+8C-1F-64   (hex)		NEXTtec srl
+A80000-A80FFF     (base 16)		NEXTtec srl
+				Via Ivrea 71/B
+				Rivoli  TO  10098
+				IT
+
+8C-1F-64   (hex)		Private
+AB8000-AB8FFF     (base 16)		Private
+
+8C-1F-64   (hex)		DogWatch Inc
+B8B000-B8BFFF     (base 16)		DogWatch Inc
+				10 Michigan Drive
+				Natick  MA  01760
+				US
+
 8C-1F-64   (hex)		YUYAMA MFG Co.,Ltd
 357000-357FFF     (base 16)		YUYAMA MFG Co.,Ltd
 				1-4-30
 				MEISHINGUCHI,TOYONAKA  OSAKA  561-0841
 				JP
 
-8C-1F-64   (hex)		Northern Design (Electronics) Ltd
-F18000-F18FFF     (base 16)		Northern Design (Electronics) Ltd
-				228 Bolton Road
-				Bradford  West Yorkshire  BD3 0QW
-				GB
+8C-1F-64   (hex)		Lewitt GmbH
+61D000-61DFFF     (base 16)		Lewitt GmbH
+				Schanzstrasse 14 
+				Vienna  Vienna  1150
+				AT
 
 8C-1F-64   (hex)		Mobileye
 D63000-D63FFF     (base 16)		Mobileye
