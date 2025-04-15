@@ -5230,7 +5230,7 @@ A580                          Siemens Gammasonics                               
 
 0800                          Xerox                                                                                                    IPv4 Internet Protocol Version Hornig, C., A Standard for the Transmission
                                                                                                                                        of IP Datagrams over Ethernet Networks, RFC-Internet Society, Apr. 1984.   
-                                                                                                                                                                     http://www.ietf.org/rfc/rfc894.txt           
+                                                                                                                                       http://www.ietf.org/rfc/rfc894.txt                                         
                               US                                                                                                       
 
 
