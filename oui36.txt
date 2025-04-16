@@ -7745,6 +7745,12 @@ D1E000-D1EFFF     (base 16)		Tycon Systems Inc
 				Poway  CA  92064
 				US
 
+8C-1F-64   (hex)		AURCORE TECHNOLOGY INC.
+828000-828FFF     (base 16)		AURCORE TECHNOLOGY INC.
+				25691 ATLANTIC OCEAN DRIVE UNIT B10
+				LAKE FOREST  CA  92630
+				US
+
 8C-1F-64   (hex)		Jacobs Technology, Inc.
 A98000-A98FFF     (base 16)		Jacobs Technology, Inc.
 				7765 Old Telegraph Road
@@ -15539,12 +15545,6 @@ E3B000-E3BFFF     (base 16)		Neways Technologies B.V.
 				Son en Breugel    5692EM
 				NL
 
-8C-1F-64   (hex)		flsystem
-4EB000-4EBFFF     (base 16)		flsystem
-				bundang-gu yatap-ro 28
-				seonam    13522
-				KR
-
 8C-1F-64   (hex)		Eurek srl
 0C3000-0C3FFF     (base 16)		Eurek srl
 				via Celletta 8/b
@@ -15556,6 +15556,12 @@ E3B000-E3BFFF     (base 16)		Neways Technologies B.V.
 				Bhumi World Industrial Park, D-7/250, Pimplas, Bhiwandi 
 				Thane  MHARASHTRA  421302
 				IN
+
+8C-1F-64   (hex)		flsystem
+4EB000-4EBFFF     (base 16)		flsystem
+				bundang-gu yatap-ro 28
+				seonam    13522
+				KR
 
 8C-1F-64   (hex)		Vision Systems Safety Tech
 E6F000-E6FFFF     (base 16)		Vision Systems Safety Tech
@@ -23201,11 +23207,11 @@ EBE000-EBEFFF     (base 16)		Trafag Italia S.r.l.
 				Legnano  Milano  20025
 				IT
 
-8C-1F-64   (hex)		KEYLINE S.P.A.
-16A000-16AFFF     (base 16)		KEYLINE S.P.A.
-				VIA CAMILLO BIANCHI, 2
-				CONEGLIANO  TV  31015
-				IT
+8C-1F-64   (hex)		Power Electronics Espana, S.L.
+28B000-28BFFF     (base 16)		Power Electronics Espana, S.L.
+				C/ Leonardo Da Vinci, 24-26 
+				Paterna  Valencia  46980
+				ES
 
 8C-1F-64   (hex)		GigaIO Networks, Inc.
 4AA000-4AAFFF     (base 16)		GigaIO Networks, Inc.
@@ -23213,17 +23219,17 @@ EBE000-EBEFFF     (base 16)		Trafag Italia S.r.l.
 				Carlsbad  CA  92008
 				US
 
-8C-1F-64   (hex)		Power Electronics Espana, S.L.
-28B000-28BFFF     (base 16)		Power Electronics Espana, S.L.
-				C/ Leonardo Da Vinci, 24-26 
-				Paterna  Valencia  46980
-				ES
-
 8C-1F-64   (hex)		EPC Power Corporation
 263000-263FFF     (base 16)		EPC Power Corporation
 				13250 Gregg St suite a-2 
 				Poway  CA  92064
 				US
+
+8C-1F-64   (hex)		KEYLINE S.P.A.
+16A000-16AFFF     (base 16)		KEYLINE S.P.A.
+				VIA CAMILLO BIANCHI, 2
+				CONEGLIANO  TV  31015
+				IT
 
 8C-1F-64   (hex)		Flow Power
 82B000-82BFFF     (base 16)		Flow Power
