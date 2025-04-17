@@ -7121,6 +7121,12 @@ B00000-BFFFFF     (base 16)		NCE Network Consulting Engineering srl
 				Tremestieri Etneo  Catania  95030
 				IT
 
+DC-76-C3   (hex)		NANJING LOYST INDUSTRIAL NETWORKS CO.,LTD.
+700000-7FFFFF     (base 16)		NANJING LOYST INDUSTRIAL NETWORKS CO.,LTD.
+				Floor 17, Building 33, Headquarters Base, No. 70 Phoenix Road, Jiangning District, Nanjing
+				NANJING  jiangsu  211000
+				CN
+
 B8-4C-87   (hex)		Shenzhen Link-all Technology Co., Ltd
 300000-3FFFFF     (base 16)		Shenzhen Link-all Technology Co., Ltd
 				Floor 5th, Block 9th, Sunny Industrial Zone, Xili Town, Nanshan District, Shenzhen, China 
@@ -27590,11 +27596,23 @@ C00000-CFFFFF     (base 16)		Christeyns Engineering Kft.
 				Ecser    2233
 				HU
 
+DC-76-C3   (hex)		ShangHai Zhousheng Intelligent Technology Co., Ltd
+600000-6FFFFF     (base 16)		ShangHai Zhousheng Intelligent Technology Co., Ltd
+				Building 1, No.5500 Yuanjiang Road
+				Shanghai  Shanghai  201108
+				CN
+
 DC-76-C3   (hex)		IRE SOLUTION
 200000-2FFFFF     (base 16)		IRE SOLUTION
 				D1203, Hanam-Daero 947
 				HaNam  GyeongGi  12982
 				KR
+
+DC-76-C3   (hex)		Genius Vision Digital Private Limited
+000000-0FFFFF     (base 16)		Genius Vision Digital Private Limited
+				S-39, GF JANTA MARKET, RAJOURI GARDEN,NEW DELHI - 110027
+				new delhi  new delhi  110027
+				IN
 
 DC-76-C3   (hex)		seadee
 400000-4FFFFF     (base 16)		seadee
