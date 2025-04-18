@@ -7109,6 +7109,12 @@ B00000-BFFFFF     (base 16)		CAMMAX OPTRONICS CO., LTD.
 38-05-25   (hex)		Private
 E00000-EFFFFF     (base 16)		Private
 
+DC-76-C3   (hex)		NANJING LOYST INDUSTRIAL NETWORKS CO.,LTD.
+700000-7FFFFF     (base 16)		NANJING LOYST INDUSTRIAL NETWORKS CO.,LTD.
+				Floor 17, Building 33, Headquarters Base, No. 70 Phoenix Road, Jiangning District, Nanjing
+				NANJING  jiangsu  211000
+				CN
+
 DC-76-C3   (hex)		J&J Philippines Corporation
 800000-8FFFFF     (base 16)		J&J Philippines Corporation
 				Lot 24 Phase 1-A First Philippine Industrial Park, Brgy. Sta. Anastacia
@@ -7120,12 +7126,6 @@ B00000-BFFFFF     (base 16)		NCE Network Consulting Engineering srl
 				via Novaluce 42
 				Tremestieri Etneo  Catania  95030
 				IT
-
-DC-76-C3   (hex)		NANJING LOYST INDUSTRIAL NETWORKS CO.,LTD.
-700000-7FFFFF     (base 16)		NANJING LOYST INDUSTRIAL NETWORKS CO.,LTD.
-				Floor 17, Building 33, Headquarters Base, No. 70 Phoenix Road, Jiangning District, Nanjing
-				NANJING  jiangsu  211000
-				CN
 
 B8-4C-87   (hex)		Shenzhen Link-all Technology Co., Ltd
 300000-3FFFFF     (base 16)		Shenzhen Link-all Technology Co., Ltd
