@@ -7739,16 +7739,16 @@ D1E000-D1EFFF     (base 16)		Tycon Systems Inc
 				Ridgecrest  CA  93555
 				US
 
-8C-1F-64   (hex)		EPC Power Corporation
-875000-875FFF     (base 16)		EPC Power Corporation
-				13250 Gregg St suite a-2 
-				Poway  CA  92064
-				US
-
 8C-1F-64   (hex)		AURCORE TECHNOLOGY INC.
 828000-828FFF     (base 16)		AURCORE TECHNOLOGY INC.
 				25691 ATLANTIC OCEAN DRIVE UNIT B10
 				LAKE FOREST  CA  92630
+				US
+
+8C-1F-64   (hex)		EPC Power Corporation
+875000-875FFF     (base 16)		EPC Power Corporation
+				13250 Gregg St suite a-2 
+				Poway  CA  92064
 				US
 
 8C-1F-64   (hex)		develogic GmbH
@@ -7756,6 +7756,12 @@ D1E000-D1EFFF     (base 16)		Tycon Systems Inc
 				Hammer Deich 70
 				Hamburg  Hamburg  20537
 				DE
+
+8C-1F-64   (hex)		Monnit Corporation
+63E000-63EFFF     (base 16)		Monnit Corporation
+				3400 S West Temple
+				S Salt Lake  UT  84115
+				US
 
 8C-1F-64   (hex)		Jacobs Technology, Inc.
 A98000-A98FFF     (base 16)		Jacobs Technology, Inc.
@@ -31043,17 +31049,23 @@ B8B000-B8BFFF     (base 16)		DogWatch Inc
 				MEISHINGUCHI,TOYONAKA  OSAKA  561-0841
 				JP
 
+8C-1F-64   (hex)		Potter Electric Signal Company
+CE0000-CE0FFF     (base 16)		Potter Electric Signal Company
+				5757 Phantom Drive
+				Hazelwood  MO  63042
+				US
+
 8C-1F-64   (hex)		Lewitt GmbH
 61D000-61DFFF     (base 16)		Lewitt GmbH
 				Schanzstrasse 14 
 				Vienna  Vienna  1150
 				AT
 
-8C-1F-64   (hex)		Potter Electric Signal Company
-CE0000-CE0FFF     (base 16)		Potter Electric Signal Company
-				5757 Phantom Drive
-				Hazelwood  MO  63042
-				US
+8C-1F-64   (hex)		UniPOS EOOD
+A5A000-A5AFFF     (base 16)		UniPOS EOOD
+				San Stefano 47; BG824150906
+				Pleven    5800
+				BG
 
 8C-1F-64   (hex)		Mobileye
 D63000-D63FFF     (base 16)		Mobileye
@@ -38722,3 +38734,9 @@ CCE000-CCEFFF     (base 16)		Tesollo
 				43, Iljik-ro
 				Gwangmyeong-si  Gyeonggi-do  14353
 				KR
+
+8C-1F-64   (hex)		See All AI Inc.
+A15000-A15FFF     (base 16)		See All AI Inc.
+				39 Technology Way, Suite 3W1
+				Nashua  NH  03060
+				US

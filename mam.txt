@@ -34576,3 +34576,15 @@ D00000-DFFFFF     (base 16)		Halliday Holdings PTE. LTD.
 				8 Kaki Bukit Avenue 4 #08-32 Premier
 				Singapore    415875
 				SG
+
+DC-76-C3   (hex)		Shenzhen C & D Electronics Co., Ltd.
+300000-3FFFFF     (base 16)		Shenzhen C & D Electronics Co., Ltd.
+				9th FIoor, Building 9, No.1 Qingxiang road, BaoNeng Science and TechnoIogy Industrial Park, Longhua New District
+				ShenZhen  GuangDong  518000
+				CN
+
+DC-76-C3   (hex)		Bangyan Technology Co., Ltd
+100000-1FFFFF     (base 16)		Bangyan Technology Co., Ltd
+				No. 100 Zhihe Road, Dakang Community, Yuanshan Street, Longgang District
+				Shenzhen  Guangdong  518100
+				CN
