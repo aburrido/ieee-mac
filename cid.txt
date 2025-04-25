@@ -968,6 +968,12 @@ FAEEB6                        (base 16)                     Shenzhen Jiahua Zhon
                                                             San Jose  CA  95128                          
                                                             US                                           
 
+CA-44-3E                      (hex)                         Allianz Technology SE                        
+CA443E                        (base 16)                     Allianz Technology SE                        
+                                                            Dieselstr. 8                                 
+                                                            Unterföhring    85774                        
+                                                            DE                                           
+
 0A-2A-33                      (hex)                         DIGISTOR                                     
 0A2A33                        (base 16)                     DIGISTOR                                     
                                                             1000 SE Tech Center Dr  Suite 160            

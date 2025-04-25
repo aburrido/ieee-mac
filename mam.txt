@@ -20813,6 +20813,12 @@ DC-76-C3   (hex)		Hunan Zhizhou Technology Co., Ltd
 				Changsha City  Hunan Province  410000
 				CN
 
+F0-12-04   (hex)		Astrome Technoogies Pvt Ltd
+A00000-AFFFFF     (base 16)		Astrome Technoogies Pvt Ltd
+				3rd Floor, MRK Tower, #69/B, Chord Rd, 2nd Stage, Basaveshwar Nagar
+				Bengaluru  Karnataka  560086
+				IN
+
 D0-14-11   (hex)		P.B. Elettronica srl
 100000-1FFFFF     (base 16)		P.B. Elettronica srl
 				Via Santorelli, 8
