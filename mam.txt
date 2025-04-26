@@ -7145,6 +7145,12 @@ DC-76-C3   (hex)		heinrich corporation India private limited
 				New Delhi  Delhi  110020
 				IN
 
+F0-12-04   (hex)		Shenzhen FENVI Technology co.,ltd
+600000-6FFFFF     (base 16)		Shenzhen FENVI Technology co.,ltd
+				401C West Area,North Block, High-tech Industrial Park,Beier Road,Bantian Community, Bantian Street, Longgang District, 
+				Shenzhen  GuangDong  518129
+				CN
+
 B8-4C-87   (hex)		Shenzhen Link-all Technology Co., Ltd
 300000-3FFFFF     (base 16)		Shenzhen Link-all Technology Co., Ltd
 				Floor 5th, Block 9th, Sunny Industrial Zone, Xili Town, Nanshan District, Shenzhen, China 
@@ -20817,6 +20823,12 @@ F0-12-04   (hex)		Astrome Technoogies Pvt Ltd
 A00000-AFFFFF     (base 16)		Astrome Technoogies Pvt Ltd
 				3rd Floor, MRK Tower, #69/B, Chord Rd, 2nd Stage, Basaveshwar Nagar
 				Bengaluru  Karnataka  560086
+				IN
+
+F0-12-04   (hex)		WiSig Networks Private Limited
+200000-2FFFFF     (base 16)		WiSig Networks Private Limited
+				604,TURQUOISE BLOCK,MY HOME JEWEL MADINAGUDA , HYDERABAD, Telangana, India - 500049
+				Hyderabad  Telangana  500049
 				IN
 
 D0-14-11   (hex)		P.B. Elettronica srl
