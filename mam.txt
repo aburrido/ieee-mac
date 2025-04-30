@@ -13754,17 +13754,17 @@ F0-12-04   (hex)		Maple Systems. Inc.
 				EVERETT  WA  98204
 				US
 
-F0-12-04   (hex)		FairPhone B.V.
-C00000-CFFFFF     (base 16)		FairPhone B.V.
-				VanDiemenstraat 200
-				Amsterdam    1013 CP
-				NL
-
 F0-12-04   (hex)		HoneyComm IoT Technology(Shenzhen)Co.,Ltd.
 B00000-BFFFFF     (base 16)		HoneyComm IoT Technology(Shenzhen)Co.,Ltd.
 				Rm 2502, Block B, Zhantao Buidling, No.1079, Mingzhi Rd, Minzhi Str, Longhua Distr
 				Shenzhen  Guangdong  518109
 				CN
+
+F0-12-04   (hex)		FairPhone B.V.
+C00000-CFFFFF     (base 16)		FairPhone B.V.
+				VanDiemenstraat 200
+				Amsterdam    1013 CP
+				NL
 
 B8-4C-87   (hex)		Altronix , Corp
 A00000-AFFFFF     (base 16)		Altronix , Corp
@@ -20837,17 +20837,23 @@ A00000-AFFFFF     (base 16)		Astrome Technoogies Pvt Ltd
 				Bengaluru  Karnataka  560086
 				IN
 
+F0-12-04   (hex)		Annapurna labs
+800000-8FFFFF     (base 16)		Annapurna labs
+				Matam Scientific Industries Center,   Building 8.2
+				Mail box 15123  Haifa  3508409
+				IL
+
 F0-12-04   (hex)		WiSig Networks Private Limited
 200000-2FFFFF     (base 16)		WiSig Networks Private Limited
 				604,TURQUOISE BLOCK,MY HOME JEWEL MADINAGUDA , HYDERABAD, Telangana, India - 500049
 				Hyderabad  Telangana  500049
 				IN
 
-F0-12-04   (hex)		Annapurna labs
-800000-8FFFFF     (base 16)		Annapurna labs
-				Matam Scientific Industries Center,   Building 8.2
-				Mail box 15123  Haifa  3508409
-				IL
+F0-12-04   (hex)		LightShark
+D00000-DFFFFF     (base 16)		LightShark
+				Saler, 14
+				Silla  Valencia  46460
+				ES
 
 D0-14-11   (hex)		P.B. Elettronica srl
 100000-1FFFFF     (base 16)		P.B. Elettronica srl

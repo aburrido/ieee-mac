@@ -14869,12 +14869,12 @@ MA-L,7CA4F7,Extreme Networks Headquarters,2121 RDU Center Drive  Morrisville NC 
 MA-L,503DD1,TP-Link Systems Inc.,10 Mauchly  Irvine CA US 92618 
 MA-L,74E987,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
 MA-L,A89C6C,Ubiquiti Inc,"685 Third Avenue, 27th Floor New York NY US New York NY 10017 "
+MA-L,D84567,TECNO MOBILE LIMITED,"ROOMS 05-15, 13A/F., SOUTH TOWER, WORLD FINANCE CENTRE, HARBOUR CITY, 17 CANTON ROAD, TSIM SHA TSUI, KOWLOON, HONG KONG Hong Kong Hong Kong HK 999077 "
 MA-L,4CC382,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
 MA-L,10B41D,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
-MA-L,58A748,Lytx,9785 Towne Centre Drive San Diego CA US 92121 
 MA-L,B4D31A,LYSORA TECHNOLOGY INC.,"8 The Green, Ste A, ,Kent Country,D Dover DE US 19901 "
-MA-L,D84567,TECNO MOBILE LIMITED,"ROOMS 05-15, 13A/F., SOUTH TOWER, WORLD FINANCE CENTRE, HARBOUR CITY, 17 CANTON ROAD, TSIM SHA TSUI, KOWLOON, HONG KONG Hong Kong Hong Kong HK 999077 "
 MA-L,04D190,"Kaon Group Co., Ltd.","884-3, Seongnam-daero, Bundang-gu Seongnam-si Gyeonggi-do KR 13517 "
+MA-L,58A748,Lytx,9785 Towne Centre Drive San Diego CA US 92121 
 MA-L,6C8720,"New H3C Technologies Co., Ltd","466 Changhe Road, Binjiang District Hangzhou Zhejiang CN 310052 "
 MA-L,0C8D7A,RADiflow,HaBarzel St 38 Tel-Aviv  IL 6971054 
 MA-L,FCA9F5,Xiaomi Communications Co Ltd,"#019, 9th Floor, Building 6, 33 Xi'erqi Middle Road Beijing Haidian District CN 100085 "
@@ -21631,7 +21631,6 @@ MA-L,B87E40,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone
 MA-L,1C2FA2,Guangzhou Shiyuan Electronic Technology Company Limited,"No.6, 4th Yunpu Road, Yunpu industry District Guangzhou Guangdong CN 510530 "
 MA-L,A43F68,"Arista Network, Inc.",5453 Great America Parkway Santa Clara CA US 95054 
 MA-L,BC9D4E,"Shenzhen Skyworth Digital  Technology  CO., Ltd","4F,Block A, Skyworth?Building, Shenzhen Guangdong CN 518057 "
-MA-L,3CB8D6,"Bluebank Communication Technology Co.,Ltd.","No.16 Cuiping Road, Huixing Sub-district, Yubei District, Chongqing Chongqing  CN 401120 "
 MA-L,9C9E03,awayfrom,"A-2723 Ho, Sambo Techon Tower,122,jomaru-ro 385 Beon-gil bucheon-si Gyeonnggi-do KR  14556 "
 MA-L,64D81B,Vestel Elektronik San ve Tic. A.S.,Organize san Manisa Turket TR 45030 
 MA-L,30DCE7,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
@@ -22316,8 +22315,10 @@ MA-L,B84FA7,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014
 MA-L,A8E6E8,Tonly Technology Co. Ltd ,"Section 37, Zhongkai Hi-Tech Development Zone Huizhou Guangdong CN 516006 "
 MA-L,F481C4,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
 MA-L,E44389,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
-MA-L,346F11,"Qingdao Zhipai Information Technology Co., Ltd.","Room 1401, No. 15, Miaoling Road, Laoshan District, Qingdao, Shandong, China Qingdao  CN 266100 "
 MA-L,30FC8C,Vantiva - Connected Home,"4855 Peachtree Industrial Blvd, Suite 200 Norcross GA US 30902 "
+MA-L,A04FE4,PAX Computer Technology(Shenzhen) Ltd.,"4/F, No.3 Building, Software Park, Second Central Science-Tech Road, High-Tech Shenzhen GuangDong CN 518057 "
+MA-L,346F11,"Qingdao Zhipai Information Technology Co., Ltd.","Room 1401, No. 15, Miaoling Road, Laoshan District, Qingdao, Shandong, China Qingdao  CN 266100 "
+MA-L,3CB8D6,"Bluebank Communication Technology Co.,Ltd.","No. 6, Chanyi Road,  Yubei District Chongqing CN 401120 "
 MA-L,9C891E,FireBrick Ltd,c/o Andrews & Arnold Ltd Enterprise Court Downmill Road Bracknell Berkshire GB RG12 1QS 
 MA-L,B4EF30,"Shanghai SYH Technology CO.,LTD","Building 4, No. 686 Nanfeng Road, Fengcheng Town, Fengxian District Shanghai  CN 201400 "
 MA-L,B00C9D,"Quectel Wireless Solutions Co.,Ltd.","7th Floor, Hongye Building, No.1801 Hongmei Road, Xuhui District Shanghai  CN 200233 "
