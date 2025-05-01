@@ -152,17 +152,17 @@ FA63E1                        (base 16)                     Samsung Electronics 
                                                             Oslo    0680                                 
                                                             NO                                           
 
-7A-4B-A4                      (hex)                         Innostor Technology Corporation              
-7A4BA4                        (base 16)                     Innostor Technology Corporation              
-                                                            2F., No. 8, Ln32, Xianzheng 5th St., Jhubei City, Hsinchu Country 30268, Taiwan
-                                                            Jhubei  Hsinchu  30268                       
-                                                            TW                                           
-
 DA-FF-6B                      (hex)                         Team Precision Public Company Limited        
 DAFF6B                        (base 16)                     Team Precision Public Company Limited        
                                                             198 Moo 13 Suwansorn Rd., Dong-Khee-Lek,     
                                                             Prachinburi  Muang  25000                    
                                                             TH                                           
+
+7A-4B-A4                      (hex)                         Innostor Technology Corporation              
+7A4BA4                        (base 16)                     Innostor Technology Corporation              
+                                                            2F., No. 8, Ln32, Xianzheng 5th St., Jhubei City, Hsinchu Country 30268, Taiwan
+                                                            Jhubei  Hsinchu  30268                       
+                                                            TW                                           
 
 9A-56-4B                      (hex)                         Cubix Corporation                            
 9A564B                        (base 16)                     Cubix Corporation                            
@@ -914,17 +914,17 @@ FAE190                        (base 16)                     IN WIN DEVELOPMENT I
                                                             GUEISHAN HSIANG,  TAOYUAN HSIEN,  333        
                                                             TW                                           
 
-7A-AB-77                      (hex)                         Orange                                       
-7AAB77                        (base 16)                     Orange                                       
-                                                            4 rue du Clos Courtel                        
-                                                            Cesson Sevigne  France  35512                
-                                                            FR                                           
-
 4A-DA-10                      (hex)                         Emotiva Audio Corp                           
 4ADA10                        (base 16)                     Emotiva Audio Corp                           
                                                             135 SE Parkway Court                         
                                                             Franklin  TN  37064                          
                                                             US                                           
+
+7A-AB-77                      (hex)                         Orange                                       
+7AAB77                        (base 16)                     Orange                                       
+                                                            4 rue du Clos Courtel                        
+                                                            Cesson Sevigne  France  35512                
+                                                            FR                                           
 
 FA-07-3E                      (hex)                         NBASE-T Alliance                             
 FA073E                        (base 16)                     NBASE-T Alliance                             
@@ -968,17 +968,17 @@ FAEEB6                        (base 16)                     Shenzhen Jiahua Zhon
                                                             San Jose  CA  95128                          
                                                             US                                           
 
-0A-2A-33                      (hex)                         DIGISTOR                                     
-0A2A33                        (base 16)                     DIGISTOR                                     
-                                                            1000 SE Tech Center Dr  Suite 160            
-                                                            Vancouver  WA  98683                         
-                                                            US                                           
-
 CA-44-3E                      (hex)                         Allianz Technology SE                        
 CA443E                        (base 16)                     Allianz Technology SE                        
                                                             Dieselstr. 8                                 
                                                             Unterföhring    85774                        
                                                             DE                                           
+
+0A-2A-33                      (hex)                         DIGISTOR                                     
+0A2A33                        (base 16)                     DIGISTOR                                     
+                                                            1000 SE Tech Center Dr  Suite 160            
+                                                            Vancouver  WA  98683                         
+                                                            US                                           
 
 8A-7D-B3                      (hex)                         Evolv Technology, Inc.                       
 8A7DB3                        (base 16)                     Evolv Technology, Inc.                       
@@ -1022,17 +1022,17 @@ CA1E45                        (base 16)                     ASMedia Technology I
                                                             Austin  TX  78750                            
                                                             US                                           
 
-BA-07-DA                      (hex)                         Infinix mobility limited                     
-BA07DA                        (base 16)                     Infinix mobility limited                     
-                                                            RMS 05-15, 13A/F SOUTH TOWER WORLD FINANCE CTR HARBOUR CITY 17 CANTON RD TST KLN HONG KONG
-                                                            HongKong  HongKong  999077                   
-                                                            HK                                           
-
 6A-E7-32                      (hex)                         UNIS-WDC Storage Co.,Ltd                     
 6AE732                        (base 16)                     UNIS-WDC Storage Co.,Ltd                     
                                                             1202 Block B, Truth Plaza, No.7 ZhiChun Road, HaiDian District
                                                             Beijing  Beijing  100191                     
                                                             CN                                           
+
+BA-07-DA                      (hex)                         Infinix mobility limited                     
+BA07DA                        (base 16)                     Infinix mobility limited                     
+                                                            RMS 05-15, 13A/F SOUTH TOWER WORLD FINANCE CTR HARBOUR CITY 17 CANTON RD TST KLN HONG KONG
+                                                            HongKong  HongKong  999077                   
+                                                            HK                                           
 
 AA-34-D4                      (hex)                         CDVI Wireless SpA                            
 AA34D4                        (base 16)                     CDVI Wireless SpA                            
