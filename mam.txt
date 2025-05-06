@@ -20849,18 +20849,6 @@ F0-12-04   (hex)		WiSig Networks Private Limited
 				Hyderabad  Telangana  500049
 				IN
 
-F0-12-04   (hex)		LightShark
-D00000-DFFFFF     (base 16)		LightShark
-				Saler, 14
-				Silla  Valencia  46460
-				ES
-
-F0-12-04   (hex)		Tianjin Tianchuan Electric Drive Co.,Ltd.
-E00000-EFFFFF     (base 16)		Tianjin Tianchuan Electric Drive Co.,Ltd.
-				No. 354 Innovation Avenue，Binhai High tech Zone, Tianjin
-				Tianjin    300450
-				CN
-
 2C-7A-F4   (hex)		Annapurna labs
 000000-0FFFFF     (base 16)		Annapurna labs
 				Matam Scientific Industries Center,   Building 8.2
@@ -20869,6 +20857,24 @@ E00000-EFFFFF     (base 16)		Tianjin Tianchuan Electric Drive Co.,Ltd.
 
 2C-7A-F4   (hex)		Annapurna labs
 500000-5FFFFF     (base 16)		Annapurna labs
+				Matam Scientific Industries Center,   Building 8.2
+				Mail box 15123  Haifa  3508409
+				IL
+
+F0-12-04   (hex)		Tianjin Tianchuan Electric Drive Co.,Ltd.
+E00000-EFFFFF     (base 16)		Tianjin Tianchuan Electric Drive Co.,Ltd.
+				No. 354 Innovation Avenue，Binhai High tech Zone, Tianjin
+				Tianjin    300450
+				CN
+
+F0-12-04   (hex)		LightShark
+D00000-DFFFFF     (base 16)		LightShark
+				Saler, 14
+				Silla  Valencia  46460
+				ES
+
+2C-7A-F4   (hex)		Annapurna labs
+100000-1FFFFF     (base 16)		Annapurna labs
 				Matam Scientific Industries Center,   Building 8.2
 				Mail box 15123  Haifa  3508409
 				IL
@@ -34702,3 +34708,15 @@ F0-12-04   (hex)		Annapurna labs
 				Matam Scientific Industries Center,   Building 8.2
 				Mail box 15123  Haifa  3508409
 				IL
+
+2C-7A-F4   (hex)		Reonel Oy
+C00000-CFFFFF     (base 16)		Reonel Oy
+				Hiomotie 32
+				Helsinki    00380
+				FI
+
+2C-7A-F4   (hex)		Flextronics Automotive USA, Inc
+D00000-DFFFFF     (base 16)		Flextronics Automotive USA, Inc
+				3501 Fruit Ridge Rd NW
+				Walker  MI  49544
+				US
