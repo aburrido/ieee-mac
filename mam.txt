@@ -7157,6 +7157,18 @@ F0-12-04   (hex)		MetaX
 				Shanghai    200000
 				CN
 
+2C-7A-F4   (hex)		Kegao Intelligent Garden Technology(Guangdong) Co.,Ltd.
+400000-4FFFFF     (base 16)		Kegao Intelligent Garden Technology(Guangdong) Co.,Ltd.
+				8/F Building D,No.39, East Keji Avenue, Shishan Town Nanhai District
+				Foshan   Guangdong   528225 
+				CN
+
+2C-7A-F4   (hex)		Shenzhen Yitoa Digital Technology Co., Ltd.
+300000-3FFFFF     (base 16)		Shenzhen Yitoa Digital Technology Co., Ltd.
+				7th floor, Building 1, Jiancang Technology Park, Bao'an, Shenzhen, China
+				Shenzhen  GuangDong  518000
+				CN
+
 B8-4C-87   (hex)		Shenzhen Link-all Technology Co., Ltd
 300000-3FFFFF     (base 16)		Shenzhen Link-all Technology Co., Ltd
 				Floor 5th, Block 9th, Sunny Industrial Zone, Xili Town, Nanshan District, Shenzhen, China 
@@ -13765,6 +13777,18 @@ C00000-CFFFFF     (base 16)		FairPhone B.V.
 				VanDiemenstraat 200
 				Amsterdam    1013 CP
 				NL
+
+2C-7A-F4   (hex)		Delmatic Limited
+200000-2FFFFF     (base 16)		Delmatic Limited
+				The Power House,6 Power Road
+				London    W6 7BL
+				GB
+
+2C-7A-F4   (hex)		4neXt S.r.l.s.
+900000-9FFFFF     (base 16)		4neXt S.r.l.s.
+				Via Leonardo da Vinci 15/4
+				Vigonovo  Veneto  30030
+				IT
 
 B8-4C-87   (hex)		Altronix , Corp
 A00000-AFFFFF     (base 16)		Altronix , Corp
