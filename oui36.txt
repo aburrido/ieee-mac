@@ -31181,17 +31181,17 @@ E11000-E11FFF     (base 16)		C-Octopus
 				Loveland  CO  80538
 				US
 
-8C-1F-64   (hex)		VELVU TECHNOLOGIES PRIVATE LIMITED
-AB3000-AB3FFF     (base 16)		VELVU TECHNOLOGIES PRIVATE LIMITED
-				F-2, RIICO INDUSTRIAL AREA, BINDAYAKA
-				JAIPUR  RAJASTHAN  302012
-				IN
-
 8C-1F-64   (hex)		The Exploration Company
 3ED000-3EDFFF     (base 16)		The Exploration Company
 				1322 Space Park Drive, Suite C-201D
 				Houston  TX  77058
 				US
+
+8C-1F-64   (hex)		VELVU TECHNOLOGIES PRIVATE LIMITED
+AB3000-AB3FFF     (base 16)		VELVU TECHNOLOGIES PRIVATE LIMITED
+				F-2, RIICO INDUSTRIAL AREA, BINDAYAKA
+				JAIPUR  RAJASTHAN  302012
+				IN
 
 8C-1F-64   (hex)		Mobileye
 D63000-D63FFF     (base 16)		Mobileye
@@ -38897,14 +38897,14 @@ F93000-F93FFF     (base 16)		Gigawave LLC
 				Seattle  WA  98104
 				US
 
-8C-1F-64   (hex)		Wuhan Xingtuxinke ELectronic Co.,Ltd
-106000-106FFF     (base 16)		Wuhan Xingtuxinke ELectronic Co.,Ltd
-				NO.C3-8F,Software Park,Optics Valley,East Lake Development Zone,Wuhan,Hubei,China
-				Wuhan  Hubei  430074
-				CN
-
 8C-1F-64   (hex)		Otis Technology and Development(Shanghai) Co., Ltd.
 791000-791FFF     (base 16)		Otis Technology and Development(Shanghai) Co., Ltd.
 				3rd Floor, Building 2, No. 200, Zhangheng Road, China (Shanghai) Pilot Free Trade Zone
 				Shanghai  Shanghai   201204
+				CN
+
+8C-1F-64   (hex)		Wuhan Xingtuxinke ELectronic Co.,Ltd
+106000-106FFF     (base 16)		Wuhan Xingtuxinke ELectronic Co.,Ltd
+				NO.C3-8F,Software Park,Optics Valley,East Lake Development Zone,Wuhan,Hubei,China
+				Wuhan  Hubei  430074
 				CN

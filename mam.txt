@@ -34733,14 +34733,20 @@ F0-12-04   (hex)		Annapurna labs
 				Mail box 15123  Haifa  3508409
 				IL
 
+2C-7A-F4   (hex)		Flextronics Automotive USA, Inc
+D00000-DFFFFF     (base 16)		Flextronics Automotive USA, Inc
+				3501 Fruit Ridge Rd NW
+				Walker  MI  49544
+				US
+
 2C-7A-F4   (hex)		Reonel Oy
 C00000-CFFFFF     (base 16)		Reonel Oy
 				Hiomotie 32
 				Helsinki    00380
 				FI
 
-2C-7A-F4   (hex)		Flextronics Automotive USA, Inc
-D00000-DFFFFF     (base 16)		Flextronics Automotive USA, Inc
-				3501 Fruit Ridge Rd NW
-				Walker  MI  49544
-				US
+2C-7A-F4   (hex)		Jinan LinkCtrl IoT Co., Ltd
+700000-7FFFFF     (base 16)		Jinan LinkCtrl IoT Co., Ltd
+				li cheng qu shi ji da dao 11977 hao zhong xin jin xiu tian di dong yuan yi qu 21 hao lou 726
+				ji nan shi  shandong  250031
+				CN
