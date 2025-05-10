@@ -7169,6 +7169,18 @@ F0-12-04   (hex)		MetaX
 				Shenzhen  GuangDong  518000
 				CN
 
+2C-7A-F4   (hex)		ShangYu Auto Technology Co.,Ltd
+600000-6FFFFF     (base 16)		ShangYu Auto Technology Co.,Ltd
+				No. 69 Yuanda Road, Anting Town, Jiading District, Shanghai
+				Shanghai  Anting Town  201805
+				CN
+
+2C-7A-F4   (hex)		Xi'an PESCO Electronic Technology Co., Ltd
+800000-8FFFFF     (base 16)		Xi'an PESCO Electronic Technology Co., Ltd
+				Room 302, Building B3, Junmin Ronghe Industrial Park, No.176, Biyuan Second Road, Hi-tech Development Zone,
+				Xi'An  Shaanxi  710000
+				CN
+
 B8-4C-87   (hex)		Shenzhen Link-all Technology Co., Ltd
 300000-3FFFFF     (base 16)		Shenzhen Link-all Technology Co., Ltd
 				Floor 5th, Block 9th, Sunny Industrial Zone, Xili Town, Nanshan District, Shenzhen, China 
@@ -20903,6 +20915,12 @@ D00000-DFFFFF     (base 16)		LightShark
 				Mail box 15123  Haifa  3508409
 				IL
 
+2C-7A-F4   (hex)		Arira Platforms, LLC
+B00000-BFFFFF     (base 16)		Arira Platforms, LLC
+				2001 Gateway Place, Suite 500W
+				San Jose  CA  95110
+				US
+
 D0-14-11   (hex)		P.B. Elettronica srl
 100000-1FFFFF     (base 16)		P.B. Elettronica srl
 				Via Santorelli, 8
@@ -27751,6 +27769,12 @@ F0-12-04   (hex)		APCON, Inc.
 				9255 SW Pioneer Court
 				Wilsonville  OR  97070
 				US
+
+2C-7A-F4   (hex)		Risuntek Inc
+A00000-AFFFFF     (base 16)		Risuntek Inc
+				Jiuwei Industrial Zone,Qishi Town
+				Donguan    523500
+				CN
 
 C8-5C-E2   (hex)		Fela Management AG 
 000000-0FFFFF     (base 16)		Fela Management AG 
