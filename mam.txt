@@ -7181,6 +7181,18 @@ F0-12-04   (hex)		MetaX
 				Xi'An  Shaanxi  710000
 				CN
 
+FC-A2-DF   (hex)		Solink Corporation
+000000-0FFFFF     (base 16)		Solink Corporation
+				110-390 March Road
+				Ottawa  Ontario  K2K 0G7
+				CA
+
+FC-A2-DF   (hex)		TiGHT AV
+C00000-CFFFFF     (base 16)		TiGHT AV
+				Uggledalsvägen 23
+				Billdal    427 40
+				SE
+
 B8-4C-87   (hex)		Shenzhen Link-all Technology Co., Ltd
 300000-3FFFFF     (base 16)		Shenzhen Link-all Technology Co., Ltd
 				Floor 5th, Block 9th, Sunny Industrial Zone, Xili Town, Nanshan District, Shenzhen, China 
@@ -13801,6 +13813,12 @@ C00000-CFFFFF     (base 16)		FairPhone B.V.
 				Via Leonardo da Vinci 15/4
 				Vigonovo  Veneto  30030
 				IT
+
+FC-A2-DF   (hex)		boger electronics gmbh
+800000-8FFFFF     (base 16)		boger electronics gmbh
+				Bauhofstr. 3
+				Wolpertswende    88284
+				DE
 
 B8-4C-87   (hex)		Altronix , Corp
 A00000-AFFFFF     (base 16)		Altronix , Corp
@@ -27775,6 +27793,12 @@ A00000-AFFFFF     (base 16)		Risuntek Inc
 				Jiuwei Industrial Zone,Qishi Town
 				Donguan    523500
 				CN
+
+2C-7A-F4   (hex)		NYBSYS Inc
+E00000-EFFFFF     (base 16)		NYBSYS Inc
+				2674 N. 1st Street, suite 220
+				San Jose  CA  95134
+				US
 
 C8-5C-E2   (hex)		Fela Management AG 
 000000-0FFFFF     (base 16)		Fela Management AG 
