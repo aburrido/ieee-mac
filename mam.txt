@@ -20195,12 +20195,6 @@ C4-CC-37   (hex)		KAIS Co.,Ltd.
 				Farmingdale  NY  11735
 				US
 
-60-A4-34   (hex)		Hangzhou Zhongxinhui lntelligent Technology Co.,Ltd.
-200000-2FFFFF     (base 16)		Hangzhou Zhongxinhui lntelligent Technology Co.,Ltd.
-				Room 17337, No. 260 Jiangshu Road, Xixing Street, Binjiang District, Hangzhou City, Zhejiang Province
-				Hangzhou    310000
-				CN
-
 C8-FF-BF   (hex)		Cognizant Mobility GmbH
 200000-2FFFFF     (base 16)		Cognizant Mobility GmbH
 				Ingolstädter Str. 45
@@ -20951,16 +20945,22 @@ B00000-BFFFFF     (base 16)		Arira Platforms, LLC
 				San Jose  CA  95110
 				US
 
+FC-A2-DF   (hex)		shenzhen zovoton electronic co.,ltd
+600000-6FFFFF     (base 16)		shenzhen zovoton electronic co.,ltd
+				1F 4 Blok, jinrui zhonghe industrial park, huarong road, tongsheng community, dalang street, longhua district, Shenzhen city, Guangdong province, china
+				shenzhen  guangdong  518100
+				CN
+
 FC-A2-DF   (hex)		Beijing KSL Electromechanical Technology Development Co.,Ltd
 900000-9FFFFF     (base 16)		Beijing KSL Electromechanical Technology Development Co.,Ltd
 				Room 501-1, 5th Floor, Building 23, Courtyard 6, Haiying Road, Fengtai District, Beijing, China
 				Beijing    100071
 				CN
 
-FC-A2-DF   (hex)		shenzhen zovoton electronic co.,ltd
-600000-6FFFFF     (base 16)		shenzhen zovoton electronic co.,ltd
-				1F 4 Blok, jinrui zhonghe industrial park, huarong road, tongsheng community, dalang street, longhua district, Shenzhen city, Guangdong province, china
-				shenzhen  guangdong  518100
+60-A4-34   (hex)		Hangzhou Zhongxinhui lntelligent Technology Co.,Ltd.
+200000-2FFFFF     (base 16)		Hangzhou Zhongxinhui lntelligent Technology Co.,Ltd.
+				Room 809, Building B, No. 567 Yueming Road, Xixing Street,
+				Hangzhou  Binjiang Distric  310000
 				CN
 
 D0-14-11   (hex)		P.B. Elettronica srl
@@ -34845,4 +34845,10 @@ FC-A2-DF   (hex)		MBio Diagnostics, Inc.
 D00000-DFFFFF     (base 16)		MBio Diagnostics, Inc.
 				4550 Byrd Dr
 				Loveland    80538
+				US
+
+FC-A2-DF   (hex)		PDI COMMUNICATION SYSTEMS INC.
+200000-2FFFFF     (base 16)		PDI COMMUNICATION SYSTEMS INC.
+				40 GREENWOOD LN
+				SPRINGBORO  OH  45066
 				US

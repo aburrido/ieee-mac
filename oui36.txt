@@ -7811,6 +7811,12 @@ EDD000-EDDFFF     (base 16)		OnDis Solutions Ltd
 				Southport    PR9 0NY
 				GB
 
+8C-1F-64   (hex)		Xylon
+2C4000-2C4FFF     (base 16)		Xylon
+				Fallerovo setaliste 22
+				Zagreb    10000
+				HR
+
 8C-1F-64   (hex)		Jacobs Technology, Inc.
 A98000-A98FFF     (base 16)		Jacobs Technology, Inc.
 				7765 Old Telegraph Road
@@ -15635,6 +15641,12 @@ E3B000-E3BFFF     (base 16)		Neways Technologies B.V.
 				Calgary  AB  T2P0M6
 				CA
 
+8C-1F-64   (hex)		Faust ApS
+F03000-F03FFF     (base 16)		Faust ApS
+				Vester Fjordvej 2
+				Storvorde    9280
+				DK
+
 8C-1F-64   (hex)		Vision Systems Safety Tech
 E6F000-E6FFFF     (base 16)		Vision Systems Safety Tech
 				5 Chemin de Chiradie
@@ -23303,12 +23315,6 @@ EBE000-EBEFFF     (base 16)		Trafag Italia S.r.l.
 				CONEGLIANO  TV  31015
 				IT
 
-8C-1F-64   (hex)		NYIEN-YI TECHNOLOGY(ZHUHAI)CO.,LTD.
-86B000-86BFFF     (base 16)		NYIEN-YI TECHNOLOGY(ZHUHAI)CO.,LTD.
-				广东省珠海市斗门区白蕉镇桥湖南路321号厂房二手层
-				珠海市    519125
-				CN
-
 8C-1F-64   (hex)		Schippers Europe BV
 4E6000-4E6FFF     (base 16)		Schippers Europe BV
 				Smaragdweg 60
@@ -23363,11 +23369,23 @@ A14000-A14FFF     (base 16)		UPLUSIT
 				Yeongdeungpo-gu  Seoul  07207
 				KR
 
+8C-1F-64   (hex)		NYIEN-YI TECHNOLOGY(ZHUHAI)CO.,LTD.
+86B000-86BFFF     (base 16)		NYIEN-YI TECHNOLOGY(ZHUHAI)CO.,LTD.
+				First Floor, Workshop Building 2,No.321,Qiaohu South Road ,Baijiao Town
+				Doumen District Zhuhai City  GuangDong  519125
+				CN
+
 8C-1F-64   (hex)		ComVetia AG
 E5B000-E5BFFF     (base 16)		ComVetia AG
 				Wittenwilerstrasse 31
 				Aadorf  TG  8355
 				CH
+
+8C-1F-64   (hex)		Potter Electric Signal Company
+EBB000-EBBFFF     (base 16)		Potter Electric Signal Company
+				5757 Phantom Drive
+				Hazelwood  MO  63042
+				US
 
 8C-1F-64   (hex)		Flow Power
 82B000-82BFFF     (base 16)		Flow Power
