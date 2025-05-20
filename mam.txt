@@ -7181,12 +7181,6 @@ F0-12-04   (hex)		MetaX
 				Foshan   Guangdong   528225 
 				CN
 
-FC-A2-DF   (hex)		Solink Corporation
-000000-0FFFFF     (base 16)		Solink Corporation
-				110-390 March Road
-				Ottawa  Ontario  K2K 0G7
-				CA
-
 FC-A2-DF   (hex)		TiGHT AV
 C00000-CFFFFF     (base 16)		TiGHT AV
 				Uggledalsvägen 23
@@ -7198,6 +7192,18 @@ FC-A2-DF   (hex)		PAVONE SISTEMI SRL
 				Via Tiberio Bianchi 11-13-15
 				Concorezzo  MB  20863
 				IT
+
+FC-A2-DF   (hex)		Solink Corporation
+000000-0FFFFF     (base 16)		Solink Corporation
+				110-390 March Road
+				Ottawa  Ontario  K2K 0G7
+				CA
+
+FC-A2-DF   (hex)		Lumentum
+B00000-BFFFFF     (base 16)		Lumentum
+				60/129 Moo 19, Klongnueng
+				Klongluang  Pathumthani  12120
+				TH
 
 B8-4C-87   (hex)		Shenzhen Link-all Technology Co., Ltd
 300000-3FFFFF     (base 16)		Shenzhen Link-all Technology Co., Ltd
@@ -34852,3 +34858,9 @@ FC-A2-DF   (hex)		PDI COMMUNICATION SYSTEMS INC.
 				40 GREENWOOD LN
 				SPRINGBORO  OH  45066
 				US
+
+FC-A2-DF   (hex)		Annapurna labs
+500000-5FFFFF     (base 16)		Annapurna labs
+				Matam Scientific Industries Center,   Building 8.2
+				Mail box 15123  Haifa  3508409
+				IL

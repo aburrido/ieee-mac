@@ -7799,23 +7799,29 @@ D3F000-D3FFFF     (base 16)		Schnoor Industrieelektronik GmbH
 				Suisio  Lombardy  24040
 				IT
 
-8C-1F-64   (hex)		Ibercomp SA
-7A3000-7A3FFF     (base 16)		Ibercomp SA
-				Lluis Alemany i Pujol 4
-				Palma de Mallorca  Spain  07010
-				ES
-
 8C-1F-64   (hex)		OnDis Solutions Ltd
 EDD000-EDDFFF     (base 16)		OnDis Solutions Ltd
 				Unit 18, Kensington Industrial Estate
 				Southport    PR9 0NY
 				GB
 
+8C-1F-64   (hex)		Ibercomp SA
+7A3000-7A3FFF     (base 16)		Ibercomp SA
+				Lluis Alemany i Pujol 4
+				Palma de Mallorca  Spain  07010
+				ES
+
 8C-1F-64   (hex)		Xylon
 2C4000-2C4FFF     (base 16)		Xylon
 				Fallerovo setaliste 22
 				Zagreb    10000
 				HR
+
+8C-1F-64   (hex)		Inspur Digital Enterprise Technology Co., Ltd.
+45A000-45AFFF     (base 16)		Inspur Digital Enterprise Technology Co., Ltd.
+				No.1036 Langchao Road
+				Jinan  Shandong  250101
+				CN
 
 8C-1F-64   (hex)		Jacobs Technology, Inc.
 A98000-A98FFF     (base 16)		Jacobs Technology, Inc.
@@ -15647,6 +15653,12 @@ F03000-F03FFF     (base 16)		Faust ApS
 				Storvorde    9280
 				DK
 
+8C-1F-64   (hex)		Richie Ltd
+14A000-14AFFF     (base 16)		Richie Ltd
+				Jääkärinkatu 4 LT 1
+				Helsinki    00150
+				FI
+
 8C-1F-64   (hex)		Vision Systems Safety Tech
 E6F000-E6FFFF     (base 16)		Vision Systems Safety Tech
 				5 Chemin de Chiradie
@@ -23386,6 +23398,12 @@ EBB000-EBBFFF     (base 16)		Potter Electric Signal Company
 				5757 Phantom Drive
 				Hazelwood  MO  63042
 				US
+
+8C-1F-64   (hex)		inomatic GmbH
+7BE000-7BEFFF     (base 16)		inomatic GmbH
+				Karl-Braun-Straße 12-13
+				Nordhorn  Germany  48531
+				DE
 
 8C-1F-64   (hex)		Flow Power
 82B000-82BFFF     (base 16)		Flow Power
