@@ -20969,6 +20969,12 @@ FC-A2-DF   (hex)		Beijing KSL Electromechanical Technology Development Co.,Ltd
 				Hangzhou  Binjiang Distric  310000
 				CN
 
+FC-A2-DF   (hex)		Orion Power Systems, Inc.
+E00000-EFFFFF     (base 16)		Orion Power Systems, Inc.
+				2939 W. Beaver Street
+				Jacksonville  FL  32254
+				US
+
 D0-14-11   (hex)		P.B. Elettronica srl
 100000-1FFFFF     (base 16)		P.B. Elettronica srl
 				Via Santorelli, 8
@@ -34841,18 +34847,6 @@ C00000-CFFFFF     (base 16)		Reonel Oy
 				ji nan shi  shandong  250031
 				CN
 
-FC-A2-DF   (hex)		BPL MEDICAL TECHNOLOGIES PRIVATE LIMITED
-A00000-AFFFFF     (base 16)		BPL MEDICAL TECHNOLOGIES PRIVATE LIMITED
-				11KM BANNERGHATTA MAIN ROAD ARAKERE BANGALORE
-				BANGALORE  KARNATAKA  560076
-				IN
-
-FC-A2-DF   (hex)		MBio Diagnostics, Inc.
-D00000-DFFFFF     (base 16)		MBio Diagnostics, Inc.
-				4550 Byrd Dr
-				Loveland    80538
-				US
-
 FC-A2-DF   (hex)		PDI COMMUNICATION SYSTEMS INC.
 200000-2FFFFF     (base 16)		PDI COMMUNICATION SYSTEMS INC.
 				40 GREENWOOD LN
@@ -34864,3 +34858,15 @@ FC-A2-DF   (hex)		Annapurna labs
 				Matam Scientific Industries Center,   Building 8.2
 				Mail box 15123  Haifa  3508409
 				IL
+
+FC-A2-DF   (hex)		BPL MEDICAL TECHNOLOGIES PRIVATE LIMITED
+A00000-AFFFFF     (base 16)		BPL MEDICAL TECHNOLOGIES PRIVATE LIMITED
+				11KM BANNERGHATTA MAIN ROAD ARAKERE BANGALORE
+				BANGALORE  KARNATAKA  560076
+				IN
+
+FC-A2-DF   (hex)		MBio Diagnostics, Inc.
+D00000-DFFFFF     (base 16)		MBio Diagnostics, Inc.
+				4550 Byrd Dr
+				Loveland    80538
+				US
