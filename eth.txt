@@ -1629,12 +1629,6 @@ A0ED                          IETF 6lo working group                            
                               US                                                                                                       
 
 
-8949                          Mellanox Technologies, Inc.                                                                              Mellanox Remote Mirror Encapsulation
-                              350 Oakmead Parkway, Suite 100                                                                           
-                              Sunnyvale  CA  94085                                                                                     
-                              US                                                                                                       
-
-
 D28B                          Arista Networks                                                                                          We plan to use this Ethertype for multiple proprietary protocols.  They are
                               5453 Great America Parkway                                                                               still under development. We will disclose the protocols publicly once they 
                               Santa Clara  CA  95054                                                                                   are generally available.                                                   
@@ -3875,6 +3869,12 @@ A580                          Siemens Gammasonics                               
                               US                                                                                                       
 
 
+8949                          Mellanox Technologies, Inc.                                                                              Mellanox Remote Mirror Encapsulation
+                              350 Oakmead Parkway, Suite 100                                                                           
+                              Sunnyvale  CA  94085                                                                                     
+                              US                                                                                                       
+
+
 8921                          Cisco Systems, Inc                                                                                       Decline to disclose. Cisco Proprietary
                               3850 Zanker Rd.                                                                                          
                               San Jose  CA  95134                                                                                      
@@ -5373,12 +5373,6 @@ ED3E                          IETF Routing Area                                 
 9999                          Adtran Inc                                                                                               ADTRAN does not currently wish to disclose it's protocols, but may desire
                               901 Explorer Blvd.                                                                                       to do so in the future.                                                    
                               Huntsville  AL  35806                                                                                    
-                              US                                                                                                       
-
-
-8932                          Mellanox Technologies, Inc.                                                                              Mellanox discovery and configuration protocol.
-                              350 Oakmead Parkway, Suite 100                                                                           
-                              Sunnyvale  CA  94085                                                                                     
                               US                                                                                                       
 
 
@@ -7666,6 +7660,12 @@ C22A                          University of Berkeley                            
                                                                                                                                        proper decryption functions.                                               
 
 
+8932                          Mellanox Technologies, Inc.                                                                              Mellanox discovery and configuration protocol.
+                              350 Oakmead Parkway, Suite 100                                                                           
+                              Sunnyvale  CA  94085                                                                                     
+                              US                                                                                                       
+
+
 0500                          University  of Berkeley                                                                                  Invalid as an EtherType value since 1983
                               Computer Science Department                                                                              
                               Berkeley  CA  94720                                                                                      
@@ -9250,12 +9250,6 @@ F1C1                          IEEE 802.1 Chair                                  
 8138                          Novell, Inc.                                                                                             Internetwork Packet Exchange (IPX)
                               122 EAST 1700 SOUTH                                                                                      
                               Provo  UT   84606                                                                                        
-                              US                                                                                                       
-
-
-8915                          Mellanox Technologies, Inc.                                                                              RoCE - RDMA over Converged Ethernet
-                              350 Oakmead Parkway, Suite 100                                                                           
-                              Sunnyvale  CA  94085                                                                                     
                               US                                                                                                       
 
 
@@ -11642,6 +11636,12 @@ B081                          Shenzhen Inovance Technology Co.,Ltd              
                               Inovance Headquarters Tower, High-tech Industrial Park,Guanlan Street, Longhua New District, Shenzhen P.R.Chinanetworking, multiple reliability guarantees, low latency and high          
                               Shenzhen  Guangdong  518110                                                                              synchronisation accuracy, application layer compatibility and              
                               CN                                                                                                       extensibility, and simple deployment and easy maintenance.                 
+
+
+8915                          Mellanox Technologies, Inc.                                                                              RoCE - RDMA over Converged Ethernet
+                              350 Oakmead Parkway, Suite 100                                                                           
+                              Sunnyvale  CA  94085                                                                                     
+                              US                                                                                                       
 
 
 0105                          Xerox (Experimental)                                                                                     Invalid as an EtherType value since 1983

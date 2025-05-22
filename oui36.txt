@@ -7745,12 +7745,6 @@ D1E000-D1EFFF     (base 16)		Tycon Systems Inc
 				LAKE FOREST  CA  92630
 				US
 
-8C-1F-64   (hex)		EPC Power Corporation
-875000-875FFF     (base 16)		EPC Power Corporation
-				13250 Gregg St suite a-2 
-				Poway  CA  92064
-				US
-
 8C-1F-64   (hex)		develogic GmbH
 76E000-76EFFF     (base 16)		develogic GmbH
 				Hammer Deich 70
@@ -7828,6 +7822,12 @@ DD2000-DD2FFF     (base 16)		SHIELD-CCTV CO.,LTD.
 				1F., No. 80. Gong'an St.
 				Pingtung City    900026
 				TW
+
+8C-1F-64   (hex)		EPC Power Corporation
+875000-875FFF     (base 16)		EPC Power Corporation
+				13250 Gregg St suite a-2   
+				Poway  CA  92064
+				US
 
 8C-1F-64   (hex)		Jacobs Technology, Inc.
 A98000-A98FFF     (base 16)		Jacobs Technology, Inc.
@@ -23321,12 +23321,6 @@ EBE000-EBEFFF     (base 16)		Trafag Italia S.r.l.
 				Carlsbad  CA  92008
 				US
 
-8C-1F-64   (hex)		EPC Power Corporation
-263000-263FFF     (base 16)		EPC Power Corporation
-				13250 Gregg St suite a-2 
-				Poway  CA  92064
-				US
-
 8C-1F-64   (hex)		KEYLINE S.P.A.
 16A000-16AFFF     (base 16)		KEYLINE S.P.A.
 				VIA CAMILLO BIANCHI, 2
@@ -23409,6 +23403,18 @@ E5B000-E5BFFF     (base 16)		ComVetia AG
 EBB000-EBBFFF     (base 16)		Potter Electric Signal Company
 				5757 Phantom Drive
 				Hazelwood  MO  63042
+				US
+
+8C-1F-64   (hex)		EPC Power Corporation
+263000-263FFF     (base 16)		EPC Power Corporation
+				13250 Gregg St suite a-2   
+				Poway  CA  92064
+				US
+
+8C-1F-64   (hex)		EPC Power Corporation
+9D9000-9D9FFF     (base 16)		EPC Power Corporation
+				13250 Gregg St suite a-2   
+				Poway  CA  92064
 				US
 
 8C-1F-64   (hex)		Flow Power
@@ -31271,6 +31277,12 @@ AB3000-AB3FFF     (base 16)		VELVU TECHNOLOGIES PRIVATE LIMITED
 				Skovlunde    2740
 				DK
 
+8C-1F-64   (hex)		wincker international enterprise co., ltd
+B1F000-B1FFFF     (base 16)		wincker international enterprise co., ltd
+				1FL No. 345 Yen Shou St., Taipei, Taiwan
+				Taipei    10577
+				TW
+
 8C-1F-64   (hex)		Mobileye
 D63000-D63FFF     (base 16)		Mobileye
 				13 Hartom st.
@@ -39004,3 +39016,15 @@ FEB000-FEBFFF     (base 16)		Zhejiang Saijin Semiiconductor Technology Co., Ltd.
 				Wielicka 28
 				Krakow    30-552
 				PL
+
+8C-1F-64   (hex)		Guoqing (shangdong) Information Technology Co.,Ltd
+57E000-57EFFF     (base 16)		Guoqing (shangdong) Information Technology Co.,Ltd
+				Floor 12, Building C, Big Data Industrial Base, High-Tech Zone 
+				Jinan  Shandong  250101
+				CN
+
+8C-1F-64   (hex)		OnAsset Intelligence
+415000-415FFF     (base 16)		OnAsset Intelligence
+				8407 Sterling Street
+				Irving  TX  75063
+				US

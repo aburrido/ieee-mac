@@ -284,7 +284,6 @@ EtherType,A0ED,IETF 6lo working group,c/o Internet Society Reston VA US 20190-51
 will be used to identify IPv6 datagrams using LoWPAN encapsulation as defined
 in IETF RFC 4944 ""Transmission of IPv6 Packets over IEEE 802.15.4 Networks"""
 EtherType,88DB,Adtran Inc,901 Explorer Blvd. Huntsville AL US 35806 ,"Adtran does not currently wish to disclose it's protocols, but may desire to do so in the future."
-EtherType,8949,"Mellanox Technologies, Inc.","350 Oakmead Parkway, Suite 100  Sunnyvale CA US 94085 ",Mellanox Remote Mirror Encapsulation
 EtherType,D28B,Arista Networks,5453 Great America Parkway Santa Clara CA US 95054 ,We plan to use this Ethertype for multiple proprietary protocols.  They are still under development. We will disclose the protocols publicly once they are generally available.
 EtherType,"=""88E4""","VIA Technologies, Inc.","8F, 533, Chung-Cheng Road Hsin-Tien Taipei TW 231 ","Via NeTworking Switch Management Protocol (VNTSMP) provides one such solution. Switches that support VNTSMP send and receive VNTSMP PDU with one another. A switch without a CPU module (the Client) uses VNTSMP PDU (QUERY) to encapsulate control protocol PDU, such as BPDU, to the switch equipped with a CPU module (the Server) for processing. The Server then sends the Client a response PDU (REPLY) to tell it what action needs to be taken. The Server can also send a QUERY PDU to the Client for a snapshot of all statistics counters. The Client then returns it in one or more REPLY PDUs.
 "
@@ -755,6 +754,7 @@ EtherType,8012,National Semiconductor,2900 Semiconductor Drive Santa Clara CA US
 EtherType,5005,Intel,   US  ,Protocol unavailable.
 EtherType,7003,Ungermann-Bass,   US  ,Protocol unavailable.
 EtherType,88EB,Hewlett Packard Enterprise,3333 Scott Blvd 6280 America Center Dr CA US 95002 ,This is an application for a second e-type from Aruba at this time.
+EtherType,8949,"Mellanox Technologies, Inc.","350 Oakmead Parkway, Suite 100   Sunnyvale CA US 94085 ",Mellanox Remote Mirror Encapsulation
 EtherType,8921,"Cisco Systems, Inc",3850 Zanker Rd. San Jose CA US 95134 ,Decline to disclose. Cisco Proprietary
 EtherType,0400,Private,,Invalid as an EtherType value since 1983
 EtherType,0103,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
@@ -1015,8 +1015,6 @@ Contains packet-processing meta-data followed by encapsulated packet. See https:
 EtherType,88BF,Proxim Corporation,28 Bay View Road Wellesley MA US 02482 ,"For encapsulation of Ethernet packets being transmitted between switch-like
 devices to carry device specific information"
 EtherType,9999,Adtran Inc,901 Explorer Blvd. Huntsville AL US 35806 ,"ADTRAN does not currently wish to disclose it's protocols, but may desire to do so in the future."
-EtherType,8932,"Mellanox Technologies, Inc.","350 Oakmead Parkway, Suite 100  Sunnyvale CA US 94085 ","Mellanox discovery and configuration protocol.
-"
 EtherType,8927,Klavis Technologies,9A Bld de France Braine-L'Alleud Brabant BE 1420 ,"CopperLan protocol is dedicated to command-and-control in the environments of music, pro-audio, stage and related equipment, both in embedded products and computer applications.
 www.copperlan.org "
 EtherType,8213,"Xyplex, Inc.",330 Codman Hill Road Boxborough MA US 01719 ,Protocol unavailable.
@@ -1498,6 +1496,8 @@ EtherType,7001,Ungermann-Bass,   US  ,Protocol unavailable.
 EtherType,7015,Olteco (Olevetti),   US  ,Protocol unavailable.
 EtherType,88D6,Hewlett Packard Enterprise,3333 Scott Blvd 6280 America Center Dr CA US 95002 ,Aruba Networks L2 AES
 EtherType,88EA,Hewlett Packard Enterprise,3333 Scott Blvd 6280 America Center Dr CA US 95002 ,For the use of transferring a new security authentication and encryption protocol between two devices at the L2 layer.  The protocol will transfer 802.1x and 256 bit AES-CBC encrypted frames across wired and wireless devices by encapsulating L2 packets.  The new ether type is needed to identify and differentiate from other packets in order to apply the the proper decryption functions.
+EtherType,8932,"Mellanox Technologies, Inc.","350 Oakmead Parkway, Suite 100   Sunnyvale CA US 94085 ","Mellanox discovery and configuration protocol.
+"
 EtherType,0500,University  of Berkeley,Computer Science Department Berkeley CA US 94720 ,Invalid as an EtherType value since 1983
 EtherType,0201,Private,,Invalid as an EtherType value since 1983
 EtherType,0128,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
@@ -1764,7 +1764,6 @@ EtherType,88F1,Rajant Corporation,400 East King Street Malvern PA US 19355 ,"Thi
 EtherType,886D,Intel Corporation,JF3-410 Hillsboro OR US 97124 ,Intel Advanced Networking Services
 EtherType,8137,"Novell, Inc.",122 EAST 1700 SOUTH Provo UT US  84606 ,Internetwork Packet Exchange (IPX)
 EtherType,8138,"Novell, Inc.",122 EAST 1700 SOUTH Provo UT US  84606 ,Internetwork Packet Exchange (IPX)
-EtherType,8915,"Mellanox Technologies, Inc.","350 Oakmead Parkway, Suite 100  Sunnyvale CA US 94085 ",RoCE - RDMA over Converged Ethernet
 EtherType,"=""88E3""",SIEMENS AG,Oestliche Rheinbrückenstraße 50 Karlsruhe Baden-Württemberg DE 76181 ,MRP (medium redundancy protocol)
 EtherType,9A22,IETF,c/o Internet Society Reston MA US 20190-5108 ,See IETF Internet Draft draft-ietf-trill-multi-topology-06.txt which is about to be published as RFC 8377.
 EtherType,B382,"Cisco Systems, Inc.",3850 Zanker Rd. San Jose CA US 95134 ,Private Protocol
@@ -2274,6 +2273,7 @@ EtherType,7033,InterLan,160 Turnpike Road Chelmsford MA US 01824 ,Protocol unava
 EtherType,7014,Olteco (Olevetti),   US  ,Protocol unavailable.
 EtherType,FC3D,IEEE 1914 Next Generation Fronthaul Interface  Working Group,445 Hoes Lane Piscataway NJ US 08854-4141 ,Radio over Ethernet (RoE) encapsulation per IEEE Std 1914.3.
 EtherType,B081,"Shenzhen Inovance Technology Co.,Ltd","Inovance Headquarters Tower, High-tech Industrial Park,Guanlan Street, Longhua New District, Shenzhen P.R.China Shenzhen Guangdong CN 518110 ","WiTSnet is a real-time Ethernet communication protocol with flexible networking, multiple reliability guarantees, low latency and high synchronisation accuracy, application layer compatibility and extensibility, and simple deployment and easy maintenance."
+EtherType,8915,"Mellanox Technologies, Inc.","350 Oakmead Parkway, Suite 100   Sunnyvale CA US 94085 ",RoCE - RDMA over Converged Ethernet
 EtherType,0105,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
 EtherType,0134,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
 EtherType,013B,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983

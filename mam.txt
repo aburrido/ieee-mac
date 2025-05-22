@@ -20975,6 +20975,18 @@ E00000-EFFFFF     (base 16)		Orion Power Systems, Inc.
 				Jacksonville  FL  32254
 				US
 
+04-58-5D   (hex)		Exodraft A/S
+100000-1FFFFF     (base 16)		Exodraft A/S
+				Industrivej 10
+				Langeskov  Syddanmark  5550
+				DK
+
+04-58-5D   (hex)		VERTE Elektronik San. Ve Tic. A.Ş.
+600000-6FFFFF     (base 16)		VERTE Elektronik San. Ve Tic. A.Ş.
+				Ankara Teknopark, Serhat Mahallesi, 2224. Cadde, No:1/43, (Z13) F Blok Zemin Kat Tax Office: İvedik Tax Number: 9250982676
+				Yenimahalle  ANKARA  06374
+				TR
+
 D0-14-11   (hex)		P.B. Elettronica srl
 100000-1FFFFF     (base 16)		P.B. Elettronica srl
 				Via Santorelli, 8
@@ -34870,3 +34882,9 @@ D00000-DFFFFF     (base 16)		MBio Diagnostics, Inc.
 				4550 Byrd Dr
 				Loveland    80538
 				US
+
+04-58-5D   (hex)		Foxconn Brasil Industria e Comercio Ltda
+200000-2FFFFF     (base 16)		Foxconn Brasil Industria e Comercio Ltda
+				Av. Marginal da Rodovia dos Bandeirantes, 800 - Distrito Industrial
+				Jundiaí  Sao Paulo  13213-008
+				BR
