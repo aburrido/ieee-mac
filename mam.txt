@@ -13844,6 +13844,12 @@ FC-A2-DF   (hex)		Hangzhou Laizhi Technology Co.,Ltd
 				Ballymount  Dublin  D24 WY49
 				IE
 
+04-58-5D   (hex)		TELEPLATFORMS
+A00000-AFFFFF     (base 16)		TELEPLATFORMS
+				Polbina st., 3/1
+				Moscow    109388
+				RU
+
 B8-4C-87   (hex)		Altronix , Corp
 A00000-AFFFFF     (base 16)		Altronix , Corp
 				140 58th St. Bldg A, Ste 2N
@@ -20987,17 +20993,17 @@ E00000-EFFFFF     (base 16)		Orion Power Systems, Inc.
 				Yenimahalle  ANKARA  06374
 				TR
 
-04-58-5D   (hex)		Exodraft A/S
-100000-1FFFFF     (base 16)		Exodraft A/S
-				Industrivej 10
-				Langeskov  Syddanmark  5550
-				DK
-
 04-58-5D   (hex)		Rexon Technology
 C00000-CFFFFF     (base 16)		Rexon Technology
 				No. 261, Renhua Rd., Dali Dist.
 				Taichung City     412037
 				TW
+
+04-58-5D   (hex)		Research Laboratory of Design Automation, Ltd.
+100000-1FFFFF     (base 16)		Research Laboratory of Design Automation, Ltd.
+				8 Birzhevoy Spusk
+				Taganrog    347900
+				RU
 
 D0-14-11   (hex)		P.B. Elettronica srl
 100000-1FFFFF     (base 16)		P.B. Elettronica srl
@@ -27871,6 +27877,18 @@ FC-A2-DF   (hex)		SpacemiT
 				Room 1005, 10F, No. 88, Wanchuang Road, Tangjiawan Town, High-tech Zone, Zhuhai
 				zhuhai  guangdong  519000
 				CN
+
+04-58-5D   (hex)		Wetatronics Limited
+000000-0FFFFF     (base 16)		Wetatronics Limited
+				45 Bath StreetParnell
+				Auckland  Auckland  1052
+				NZ
+
+04-58-5D   (hex)		JRK VISION
+800000-8FFFFF     (base 16)		JRK VISION
+				A-1107, 135, Gasan digital 2-ro, Geumcheon-gu
+				SEOUL    08504
+				KR
 
 C8-5C-E2   (hex)		Fela Management AG 
 000000-0FFFFF     (base 16)		Fela Management AG 
@@ -34912,3 +34930,9 @@ D00000-DFFFFF     (base 16)		MBio Diagnostics, Inc.
 				A 93 SECTOR 65 NOIDA 201301
 				201301  Uttar Pradesh  201301
 				IN
+
+04-58-5D   (hex)		Integrated Technical Vision Ltd
+400000-4FFFFF     (base 16)		Integrated Technical Vision Ltd
+				Mykoly Hrinchenka str. 2/1
+				Kyiv  Kyiv  03038
+				UA
