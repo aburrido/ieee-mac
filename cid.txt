@@ -506,6 +506,12 @@ BAA2D0                        (base 16)                     Wireless Broadband A
                                                             San Ramon  CA  94583                         
                                                             SG                                           
 
+2A-47-C9                      (hex)                         Code Construct Pty Ltd                       
+2A47C9                        (base 16)                     Code Construct Pty Ltd                       
+                                                            PO Box 248                                   
+                                                            Victoria Park  WA  6979                      
+                                                            AU                                           
+
 8A-85-2E                      (hex)                         Kampr Systems                                
 8A852E                        (base 16)                     Kampr Systems                                
                                                             2047 Kings Lane                              

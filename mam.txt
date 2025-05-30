@@ -21023,6 +21023,12 @@ D00000-DFFFFF     (base 16)		HDS Otomasyon Güvenlik ve Yazılım Teknolojiler S
 				İstanbul  Kağıthane  34406
 				TR
 
+D4-A0-FB   (hex)		Skyfri Corp
+700000-7FFFFF     (base 16)		Skyfri Corp
+				800 North State Street Suite 403
+				City of Dover  DE  19901
+				US
+
 D0-14-11   (hex)		P.B. Elettronica srl
 100000-1FFFFF     (base 16)		P.B. Elettronica srl
 				Via Santorelli, 8
