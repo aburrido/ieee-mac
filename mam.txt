@@ -7157,6 +7157,18 @@ F0-12-04   (hex)		MetaX
 				Shanghai    200000
 				CN
 
+2C-7A-F4   (hex)		Kegao Intelligent Garden Technology(Guangdong) Co.,Ltd.
+400000-4FFFFF     (base 16)		Kegao Intelligent Garden Technology(Guangdong) Co.,Ltd.
+				8/F Building D,No.39, East Keji Avenue, Shishan Town Nanhai District
+				Foshan   Guangdong   528225 
+				CN
+
+2C-7A-F4   (hex)		Shenzhen Yitoa Digital Technology Co., Ltd.
+300000-3FFFFF     (base 16)		Shenzhen Yitoa Digital Technology Co., Ltd.
+				7th floor, Building 1, Jiancang Technology Park, Bao'an, Shenzhen, China
+				Shenzhen  GuangDong  518000
+				CN
+
 2C-7A-F4   (hex)		ShangYu Auto Technology Co.,Ltd
 600000-6FFFFF     (base 16)		ShangYu Auto Technology Co.,Ltd
 				No. 69 Yuanda Road, Anting Town, Jiading District, Shanghai
@@ -7167,18 +7179,6 @@ F0-12-04   (hex)		MetaX
 800000-8FFFFF     (base 16)		Xi'an PESCO Electronic Technology Co., Ltd
 				Room 302, Building B3, Junmin Ronghe Industrial Park, No.176, Biyuan Second Road, Hi-tech Development Zone,
 				Xi'An  Shaanxi  710000
-				CN
-
-2C-7A-F4   (hex)		Shenzhen Yitoa Digital Technology Co., Ltd.
-300000-3FFFFF     (base 16)		Shenzhen Yitoa Digital Technology Co., Ltd.
-				7th floor, Building 1, Jiancang Technology Park, Bao'an, Shenzhen, China
-				Shenzhen  GuangDong  518000
-				CN
-
-2C-7A-F4   (hex)		Kegao Intelligent Garden Technology(Guangdong) Co.,Ltd.
-400000-4FFFFF     (base 16)		Kegao Intelligent Garden Technology(Guangdong) Co.,Ltd.
-				8/F Building D,No.39, East Keji Avenue, Shishan Town Nanhai District
-				Foshan   Guangdong   528225 
 				CN
 
 FC-A2-DF   (hex)		TiGHT AV
@@ -21017,6 +21017,12 @@ E00000-EFFFFF     (base 16)		Orion Power Systems, Inc.
 				Yenimahalle  ANKARA  06374
 				TR
 
+04-58-5D   (hex)		Research Laboratory of Design Automation, Ltd.
+100000-1FFFFF     (base 16)		Research Laboratory of Design Automation, Ltd.
+				8 Birzhevoy Spusk
+				Taganrog    347900
+				RU
+
 04-58-5D   (hex)		Rexon Technology
 C00000-CFFFFF     (base 16)		Rexon Technology
 				No. 261, Renhua Rd., Dali Dist.
@@ -21028,12 +21034,6 @@ D00000-DFFFFF     (base 16)		HDS Otomasyon Güvenlik ve Yazılım Teknolojiler S
 				Merkez Mahallesi Sadabad Cad. Kapı No:20
 				İstanbul  Kağıthane  34406
 				TR
-
-04-58-5D   (hex)		Research Laboratory of Design Automation, Ltd.
-100000-1FFFFF     (base 16)		Research Laboratory of Design Automation, Ltd.
-				8 Birzhevoy Spusk
-				Taganrog    347900
-				RU
 
 D4-A0-FB   (hex)		Skyfri Corp
 700000-7FFFFF     (base 16)		Skyfri Corp
@@ -34937,11 +34937,11 @@ C00000-CFFFFF     (base 16)		Reonel Oy
 				ji nan shi  shandong  250031
 				CN
 
-FC-A2-DF   (hex)		PDI COMMUNICATION SYSTEMS INC.
-200000-2FFFFF     (base 16)		PDI COMMUNICATION SYSTEMS INC.
-				40 GREENWOOD LN
-				SPRINGBORO  OH  45066
-				US
+FC-A2-DF   (hex)		BPL MEDICAL TECHNOLOGIES PRIVATE LIMITED
+A00000-AFFFFF     (base 16)		BPL MEDICAL TECHNOLOGIES PRIVATE LIMITED
+				11KM BANNERGHATTA MAIN ROAD ARAKERE BANGALORE
+				BANGALORE  KARNATAKA  560076
+				IN
 
 FC-A2-DF   (hex)		Annapurna labs
 500000-5FFFFF     (base 16)		Annapurna labs
@@ -34949,23 +34949,17 @@ FC-A2-DF   (hex)		Annapurna labs
 				Mail box 15123  Haifa  3508409
 				IL
 
-FC-A2-DF   (hex)		BPL MEDICAL TECHNOLOGIES PRIVATE LIMITED
-A00000-AFFFFF     (base 16)		BPL MEDICAL TECHNOLOGIES PRIVATE LIMITED
-				11KM BANNERGHATTA MAIN ROAD ARAKERE BANGALORE
-				BANGALORE  KARNATAKA  560076
-				IN
+FC-A2-DF   (hex)		PDI COMMUNICATION SYSTEMS INC.
+200000-2FFFFF     (base 16)		PDI COMMUNICATION SYSTEMS INC.
+				40 GREENWOOD LN
+				SPRINGBORO  OH  45066
+				US
 
 FC-A2-DF   (hex)		MBio Diagnostics, Inc.
 D00000-DFFFFF     (base 16)		MBio Diagnostics, Inc.
 				4550 Byrd Dr
 				Loveland    80538
 				US
-
-04-58-5D   (hex)		Foxconn Brasil Industria e Comercio Ltda
-200000-2FFFFF     (base 16)		Foxconn Brasil Industria e Comercio Ltda
-				Av. Marginal da Rodovia dos Bandeirantes, 800 - Distrito Industrial
-				Jundiaí  Sao Paulo  13213-008
-				BR
 
 04-58-5D   (hex)		Dron Edge India Private Limited
 900000-9FFFFF     (base 16)		Dron Edge India Private Limited
@@ -34984,6 +34978,12 @@ D00000-DFFFFF     (base 16)		MBio Diagnostics, Inc.
 				Mads-Clausen-Str. 7
 				Flensburg  Schleswig-Holstein  24939 
 				DE
+
+04-58-5D   (hex)		Foxconn Brasil Industria e Comercio Ltda
+200000-2FFFFF     (base 16)		Foxconn Brasil Industria e Comercio Ltda
+				Av. Marginal da Rodovia dos Bandeirantes, 800 - Distrito Industrial
+				Jundiaí  Sao Paulo  13213-008
+				BR
 
 04-58-5D   (hex)		Sercomm Japan Corporation
 500000-5FFFFF     (base 16)		Sercomm Japan Corporation
