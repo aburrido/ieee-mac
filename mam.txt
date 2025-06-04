@@ -27938,6 +27938,12 @@ D4-A0-FB   (hex)		M2MD Technologies, Inc.
 				Atlanta  GA  30327
 				US
 
+D4-A0-FB   (hex)		Corelase Oy
+500000-5FFFFF     (base 16)		Corelase Oy
+				Kauhakorvenkatu 52
+				Tampere  Pirkanmaa  33720
+				FI
+
 C8-5C-E2   (hex)		Fela Management AG 
 000000-0FFFFF     (base 16)		Fela Management AG 
 				Basadingerstrasse 18
