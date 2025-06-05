@@ -15665,17 +15665,17 @@ F03000-F03FFF     (base 16)		Faust ApS
 				Helsinki    00150
 				FI
 
-8C-1F-64   (hex)		NARI TECH Co., Ltd
-888000-888FFF     (base 16)		NARI TECH Co., Ltd
-				947, Hanam-daero
-				Hanam-si  Gyeonggi-do  12982
-				KR
-
 8C-1F-64   (hex)		Mitsubishi Electric System & Service Co., Ltd.
 E05000-E05FFF     (base 16)		Mitsubishi Electric System & Service Co., Ltd.
 				1-26-43 Yada, Higashi-ku,
 				Nagoya  Aichi  461-0040
 				JP
+
+8C-1F-64   (hex)		NARI TECH Co., Ltd
+888000-888FFF     (base 16)		NARI TECH Co., Ltd
+				947, Hanam-daero
+				Hanam-si  Gyeonggi-do  12982
+				KR
 
 8C-1F-64   (hex)		Vision Systems Safety Tech
 E6F000-E6FFFF     (base 16)		Vision Systems Safety Tech
@@ -31307,23 +31307,35 @@ AB3000-AB3FFF     (base 16)		VELVU TECHNOLOGIES PRIVATE LIMITED
 				Skovlunde    2740
 				DK
 
-8C-1F-64   (hex)		wincker international enterprise co., ltd
-B1F000-B1FFFF     (base 16)		wincker international enterprise co., ltd
-				1FL No. 345 Yen Shou St., Taipei, Taiwan
-				Taipei    10577
-				TW
-
 8C-1F-64   (hex)		Chengdu Xiuwei TechnologyDevelopment Co., Ltd
 870000-870FFF     (base 16)		Chengdu Xiuwei TechnologyDevelopment Co., Ltd
 				10th Floor, Building 10, No. 8 Guangfu Road, Qingyang District
 				Chengdu City  Please Select  610073
 				CN
 
+8C-1F-64   (hex)		wincker international enterprise co., ltd
+B1F000-B1FFFF     (base 16)		wincker international enterprise co., ltd
+				1FL No. 345 Yen Shou St., Taipei, Taiwan
+				Taipei    10577
+				TW
+
 8C-1F-64   (hex)		IQ Tools LLC
 FF5000-FF5FFF     (base 16)		IQ Tools LLC
 				Zemlyanoy Val, 64, building 2
 				Moscow  Moscow  109004
 				RU
+
+8C-1F-64   (hex)		Vision Systems Safety Tech
+2E4000-2E4FFF     (base 16)		Vision Systems Safety Tech
+				5 Chemin de Chiradie
+				Brignais    69530
+				FR
+
+8C-1F-64   (hex)		NEC Asia Pacific Pte Ltd
+85F000-85FFFF     (base 16)		NEC Asia Pacific Pte Ltd
+				80 Bendemeer Road #05-01
+				Singapore  Singapore  339949
+				SG
 
 8C-1F-64   (hex)		Mobileye
 D63000-D63FFF     (base 16)		Mobileye
@@ -39071,11 +39083,11 @@ C75000-C75FFF     (base 16)		Abbott Diagnostics Technologies AS
 				Oslo  Oslo  0504
 				NO
 
-8C-1F-64   (hex)		Oriental Electronics, Inc.
-68E000-68EFFF     (base 16)		Oriental Electronics, Inc.
-				2-4-1 Tanabe-Chuo
-				Kyo-Tanabe  Kyoto  610-0334
-				JP
+8C-1F-64   (hex)		OnAsset Intelligence
+415000-415FFF     (base 16)		OnAsset Intelligence
+				8407 Sterling Street
+				Irving  TX  75063
+				US
 
 8C-1F-64   (hex)		OOO Mig Trading
 C19000-C19FFF     (base 16)		OOO Mig Trading
@@ -39089,14 +39101,20 @@ C19000-C19FFF     (base 16)		OOO Mig Trading
 				Dinkelsbuehl  Bavaria  91550
 				DE
 
-8C-1F-64   (hex)		OnAsset Intelligence
-415000-415FFF     (base 16)		OnAsset Intelligence
-				8407 Sterling Street
-				Irving  TX  75063
-				US
+8C-1F-64   (hex)		Oriental Electronics, Inc.
+68E000-68EFFF     (base 16)		Oriental Electronics, Inc.
+				2-4-1 Tanabe-Chuo
+				Kyo-Tanabe  Kyoto  610-0334
+				JP
 
 8C-1F-64   (hex)		Pulcro.io LLC
 C22000-C22FFF     (base 16)		Pulcro.io LLC
 				551 S IH 35, Ste 300
 				Round Rock  TX  78664
 				US
+
+8C-1F-64   (hex)		Digitella Inc.
+0CE000-0CEFFF     (base 16)		Digitella Inc.
+				RM1314, IS Biz Tower A, 25, Deokcheon-ro 152beon-gil, Manan-gu
+				Anyang-si  Gyeonggi-do  14084
+				KR
