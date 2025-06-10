@@ -7536,6 +7536,7 @@ MA-L,CCBABD,TP-Link Systems Inc.,10 Mauchly  Irvine CA US 92618
 MA-L,C89009,Budderfly Inc,2 Trap Falls Road Shelton CT US 06484 
 MA-L,780F81,Cisco Meraki,500 Terry A. Francois Blvd San Francisco  US 94158 
 MA-L,5CE753,Private,
+MA-L,08736F,EM Microelectronic,Rue des Sors 3 Marin-Epagnier Neuchatel CH 2074 
 MA-L,000130,Extreme Networks Headquarters,2121 RDU Center Drive  Morrisville NC US 27560 
 MA-L,FC0A81,Extreme Networks Headquarters,2121 RDU Center Drive  Morrisville NC US 27560 
 MA-L,00749C,"Ruijie Networks Co.,LTD","19# Building,Star-net Science Plaza,Juyuanzhou, 618 Jinshan Road Fuzhou Fujian CN 350002 "
@@ -14960,12 +14961,14 @@ MA-L,C4864F,Beijing BitIntelligence Information Technology Co. Ltd.,"Room 708, F
 MA-L,E0E6E3,TeamF1 Networks Pvt Limited,"Ascendas IT Park, Capella Block, Floor #2, Plot No: 17, Software Units Layout, Madhapur Hyderabad Telangana IN 500081 "
 MA-L,C87F2B,INGRAM MICRO SERVICES,100 CHEMIN DE BAILLOT MONTAUBAN  FR 82000 
 MA-L,788E45,Jizaie inc.," Inspired.Lab 569 Otemachi Building 5F, 1-6-1 Otemachi, Chiyoda-ku,  Tokyo 100-0004 Tokyo Tokyo JP  100-0004 "
-MA-L,2876CD,"Funshion Online Technologies Co.,Ltd","2101, Floor 1-2, Building 9, Anzhen Xili District 3, Chaoyang District, Beijing Beijing   CN 100029 "
 MA-L,4CFAC9,BWS IoT,"Calçada Acácias, 31 Barueri Sao Paulo BR 06453-054 "
 MA-L,682499,"Quectel Wireless Solutions Co.,Ltd.","7th Floor, Hongye Building, No.1801 Hongmei Road, Xuhui District Shanghai  CN 200233 "
-MA-L,34FA1C,"Beijing Xiaomi Mobile Software Co., Ltd","The Rainbow City Office Building, 68 Qinghe Middle Street Haidian District Beijing Beijing CN 100085 "
 MA-L,303B49,Cisco Meraki,500 Terry A. Francois Blvd San Francisco  US 94158 
+MA-L,34FA1C,"Beijing Xiaomi Mobile Software Co., Ltd","The Rainbow City Office Building, 68 Qinghe Middle Street Haidian District Beijing Beijing CN 100085 "
+MA-L,2876CD,"Funshion Online Technologies Co.,Ltd","2101, Floor 1-2, Building 9, Anzhen Xili District 3, Chaoyang District, Beijing Beijing   CN 100029 "
+MA-L,4435B9,NetComm Wireless Pty Ltd,"Level 1, 18-20 Orion Road Sydney NSW AU 2066 "
 MA-L,4CCF7C,HP Inc.,10300 Energy Dr Spring TX US 77389 
+MA-L,6475DA,Arcadyan Corporation,"No.8, Sec.2, Guangfu Rd. Hsinchu City Hsinchu TW 30071 "
 MA-L,6C8720,"New H3C Technologies Co., Ltd","466 Changhe Road, Binjiang District Hangzhou Zhejiang CN 310052 "
 MA-L,0C8D7A,RADiflow,HaBarzel St 38 Tel-Aviv  IL 6971054 
 MA-L,FCA9F5,Xiaomi Communications Co Ltd,"#019, 9th Floor, Building 6, 33 Xi'erqi Middle Road Beijing Haidian District CN 100085 "
@@ -22454,6 +22457,7 @@ MA-L,C817F5,"Nanjing Qinheng Microelectronics Co., Ltd.","No.18, Ningshuang Road
 MA-L,D8B2AA,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
 MA-L,9014AF,Cambium Networks Limited,"Unit B2, Linhay Business Park, Ashburton Devon GB TQ13 7UP "
 MA-L,F41563,F5 Inc.,1322 North Whitman Lane Liberty Lake WA US 99019 
+MA-L,2CF814,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
 MA-L,B00C9D,"Quectel Wireless Solutions Co.,Ltd.","7th Floor, Hongye Building, No.1801 Hongmei Road, Xuhui District Shanghai  CN 200233 "
 MA-L,F0AB1F,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
 MA-L,7CB30A,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
@@ -30010,6 +30014,8 @@ MA-L,40BC68,"Funshion Online Technologies Co.,Ltd","2101, Floor 1-2, Building 9,
 MA-L,889AFF,"SystemX Co.,Ltd.","102, Gosan-ro Gunpo-si Gyeonggi-do KR 15849 "
 MA-L,B8DDE8,"Sichuan Tianyi Comheart Telecom Co.,LTD","No.198,First Section,Snow Mountain Avenue, Jinyuan Town, Dayi County Chengdu Sichuan CN 611330 "
 MA-L,409595,TP-Link Systems Inc.,10 Mauchly  Irvine CA US 92618 
+MA-L,30FEFA,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
+MA-L,6C4FA1,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
 MA-L,C85CE2,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
 MA-L,DCEE14,ADT Technology,"Room 325, 3rd Floor, Building F, Xinmao Science and Technology Park, Huayuan Industrial Zone Tianjin Tianjin CN 300384 "
 MA-L,10FFE0,"GIGA-BYTE TECHNOLOGY CO.,LTD.","Pin-Jen City, Taoyuan, Taiwan, R.O.C. Pin-Jen Taoyuan TW 324 "
@@ -37498,3 +37504,5 @@ MA-L,98171A,"Beijing Xiaomi Mobile Software Co., Ltd","The Rainbow City Office B
 MA-L,D853AD,Cisco Meraki,500 Terry A. Francois Blvd San Francisco  US 94158 
 MA-L,EC1055,"Beijing Xiaomi Electronics Co.,Ltd",Xiaomi Campus Beijing Beijing CN 100085 
 MA-L,206EF1,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+MA-L,A49700,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
+MA-L,2CDCC1,EM Microelectronic,Rue des Sors 3 Marin-Epagnier Neuchatel CH 2074 

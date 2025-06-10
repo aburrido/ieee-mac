@@ -986,6 +986,12 @@ CA443E                        (base 16)                     Allianz Technology S
                                                             Vancouver  WA  98683                         
                                                             US                                           
 
+6A-B8-7A                      (hex)                         Acrosswaves                                  
+6AB87A                        (base 16)                     Acrosswaves                                  
+                                                            101-912, 88 ,Sinwon-ro, Yeongtong-gu,        
+                                                            Suwon-si  Gyeonggi-do  16681                 
+                                                            KR                                           
+
 8A-7D-B3                      (hex)                         Evolv Technology, Inc.                       
 8A7DB3                        (base 16)                     Evolv Technology, Inc.                       
                                                             500 Totten Pond Road4th Floor                
