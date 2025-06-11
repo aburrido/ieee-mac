@@ -19577,3 +19577,9 @@ CCB1                          Huawei Technologies Co., Ltd.                     
                                Bantian, Longgang District, Shenzhen, 518129, P.R.C                                                     related operations for congestion control schemes.                         
                               Shenzhen  GUANGDONG Province  518000                                                                     
                               CN                                                                                                       
+
+
+CEB4                          General Motors                                                                                           Various control, management, and transport protocols delineated by
+                              3300 General Motors Rd                                                                                   sub-types that are administered and managed by General Motors.             
+                              Milford  MI  48380                                                                                       
+                              US                                                                                                       
