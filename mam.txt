@@ -7223,6 +7223,18 @@ D4-A0-FB   (hex)		Henan Lingyunda Information Technology Co., Ltd
 				Zhengzhou  Henan Province  450000
 				CN
 
+B0-CC-CE   (hex)		Steelco SpA
+000000-0FFFFF     (base 16)		Steelco SpA
+				via Balegante 27
+				Riese Pio X (TV)    31039
+				IT
+
+B0-CC-CE   (hex)		MULTI-FIELD LOW TEMPERATURE TECHNOLOGY(BEIJING) CO., LTD.
+600000-6FFFFF     (base 16)		MULTI-FIELD LOW TEMPERATURE TECHNOLOGY(BEIJING) CO., LTD.
+				Room 505, 5th Floor, Building 2, No. 11, Xingke East Street, Yanqi Economic Development Zone, Huairou District, Beijing, P.R.China 
+				北京    101400
+				CN
+
 B8-4C-87   (hex)		Shenzhen Link-all Technology Co., Ltd
 300000-3FFFFF     (base 16)		Shenzhen Link-all Technology Co., Ltd
 				Floor 5th, Block 9th, Sunny Industrial Zone, Xili Town, Nanshan District, Shenzhen, China 
@@ -21052,6 +21064,12 @@ C00000-CFFFFF     (base 16)		Snap-on Tools
 				19220 San Jose Ave.
 				City of Industry  CA  91748
 				US
+
+B0-CC-CE   (hex)		Watermark Systems (India) Private Limited
+B00000-BFFFFF     (base 16)		Watermark Systems (India) Private Limited
+				1010, Maker Chambers 5, Nariman Point, Mumbai 
+				Mumbai  Maharashtra  400021 
+				IN
 
 D0-14-11   (hex)		P.B. Elettronica srl
 100000-1FFFFF     (base 16)		P.B. Elettronica srl
@@ -35044,3 +35062,9 @@ D4-A0-FB   (hex)		Beijing Lingji Innovations technology Co,LTD.
 				Room 106, 1st Floor, A-1 Building, Zhongguancun Dongsheng Science and Technology Park, No. 66 Xixiaokou Road, Haidian District, Beijing
 				Beijing  Beijing  100190
 				CN
+
+D4-A0-FB   (hex)		GTEK GLOBAL CO.,LTD
+E00000-EFFFFF     (base 16)		GTEK GLOBAL CO.,LTD
+				No3/2/13 Ta Thanh Oai, Thanh Tri district
+				Hanoi  Vietnam  10000
+				VN
