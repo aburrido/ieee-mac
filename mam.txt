@@ -7235,6 +7235,12 @@ B0-CC-CE   (hex)		MULTI-FIELD LOW TEMPERATURE TECHNOLOGY(BEIJING) CO., LTD.
 				北京    101400
 				CN
 
+B0-CC-CE   (hex)		4MOD Technology
+200000-2FFFFF     (base 16)		4MOD Technology
+				4 Rue de la Cornouaille
+				Nantes    44300
+				FR
+
 B8-4C-87   (hex)		Shenzhen Link-all Technology Co., Ltd
 300000-3FFFFF     (base 16)		Shenzhen Link-all Technology Co., Ltd
 				Floor 5th, Block 9th, Sunny Industrial Zone, Xili Town, Nanshan District, Shenzhen, China 
@@ -27991,6 +27997,12 @@ D4-A0-FB   (hex)		Huizhou Jiemeisi Technology Co.,Ltd.
 				NO.63, HUMEI STREET, DASHULING, XIAOJINKOU HUICHENG
 				Huizhou  Guangdong  516023
 				CN
+
+B0-CC-CE   (hex)		Agrisys A/S
+100000-1FFFFF     (base 16)		Agrisys A/S
+				Cypresvej 3
+				Herning    7400
+				DK
 
 C8-5C-E2   (hex)		Fela Management AG 
 000000-0FFFFF     (base 16)		Fela Management AG 
