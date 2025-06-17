@@ -7823,6 +7823,12 @@ DD2000-DD2FFF     (base 16)		SHIELD-CCTV CO.,LTD.
 				Poway  CA  92064
 				US
 
+8C-1F-64   (hex)		Taicang T&W Electronics
+FFB000-FFBFFF     (base 16)		Taicang T&W Electronics
+				89# Jiang Nan RD
+				Suzhou  Jiangsu  215412
+				CN
+
 8C-1F-64   (hex)		Shenzhen zhushida Technology lnformation Co.,Ltd
 A5D000-A5DFFF     (base 16)		Shenzhen zhushida Technology lnformation Co.,Ltd
 				701, Building D, Zone B, Junxing Industrial Zone, Junxing Industrial Zone, Oyster Road, Zhancheng Community, Fuhai Street,
@@ -7835,23 +7841,17 @@ A5D000-A5DFFF     (base 16)		Shenzhen zhushida Technology lnformation Co.,Ltd
 				SHENZHEN  Bao'an District  518000
 				CN
 
-8C-1F-64   (hex)		Taicang T&W Electronics
-FFB000-FFBFFF     (base 16)		Taicang T&W Electronics
-				89# Jiang Nan RD
-				Suzhou  Jiangsu  215412
-				CN
+8C-1F-64   (hex)		Oriux
+20A000-20AFFF     (base 16)		Oriux
+				5825 N. Sam Houston Pkwy WSuite 220 Houston TX 77086 United S
+				Houston  TX  77086
+				US
 
 8C-1F-64   (hex)		Breas Medical AB
 5A1000-5A1FFF     (base 16)		Breas Medical AB
 				Företagsvägen 1
 				Mölnlycke    SE-435 33
 				SE
-
-8C-1F-64   (hex)		Oriux
-20A000-20AFFF     (base 16)		Oriux
-				5825 N. Sam Houston Pkwy WSuite 220 Houston TX 77086 United S
-				Houston  TX  77086
-				US
 
 8C-1F-64   (hex)		Jacobs Technology, Inc.
 A98000-A98FFF     (base 16)		Jacobs Technology, Inc.
@@ -15683,17 +15683,17 @@ F03000-F03FFF     (base 16)		Faust ApS
 				Helsinki    00150
 				FI
 
-8C-1F-64   (hex)		NARI TECH Co., Ltd
-888000-888FFF     (base 16)		NARI TECH Co., Ltd
-				947, Hanam-daero
-				Hanam-si  Gyeonggi-do  12982
-				KR
-
 8C-1F-64   (hex)		Mitsubishi Electric System & Service Co., Ltd.
 E05000-E05FFF     (base 16)		Mitsubishi Electric System & Service Co., Ltd.
 				1-26-43 Yada, Higashi-ku,
 				Nagoya  Aichi  461-0040
 				JP
+
+8C-1F-64   (hex)		NARI TECH Co., Ltd
+888000-888FFF     (base 16)		NARI TECH Co., Ltd
+				947, Hanam-daero
+				Hanam-si  Gyeonggi-do  12982
+				KR
 
 8C-1F-64   (hex)		NSK Co.,Ltd.
 2A3000-2A3FFF     (base 16)		NSK Co.,Ltd.
@@ -23501,6 +23501,12 @@ C36000-C36FFF     (base 16)		ODTech Co., Ltd.
 				Wanju_gun  Jeonbuk-do  55322
 				KR
 
+8C-1F-64   (hex)		Tecsys do Brasil Industrial Ltda
+7D0000-7D0FFF     (base 16)		Tecsys do Brasil Industrial Ltda
+				Rua Oros, 146
+				Sao Jose dos Campos  SP  12237150
+				BR
+
 8C-1F-64   (hex)		Inspinia Technology s.r.o.
 595000-595FFF     (base 16)		Inspinia Technology s.r.o.
 				Paleckeho 493
@@ -23512,12 +23518,6 @@ CB1000-CB1FFF     (base 16)		Xi’an Sunway Communication Co., Ltd.
 				 Room 12003,20F,Unit 1 Building 6,Gaoke Shang du Moka, zhang ba 5
 				Road,High-Tech Zone  Xi’an   710000
 				CN
-
-8C-1F-64   (hex)		Tecsys do Brasil Industrial Ltda
-7D0000-7D0FFF     (base 16)		Tecsys do Brasil Industrial Ltda
-				Rua Oros, 146
-				Sao Jose dos Campos  SP  12237150
-				BR
 
 8C-1F-64   (hex)		Season Electronics Ltd
 37D000-37DFFF     (base 16)		Season Electronics Ltd
@@ -31391,17 +31391,17 @@ AB3000-AB3FFF     (base 16)		VELVU TECHNOLOGIES PRIVATE LIMITED
 				Skovlunde    2740
 				DK
 
-8C-1F-64   (hex)		wincker international enterprise co., ltd
-B1F000-B1FFFF     (base 16)		wincker international enterprise co., ltd
-				1FL No. 345 Yen Shou St., Taipei, Taiwan
-				Taipei    10577
-				TW
-
 8C-1F-64   (hex)		Chengdu Xiuwei TechnologyDevelopment Co., Ltd
 870000-870FFF     (base 16)		Chengdu Xiuwei TechnologyDevelopment Co., Ltd
 				10th Floor, Building 10, No. 8 Guangfu Road, Qingyang District
 				Chengdu City  Please Select  610073
 				CN
+
+8C-1F-64   (hex)		wincker international enterprise co., ltd
+B1F000-B1FFFF     (base 16)		wincker international enterprise co., ltd
+				1FL No. 345 Yen Shou St., Taipei, Taiwan
+				Taipei    10577
+				TW
 
 8C-1F-64   (hex)		IQ Tools LLC
 FF5000-FF5FFF     (base 16)		IQ Tools LLC
@@ -31421,17 +31421,17 @@ FF5000-FF5FFF     (base 16)		IQ Tools LLC
 				Singapore  Singapore  339949
 				SG
 
-8C-1F-64   (hex)		Gogo BA 
-D3B000-D3BFFF     (base 16)		Gogo BA 
-				105 Edgeview Drive
-				Broomfield  CO  80021
-				US
-
 8C-1F-64   (hex)		3Egreen tech. Co. Ltd.
 583000-583FFF     (base 16)		3Egreen tech. Co. Ltd.
 				16F.-3,NO.700,Zhongzheng Rd.,Zhonghe Dist.,
 				New Taipei City    235
 				TW
+
+8C-1F-64   (hex)		Gogo BA 
+D3B000-D3BFFF     (base 16)		Gogo BA 
+				105 Edgeview Drive
+				Broomfield  CO  80021
+				US
 
 8C-1F-64   (hex)		Mobileye
 D63000-D63FFF     (base 16)		Mobileye
@@ -39179,11 +39179,11 @@ C75000-C75FFF     (base 16)		Abbott Diagnostics Technologies AS
 				Oslo  Oslo  0504
 				NO
 
-8C-1F-64   (hex)		Oriental Electronics, Inc.
-68E000-68EFFF     (base 16)		Oriental Electronics, Inc.
-				2-4-1 Tanabe-Chuo
-				Kyo-Tanabe  Kyoto  610-0334
-				JP
+8C-1F-64   (hex)		OnAsset Intelligence
+415000-415FFF     (base 16)		OnAsset Intelligence
+				8407 Sterling Street
+				Irving  TX  75063
+				US
 
 8C-1F-64   (hex)		OOO Mig Trading
 C19000-C19FFF     (base 16)		OOO Mig Trading
@@ -39197,10 +39197,16 @@ C19000-C19FFF     (base 16)		OOO Mig Trading
 				Dinkelsbuehl  Bavaria  91550
 				DE
 
-8C-1F-64   (hex)		OnAsset Intelligence
-415000-415FFF     (base 16)		OnAsset Intelligence
-				8407 Sterling Street
-				Irving  TX  75063
+8C-1F-64   (hex)		Oriental Electronics, Inc.
+68E000-68EFFF     (base 16)		Oriental Electronics, Inc.
+				2-4-1 Tanabe-Chuo
+				Kyo-Tanabe  Kyoto  610-0334
+				JP
+
+8C-1F-64   (hex)		Pulcro.io LLC
+C22000-C22FFF     (base 16)		Pulcro.io LLC
+				551 S IH 35, Ste 300
+				Round Rock  TX  78664
 				US
 
 8C-1F-64   (hex)		Digitella Inc.
@@ -39208,12 +39214,6 @@ C19000-C19FFF     (base 16)		OOO Mig Trading
 				RM1314, IS Biz Tower A, 25, Deokcheon-ro 152beon-gil, Manan-gu
 				Anyang-si  Gyeonggi-do  14084
 				KR
-
-8C-1F-64   (hex)		Pulcro.io LLC
-C22000-C22FFF     (base 16)		Pulcro.io LLC
-				551 S IH 35, Ste 300
-				Round Rock  TX  78664
-				US
 
 8C-1F-64   (hex)		Melissa Climate Jsc
 6CA000-6CAFFF     (base 16)		Melissa Climate Jsc
