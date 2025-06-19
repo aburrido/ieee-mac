@@ -7853,6 +7853,12 @@ A5D000-A5DFFF     (base 16)		Shenzhen zhushida Technology lnformation Co.,Ltd
 				Mölnlycke    SE-435 33
 				SE
 
+8C-1F-64   (hex)		ENBIK Technology Co., Ltd
+85A000-85AFFF     (base 16)		ENBIK Technology Co., Ltd
+				2F., No.542, Sec. 1, Minsheng N. Rd.,
+				Taoyuan City  Taoyuan City  333016
+				TW
+
 8C-1F-64   (hex)		Jacobs Technology, Inc.
 A98000-A98FFF     (base 16)		Jacobs Technology, Inc.
 				7765 Old Telegraph Road
@@ -23539,9 +23545,15 @@ CB1000-CB1FFF     (base 16)		Xi’an Sunway Communication Co., Ltd.
 
 8C-1F-64   (hex)		Efftronics Systems (P) Ltd
 063000-063FFF     (base 16)		Efftronics Systems (P) Ltd
-				40-15-9
-				Vijayawada  Andhra Pradesh  520010
+				Plot No.4, IT Park, Auto Nagar
+				Mangalagiri  Andhra Pradesh  520010
 				IN
+
+8C-1F-64   (hex)		TelecomWadi
+1F9000-1F9FFF     (base 16)		TelecomWadi
+				First Al Sheikh Zayed, Giza Governorate 3244530
+				Giza    3244530
+				EG
 
 8C-1F-64   (hex)		Flow Power
 82B000-82BFFF     (base 16)		Flow Power
@@ -39238,3 +39250,9 @@ C22000-C22FFF     (base 16)		Pulcro.io LLC
 				Gen. Gurko 4 Street
 				Sofia    1000
 				BG
+
+8C-1F-64   (hex)		wonder meditec
+B2D000-B2DFFF     (base 16)		wonder meditec
+				2F, 12-11, Seonjam-ro, Seongbuk-gu
+				Seoul, Korea    02836
+				KR

@@ -35122,3 +35122,9 @@ A00000-AFFFFF     (base 16)		Shenzhen Dangs Science and Technology CO.,Ltd.
 				9th Floor of GDC Building, Gaoxin Middle 3rd St.,Nanshan District 
 				Shenzhen  Guangdong  518063
 				CN
+
+B0-CC-CE   (hex)		Taiv Inc
+900000-9FFFFF     (base 16)		Taiv Inc
+				400-321 McDermot Ave
+				Winnipeg  Manitoba  R3A 0A3
+				CA
