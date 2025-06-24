@@ -21125,6 +21125,12 @@ C00000-CFFFFF     (base 16)		MaiaEdge, Inc.
 				Burlington  MA  01803
 				US
 
+78-78-35   (hex)		Ambient Life Inc.
+700000-7FFFFF     (base 16)		Ambient Life Inc.
+				321 Walnut St, #325Newton MA 02460
+				Newton  MA  02460
+				US
+
 D0-14-11   (hex)		P.B. Elettronica srl
 100000-1FFFFF     (base 16)		P.B. Elettronica srl
 				Via Santorelli, 8
@@ -28051,6 +28057,12 @@ B0-CC-CE   (hex)		Agrisys A/S
 				Cypresvej 3
 				Herning    7400
 				DK
+
+78-78-35   (hex)		Shandong Xintong Electronics Co., Ltd
+800000-8FFFFF     (base 16)		Shandong Xintong Electronics Co., Ltd
+				No. 18 Liuyishan Road
+				Zibo High-tech Zone  Shandong  255000
+				CN
 
 C8-5C-E2   (hex)		Fela Management AG 
 000000-0FFFFF     (base 16)		Fela Management AG 
@@ -35135,8 +35147,20 @@ A00000-AFFFFF     (base 16)		Shenzhen Dangs Science and Technology CO.,Ltd.
 				Shenzhen  Guangdong  518063
 				CN
 
+78-78-35   (hex)		Suzhou Chena Information Technology Co., Ltd.
+D00000-DFFFFF     (base 16)		Suzhou Chena Information Technology Co., Ltd.
+				3rd Floor, Building B6, No. 8 Yanghua Road, Suzhou Industrial Park
+				Suzhou Free Trade Zone  Jiangsu Province  215000
+				CN
+
 B0-CC-CE   (hex)		Taiv Inc
 900000-9FFFFF     (base 16)		Taiv Inc
 				400-321 McDermot Ave
 				Winnipeg  Manitoba  R3A 0A3
 				CA
+
+78-78-35   (hex)		Shanghai Intchains Technology Co., Ltd.
+B00000-BFFFFF     (base 16)		Shanghai Intchains Technology Co., Ltd.
+				Building 1&2, No.333 Haiyang No.1 Road Lingang Science and Technology Park Pudon
+				shanghai  shanghai  200120
+				CN

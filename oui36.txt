@@ -7859,6 +7859,12 @@ A5D000-A5DFFF     (base 16)		Shenzhen zhushida Technology lnformation Co.,Ltd
 				Taoyuan City  Taoyuan City  333016
 				TW
 
+8C-1F-64   (hex)		ibg Prüfcomputer GmbH
+627000-627FFF     (base 16)		ibg Prüfcomputer GmbH
+				Pretzfelder Str. 27
+				Ebermannstadt    91320
+				DE
+
 8C-1F-64   (hex)		Jacobs Technology, Inc.
 A98000-A98FFF     (base 16)		Jacobs Technology, Inc.
 				7765 Old Telegraph Road
@@ -15737,6 +15743,12 @@ F8C000-F8CFFF     (base 16)		BK LAB
 				Anyang-si  Gyonggi-do  14057
 				KR
 
+8C-1F-64   (hex)		Eyecloud, Inc
+072000-072FFF     (base 16)		Eyecloud, Inc
+				171 Branham Ln, Ste 10-243
+				San Jose  CA  95136
+				US
+
 8C-1F-64   (hex)		Vision Systems Safety Tech
 E6F000-E6FFFF     (base 16)		Vision Systems Safety Tech
 				5 Chemin de Chiradie
@@ -23566,6 +23578,12 @@ F69000-F69FFF     (base 16)		SUS Corporation
 				617, Lodha Supremus II, Wagle Estate, Thane,
 				Mumbai  Maharastra  400604
 				IN
+
+8C-1F-64   (hex)		Samwell International Inc
+3EB000-3EBFFF     (base 16)		Samwell International Inc
+				No. 317-1, Sec.2, An Kang Rd., Hsintien Dist
+				New Taipei City    231
+				TW
 
 8C-1F-64   (hex)		Flow Power
 82B000-82BFFF     (base 16)		Flow Power
