@@ -812,12 +812,6 @@ C57000-C57FFF     (base 16)		Strategic Robotic Systems
 				Redmond  WA  98052
 				US
 
-8C-1F-64   (hex)		Potter Electric Signal Company
-316000-316FFF     (base 16)		Potter Electric Signal Company
-				1609 Park 370 Place
-				Hazelwood  MO  63042
-				US
-
 8C-1F-64   (hex)		Tunstall A/S
 F2C000-F2CFFF     (base 16)		Tunstall A/S
 				Niels Bohrs vej 42
@@ -7823,6 +7817,12 @@ DD2000-DD2FFF     (base 16)		SHIELD-CCTV CO.,LTD.
 				Poway  CA  92064
 				US
 
+8C-1F-64   (hex)		Taicang T&W Electronics
+FFB000-FFBFFF     (base 16)		Taicang T&W Electronics
+				89# Jiang Nan RD
+				Suzhou  Jiangsu  215412
+				CN
+
 8C-1F-64   (hex)		Shenzhen zhushida Technology lnformation Co.,Ltd
 A5D000-A5DFFF     (base 16)		Shenzhen zhushida Technology lnformation Co.,Ltd
 				701, Building D, Zone B, Junxing Industrial Zone, Junxing Industrial Zone, Oyster Road, Zhancheng Community, Fuhai Street,
@@ -7835,23 +7835,17 @@ A5D000-A5DFFF     (base 16)		Shenzhen zhushida Technology lnformation Co.,Ltd
 				SHENZHEN  Bao'an District  518000
 				CN
 
-8C-1F-64   (hex)		Taicang T&W Electronics
-FFB000-FFBFFF     (base 16)		Taicang T&W Electronics
-				89# Jiang Nan RD
-				Suzhou  Jiangsu  215412
-				CN
+8C-1F-64   (hex)		Oriux
+20A000-20AFFF     (base 16)		Oriux
+				5825 N. Sam Houston Pkwy WSuite 220 Houston TX 77086 United S
+				Houston  TX  77086
+				US
 
 8C-1F-64   (hex)		Breas Medical AB
 5A1000-5A1FFF     (base 16)		Breas Medical AB
 				Företagsvägen 1
 				Mölnlycke    SE-435 33
 				SE
-
-8C-1F-64   (hex)		Oriux
-20A000-20AFFF     (base 16)		Oriux
-				5825 N. Sam Houston Pkwy WSuite 220 Houston TX 77086 United S
-				Houston  TX  77086
-				US
 
 8C-1F-64   (hex)		ENBIK Technology Co., Ltd
 85A000-85AFFF     (base 16)		ENBIK Technology Co., Ltd
@@ -7864,6 +7858,12 @@ FFB000-FFBFFF     (base 16)		Taicang T&W Electronics
 				Pretzfelder Str. 27
 				Ebermannstadt    91320
 				DE
+
+8C-1F-64   (hex)		Potter Electric Signal Co. LLC
+316000-316FFF     (base 16)		Potter Electric Signal Co. LLC
+				1609 Park 370 Place
+				Hazelwood  MO  63042
+				US
 
 8C-1F-64   (hex)		Jacobs Technology, Inc.
 A98000-A98FFF     (base 16)		Jacobs Technology, Inc.
@@ -9118,12 +9118,6 @@ DCA000-DCAFFF     (base 16)		Porsche engineering
 				Radlicka 714/113a
 				Praha 5    158 00
 				CZ
-
-8C-1F-64   (hex)		Potter Electric Signal Company
-57B000-57BFFF     (base 16)		Potter Electric Signal Company
-				1609 Park 370 Place
-				Hazelwood  MO  63042
-				US
 
 70-B3-D5   (hex)		Tabology
 85C000-85CFFF     (base 16)		Tabology
@@ -15032,12 +15026,6 @@ EFD000-EFDFFF     (base 16)		Novatera(Shenzhen)Technologies Co.,Ltd.
 				Shenzhen  Guangdong  518118
 				CN
 
-8C-1F-64   (hex)		Potter Electric Signal Co LLC
-442000-442FFF     (base 16)		Potter Electric Signal Co LLC
-				1609 Park 370 Place
-				Hazelwood  MO  63043
-				US
-
 8C-1F-64   (hex)		Savant Group
 021000-021FFF     (base 16)		Savant Group
 				4800 James Savage
@@ -15216,12 +15204,6 @@ AC1000-AC1FFF     (base 16)		KA Imaging Inc.
 693000-693FFF     (base 16)		Adaptiv LTD
 				4900 Nautilus Ct N Suite 220
 				Boulder  CO  80301
-				US
-
-8C-1F-64   (hex)		Potter Electric Signal Company
-8FE000-8FEFFF     (base 16)		Potter Electric Signal Company
-				5757 Phantom Drive
-				Hazelwood  MO  63042
 				US
 
 8C-1F-64   (hex)		Private
@@ -15695,17 +15677,17 @@ F03000-F03FFF     (base 16)		Faust ApS
 				Helsinki    00150
 				FI
 
-8C-1F-64   (hex)		NARI TECH Co., Ltd
-888000-888FFF     (base 16)		NARI TECH Co., Ltd
-				947, Hanam-daero
-				Hanam-si  Gyeonggi-do  12982
-				KR
-
 8C-1F-64   (hex)		Mitsubishi Electric System & Service Co., Ltd.
 E05000-E05FFF     (base 16)		Mitsubishi Electric System & Service Co., Ltd.
 				1-26-43 Yada, Higashi-ku,
 				Nagoya  Aichi  461-0040
 				JP
+
+8C-1F-64   (hex)		NARI TECH Co., Ltd
+888000-888FFF     (base 16)		NARI TECH Co., Ltd
+				947, Hanam-daero
+				Hanam-si  Gyeonggi-do  12982
+				KR
 
 8C-1F-64   (hex)		NSK Co.,Ltd.
 2A3000-2A3FFF     (base 16)		NSK Co.,Ltd.
@@ -15731,22 +15713,40 @@ B41000-B41FFF     (base 16)		STATE GRID INTELLIGENCE TECHNOLOGY CO.,LTD.
 				Muenster  North Rhine-Westphalia  48163
 				DE
 
-8C-1F-64   (hex)		BK LAB
-F8C000-F8CFFF     (base 16)		BK LAB
-				#1309, Daeryung Technotown 15, Simin-daero 401, Dongan-gu
-				Anyang-si  Gyonggi-do  14057
-				KR
-
 8C-1F-64   (hex)		TECZZ LLC
 D95000-D95FFF     (base 16)		TECZZ LLC
 				17 Forest AvenueSuite 017
 				Fond Du Lac  WI  54935
 				US
 
+8C-1F-64   (hex)		BK LAB
+F8C000-F8CFFF     (base 16)		BK LAB
+				#1309, Daeryung Technotown 15, Simin-daero 401, Dongan-gu
+				Anyang-si  Gyonggi-do  14057
+				KR
+
 8C-1F-64   (hex)		Eyecloud, Inc
 072000-072FFF     (base 16)		Eyecloud, Inc
 				171 Branham Ln, Ste 10-243
 				San Jose  CA  95136
+				US
+
+8C-1F-64   (hex)		Potter Electric Signal Co. LLC
+57B000-57BFFF     (base 16)		Potter Electric Signal Co. LLC
+				1609 Park 370 Place
+				Hazelwood  MO  63042
+				US
+
+8C-1F-64   (hex)		Potter Electric Signal Co. LLC
+8FE000-8FEFFF     (base 16)		Potter Electric Signal Co. LLC
+				5757 Phantom Drive
+				Hazelwood  MO  63042
+				US
+
+8C-1F-64   (hex)		Potter Electric Signal Co. LLC
+442000-442FFF     (base 16)		Potter Electric Signal Co. LLC
+				1609 Park 370 Place
+				Hazelwood  MO  63043
 				US
 
 8C-1F-64   (hex)		Vision Systems Safety Tech
@@ -17147,12 +17147,6 @@ B82000-B82FFF     (base 16)		Seed Core Co., LTD.
 				Krakow    30-552
 				PL
 
-8C-1F-64   (hex)		Potter Electric Signal Company
-6AD000-6ADFFF     (base 16)		Potter Electric Signal Company
-				5757 Phantom Drive
-				Hazelwood  MO  63042
-				US
-
 8C-1F-64   (hex)		victtron
 DB5000-DB5FFF     (base 16)		victtron
 				68, Saemal 2-gil, Daedeok-gu
@@ -17296,12 +17290,6 @@ DFA000-DFAFFF     (base 16)		ATSE LLC
 				Orionweg 49
 				Leeuwarden    8938 AG
 				NL
-
-8C-1F-64   (hex)		Potter Electric Signal Company
-FE0000-FE0FFF     (base 16)		Potter Electric Signal Company
-				1609 Park 370 Place
-				Hazelwood  MO  63042
-				US
 
 8C-1F-64   (hex)		INSEVIS GmbH
 414000-414FFF     (base 16)		INSEVIS GmbH
@@ -23285,12 +23273,6 @@ E92000-E92FFF     (base 16)		EA Elektro-Automatik GmbH
 				Viersen  Nordrhein-Westfalen  41747
 				DE
 
-8C-1F-64   (hex)		Potter Electric Signal Company
-965000-965FFF     (base 16)		Potter Electric Signal Company
-				5757 Phantom Drive
-				Hazelwood  MO  63042
-				US
-
 8C-1F-64   (hex)		Fluid Components Intl
 47B000-47BFFF     (base 16)		Fluid Components Intl
 				1755 La Costa Meadows Dr.
@@ -23483,12 +23465,6 @@ E5B000-E5BFFF     (base 16)		ComVetia AG
 				Nordhorn  Germany  48531
 				DE
 
-8C-1F-64   (hex)		Potter Electric Signal Company
-EBB000-EBBFFF     (base 16)		Potter Electric Signal Company
-				5757 Phantom Drive
-				Hazelwood  MO  63042
-				US
-
 8C-1F-64   (hex)		EPC Power Corporation
 263000-263FFF     (base 16)		EPC Power Corporation
 				13250 Gregg St suite a-2   
@@ -23519,6 +23495,12 @@ C36000-C36FFF     (base 16)		ODTech Co., Ltd.
 				Wanju_gun  Jeonbuk-do  55322
 				KR
 
+8C-1F-64   (hex)		Tecsys do Brasil Industrial Ltda
+7D0000-7D0FFF     (base 16)		Tecsys do Brasil Industrial Ltda
+				Rua Oros, 146
+				Sao Jose dos Campos  SP  12237150
+				BR
+
 8C-1F-64   (hex)		Inspinia Technology s.r.o.
 595000-595FFF     (base 16)		Inspinia Technology s.r.o.
 				Paleckeho 493
@@ -23531,41 +23513,11 @@ CB1000-CB1FFF     (base 16)		Xi’an Sunway Communication Co., Ltd.
 				Road,High-Tech Zone  Xi’an   710000
 				CN
 
-8C-1F-64   (hex)		Tecsys do Brasil Industrial Ltda
-7D0000-7D0FFF     (base 16)		Tecsys do Brasil Industrial Ltda
-				Rua Oros, 146
-				Sao Jose dos Campos  SP  12237150
-				BR
-
 8C-1F-64   (hex)		Season Electronics Ltd
 37D000-37DFFF     (base 16)		Season Electronics Ltd
 				600 Nest Business Park 
 				Havant  Hampshire  PO9 5TL
 				GB
-
-8C-1F-64   (hex)		SURYA ELECTRONICS
-3F2000-3F2FFF     (base 16)		SURYA ELECTRONICS
-				Plot no115 ALEAP Industrial Estate Gajularamaram village, Quthubullapur Mandal
-				HYDERABAD  Telangana  500055
-				IN
-
-8C-1F-64   (hex)		TelecomWadi
-1F9000-1F9FFF     (base 16)		TelecomWadi
-				First Al Sheikh Zayed, Giza Governorate 3244530
-				Giza    3244530
-				EG
-
-8C-1F-64   (hex)		Efftronics Systems (P) Ltd
-063000-063FFF     (base 16)		Efftronics Systems (P) Ltd
-				Plot No.4, IT Park, Auto Nagar
-				Mangalagiri  Andhra Pradesh  520010
-				IN
-
-8C-1F-64   (hex)		Vantageo Private Limited
-96B000-96BFFF     (base 16)		Vantageo Private Limited
-				617, Lodha Supremus II, Wagle Estate, Thane,
-				Mumbai  Maharastra  400604
-				IN
 
 8C-1F-64   (hex)		DEUTA Werke GmbH
 5ED000-5EDFFF     (base 16)		DEUTA Werke GmbH
@@ -23573,17 +23525,77 @@ CB1000-CB1FFF     (base 16)		Xi’an Sunway Communication Co., Ltd.
 				Bergisch Gladbach  NRW  51465
 				DE
 
+8C-1F-64   (hex)		TelecomWadi
+1F9000-1F9FFF     (base 16)		TelecomWadi
+				First Al Sheikh Zayed, Giza Governorate 3244530
+				Giza    3244530
+				EG
+
+8C-1F-64   (hex)		SURYA ELECTRONICS
+3F2000-3F2FFF     (base 16)		SURYA ELECTRONICS
+				Plot no115 ALEAP Industrial Estate Gajularamaram village, Quthubullapur Mandal
+				HYDERABAD  Telangana  500055
+				IN
+
+8C-1F-64   (hex)		Efftronics Systems (P) Ltd
+063000-063FFF     (base 16)		Efftronics Systems (P) Ltd
+				Plot No.4, IT Park, Auto Nagar
+				Mangalagiri  Andhra Pradesh  520010
+				IN
+
 8C-1F-64   (hex)		SUS Corporation
 F69000-F69FFF     (base 16)		SUS Corporation
 				6F, S-patio Bldg. 14-25 Minami-cho, Suruga-ku,
 				Shizuoka city,  Shizuoka  422-8067
 				JP
 
+8C-1F-64   (hex)		Vantageo Private Limited
+96B000-96BFFF     (base 16)		Vantageo Private Limited
+				617, Lodha Supremus II, Wagle Estate, Thane,
+				Mumbai  Maharastra  400604
+				IN
+
 8C-1F-64   (hex)		Samwell International Inc
 3EB000-3EBFFF     (base 16)		Samwell International Inc
 				No. 317-1, Sec.2, An Kang Rd., Hsintien Dist
 				New Taipei City    231
 				TW
+
+8C-1F-64   (hex)		Potter Electric Signal Co. LLC
+FE0000-FE0FFF     (base 16)		Potter Electric Signal Co. LLC
+				1609 Park 370 Place
+				Hazelwood  MO  63042
+				US
+
+8C-1F-64   (hex)		Potter Electric Signal Co. LLC
+6AD000-6ADFFF     (base 16)		Potter Electric Signal Co. LLC
+				5757 Phantom Drive
+				Hazelwood  MO  63042
+				US
+
+8C-1F-64   (hex)		Potter Electric Signal Co. LLC
+965000-965FFF     (base 16)		Potter Electric Signal Co. LLC
+				5757 Phantom Drive
+				Hazelwood  MO  63042
+				US
+
+8C-1F-64   (hex)		Potter Electric Signal Co. LLC
+EBB000-EBBFFF     (base 16)		Potter Electric Signal Co. LLC
+				5757 Phantom Drive
+				Hazelwood  MO  63042
+				US
+
+8C-1F-64   (hex)		Potter Electric Signal Co. LLC
+81B000-81BFFF     (base 16)		Potter Electric Signal Co. LLC
+				5757 Phantom Drive
+				Hazelwood  MO  63042
+				US
+
+8C-1F-64   (hex)		Shenzhen Angstrom Excellence Technology Co., Ltd
+277000-277FFF     (base 16)		Shenzhen Angstrom Excellence Technology Co., Ltd
+				Angstrom Excellence Building, No. 1310,Guanguang Road,Longhua District
+				Shenzhen  Guangdong  518110
+				CN
 
 8C-1F-64   (hex)		Flow Power
 82B000-82BFFF     (base 16)		Flow Power
@@ -30977,12 +30989,6 @@ F60000-F60FFF     (base 16)		Portrait Displays, Inc.
 				Pleasanton  CA  94588
 				US
 
-8C-1F-64   (hex)		Potter Electric Signal Company
-073000-073FFF     (base 16)		Potter Electric Signal Company
-				5757 Phantom Drive
-				Hazelwood  MO  63042
-				US
-
 8C-1F-64   (hex)		Messung Systems Pvt Ltd
 EAD000-EADFFF     (base 16)		Messung Systems Pvt Ltd
 				501, Lunkad Sky Vista, Viman Nagar
@@ -31072,12 +31078,6 @@ F19000-F19FFF     (base 16)		Hurry-tech
 				Osmangazi Mah.Mareşal Fevzi Çakmak Cad. No:38 KIRAÇ / Esenyurt
 				ESENYURT  İstanbul  34522
 				TR
-
-8C-1F-64   (hex)		Potter Electric Signal Company
-FDF000-FDFFFF     (base 16)		Potter Electric Signal Company
-				5757 Phantom Drive
-				Hazelwood  MO  63042
-				US
 
 8C-1F-64   (hex)		SiFive Inc
 E88000-E88FFF     (base 16)		SiFive Inc
@@ -31298,12 +31298,6 @@ CFE000-CFEFFF     (base 16)		Instrument Development Group (IDG) at Johns Hopkins
 				Gelang Patah    81550
 				MY
 
-8C-1F-64   (hex)		Potter Electric Signal Company
-6CE000-6CEFFF     (base 16)		Potter Electric Signal Company
-				5757 Phantom Drive
-				Hazelwood  MO  63042
-				US
-
 8C-1F-64   (hex)		Genius Sports SS LLC
 BED000-BEDFFF     (base 16)		Genius Sports SS LLC
 				312 E. 1st St5th Floor
@@ -31373,12 +31367,6 @@ B8B000-B8BFFF     (base 16)		DogWatch Inc
 				MEISHINGUCHI,TOYONAKA  OSAKA  561-0841
 				JP
 
-8C-1F-64   (hex)		Potter Electric Signal Company
-CE0000-CE0FFF     (base 16)		Potter Electric Signal Company
-				5757 Phantom Drive
-				Hazelwood  MO  63042
-				US
-
 8C-1F-64   (hex)		Lewitt GmbH
 61D000-61DFFF     (base 16)		Lewitt GmbH
 				Schanzstrasse 14 
@@ -31445,17 +31433,17 @@ AB3000-AB3FFF     (base 16)		VELVU TECHNOLOGIES PRIVATE LIMITED
 				Skovlunde    2740
 				DK
 
-8C-1F-64   (hex)		wincker international enterprise co., ltd
-B1F000-B1FFFF     (base 16)		wincker international enterprise co., ltd
-				1FL No. 345 Yen Shou St., Taipei, Taiwan
-				Taipei    10577
-				TW
-
 8C-1F-64   (hex)		Chengdu Xiuwei TechnologyDevelopment Co., Ltd
 870000-870FFF     (base 16)		Chengdu Xiuwei TechnologyDevelopment Co., Ltd
 				10th Floor, Building 10, No. 8 Guangfu Road, Qingyang District
 				Chengdu City  Please Select  610073
 				CN
+
+8C-1F-64   (hex)		wincker international enterprise co., ltd
+B1F000-B1FFFF     (base 16)		wincker international enterprise co., ltd
+				1FL No. 345 Yen Shou St., Taipei, Taiwan
+				Taipei    10577
+				TW
 
 8C-1F-64   (hex)		IQ Tools LLC
 FF5000-FF5FFF     (base 16)		IQ Tools LLC
@@ -31492,6 +31480,30 @@ DF6000-DF6FFF     (base 16)		Micronova srl
 				Via Niedda 3
 				Vigonza(PD)    35010
 				IT
+
+8C-1F-64   (hex)		Potter Electric Signal Co. LLC
+073000-073FFF     (base 16)		Potter Electric Signal Co. LLC
+				5757 Phantom Drive
+				Hazelwood  MO  63042
+				US
+
+8C-1F-64   (hex)		Potter Electric Signal Co. LLC
+FDF000-FDFFFF     (base 16)		Potter Electric Signal Co. LLC
+				5757 Phantom Drive
+				Hazelwood  MO  63042
+				US
+
+8C-1F-64   (hex)		Potter Electric Signal Co. LLC
+6CE000-6CEFFF     (base 16)		Potter Electric Signal Co. LLC
+				5757 Phantom Drive
+				Hazelwood  MO  63042
+				US
+
+8C-1F-64   (hex)		Potter Electric Signal Co. LLC
+CE0000-CE0FFF     (base 16)		Potter Electric Signal Co. LLC
+				5757 Phantom Drive
+				Hazelwood  MO  63042
+				US
 
 8C-1F-64   (hex)		Mobileye
 D63000-D63FFF     (base 16)		Mobileye
@@ -32245,12 +32257,6 @@ F12000-F12FFF     (base 16)		CAITRON GmbH
 				chungnam cheonansi dongnamgu tongjung 1ro 18(sinbangdong)
 				cheonan     31208
 				KR
-
-8C-1F-64   (hex)		Potter Electric Signal Company
-14B000-14BFFF     (base 16)		Potter Electric Signal Company
-				1609 Park 370 Place
-				Hazelwood, MO    63042
-				US
 
 8C-1F-64   (hex)		KEYLINE S.P.A.
 7B6000-7B6FFF     (base 16)		KEYLINE S.P.A.
@@ -38717,12 +38723,6 @@ A49000-A49FFF     (base 16)		Integer.pl S.A.
 				Krakow    30-552
 				PL
 
-8C-1F-64   (hex)		Potter Electric Signal Company
-7A5000-7A5FFF     (base 16)		Potter Electric Signal Company
-				5757 Phantom Drive
-				Hazelwood  MO  63042
-				US
-
 8C-1F-64   (hex)		Smart Monitoring Innovations Private Limited
 4BF000-4BFFFF     (base 16)		Smart Monitoring Innovations Private Limited
 				HR 7, Anand Parbat Industrial Area, New Delhi - 110005
@@ -38962,12 +38962,6 @@ F4B000-F4BFFF     (base 16)		JOREX LOREX INDIA PRIVATE LIMITED
 				Plot no 41 Aanandam Sector 16B Noida Extension, Gautam Buddha Nagar
 				GREATER NOIDA  UTTAR PRDESH  201306
 				IN
-
-8C-1F-64   (hex)		Potter Electric Signal Company
-D64000-D64FFF     (base 16)		Potter Electric Signal Company
-				5757 Phantom Drive
-				Hazelwood  MO  63042
-				US
 
 8C-1F-64   (hex)		Landis+Gyr Equipamentos de Medição Ltda
 95E000-95EFFF     (base 16)		Landis+Gyr Equipamentos de Medição Ltda
@@ -39239,11 +39233,11 @@ C75000-C75FFF     (base 16)		Abbott Diagnostics Technologies AS
 				Oslo  Oslo  0504
 				NO
 
-8C-1F-64   (hex)		Oriental Electronics, Inc.
-68E000-68EFFF     (base 16)		Oriental Electronics, Inc.
-				2-4-1 Tanabe-Chuo
-				Kyo-Tanabe  Kyoto  610-0334
-				JP
+8C-1F-64   (hex)		OnAsset Intelligence
+415000-415FFF     (base 16)		OnAsset Intelligence
+				8407 Sterling Street
+				Irving  TX  75063
+				US
 
 8C-1F-64   (hex)		OOO Mig Trading
 C19000-C19FFF     (base 16)		OOO Mig Trading
@@ -39257,10 +39251,16 @@ C19000-C19FFF     (base 16)		OOO Mig Trading
 				Dinkelsbuehl  Bavaria  91550
 				DE
 
-8C-1F-64   (hex)		OnAsset Intelligence
-415000-415FFF     (base 16)		OnAsset Intelligence
-				8407 Sterling Street
-				Irving  TX  75063
+8C-1F-64   (hex)		Oriental Electronics, Inc.
+68E000-68EFFF     (base 16)		Oriental Electronics, Inc.
+				2-4-1 Tanabe-Chuo
+				Kyo-Tanabe  Kyoto  610-0334
+				JP
+
+8C-1F-64   (hex)		Pulcro.io LLC
+C22000-C22FFF     (base 16)		Pulcro.io LLC
+				551 S IH 35, Ste 300
+				Round Rock  TX  78664
 				US
 
 8C-1F-64   (hex)		Digitella Inc.
@@ -39269,17 +39269,17 @@ C19000-C19FFF     (base 16)		OOO Mig Trading
 				Anyang-si  Gyeonggi-do  14084
 				KR
 
-8C-1F-64   (hex)		Pulcro.io LLC
-C22000-C22FFF     (base 16)		Pulcro.io LLC
-				551 S IH 35, Ste 300
-				Round Rock  TX  78664
-				US
-
 8C-1F-64   (hex)		Melissa Climate Jsc
 6CA000-6CAFFF     (base 16)		Melissa Climate Jsc
 				Gen. Gurko 4 Street
 				Sofia    1000
 				BG
+
+8C-1F-64   (hex)		wonder meditec
+B2D000-B2DFFF     (base 16)		wonder meditec
+				2F, 12-11, Seonjam-ro, Seongbuk-gu
+				Seoul, Korea    02836
+				KR
 
 8C-1F-64   (hex)		IGL
 8F0000-8F0FFF     (base 16)		IGL
@@ -39287,8 +39287,20 @@ C22000-C22FFF     (base 16)		Pulcro.io LLC
 				Lissieu    69380
 				FR
 
-8C-1F-64   (hex)		wonder meditec
-B2D000-B2DFFF     (base 16)		wonder meditec
-				2F, 12-11, Seonjam-ro, Seongbuk-gu
-				Seoul, Korea    02836
-				KR
+8C-1F-64   (hex)		Potter Electric Signal Co. LLC
+14B000-14BFFF     (base 16)		Potter Electric Signal Co. LLC
+				1609 Park 370 Place
+				Hazelwood, MO    63042
+				US
+
+8C-1F-64   (hex)		Potter Electric Signal Co. LLC
+7A5000-7A5FFF     (base 16)		Potter Electric Signal Co. LLC
+				5757 Phantom Drive
+				Hazelwood  MO  63042
+				US
+
+8C-1F-64   (hex)		Potter Electric Signal Co. LLC
+D64000-D64FFF     (base 16)		Potter Electric Signal Co. LLC
+				5757 Phantom Drive
+				Hazelwood  MO  63042
+				US
