@@ -16286,12 +16286,6 @@ F16000-F16FFF                 (base 16)                     Peter Huber Kaeltema
                                                             Flensburg  Schleswig-Holstein  24939         
                                                             DE                                           
 
-00-50-C2                      (hex)                         Aplex Technology Inc.                        
-B49000-B49FFF                 (base 16)                     Aplex Technology Inc.                        
-                                                            15F-1, No.186, Jian Yi Road                  
-                                                            Zhonghe District  New Taipei City 235  518129
-                                                            CN                                           
-
 40-D8-55                      (hex)                         Aplex Technology Inc.                        
 110000-110FFF                 (base 16)                     Aplex Technology Inc.                        
                                                             15F-1, No.186, Jian Yi Road                  
@@ -16300,6 +16294,12 @@ B49000-B49FFF                 (base 16)                     Aplex Technology Inc
 
 40-D8-55                      (hex)                         Aplex Technology Inc.                        
 18A000-18AFFF                 (base 16)                     Aplex Technology Inc.                        
+                                                            15F-1, No.186, Jian Yi Road                  
+                                                            Zhonghe District  New Taipei City 235  518129
+                                                            CN                                           
+
+00-50-C2                      (hex)                         Aplex Technology Inc.                        
+B49000-B49FFF                 (base 16)                     Aplex Technology Inc.                        
                                                             15F-1, No.186, Jian Yi Road                  
                                                             Zhonghe District  New Taipei City 235  518129
                                                             CN                                           
