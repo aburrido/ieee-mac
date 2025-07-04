@@ -458,12 +458,6 @@ EAD000-EADFFF                 (base 16)                     Rohde&Schwarz Topex 
                                                             Cambridge  Cambridgeshire  CB4 0FX           
                                                             GB                                           
 
-00-50-C2                      (hex)                         Aplex Technology Inc.                        
-FAB000-FABFFF                 (base 16)                     Aplex Technology Inc.                        
-                                                            501-5B01,Xintianxia phase 2 building,Wankecheng community,Bantian township,Longgang district
-                                                            Shenzhen City  Guangdong  518129             
-                                                            CN                                           
-
 00-50-C2                      (hex)                         Vacon Plc                                    
 3E5000-3E5FFF                 (base 16)                     Vacon Plc                                    
                                                             P.O.Box 25                                   
@@ -5498,6 +5492,12 @@ B45000-B45FFF                 (base 16)                     Efftronics Systems (
                                                             Mangalagiri  Andhra Pradesh  520010          
                                                             IN                                           
 
+00-50-C2                      (hex)                         Aplex Technology Inc.                        
+FAB000-FABFFF                 (base 16)                     Aplex Technology Inc.                        
+                                                            15F-1, No.186, Jian Yi Road                  
+                                                            Zhonghe District  New Taipei City 235   0    
+                                                            CN                                           
+
 00-50-C2                      (hex)                         Cleaveland/Price, Inc.                       
 93B000-93BFFF                 (base 16)                     Cleaveland/Price, Inc.                       
                                                             14000 Route 993                              
@@ -5890,12 +5890,6 @@ C0A000-C0AFFF                 (base 16)                     ABB Transmission and
                                                             Ingvald Ystgaards vei 23                     
                                                             N-7047  Trondheim  0000                      
                                                             NO                                           
-
-00-50-C2                      (hex)                         Aplex Technology Inc.                        
-DAB000-DABFFF                 (base 16)                     Aplex Technology Inc.                        
-                                                            501-5B01,Xintianxia phase 2 building,Wankecheng community,Bantian township,Longgang district
-                                                            Shenzhen City  Guangdong  518129             
-                                                            CN                                           
 
 00-50-C2                      (hex)                         Win4NET                                      
 42F000-42FFFF                 (base 16)                     Win4NET                                      
@@ -10547,22 +10541,28 @@ DAF000-DAFFFF                 (base 16)                     eumig industrie-TV G
                                                             Milton Keynes  Buckinghamshire  MK5 6LB      
                                                             GB                                           
 
-00-50-C2                      (hex)                         Aplex Technology Inc.                        
-E00000-E00FFF                 (base 16)                     Aplex Technology Inc.                        
+40-D8-55                      (hex)                         Aplex Technology Inc.                        
+00C000-00CFFF                 (base 16)                     Aplex Technology Inc.                        
                                                             15F-1, No.186, Jian Yi Road                  
-                                                            Zhonghe District  New Taipei City 235  518129
+                                                            Zhonghe District  New Taipei City 235   0    
                                                             CN                                           
 
 00-50-C2                      (hex)                         Aplex Technology Inc.                        
 E6A000-E6AFFF                 (base 16)                     Aplex Technology Inc.                        
                                                             15F-1, No.186, Jian Yi Road                  
-                                                            Zhonghe District  New Taipei City 235  518129
+                                                            Zhonghe District  New Taipei City 235   0    
                                                             CN                                           
 
-40-D8-55                      (hex)                         Aplex Technology Inc.                        
-00C000-00CFFF                 (base 16)                     Aplex Technology Inc.                        
+00-50-C2                      (hex)                         Aplex Technology Inc.                        
+E00000-E00FFF                 (base 16)                     Aplex Technology Inc.                        
                                                             15F-1, No.186, Jian Yi Road                  
-                                                            Zhonghe District  New Taipei City 235  518129
+                                                            Zhonghe District  New Taipei City 235   0    
+                                                            CN                                           
+
+00-50-C2                      (hex)                         Aplex Technology Inc.                        
+DAB000-DABFFF                 (base 16)                     Aplex Technology Inc.                        
+                                                            15F-1, No.186, Jian Yi Road                  
+                                                            Zhonghe District  New Taipei City 235   0    
                                                             CN                                           
 
 00-50-C2                      (hex)                         Karl DUNGS GmbH & Co. KG                     
@@ -16287,21 +16287,21 @@ F16000-F16FFF                 (base 16)                     Peter Huber Kaeltema
                                                             DE                                           
 
 40-D8-55                      (hex)                         Aplex Technology Inc.                        
-110000-110FFF                 (base 16)                     Aplex Technology Inc.                        
+18A000-18AFFF                 (base 16)                     Aplex Technology Inc.                        
                                                             15F-1, No.186, Jian Yi Road                  
-                                                            Zhonghe District  New Taipei City 235  518129
+                                                            Zhonghe District  New Taipei City 235   0    
                                                             CN                                           
 
 40-D8-55                      (hex)                         Aplex Technology Inc.                        
-18A000-18AFFF                 (base 16)                     Aplex Technology Inc.                        
+110000-110FFF                 (base 16)                     Aplex Technology Inc.                        
                                                             15F-1, No.186, Jian Yi Road                  
-                                                            Zhonghe District  New Taipei City 235  518129
+                                                            Zhonghe District  New Taipei City 235   0    
                                                             CN                                           
 
 00-50-C2                      (hex)                         Aplex Technology Inc.                        
 B49000-B49FFF                 (base 16)                     Aplex Technology Inc.                        
                                                             15F-1, No.186, Jian Yi Road                  
-                                                            Zhonghe District  New Taipei City 235  518129
+                                                            Zhonghe District  New Taipei City 235   0    
                                                             CN                                           
 
 00-50-C2                      (hex)                         Timberline Manufacturing                     
@@ -21542,22 +21542,22 @@ DBA000-DBAFFF                 (base 16)                     Motor Protection Ele
                                                             Apopka  Florida  32703                       
                                                             US                                           
 
-00-50-C2                      (hex)                         Aplex Technology Inc.                        
-F08000-F08FFF                 (base 16)                     Aplex Technology Inc.                        
+40-D8-55                      (hex)                         Aplex Technology Inc.                        
+0BC000-0BCFFF                 (base 16)                     Aplex Technology Inc.                        
                                                             15F-1, No.186, Jian Yi Road                  
-                                                            Zhonghe District  New Taipei City 235  518129
+                                                            Zhonghe District  New Taipei City 235   0    
                                                             CN                                           
 
 40-D8-55                      (hex)                         Aplex Technology Inc.                        
 060000-060FFF                 (base 16)                     Aplex Technology Inc.                        
                                                             15F-1, No.186, Jian Yi Road                  
-                                                            Zhonghe District  New Taipei City 235  518129
+                                                            Zhonghe District  New Taipei City 235   0    
                                                             CN                                           
 
-40-D8-55                      (hex)                         Aplex Technology Inc.                        
-0BC000-0BCFFF                 (base 16)                     Aplex Technology Inc.                        
+00-50-C2                      (hex)                         Aplex Technology Inc.                        
+F08000-F08FFF                 (base 16)                     Aplex Technology Inc.                        
                                                             15F-1, No.186, Jian Yi Road                  
-                                                            Zhonghe District  New Taipei City 235  518129
+                                                            Zhonghe District  New Taipei City 235   0    
                                                             CN                                           
 
 00-50-C2                      (hex)                         RF Code                                      
@@ -22012,18 +22012,6 @@ FB7000-FB7FFF                 (base 16)                     Pounce Consulting
 
 40-D8-55                      (hex)                         Aplex Technology Inc.                        
 16A000-16AFFF                 (base 16)                     Aplex Technology Inc.                        
-                                                            501-5B01,Xintianxia phase 2 building,Wankecheng community,Bantian township,Longgang district
-                                                            Shenzhen City  Guangdong  518129             
-                                                            CN                                           
-
-40-D8-55                      (hex)                         Aplex Technology Inc.                        
-147000-147FFF                 (base 16)                     Aplex Technology Inc.                        
-                                                            501-5B01,Xintianxia phase 2 building,Wankecheng community,Bantian township,Longgang district
-                                                            Shenzhen City  Guangdong  518129             
-                                                            CN                                           
-
-00-50-C2                      (hex)                         Aplex Technology Inc.                        
-EC3000-EC3FFF                 (base 16)                     Aplex Technology Inc.                        
                                                             501-5B01,Xintianxia phase 2 building,Wankecheng community,Bantian township,Longgang district
                                                             Shenzhen City  Guangdong  518129             
                                                             CN                                           
@@ -27368,14 +27356,26 @@ D11000-D11FFF                 (base 16)                     Aplex Technology Inc
                                                             Zhonghe District  New Taipei City 235  518129
                                                             CN                                           
 
-00-50-C2                      (hex)                         Aplex Technology Inc.                        
-F6F000-F6FFFF                 (base 16)                     Aplex Technology Inc.                        
+40-D8-55                      (hex)                         Aplex Technology Inc.                        
+1DC000-1DCFFF                 (base 16)                     Aplex Technology Inc.                        
                                                             15F-1, No.186, Jian Yi Road                  
                                                             Zhonghe District  New Taipei City 235  518129
                                                             CN                                           
 
 40-D8-55                      (hex)                         Aplex Technology Inc.                        
-1DC000-1DCFFF                 (base 16)                     Aplex Technology Inc.                        
+147000-147FFF                 (base 16)                     Aplex Technology Inc.                        
                                                             15F-1, No.186, Jian Yi Road                  
-                                                            Zhonghe District  New Taipei City 235  518129
+                                                            Zhonghe District  New Taipei City 235   0    
+                                                            CN                                           
+
+00-50-C2                      (hex)                         Aplex Technology Inc.                        
+F6F000-F6FFFF                 (base 16)                     Aplex Technology Inc.                        
+                                                            15F-1, No.186, Jian Yi Road                  
+                                                            Zhonghe District  New Taipei City 235   0    
+                                                            CN                                           
+
+00-50-C2                      (hex)                         Aplex Technology Inc.                        
+EC3000-EC3FFF                 (base 16)                     Aplex Technology Inc.                        
+                                                            15F-1, No.186, Jian Yi Road                  
+                                                            Zhonghe District  New Taipei City 235   0    
                                                             CN                                           
