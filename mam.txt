@@ -13976,6 +13976,12 @@ FC-E4-98   (hex)		ART Finex Co.,Ltd.
 				Fukui-ken    916-0037
 				JP
 
+FC-E4-98   (hex)		NTCSOFT
+000000-0FFFFF     (base 16)		NTCSOFT
+				A925, A926, Gwangmyeong G-Tower, 190, Soha-Ro 
+				Gwangmyeong-Si,   Gyeonggi-do  14322
+				KR
+
 B8-4C-87   (hex)		Altronix , Corp
 A00000-AFFFFF     (base 16)		Altronix , Corp
 				140 58th St. Bldg A, Ste 2N
@@ -18662,12 +18668,6 @@ A4-58-0F   (hex)		Ksenia Security srl
 				Mail box 15123  Haifa  3508409
 				IL
 
-7C-CB-E2   (hex)		Aplex Technology Inc.
-E00000-EFFFFF     (base 16)		Aplex Technology Inc.
-				501-5B01,Xintianxia phase 2 building,Wankecheng community,Bantian township,Longgang district
-				Shenzhen City  Guangdong  518129
-				CN
-
 7C-CB-E2   (hex)		Hangzhou Haohaokaiche Technology Co.,Ltd.
 900000-9FFFFF     (base 16)		Hangzhou Haohaokaiche Technology Co.,Ltd.
 				Building 7, Haichuang Park, No.998 Wenyi West Road, Yuhang District
@@ -21191,17 +21191,23 @@ C00000-CFFFFF     (base 16)		Siretta Ltd
 				WANCHAI    HONG KONG
 				HK
 
-FC-E4-98   (hex)		SM Instruments
-500000-5FFFFF     (base 16)		SM Instruments
-				20, Yuseong-daero 1184beon-gil
-				Daejeon  Yuseong-gu  34109
-				KR
-
 FC-E4-98   (hex)		Changzhou Leading Weighing Technology Co., Ltd
 800000-8FFFFF     (base 16)		Changzhou Leading Weighing Technology Co., Ltd
 				Builing 31, No.9 Caoxi Road, Changzhou,Jiangsu
 				Changzhou    213000
 				CN
+
+7C-CB-E2   (hex)		Aplex Technology Inc.
+E00000-EFFFFF     (base 16)		Aplex Technology Inc.
+				15F-1, No.186, Jian Yi Road 
+				Zhonghe District  New Taipei City 235   -
+				TW
+
+FC-E4-98   (hex)		SM Instruments
+500000-5FFFFF     (base 16)		SM Instruments
+				20, Yuseong-daero 1184beon-gil
+				Daejeon  Yuseong-gu  34109
+				KR
 
 D0-14-11   (hex)		P.B. Elettronica srl
 100000-1FFFFF     (base 16)		P.B. Elettronica srl
@@ -28165,6 +28171,12 @@ D4-A0-FB   (hex)		Intersvyaz IT
 				Prospekt Pobedy, 288, room 7
 				Chelyabinsk    454112
 				RU
+
+FC-E4-98   (hex)		AVCON Information Technology Co.,Ltd.
+900000-9FFFFF     (base 16)		AVCON Information Technology Co.,Ltd.
+				Building A6, Wangu Science and Technology Park, 1688 Guoquan North Road, Yangpu District
+				Shanghai  Shanghai  021-55666588
+				CN
 
 C8-5C-E2   (hex)		Fela Management AG 
 000000-0FFFFF     (base 16)		Fela Management AG 

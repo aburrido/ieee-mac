@@ -512,6 +512,12 @@ BAA2D0                        (base 16)                     Wireless Broadband A
                                                             Victoria Park  WA  6979                      
                                                             AU                                           
 
+2A-2F-83                      (hex)                         Uplink                                       
+2A2F83                        (base 16)                     Uplink                                       
+                                                            3524 Silverside Road, suite 35B              
+                                                            Wilmington  DE  19810-4929                   
+                                                            US                                           
+
 8A-85-2E                      (hex)                         Kampr Systems                                
 8A852E                        (base 16)                     Kampr Systems                                
                                                             2047 Kings Lane                              
