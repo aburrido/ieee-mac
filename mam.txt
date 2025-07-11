@@ -7259,6 +7259,12 @@ A00000-AFFFFF     (base 16)		SATEL Ltd
 				Moscow    105082
 				RU
 
+FC-E4-98   (hex)		TIH Microelectronics Technology Co. Ltd.
+E00000-EFFFFF     (base 16)		TIH Microelectronics Technology Co. Ltd.
+				Room 3611, 36th Floor, Building A, Shandong Big Data Industry Base, Jinan City, Shandong Province, China
+				Jinan  SHANDONG  250101
+				CN
+
 B8-4C-87   (hex)		Shenzhen Link-all Technology Co., Ltd
 300000-3FFFFF     (base 16)		Shenzhen Link-all Technology Co., Ltd
 				Floor 5th, Block 9th, Sunny Industrial Zone, Xili Town, Nanshan District, Shenzhen, China 
@@ -13981,6 +13987,18 @@ FC-E4-98   (hex)		NTCSOFT
 				A925, A926, Gwangmyeong G-Tower, 190, Soha-Ro 
 				Gwangmyeong-Si,   Gyeonggi-do  14322
 				KR
+
+34-B5-F3   (hex)		JENESIS(SHEN ZHEN)CO.,LTD.
+600000-6FFFFF     (base 16)		JENESIS(SHEN ZHEN)CO.,LTD.
+				6th Floor, Building A, Tiange Science and Technology Park, No. 2 Luo Zu Industrial Avenue, Luo Zu Community, Shiyan Street, Bao'an District
+				Shenzhen  Guangdong  518108
+				CN
+
+34-B5-F3   (hex)		Kyokuto Solutions Inc.
+500000-5FFFFF     (base 16)		Kyokuto Solutions Inc.
+				5-9-3 Nishitenma Kita-ku 
+				Osaka-shi  Osaka  530-0047
+				JP
 
 B8-4C-87   (hex)		Altronix , Corp
 A00000-AFFFFF     (base 16)		Altronix , Corp
@@ -28177,6 +28195,12 @@ FC-E4-98   (hex)		AVCON Information Technology Co.,Ltd.
 				Building A6, Wangu Science and Technology Park, 1688 Guoquan North Road, Yangpu District
 				Shanghai  Shanghai  021-55666588
 				CN
+
+34-B5-F3   (hex)		Inspired Flight
+200000-2FFFFF     (base 16)		Inspired Flight
+				225 SUBURBAN RD
+				SAN LUIS OBISPO  CA  93401
+				US
 
 C8-5C-E2   (hex)		Fela Management AG 
 000000-0FFFFF     (base 16)		Fela Management AG 

@@ -7871,29 +7871,11 @@ D8A000-D8AFFF     (base 16)		Boon Arthur Engineering Pte Ltd
 				PARIS    75008
 				FR
 
-70-B3-D5   (hex)		Aplex Technology Inc.
-605000-605FFF     (base 16)		Aplex Technology Inc.
-				15F-1, No.186, Jian Yi Road 
-				Zhonghe District  New Taipei City 235   -
-				TW
-
 8C-1F-64   (hex)		Nippon Techno Lab Inc
 C74000-C74FFF     (base 16)		Nippon Techno Lab Inc
 				PMO Hanzomon,2-1 Kojimachi,Chiyoda-ku
 				Chiyoda-ku  Tokyo   102-0083
 				JP
-
-70-B3-D5   (hex)		Aplex Technology Inc.
-2EE000-2EEFFF     (base 16)		Aplex Technology Inc.
-				15F-1, No.186, Jian Yi Road
-				Zhonghe District  New Taipei City 235   -
-				TW
-
-70-B3-D5   (hex)		Aplex Technology Inc.
-F00000-F00FFF     (base 16)		Aplex Technology Inc.
-				15F-1, No.186, Jian Yi Road
-				Zhonghe District  New Taipei City 235   -
-				TW
 
 70-B3-D5   (hex)		Aplex Technology Inc.
 986000-986FFF     (base 16)		Aplex Technology Inc.
@@ -7902,8 +7884,26 @@ F00000-F00FFF     (base 16)		Aplex Technology Inc.
 				TW
 
 70-B3-D5   (hex)		Aplex Technology Inc.
+605000-605FFF     (base 16)		Aplex Technology Inc.
+				15F-1, No.186, Jian Yi Road 
+				Zhonghe District  New Taipei City 235   -
+				TW
+
+70-B3-D5   (hex)		Aplex Technology Inc.
 9B1000-9B1FFF     (base 16)		Aplex Technology Inc.
-				15F-1, No.186, Jian Yi Road
+				15F-1, No.186, Jian Yi Road 
+				Zhonghe District  New Taipei City 235   -
+				TW
+
+70-B3-D5   (hex)		Aplex Technology Inc.
+F00000-F00FFF     (base 16)		Aplex Technology Inc.
+				15F-1, No.186, Jian Yi Road 
+				Zhonghe District  New Taipei City 235   -
+				TW
+
+70-B3-D5   (hex)		Aplex Technology Inc.
+2EE000-2EEFFF     (base 16)		Aplex Technology Inc.
+				15F-1, No.186, Jian Yi Road 
 				Zhonghe District  New Taipei City 235   -
 				TW
 
@@ -15777,18 +15777,6 @@ D95000-D95FFF     (base 16)		TECZZ LLC
 1A8000-1A8FFF     (base 16)		Private
 
 70-B3-D5   (hex)		Aplex Technology Inc.
-D90000-D90FFF     (base 16)		Aplex Technology Inc.
-				15F-1, No.186, Jian Yi Road
-				Zhonghe District  New Taipei City 235   -
-				TW
-
-70-B3-D5   (hex)		Aplex Technology Inc.
-817000-817FFF     (base 16)		Aplex Technology Inc.
-				15F-1, No.186, Jian Yi Road
-				Zhonghe District  New Taipei City 235   -
-				TW
-
-70-B3-D5   (hex)		Aplex Technology Inc.
 4B7000-4B7FFF     (base 16)		Aplex Technology Inc.
 				15F-1, No.186, Jian Yi Road 
 				Zhonghe District  New Taipei City 235   -
@@ -15801,14 +15789,26 @@ BFE000-BFEFFF     (base 16)		Aplex Technology Inc.
 				TW
 
 70-B3-D5   (hex)		Aplex Technology Inc.
-18B000-18BFFF     (base 16)		Aplex Technology Inc.
-				15F-1, No.186, Jian Yi Road
+35F000-35FFFF     (base 16)		Aplex Technology Inc.
+				15F-1, No.186, Jian Yi Road 
 				Zhonghe District  New Taipei City 235   -
 				TW
 
 70-B3-D5   (hex)		Aplex Technology Inc.
-35F000-35FFFF     (base 16)		Aplex Technology Inc.
-				15F-1, No.186, Jian Yi Road
+18B000-18BFFF     (base 16)		Aplex Technology Inc.
+				15F-1, No.186, Jian Yi Road 
+				Zhonghe District  New Taipei City 235   -
+				TW
+
+70-B3-D5   (hex)		Aplex Technology Inc.
+817000-817FFF     (base 16)		Aplex Technology Inc.
+				15F-1, No.186, Jian Yi Road 
+				Zhonghe District  New Taipei City 235   -
+				TW
+
+70-B3-D5   (hex)		Aplex Technology Inc.
+D90000-D90FFF     (base 16)		Aplex Technology Inc.
+				15F-1, No.186, Jian Yi Road 
 				Zhonghe District  New Taipei City 235   -
 				TW
 
@@ -23667,28 +23667,34 @@ FEE000-FEEFFF     (base 16)		Leap Info Systems Pvt. Ltd.
 				IN
 
 70-B3-D5   (hex)		Aplex Technology Inc.
-F57000-F57FFF     (base 16)		Aplex Technology Inc.
-				15F-1, No.186, Jian Yi Road
-				Zhonghe District  New Taipei City 235   -
-				TW
-
-70-B3-D5   (hex)		Aplex Technology Inc.
-7CE000-7CEFFF     (base 16)		Aplex Technology Inc.
+906000-906FFF     (base 16)		Aplex Technology Inc.
 				15F-1, No.186, Jian Yi Road
 				Zhonghe District  New Taipei City 235   -
 				TW
 
 70-B3-D5   (hex)		Aplex Technology Inc.
 65A000-65AFFF     (base 16)		Aplex Technology Inc.
-				15F-1, No.186, Jian Yi Road
+				15F-1, No.186, Jian Yi Road 
 				Zhonghe District  New Taipei City 235   -
 				TW
 
 70-B3-D5   (hex)		Aplex Technology Inc.
-906000-906FFF     (base 16)		Aplex Technology Inc.
-				15F-1, No.186, Jian Yi Road
+7CE000-7CEFFF     (base 16)		Aplex Technology Inc.
+				15F-1, No.186, Jian Yi Road 
 				Zhonghe District  New Taipei City 235   -
 				TW
+
+70-B3-D5   (hex)		Aplex Technology Inc.
+F57000-F57FFF     (base 16)		Aplex Technology Inc.
+				15F-1, No.186, Jian Yi Road 
+				Zhonghe District  New Taipei City 235   -
+				TW
+
+8C-1F-64   (hex)		Observable Space
+B96000-B96FFF     (base 16)		Observable Space
+				2228 cotner ave
+				Los Angeles  CA  90064
+				US
 
 8C-1F-64   (hex)		Flow Power
 82B000-82BFFF     (base 16)		Flow Power
@@ -31569,6 +31575,18 @@ C78000-C78FFF     (base 16)		POLON-ALFA S.A.
 				PL
 
 70-B3-D5   (hex)		Aplex Technology Inc.
+C21000-C21FFF     (base 16)		Aplex Technology Inc.
+				15F-1, No.186, Jian Yi Road
+				Zhonghe District  New Taipei City 235   -
+				TW
+
+70-B3-D5   (hex)		Aplex Technology Inc.
+B33000-B33FFF     (base 16)		Aplex Technology Inc.
+				15F-1, No.186, Jian Yi Road
+				Zhonghe District  New Taipei City 235   -
+				TW
+
+70-B3-D5   (hex)		Aplex Technology Inc.
 666000-666FFF     (base 16)		Aplex Technology Inc.
 				15F-1, No.186, Jian Yi Road 
 				Zhonghe District  New Taipei City 235   -
@@ -31584,29 +31602,17 @@ C78000-C78FFF     (base 16)		POLON-ALFA S.A.
 3D9000-3D9FFF     (base 16)		Aplex Technology Inc.
 				15F-1, No.186, Jian Yi Road 
 				Zhonghe District  New Taipei City 235   -
-				CN
+				TW
 
 70-B3-D5   (hex)		Aplex Technology Inc.
-C21000-C21FFF     (base 16)		Aplex Technology Inc.
-				15F-1, No.186, Jian Yi Road
+E7C000-E7CFFF     (base 16)		Aplex Technology Inc.
+				15F-1, No.186, Jian Yi Road 
 				Zhonghe District  New Taipei City 235   -
 				TW
 
 70-B3-D5   (hex)		Aplex Technology Inc.
 528000-528FFF     (base 16)		Aplex Technology Inc.
-				15F-1, No.186, Jian Yi Road
-				Zhonghe District  New Taipei City 235   -
-				TW
-
-70-B3-D5   (hex)		Aplex Technology Inc.
-E7C000-E7CFFF     (base 16)		Aplex Technology Inc.
-				15F-1, No.186, Jian Yi Road
-				Zhonghe District  New Taipei City 235   -
-				TW
-
-70-B3-D5   (hex)		Aplex Technology Inc.
-B33000-B33FFF     (base 16)		Aplex Technology Inc.
-				15F-1, No.186, Jian Yi Road
+				15F-1, No.186, Jian Yi Road 
 				Zhonghe District  New Taipei City 235   -
 				TW
 
@@ -39411,13 +39417,13 @@ F4A000-F4AFFF     (base 16)		In-lite Design BV
 				TW
 
 70-B3-D5   (hex)		Aplex Technology Inc.
-65C000-65CFFF     (base 16)		Aplex Technology Inc.
-				15F-1, No.186, Jian Yi Road
+FF3000-FF3FFF     (base 16)		Aplex Technology Inc.
+				15F-1, No.186, Jian Yi Road 
 				Zhonghe District  New Taipei City 235   -
 				TW
 
 70-B3-D5   (hex)		Aplex Technology Inc.
-FF3000-FF3FFF     (base 16)		Aplex Technology Inc.
-				15F-1, No.186, Jian Yi Road
+65C000-65CFFF     (base 16)		Aplex Technology Inc.
+				15F-1, No.186, Jian Yi Road 
 				Zhonghe District  New Taipei City 235   -
 				TW
