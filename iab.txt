@@ -21548,14 +21548,14 @@ DBA000-DBAFFF                 (base 16)                     Motor Protection Ele
                                                             Zhonghe District  New Taipei City 235   -    
                                                             TW                                           
 
-40-D8-55                      (hex)                         Aplex Technology Inc.                        
-060000-060FFF                 (base 16)                     Aplex Technology Inc.                        
+00-50-C2                      (hex)                         Aplex Technology Inc.                        
+F08000-F08FFF                 (base 16)                     Aplex Technology Inc.                        
                                                             15F-1, No.186, Jian Yi Road                  
                                                             Zhonghe District  New Taipei City 235   -    
                                                             TW                                           
 
-00-50-C2                      (hex)                         Aplex Technology Inc.                        
-F08000-F08FFF                 (base 16)                     Aplex Technology Inc.                        
+40-D8-55                      (hex)                         Aplex Technology Inc.                        
+060000-060FFF                 (base 16)                     Aplex Technology Inc.                        
                                                             15F-1, No.186, Jian Yi Road                  
                                                             Zhonghe District  New Taipei City 235   -    
                                                             TW                                           
