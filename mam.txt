@@ -21233,6 +21233,12 @@ FC-E4-98   (hex)		SM Instruments
 				Sankt Georgen an der Gusen    4222
 				AT
 
+34-B5-F3   (hex)		Shanghai Sigen New Energy Technology Co., Ltd
+800000-8FFFFF     (base 16)		Shanghai Sigen New Energy Technology Co., Ltd
+				Room 514 The 5th Floor, No.175 Weizhan Road China (Shanghai) Plilot Free Trade Zone
+				Shanghai    201306
+				CN
+
 D0-14-11   (hex)		P.B. Elettronica srl
 100000-1FFFFF     (base 16)		P.B. Elettronica srl
 				Via Santorelli, 8
