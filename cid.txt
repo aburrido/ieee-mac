@@ -746,6 +746,12 @@ EADA6E                        (base 16)                     FUJIFILM Recording M
                                                             San Ramon  CA  94583                         
                                                             SG                                           
 
+BA-FE-3A                      (hex)                         DENSO CORPORATION                            
+BAFE3A                        (base 16)                     DENSO CORPORATION                            
+                                                            1-1, Showa-cho,                              
+                                                            Kariya-shi  Aichi  448-8661                  
+                                                            JP                                           
+
 DA-C4-51                      (hex)                         Takaratomy                                   
 DAC451                        (base 16)                     Takaratomy                                   
                                                             7-9-10 Tateishi                              

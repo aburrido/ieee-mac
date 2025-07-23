@@ -6702,7 +6702,6 @@ MA-L,008066,Eurotech S.p.A.,Via Fratelli Solari 3/A Amaro Udine GB 33020
 MA-L,785333,"Beijing Xiaomi Electronics Co.,Ltd",Xiaomi Campus Beijing Beijing CN 100085 
 MA-L,9CF8B8,"Shenzhen Skyworth Digital  Technology  CO., Ltd","4F,Block A, Skyworth?Building, Shenzhen Guangdong CN 518057 "
 MA-L,9432C1,"Honor Device Co., Ltd.","Suite 3401, Unit A, Building 6, Shum Yip Sky Park, No. 8089, Hongli West Road, Xiangmihu Street, Futian District  Shenzhen  Guangdong CN 518040 "
-MA-L,189578,DENSO Corporation,"1-1, Showa-cho  Kariya Aichi JP 448-8661 "
 MA-L,147F67,LG Innotek,"26, HANAMSANDAN 5BEON-RO Gwangju Gwangsan-gu KR 506-731 "
 MA-L,EC9A0C,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
 MA-L,CC4D75,"Beijing Xiaomi Mobile Software Co., Ltd","The Rainbow City Office Building, 68 Qinghe Middle Street Haidian District Beijing Beijing CN 100085 "
@@ -7589,6 +7588,10 @@ MA-L,506245,Annapurna labs,"Matam Scientific Industries Center,   Building 8.2 M
 MA-L,BC2106,Adtran Inc,901 Explorer Blvd. Huntsville AL US 35806-2807 
 MA-L,242D4B,F5 Inc.,801 5th Ave Seattle WA US 98104 
 MA-L,549B24,"Mellanox Technologies, Inc.","350 Oakmead Parkway, Suite 100   Sunnyvale CA US 94085 "
+MA-L,189578,DENSO CORPORATION,"1-1, Showa-cho  Kariya Aichi JP 448-8661 "
+MA-L,38B9AF,NXP Semiconductors Taiwan Ltd.,"No. 10, Jing 5th Rd., Nanzi Dist., Kaohsiung City 811643, Taiwan Nanzi Dist. Kaohsiung TW 811643 "
+MA-L,389201,Tianyi Telecom Terminals Company Limited,"12-19 floors inside 101, Floor 4-33, Building 1, Yard 1, Fenghuang Zui Street, Fengtai District, Beijing Beijing  CN 100073 "
+MA-L,D81F65,Private,
 MA-L,000130,Extreme Networks Headquarters,2121 RDU Center Drive  Morrisville NC US 27560 
 MA-L,FC0A81,Extreme Networks Headquarters,2121 RDU Center Drive  Morrisville NC US 27560 
 MA-L,00749C,"Ruijie Networks Co.,LTD","19# Building,Star-net Science Plaza,Juyuanzhou, 618 Jinshan Road Fuzhou Fujian CN 350002 "
@@ -15062,6 +15065,8 @@ MA-L,88B951,Xiaomi Communications Co Ltd,"#019, 9th Floor, Building 6, 33 Xi'erq
 MA-L,7424CA,Guangzhou Shiyuan Electronic Technology Company Limited,"No.6, 4th Yunpu Road, Yunpu industry District Guangzhou Guangdong CN 510530 "
 MA-L,70B258,Ruckus Wireless,350 West Java Drive Sunnyvale CA US 94089 
 MA-L,D801EB,Infinity Electronics Ltd,167-169 Great Portland Street London Surrey GB W1W 5PF 
+MA-L,D0B1CA,"Shenzhen Skyworth Digital  Technology  CO., Ltd","4F,Block A, Skyworth?Building, Shenzhen Guangdong CN 518057 "
+MA-L,7CC178,Ericsson AB,Torshamnsgatan 36 Stockholm  SE SE-164 80 
 MA-L,6C8720,"New H3C Technologies Co., Ltd","466 Changhe Road, Binjiang District Hangzhou Zhejiang CN 310052 "
 MA-L,0C8D7A,RADiflow,HaBarzel St 38 Tel-Aviv  IL 6971054 
 MA-L,FCA9F5,Xiaomi Communications Co Ltd,"#019, 9th Floor, Building 6, 33 Xi'erqi Middle Road Beijing Haidian District CN 100085 "
@@ -22582,6 +22587,8 @@ MA-L,544EF0,"Roku, Inc",1173 Coleman Ave San Jose CA US 95110
 MA-L,0C802F,"Murata Manufacturing Co., Ltd.","1-10-1, Higashikotari Nagaokakyo-shi Kyoto JP 617-8555 "
 MA-L,588785,Adtran Inc,901 Explorer Blvd. Huntsville AL US 35806-2807 
 MA-L,EC9EEA,Xtra Technology LLC,"3422 Old Capitol Trail, Suite 700 WiImington  US 19808-6124 "
+MA-L,C4DBAD,Ring LLC,12515 Cerise Ave Hawthorne CA US 12515 
+MA-L,E4B731,"Hangzhou Advance IOT Connectivity System Co., Ltd. ","Room 406, building 1, No. 4280, South Ring Road, Puyan street, Binjiang District Hangzhou Zhejiang CN 310051 "
 MA-L,B00C9D,"Quectel Wireless Solutions Co.,Ltd.","7th Floor, Hongye Building, No.1801 Hongmei Road, Xuhui District Shanghai  CN 200233 "
 MA-L,F0AB1F,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
 MA-L,7CB30A,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
@@ -30185,6 +30192,9 @@ MA-L,E489CA,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 95126
 MA-L,C0AFF2,Dyson Limited,Tetbury Hill Malmesbury Wiltshire GB SN16 0RP 
 MA-L,14BC68,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 95126 
 MA-L,0CEE20,FBC,NO.1 Kangjian Road Shanghai  CN 200000 
+MA-L,2010B1,Amazon Technologies Inc.,P.O Box 8102  Reno NV US 89507 
+MA-L,8453CD,"China Mobile Group Device Co.,Ltd.","32 Xuanwumen West Street,Xicheng District  Beijing  CN 100053 "
+MA-L,3C4015,"12mm Health Technology (Hainan) Co., Ltd.","Room A20-860, 5th Floor, Building A, Entrepreneurship Incubation Center, No. 266 Nanhai Avenue, National Hi-Tech Industrial Development Zone, Haikou City, Hainan Province, China Haikou Hainan CN 570100 "
 MA-L,C85CE2,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
 MA-L,DCEE14,ADT Technology,"Room 325, 3rd Floor, Building F, Xinmao Science and Technology Park, Huayuan Industrial Zone Tianjin Tianjin CN 300384 "
 MA-L,10FFE0,"GIGA-BYTE TECHNOLOGY CO.,LTD.","Pin-Jen City, Taoyuan, Taiwan, R.O.C. Pin-Jen Taoyuan TW 324 "
@@ -37714,3 +37724,5 @@ MA-L,089272,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area S
 MA-L,B06B11,"Hui Zhou Gaoshengda Technology Co.,LTD","No.2,Jin-da Road,Huinan Industrial Park Hui Zhou Guangdong CN 516025 "
 MA-L,2C0DCF,Xiaomi Communications Co Ltd,"#019, 9th Floor, Building 6, 33 Xi'erqi Middle Road Beijing Haidian District CN 100085 "
 MA-L,AC1065,"KT Micro, Inc.","Building 76, National Cybersecurity Industry Park, Beiwucun Road 23, Haidian District, Beijing Beijing  CN 100195 "
+MA-L,D4FF26,OHSUNG,"335-4,SANHODAERO,GUMI,GYEONG BUK,KOREA GUMI GYEONG BUK KR 730-030 "
+MA-L,008621,Amazon Technologies Inc.,P.O Box 8102  Reno NV US 89507 
