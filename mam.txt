@@ -28274,6 +28274,12 @@ B00000-BFFFFF     (base 16)		Aeterlink Corp.
 				Shenzhen  Guangdong  518000
 				CN
 
+00-6A-5E   (hex)		Evercomm (Pty) Ltd
+400000-4FFFFF     (base 16)		Evercomm (Pty) Ltd
+				363 Rivonia Boulevard, 1st Floor, Euro Centre Building, Edenburg
+				Johannesburg  Gauteng  2128
+				ZA
+
 C8-5C-E2   (hex)		Fela Management AG 
 000000-0FFFFF     (base 16)		Fela Management AG 
 				Basadingerstrasse 18
@@ -35411,6 +35417,24 @@ FC-E4-98   (hex)		E Haute Intelligent Technology Co., Ltd
 				Shenzhen  Guangdong  518000
 				CN
 
+00-6A-5E   (hex)		TRULY ELECTRONICS MFG.,LTD
+000000-0FFFFF     (base 16)		TRULY ELECTRONICS MFG.,LTD
+				Truly industry city，shanwei guangdong，P.R.C
+				shanwei  guangdong  516600
+				CN
+
+00-6A-5E   (hex)		BroadMaster Biotech Corp
+100000-1FFFFF     (base 16)		BroadMaster Biotech Corp
+				No. 91 Xiyuan RD. Zhongli City
+				Taoyuan  Select State  32057
+				TW
+
+00-6A-5E   (hex)		Annapurna labs
+900000-9FFFFF     (base 16)		Annapurna labs
+				Matam Scientific Industries Center,   Building 8.2
+				Mail box 15123  Haifa  3508409
+				IL
+
 34-B5-F3   (hex)		LAUMAS Elettronica s.r.l.
 400000-4FFFFF     (base 16)		LAUMAS Elettronica s.r.l.
 				via I Maggio, 6 - IT01661140341 
@@ -35422,9 +35446,3 @@ FC-E4-98   (hex)		E Haute Intelligent Technology Co., Ltd
 				Waidhauserstr. 3
 				Vohenstrauß    92546
 				DE
-
-00-6A-5E   (hex)		BroadMaster Biotech Corp
-100000-1FFFFF     (base 16)		BroadMaster Biotech Corp
-				No. 91 Xiyuan RD. Zhongli City
-				Taoyuan  Select State  32057
-				TW
