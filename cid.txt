@@ -236,6 +236,12 @@ FA7ACB                        (base 16)                     Ultra Ethernet Conso
                                                             San Ramon  CA  94583                         
                                                             SG                                           
 
+1A-AF-53                      (hex)                         JSC Megapolis-telecom region                 
+1AAF53                        (base 16)                     JSC Megapolis-telecom region                 
+                                                            Dekabrkih sobitiy, 100                       
+                                                            Irkutsk    664007                            
+                                                            RU                                           
+
 CA-C2-76                      (hex)                         Saab Seaeye Ltd                              
 CAC276                        (base 16)                     Saab Seaeye Ltd                              
                                                             20 Brunel Way                                
