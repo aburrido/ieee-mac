@@ -14018,6 +14018,24 @@ FC-E4-98   (hex)		NTCSOFT
 				Osaka-shi  Osaka  530-0047
 				JP
 
+00-6A-5E   (hex)		Shenzhen Lightx Technology Co., Ltd
+600000-6FFFFF     (base 16)		Shenzhen Lightx Technology Co., Ltd
+				RM 1006, 10/F PO YIP BLDG, 23 HING YIP ST, Kwun Tong, Kowloon, Hong Kong
+				Hong Kong    000
+				HK
+
+00-6A-5E   (hex)		CYBERTEL BRIDGE
+C00000-CFFFFF     (base 16)		CYBERTEL BRIDGE
+				9th floor, Hansin IT Tower, 272, Digital-ro,Guro-gu
+				Seoul    08389
+				KR
+
+00-6A-5E   (hex)		Annapurna labs
+A00000-AFFFFF     (base 16)		Annapurna labs
+				Matam Scientific Industries Center,   Building 8.2
+				Mail box 15123  Haifa  3508409
+				IL
+
 B8-4C-87   (hex)		Altronix , Corp
 A00000-AFFFFF     (base 16)		Altronix , Corp
 				140 58th St. Bldg A, Ste 2N
@@ -21161,12 +21179,6 @@ C00000-CFFFFF     (base 16)		Rexon Technology
 				Taichung City     412037
 				TW
 
-04-58-5D   (hex)		HDS Otomasyon Güvenlik ve Yazılım Teknolojiler Sanayi Ticaret Limited Şirketi
-D00000-DFFFFF     (base 16)		HDS Otomasyon Güvenlik ve Yazılım Teknolojiler Sanayi Ticaret Limited Şirketi
-				Merkez Mahallesi Sadabad Cad. Kapı No:20
-				İstanbul  Kağıthane  34406
-				TR
-
 D4-A0-FB   (hex)		Skyfri Corp
 700000-7FFFFF     (base 16)		Skyfri Corp
 				800 North State Street Suite 403
@@ -21263,6 +21275,12 @@ D00000-DFFFFF     (base 16)		Digicom
 				Shanghai    201306
 				CN
 
+00-6A-5E   (hex)		Rayneo (wuxi) ltd
+500000-5FFFFF     (base 16)		Rayneo (wuxi) ltd
+				No. 6 Huaqing Innovation Park, Huishan District, Wuxi City
+				WUXI  JiangSu  214100
+				CN
+
 34-B5-F3   (hex)		Shenzhen Mifasuolla Smart Co.,Ltd
 C00000-CFFFFF     (base 16)		Shenzhen Mifasuolla Smart Co.,Ltd
 				 No. 15 Hongbu Road, Majialong Community, Nantou Subdistrict, Nanshan District
@@ -21281,11 +21299,17 @@ E00000-EFFFFF     (base 16)		Viettel Manufacturing Corporation One Member Limite
 				Mughalsarai  Uttar Pradesh(UP)  232101
 				IN
 
-00-6A-5E   (hex)		Rayneo (wuxi) ltd
-500000-5FFFFF     (base 16)		Rayneo (wuxi) ltd
-				No. 6 Huaqing Innovation Park, Huishan District, Wuxi City
-				WUXI  JiangSu  214100
+00-6A-5E   (hex)		Shenzhen yeahmoo Technology Co., Ltd.
+300000-3FFFFF     (base 16)		Shenzhen yeahmoo Technology Co., Ltd.
+				Room 103, 1st Floor, Building 4, Yunli Intelligent Park, No. 3 Changfa Middle Road,Yangmei Community, Bantian Street, Longgang District,
+				Shenzhen  Guangdong Province  518100
 				CN
+
+04-58-5D   (hex)		HDS Otomasyon Güvenlik ve Yazılım Teknolojileri Sanayi Ticaret Limited Şirketi
+D00000-DFFFFF     (base 16)		HDS Otomasyon Güvenlik ve Yazılım Teknolojileri Sanayi Ticaret Limited Şirketi
+				Merkez Mahallesi Sadabad Cad. Kapı No:20
+				İstanbul  Kağıthane  34406
+				TR
 
 D0-14-11   (hex)		P.B. Elettronica srl
 100000-1FFFFF     (base 16)		P.B. Elettronica srl
