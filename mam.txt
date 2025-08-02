@@ -21335,6 +21335,12 @@ B00000-BFFFFF     (base 16)		Continental Brasil Indústria Automotiva Ltda.
 				Guarulhos  São Paulo  07042-020
 				BR
 
+F4-97-9D   (hex)		LUXSHARE - ICT(NGHE AN) LIMITED
+700000-7FFFFF     (base 16)		LUXSHARE - ICT(NGHE AN) LIMITED
+				No. 18, Road No. 03, VSIP Nghe An Industrial Park, Hung Nguyen Commune, Nghe An Province, Vietnam
+				Nghe An  Nghe An  460000 
+				VN
+
 D0-14-11   (hex)		P.B. Elettronica srl
 100000-1FFFFF     (base 16)		P.B. Elettronica srl
 				Via Santorelli, 8
