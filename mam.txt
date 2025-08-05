@@ -14042,6 +14042,12 @@ C00000-CFFFFF     (base 16)		CYBERTEL BRIDGE
 				Seoul    08389
 				KR
 
+F4-97-9D   (hex)		Kaiware (Shenzhen) Technologies Co.,Ltd
+B00000-BFFFFF     (base 16)		Kaiware (Shenzhen) Technologies Co.,Ltd
+				B716, Key Laboratory Platform Building, Shenzhen Virtual University Park, No. 1 Yuexing 2nd Road, High-tech Park Community, Yuehai Street, Nanshan District, Shenzhen, Guangdong 518057, China
+				Shenzhen  Guangdong  518057
+				CN
+
 00-6A-5E   (hex)		Annapurna labs
 A00000-AFFFFF     (base 16)		Annapurna labs
 				Matam Scientific Industries Center,   Building 8.2
@@ -21341,6 +21347,12 @@ F4-97-9D   (hex)		LUXSHARE - ICT(NGHE AN) LIMITED
 				Nghe An  Nghe An  460000 
 				VN
 
+F4-97-9D   (hex)		camnex innovation pvt ltd
+600000-6FFFFF     (base 16)		camnex innovation pvt ltd
+				8th floor, platina Heights,C24,Sector 62
+				Noida  UTTAR PRADESH  201301
+				IN
+
 D0-14-11   (hex)		P.B. Elettronica srl
 100000-1FFFFF     (base 16)		P.B. Elettronica srl
 				Via Santorelli, 8
@@ -28339,6 +28351,12 @@ B00000-BFFFFF     (base 16)		Aeterlink Corp.
 				363 Rivonia Boulevard, 1st Floor, Euro Centre Building, Edenburg
 				Johannesburg  Gauteng  2128
 				ZA
+
+F4-97-9D   (hex)		Lab241 Co.,Ltd.
+C00000-CFFFFF     (base 16)		Lab241 Co.,Ltd.
+				1402Ho, 286, Beotkkot-ro, Geumcheon-gu
+				Seoul    08511
+				KR
 
 C8-5C-E2   (hex)		Fela Management AG 
 000000-0FFFFF     (base 16)		Fela Management AG 
