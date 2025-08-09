@@ -15875,6 +15875,24 @@ BBA000-BBAFFF     (base 16)		elysia GmbH
 				Nettetal    41334
 				DE
 
+8C-1F-64   (hex)		QUANZHOU RADIOBOSS TECHNOLOGY CO., LTD
+D12000-D12FFF     (base 16)		QUANZHOU RADIOBOSS TECHNOLOGY CO., LTD
+				NO. 8, CHUANGZAO ROAD, OPTOELECTRONICS-INFORMATION INDUSTRY BASE, NAN'AN, QUANZHOU, FUJIAN 
+				Nan'an  Fujian  362300
+				CN
+
+8C-1F-64   (hex)		GeneSys Elektronik GmbH
+123000-123FFF     (base 16)		GeneSys Elektronik GmbH
+				Maria-und-Georg-Dietrich-Str. 6
+				Offenburg    77652
+				DE
+
+8C-1F-64   (hex)		COPELION INTERNATIONAL INC
+7F9000-7F9FFF     (base 16)		COPELION INTERNATIONAL INC
+				9 F., No. 202, Sec. 2, Yanping N. Rd., Datong Dist.
+				Taipei City    103606
+				TW
+
 8C-1F-64   (hex)		Vision Systems Safety Tech
 E6F000-E6FFFF     (base 16)		Vision Systems Safety Tech
 				5 Chemin de Chiradie
@@ -23860,6 +23878,12 @@ D71000-D71FFF     (base 16)		Computech International
 				110 Crossways Park Drive
 				Woodbury  NY  11797
 				US
+
+8C-1F-64   (hex)		Pneumax Spa
+FA0000-FA0FFF     (base 16)		Pneumax Spa
+				via cascina barbellina, 10
+				Lurano  Bergamo  24050
+				IT
 
 8C-1F-64   (hex)		Flow Power
 82B000-82BFFF     (base 16)		Flow Power
@@ -39658,3 +39682,15 @@ CDA000-CDAFFF     (base 16)		SPX Flow Technology BV
 				Room 2003, Block A, Yintai Plaza,Hongqiao District, Tianjin 
 				Tianjin  Tianjin  300131
 				CN
+
+8C-1F-64   (hex)		Dualcomm Technology, Inc.
+01F000-01FFFF     (base 16)		Dualcomm Technology, Inc.
+				2415 San Ramon Valley Blvd., #4182
+				San Ramon  CA  94583
+				US
+
+8C-1F-64   (hex)		Pneumax Spa
+B15000-B15FFF     (base 16)		Pneumax Spa
+				via cascina barbellina, 10
+				Lurano  Bergamo  24050
+				IT

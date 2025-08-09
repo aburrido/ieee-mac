@@ -7295,6 +7295,12 @@ E00000-EFFFFF     (base 16)		Oppermann Regelgeräte GmbH
 				Leinfelden-Echterdingen    70771
 				DE
 
+F4-97-9D   (hex)		Infinite X Co., Ltd.
+200000-2FFFFF     (base 16)		Infinite X Co., Ltd.
+				144/15 M.1 T. Chang Phuek A. Mueang
+				Chiang Mai    50300
+				TH
+
 F4-97-9D   (hex)		Frame the space
 100000-1FFFFF     (base 16)		Frame the space
 				128 rue la Boetie
@@ -14065,6 +14071,12 @@ D00000-DFFFFF     (base 16)		Beijing Lingji Innovations technology Co,LTD.
 				Room 106, 1st Floor, A-1 Building, Zhongguancun Dongsheng Science and Technology Park, No. 66 Xixiaokou Road, Haidian District, Beijing
 				Beijing  Beijing  100190
 				CN
+
+F4-97-9D   (hex)		Teenage Engineering AB
+E00000-EFFFFF     (base 16)		Teenage Engineering AB
+				Textilgatan 31
+				Stockholm  n/a  12030 
+				SE
 
 F4-97-9D   (hex)		Warner Technology Corp
 500000-5FFFFF     (base 16)		Warner Technology Corp
@@ -21383,6 +21395,12 @@ F4-97-9D   (hex)		MERRY ELECTRONICS CO., LTD.
 				TAICHUNG    408213
 				TW
 
+F4-97-9D   (hex)		Tardis Technology
+000000-0FFFFF     (base 16)		Tardis Technology
+				2-30, Maenser Space, 145 Shindae-ro
+				Jejusi  Jejudo  63134
+				KR
+
 D0-14-11   (hex)		P.B. Elettronica srl
 100000-1FFFFF     (base 16)		P.B. Elettronica srl
 				Via Santorelli, 8
@@ -28393,6 +28411,18 @@ F4-97-9D   (hex)		Beijing Jiaxin Technology Co., Ltd
 				北京市海淀区丹棱SOHO 7层728室
 				Beijing    100080
 				CN
+
+F4-97-9D   (hex)		Equinox Power
+300000-3FFFFF     (base 16)		Equinox Power
+				108-5108 NORTH FRASER WAY
+				Burnaby  BC  V5J 0H1
+				CA
+
+F4-97-9D   (hex)		Huitec printer solution co., 
+D00000-DFFFFF     (base 16)		Huitec printer solution co., 
+				2f#104 Minchuan Rd. Hisdean district 
+				New Taipei   Taiwan   23141
+				TW
 
 C8-5C-E2   (hex)		Fela Management AG 
 000000-0FFFFF     (base 16)		Fela Management AG 

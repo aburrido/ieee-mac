@@ -1213,3 +1213,9 @@ EABEA7                        (base 16)                     Sonos, Inc.
                                                             1028-1,Yamagami                              
                                                             Tamaki-tyou  Mie  519-0436                   
                                                             JP                                           
+
+4A-F5-7D                      (hex)                         ASAM e.V.                                    
+4AF57D                        (base 16)                     ASAM e.V.                                    
+                                                            Altlaufstr. 40                               
+                                                            Höhenkirchen-Siegertsbrunn  Bavaria  85635   
+                                                            DE                                           
