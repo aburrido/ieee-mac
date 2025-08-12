@@ -7307,6 +7307,12 @@ F4-97-9D   (hex)		Frame the space
 				PARIS    75008
 				FR
 
+E0-23-3B   (hex)		IOFAC
+500000-5FFFFF     (base 16)		IOFAC
+				Hyundaitera Tower 1628, 8, Ori-ro 651beon-gil
+				Gwangmyeong-si  Gyeonggi-do  14303
+				KR
+
 B8-4C-87   (hex)		Shenzhen Link-all Technology Co., Ltd
 300000-3FFFFF     (base 16)		Shenzhen Link-all Technology Co., Ltd
 				Floor 5th, Block 9th, Sunny Industrial Zone, Xili Town, Nanshan District, Shenzhen, China 
@@ -28424,6 +28430,18 @@ D00000-DFFFFF     (base 16)		Huitec printer solution co.,
 				New Taipei   Taiwan   23141
 				TW
 
+E0-23-3B   (hex)		Quality Pay Systems S.L.
+000000-0FFFFF     (base 16)		Quality Pay Systems S.L.
+				21 Forja Avenue, Cañada de la Fuente Industrial Park 
+				Martos  Jaen  23600
+				ES
+
+E0-23-3B   (hex)		356 Productions
+300000-3FFFFF     (base 16)		356 Productions
+				1881 West Traverse Pkwy
+				LEHI  UT  84043
+				US
+
 C8-5C-E2   (hex)		Fela Management AG 
 000000-0FFFFF     (base 16)		Fela Management AG 
 				Basadingerstrasse 18
@@ -35589,4 +35607,10 @@ FC-E4-98   (hex)		E Haute Intelligent Technology Co., Ltd
 000000-0FFFFF     (base 16)		TRULY ELECTRONICS MFG.,LTD
 				Truly industry city，shanwei guangdong，P.R.C
 				shanwei  guangdong  516600
+				CN
+
+E0-23-3B   (hex)		Shenzhen C & D Electronics Co., Ltd.
+B00000-BFFFFF     (base 16)		Shenzhen C & D Electronics Co., Ltd.
+				9th FIoor, Building 9, No.1 Qingxiang road, BaoNeng Science and TechnoIogy Industrial Park, Longhua New District
+				ShenZhen  GuangDong  518000
 				CN

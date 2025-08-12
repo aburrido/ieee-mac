@@ -7931,6 +7931,18 @@ CCF000-CCFFFF     (base 16)		Tiptop Platform P. Ltd
 				Jaipur  Rajasthan  302001
 				IN
 
+8C-1F-64   (hex)		Taesung Media
+8DB000-8DBFFF     (base 16)		Taesung Media
+				Room 20, 306, Dalseo-daero 109-gil
+				Dalseo-gu  Daegu   42709
+				KR
+
+8C-1F-64   (hex)		Thermaco Incorporated
+F20000-F20FFF     (base 16)		Thermaco Incorporated
+				646 GREENSBORO ST
+				ASHEBORO  NC  27203-4739
+				US
+
 8C-1F-64   (hex)		Jacobs Technology, Inc.
 A98000-A98FFF     (base 16)		Jacobs Technology, Inc.
 				7765 Old Telegraph Road
