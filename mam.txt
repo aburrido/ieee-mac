@@ -7313,6 +7313,12 @@ E0-23-3B   (hex)		IOFAC
 				Gwangmyeong-si  Gyeonggi-do  14303
 				KR
 
+E0-23-3B   (hex)		ShenZhen Chainway Information Technology Co., Ltd.
+A00000-AFFFFF     (base 16)		ShenZhen Chainway Information Technology Co., Ltd.
+				 9F Building2, Phase2, Gaoxinqi Industrial Park ,  Bao'an District
+				ShenZhen  GuangDong  518102
+				CN
+
 B8-4C-87   (hex)		Shenzhen Link-all Technology Co., Ltd
 300000-3FFFFF     (base 16)		Shenzhen Link-all Technology Co., Ltd
 				Floor 5th, Block 9th, Sunny Industrial Zone, Xili Town, Nanshan District, Shenzhen, China 
@@ -14095,6 +14101,12 @@ A00000-AFFFFF     (base 16)		MARKT Co., Ltd
 				320, 8, Seongnam-daero 331beon-gil, Bundang-gu
 				Seongnam-si  Gyeonggi-do  13558
 				KR
+
+E0-23-3B   (hex)		Suzhou Visrgb Technology Co., Ltd
+800000-8FFFFF     (base 16)		Suzhou Visrgb Technology Co., Ltd
+				Room 511,New Building, Xunlilndustrial Park,No.29 Xixia Road,Yuexi Town, Wuzhong District 
+				Suzhou  Jiangsu  215104
+				CN
 
 B8-4C-87   (hex)		Altronix , Corp
 A00000-AFFFFF     (base 16)		Altronix , Corp
@@ -28412,6 +28424,12 @@ C00000-CFFFFF     (base 16)		Lab241 Co.,Ltd.
 				Seoul    08511
 				KR
 
+E0-23-3B   (hex)		Quality Pay Systems S.L.
+000000-0FFFFF     (base 16)		Quality Pay Systems S.L.
+				21 Forja Avenue, Cañada de la Fuente Industrial Park 
+				Martos  Jaen  23600
+				ES
+
 F4-97-9D   (hex)		Beijing Jiaxin Technology Co., Ltd
 900000-9FFFFF     (base 16)		Beijing Jiaxin Technology Co., Ltd
 				北京市海淀区丹棱SOHO 7层728室
@@ -28429,12 +28447,6 @@ D00000-DFFFFF     (base 16)		Huitec printer solution co.,
 				2f#104 Minchuan Rd. Hisdean district 
 				New Taipei   Taiwan   23141
 				TW
-
-E0-23-3B   (hex)		Quality Pay Systems S.L.
-000000-0FFFFF     (base 16)		Quality Pay Systems S.L.
-				21 Forja Avenue, Cañada de la Fuente Industrial Park 
-				Martos  Jaen  23600
-				ES
 
 E0-23-3B   (hex)		356 Productions
 300000-3FFFFF     (base 16)		356 Productions
