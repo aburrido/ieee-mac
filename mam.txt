@@ -21407,17 +21407,17 @@ F4-97-9D   (hex)		camnex innovation pvt ltd
 				Noida  UTTAR PRADESH  201301
 				IN
 
-F4-97-9D   (hex)		MERRY ELECTRONICS CO., LTD.
-400000-4FFFFF     (base 16)		MERRY ELECTRONICS CO., LTD.
-				NO.22,23RD ROAD,TAICHUNG INDUSTRIAL PARKTAICHUNG,TAIWAN,R.O.C.
-				TAICHUNG    408213
-				TW
-
 F4-97-9D   (hex)		Tardis Technology
 000000-0FFFFF     (base 16)		Tardis Technology
 				2-30, Maenser Space, 145 Shindae-ro
 				Jejusi  Jejudo  63134
 				KR
+
+F4-97-9D   (hex)		MERRY ELECTRONICS CO., LTD.
+400000-4FFFFF     (base 16)		MERRY ELECTRONICS CO., LTD.
+				NO.22,23RD ROAD,TAICHUNG INDUSTRIAL PARKTAICHUNG,TAIWAN,R.O.C.
+				TAICHUNG    408213
+				TW
 
 D0-14-11   (hex)		P.B. Elettronica srl
 100000-1FFFFF     (base 16)		P.B. Elettronica srl
@@ -28453,6 +28453,12 @@ E0-23-3B   (hex)		356 Productions
 				1881 West Traverse Pkwy
 				LEHI  UT  84043
 				US
+
+E0-23-3B   (hex)		Elvys s.r.o
+100000-1FFFFF     (base 16)		Elvys s.r.o
+				Polska 9
+				Kosice    04011
+				SK
 
 C8-5C-E2   (hex)		Fela Management AG 
 000000-0FFFFF     (base 16)		Fela Management AG 
