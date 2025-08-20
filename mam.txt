@@ -7307,17 +7307,23 @@ F4-97-9D   (hex)		Frame the space
 				PARIS    75008
 				FR
 
-E0-23-3B   (hex)		IOFAC
-500000-5FFFFF     (base 16)		IOFAC
-				Hyundaitera Tower 1628, 8, Ori-ro 651beon-gil
-				Gwangmyeong-si  Gyeonggi-do  14303
-				KR
-
 E0-23-3B   (hex)		ShenZhen Chainway Information Technology Co., Ltd.
 A00000-AFFFFF     (base 16)		ShenZhen Chainway Information Technology Co., Ltd.
 				 9F Building2, Phase2, Gaoxinqi Industrial Park ,  Bao'an District
 				ShenZhen  GuangDong  518102
 				CN
+
+48-08-EB   (hex)		Silicon Dynamic Networks
+D00000-DFFFFF     (base 16)		Silicon Dynamic Networks
+				Floor 2, Building 14, Section C, St. Moritz Garden, Yulong Road, Longhua New District
+				Shenzhen  Guangdong  518131
+				CN
+
+E0-23-3B   (hex)		IOFAC
+500000-5FFFFF     (base 16)		IOFAC
+				Hyundaitera Tower 1628, 8, Ori-ro 651beon-gil
+				Gwangmyeong-si  Gyeonggi-do  14303
+				KR
 
 B8-4C-87   (hex)		Shenzhen Link-all Technology Co., Ltd
 300000-3FFFFF     (base 16)		Shenzhen Link-all Technology Co., Ltd
@@ -14119,6 +14125,18 @@ D00000-DFFFFF     (base 16)		Magosys Systems LTD
 				Gad Feinstein 13
 				Rehovot    7638517
 				IL
+
+48-08-EB   (hex)		Hangzhou Jianan Technology Co.,Ltd
+500000-5FFFFF     (base 16)		Hangzhou Jianan Technology Co.,Ltd
+				Room-4606, Building 3, Sijiqing Street, Shangcheng District
+				Hangzhou  Zhejiang Province  310000
+				CN
+
+48-08-EB   (hex)		ZHEJIANG AIKE INTELLIGENTTECHNOLOGY CO.LTD
+C00000-CFFFFF     (base 16)		ZHEJIANG AIKE INTELLIGENTTECHNOLOGY CO.LTD
+				No. 18, Chunjiang Road, Ningwei Street, Xiaoshan District, Hangzhou City, Zhejiang
+				Hangzhou  Zhejiang  311200
+				CN
 
 B8-4C-87   (hex)		Altronix , Corp
 A00000-AFFFFF     (base 16)		Altronix , Corp
@@ -21431,6 +21449,12 @@ F4-97-9D   (hex)		MERRY ELECTRONICS CO., LTD.
 				TAICHUNG    408213
 				TW
 
+48-08-EB   (hex)		Quanta Storage Inc.
+400000-4FFFFF     (base 16)		Quanta Storage Inc.
+				3F. No.188, Wenhua 2nd Rd
+				Taoyuan City  Guishan District  33383
+				TW
+
 E0-23-3B   (hex)		Rehear Audiology Company LTD.
 700000-7FFFFF     (base 16)		Rehear Audiology Company LTD.
 				2F., No.57, Xingzhong Rd., Neihu Dist.,
@@ -21442,6 +21466,12 @@ E0-23-3B   (hex)		PluralFusion INC
 				1717 E Cary Street
 				Richmond  VA  23223
 				US
+
+48-08-EB   (hex)		Tianjin Jinmu Intelligent Control Technology Co., Ltd
+100000-1FFFFF     (base 16)		Tianjin Jinmu Intelligent Control Technology Co., Ltd
+				Room 3271, Building 1, Collaborative Development Center, West Ring North Road, Beijing-Tianjin Zhongguancun Science Park, BaoDi District, Tianjin, China.
+				Tianjin    301800
+				CN
 
 D0-14-11   (hex)		P.B. Elettronica srl
 100000-1FFFFF     (base 16)		P.B. Elettronica srl
