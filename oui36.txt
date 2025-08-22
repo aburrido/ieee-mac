@@ -15911,6 +15911,12 @@ D12000-D12FFF     (base 16)		QUANZHOU RADIOBOSS TECHNOLOGY CO., LTD
 				Taipei City    103606
 				TW
 
+8C-1F-64   (hex)		Foenix Coding Ltd
+DA4000-DA4FFF     (base 16)		Foenix Coding Ltd
+				The Barns - Hilltop Farm Lyne Lane
+				Chertsey  Surrey  KT16 0AW
+				GB
+
 8C-1F-64   (hex)		Vision Systems Safety Tech
 E6F000-E6FFFF     (base 16)		Vision Systems Safety Tech
 				5 Chemin de Chiradie
@@ -23909,11 +23915,17 @@ FA0000-FA0FFF     (base 16)		Pneumax Spa
 				Dublin  Dublin  D12 A611
 				IE
 
-8C-1F-64   (hex)		AMC Europe Kft.
-A2F000-A2FFFF     (base 16)		AMC Europe Kft.
-				Csiri utca 13
-				Törökbálint    2045
-				HU
+8C-1F-64   (hex)		Guangzhou Vannove Technology Co., Ltd
+6C1000-6C1FFF     (base 16)		Guangzhou Vannove Technology Co., Ltd
+				No. 728 Kaichuang Avenue, Guangzhou, China.
+				GuangZhou  GuangDong  51000
+				CN
+
+8C-1F-64   (hex)		Potter Electric Signal Co. LLC
+690000-690FFF     (base 16)		Potter Electric Signal Co. LLC
+				1609 Park 370 Place
+				Hazelwood  MO  63042
+				US
 
 8C-1F-64   (hex)		Coral Infratel Pvt Ltd
 750000-750FFF     (base 16)		Coral Infratel Pvt Ltd
@@ -23921,11 +23933,17 @@ A2F000-A2FFFF     (base 16)		AMC Europe Kft.
 				Rohtak  Haryana  124001
 				IN
 
-8C-1F-64   (hex)		Guangzhou Vannove Technology Co., Ltd
-6C1000-6C1FFF     (base 16)		Guangzhou Vannove Technology Co., Ltd
-				No. 728 Kaichuang Avenue, Guangzhou, China.
-				GuangZhou  GuangDong  51000
-				CN
+8C-1F-64   (hex)		AMC Europe Kft.
+A2F000-A2FFFF     (base 16)		AMC Europe Kft.
+				Csiri utca 13
+				Törökbálint    2045
+				HU
+
+8C-1F-64   (hex)		Bots Unlimited LLC
+69D000-69DFFF     (base 16)		Bots Unlimited LLC
+				5817 La Colonia
+				San Antonio  TX  78218
+				US
 
 8C-1F-64   (hex)		Flow Power
 82B000-82BFFF     (base 16)		Flow Power
