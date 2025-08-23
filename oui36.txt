@@ -7943,6 +7943,12 @@ F20000-F20FFF     (base 16)		Thermaco Incorporated
 				Dalseo-gu  Daegu   42709
 				KR
 
+8C-1F-64   (hex)		Omnilink Tecnologia S/A
+023000-023FFF     (base 16)		Omnilink Tecnologia S/A
+				Alameda Tocantins, 350, Edificio West Corp, 13° andar, Alphaville Industrial
+				Barueri  SP  06455-020
+				BR
+
 8C-1F-64   (hex)		Kite Rise Technologies GmbH
 508000-508FFF     (base 16)		Kite Rise Technologies GmbH
 				Kaerntner Strasse 355B/1.OG
