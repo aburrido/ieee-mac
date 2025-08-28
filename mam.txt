@@ -14174,6 +14174,12 @@ B00000-BFFFFF     (base 16)		Eruminc Co.,Ltd.
 				Huaihua    418000
 				CN
 
+50-FA-CB   (hex)		Shenzhen Hill Technology Co., LTD.
+500000-5FFFFF     (base 16)		Shenzhen Hill Technology Co., LTD.
+				Room 203, No.118 Xingye 1st Road, Rentian Community, Fuhai Street, Bao’an District
+				Shenzhen  Guangdong  518103
+				CN
+
 B8-4C-87   (hex)		Altronix , Corp
 A00000-AFFFFF     (base 16)		Altronix , Corp
 				140 58th St. Bldg A, Ste 2N
@@ -28585,6 +28591,12 @@ E0-23-3B   (hex)		Elvys s.r.o
 				2601 Network Blvd, Suite 410
 				Frisco  TX  TX 75034
 				US
+
+50-FA-CB   (hex)		todoc
+000000-0FFFFF     (base 16)		todoc
+				501ho, 242 Digital-ro
+				Guro-gu  Seoul  08394
+				KR
 
 C8-5C-E2   (hex)		Fela Management AG 
 000000-0FFFFF     (base 16)		Fela Management AG 
