@@ -7967,6 +7967,12 @@ F80000-F80FFF     (base 16)		Vinfast Trading and Production JSC
 				Hai Phong  Hai Phong  180000
 				VN
 
+8C-1F-64   (hex)		YDIIT Co., Ltd.
+1FA000-1FAFFF     (base 16)		YDIIT Co., Ltd.
+				#3010, U-Tower, 120, Heungdeokjungang-ro, Giheung-gu,
+				Yongin  Gyeonggi  16950
+				KR
+
 8C-1F-64   (hex)		Jacobs Technology, Inc.
 A98000-A98FFF     (base 16)		Jacobs Technology, Inc.
 				7765 Old Telegraph Road
@@ -15935,11 +15941,11 @@ DA4000-DA4FFF     (base 16)		Foenix Coding Ltd
 				Chertsey  Surrey  KT16 0AW
 				GB
 
-8C-1F-64   (hex)		YUYAMA MFG Co.,Ltd
-70A000-70AFFF     (base 16)		YUYAMA MFG Co.,Ltd
-				1-4-30
-				MEISHINGUCHI,TOYONAKA  OSAKA  561-0841
-				JP
+8C-1F-64   (hex)		Rail Telematics Corp
+7C1000-7C1FFF     (base 16)		Rail Telematics Corp
+				494 6th Ave S
+				Jacksonville Beach    32250
+				US
 
 8C-1F-64   (hex)		Vigor Electric Corp.
 A64000-A64FFF     (base 16)		Vigor Electric Corp.
@@ -15947,11 +15953,17 @@ A64000-A64FFF     (base 16)		Vigor Electric Corp.
 				Danshui Dist.  New Taipei City  25152
 				TW
 
-8C-1F-64   (hex)		Rail Telematics Corp
-7C1000-7C1FFF     (base 16)		Rail Telematics Corp
-				494 6th Ave S
-				Jacksonville Beach    32250
-				US
+8C-1F-64   (hex)		YUYAMA MFG Co.,Ltd
+70A000-70AFFF     (base 16)		YUYAMA MFG Co.,Ltd
+				1-4-30
+				MEISHINGUCHI,TOYONAKA  OSAKA  561-0841
+				JP
+
+8C-1F-64   (hex)		Sonic Italia
+8D2000-8D2FFF     (base 16)		Sonic Italia
+				Viale A. De Gasperi 76
+				Rho  Lombardia  20017
+				IT
 
 8C-1F-64   (hex)		Vision Systems Safety Tech
 E6F000-E6FFFF     (base 16)		Vision Systems Safety Tech
@@ -31985,6 +31997,12 @@ B35000-B35FFF     (base 16)		RADA Electronics Industries Ltd.
 				Netanya    42504
 				IL
 
+8C-1F-64   (hex)		MB connect line GmbH
+46D000-46DFFF     (base 16)		MB connect line GmbH
+				Winnettener Strasse 6
+				Dinkelsbuehl  Bavaria  91550
+				DE
+
 8C-1F-64   (hex)		Mobileye
 D63000-D63FFF     (base 16)		Mobileye
 				13 Hartom st.
@@ -39849,4 +39867,10 @@ FC6000-FC6FFF     (base 16)		Invertek Drives Ltd
 37C000-37CFFF     (base 16)		MOIZ
 				25 Avenue des Martyrsc/o Institut Neel Bat E - BP166
 				Grenoble Cedex 9    38042
+				FR
+
+8C-1F-64   (hex)		LUNEAU TECHNOLOGY OPERATIONS
+C6F000-C6FFFF     (base 16)		LUNEAU TECHNOLOGY OPERATIONS
+				2, rue Roger Bonnet
+				Pont De L'Arche  France  27340
 				FR
