@@ -14186,6 +14186,12 @@ B00000-BFFFFF     (base 16)		Eruminc Co.,Ltd.
 				Remetea Mare  Timis  307350
 				RO
 
+50-FA-CB   (hex)		Advant sp. z o.o.
+E00000-EFFFFF     (base 16)		Advant sp. z o.o.
+				Obrońców Wybrzeża 9/4
+				Gdańsk  pomorskie  80-398
+				PL
+
 B8-4C-87   (hex)		Altronix , Corp
 A00000-AFFFFF     (base 16)		Altronix , Corp
 				140 58th St. Bldg A, Ste 2N
@@ -21467,12 +21473,6 @@ B00000-BFFFFF     (base 16)		Continental Brasil Indústria Automotiva Ltda.
 				Guarulhos  São Paulo  07042-020
 				BR
 
-F4-97-9D   (hex)		Shanghai Kanghai Infomation System CO.,LTD
-800000-8FFFFF     (base 16)		Shanghai Kanghai Infomation System CO.,LTD
-				Room 207, Building 1, 6055 Songze Avenue , Qingpu District, Shanghai
-				Shanghai    201706
-				CN
-
 F4-97-9D   (hex)		LUXSHARE - ICT(NGHE AN) LIMITED
 700000-7FFFFF     (base 16)		LUXSHARE - ICT(NGHE AN) LIMITED
 				No. 18, Road No. 03, VSIP Nghe An Industrial Park, Hung Nguyen Commune, Nghe An Province, Vietnam
@@ -28615,6 +28615,12 @@ B00000-BFFFFF     (base 16)		Combined Public Communications, LLC
 				100 Aqua Drive
 				Cold Spring  KY  41076
 				US
+
+50-FA-CB   (hex)		1208815047
+600000-6FFFFF     (base 16)		1208815047
+				5F, 547, SAMSEONG-RO, GANGNAM-GU,SEOUL, SOUTH KOREA
+				seoul    06156
+				KR
 
 C8-5C-E2   (hex)		Fela Management AG 
 000000-0FFFFF     (base 16)		Fela Management AG 
