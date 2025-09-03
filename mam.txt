@@ -7343,6 +7343,12 @@ C00000-CFFFFF     (base 16)		The Scotts Company
 				Palo Alto  CA  94304
 				US
 
+50-FA-CB   (hex)		VeriFone Systems(China),Inc
+800000-8FFFFF     (base 16)		VeriFone Systems(China),Inc
+				1701 of Building D,Area III of Innovation Park,No.20 of Gaoxin Avenue,Minhou County
+				Fuzhou  Fujian  350000
+				CN
+
 B8-4C-87   (hex)		Shenzhen Link-all Technology Co., Ltd
 300000-3FFFFF     (base 16)		Shenzhen Link-all Technology Co., Ltd
 				Floor 5th, Block 9th, Sunny Industrial Zone, Xili Town, Nanshan District, Shenzhen, China 
@@ -21539,6 +21545,12 @@ A00000-AFFFFF     (base 16)		Yeacode (Xiamen) Inkjet Inc.
 				Shenzhen  Guangdong  518000
 				CN
 
+50-FA-CB   (hex)		Shenzhen Evertones Quantum Technology Co., Ltd.
+100000-1FFFFF     (base 16)		Shenzhen Evertones Quantum Technology Co., Ltd.
+				Room 3907, Tower B, Digital Innovation Center, Beizhan Community, Minzhi Sub-district, Longhua District
+				Shenzhen  Guangdong  518131
+				CN
+
 D0-14-11   (hex)		P.B. Elettronica srl
 100000-1FFFFF     (base 16)		P.B. Elettronica srl
 				Via Santorelli, 8
@@ -28604,10 +28616,10 @@ E0-23-3B   (hex)		Elvys s.r.o
 				Frisco  TX  TX 75034
 				US
 
-50-FA-CB   (hex)		todoc
-000000-0FFFFF     (base 16)		todoc
-				501ho, 242 Digital-ro
-				Guro-gu  Seoul  08394
+50-FA-CB   (hex)		1208815047
+600000-6FFFFF     (base 16)		1208815047
+				5F, 547, SAMSEONG-RO, GANGNAM-GU,SEOUL, SOUTH KOREA
+				seoul    06156
 				KR
 
 50-FA-CB   (hex)		Combined Public Communications, LLC
@@ -28616,11 +28628,17 @@ B00000-BFFFFF     (base 16)		Combined Public Communications, LLC
 				Cold Spring  KY  41076
 				US
 
-50-FA-CB   (hex)		1208815047
-600000-6FFFFF     (base 16)		1208815047
-				5F, 547, SAMSEONG-RO, GANGNAM-GU,SEOUL, SOUTH KOREA
-				seoul    06156
+50-FA-CB   (hex)		todoc
+000000-0FFFFF     (base 16)		todoc
+				501ho, 242 Digital-ro
+				Guro-gu  Seoul  08394
 				KR
+
+50-FA-CB   (hex)		Vortex Infotech Private Limited
+D00000-DFFFFF     (base 16)		Vortex Infotech Private Limited
+				101, Corporate Arena, Sitaram Patkar Marg, Behind Mahindra Eminente Society, Goregaon west.
+				Mumbai  Maharashtra  400104
+				IN
 
 C8-5C-E2   (hex)		Fela Management AG 
 000000-0FFFFF     (base 16)		Fela Management AG 
