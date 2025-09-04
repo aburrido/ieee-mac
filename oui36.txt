@@ -7973,6 +7973,24 @@ F80000-F80FFF     (base 16)		Vinfast Trading and Production JSC
 				Yongin  Gyeonggi  16950
 				KR
 
+8C-1F-64   (hex)		BEST
+0A2000-0A2FFF     (base 16)		BEST
+				16, Deogyang-daero 1556beon-gil, Yeongtong-gu, ,  E-dong 1401ho, South Korea
+				수원  Gyeonggi-do  16690
+				KR
+
+8C-1F-64   (hex)		AUREKA SMART LIVING W.L.L
+689000-689FFF     (base 16)		AUREKA SMART LIVING W.L.L
+				Office 22, Bldg 288C, Avenue 16, Hidd
+				Hidd    0111
+				BH
+
+8C-1F-64   (hex)		Embedded Designs Services India Pvt Ltd
+CD7000-CD7FFF     (base 16)		Embedded Designs Services India Pvt Ltd
+				Unit No. 1119-20, 11th Floor, Tower 5, 12th Avenue, RPS Infinia, Faridabad, Haryana
+				Faridabad  Haryana  121001
+				IN
+
 8C-1F-64   (hex)		Jacobs Technology, Inc.
 A98000-A98FFF     (base 16)		Jacobs Technology, Inc.
 				7765 Old Telegraph Road
@@ -24011,6 +24029,12 @@ EC2000-EC2FFF     (base 16)		HARBIN DIGITAL ECONOMY DEVELOPMENT CO.,LTD
 				Cold Spring  KY  41076
 				US
 
+8C-1F-64   (hex)		Image Soft Oy
+843000-843FFF     (base 16)		Image Soft Oy
+				Valimotie 13A
+				HELSINKI    00380
+				FI
+
 8C-1F-64   (hex)		Flow Power
 82B000-82BFFF     (base 16)		Flow Power
 				Suite 2, Level 3, 18 - 20 York St
@@ -39898,3 +39922,9 @@ C6F000-C6FFFF     (base 16)		LUNEAU TECHNOLOGY OPERATIONS
 				2, rue Roger Bonnet
 				Pont De L'Arche  France  27340
 				FR
+
+8C-1F-64   (hex)		JISEONGENG Co,.LTD
+0E3000-0E3FFF     (base 16)		JISEONGENG Co,.LTD
+				80 Seungsamsin-ri-gil, Yonggang-dong, Gyeongju-si, Gyeongsangbuk-do
+				Gyeongju city    38090
+				KR

@@ -7349,6 +7349,24 @@ C00000-CFFFFF     (base 16)		The Scotts Company
 				Fuzhou  Fujian  350000
 				CN
 
+F4-97-9D   (hex)		Smart Access Designs, LLC
+800000-8FFFFF     (base 16)		Smart Access Designs, LLC
+				58 Mackenzie Willow Ter
+				Cheshire  CT  06410
+				US
+
+9C-E4-50   (hex)		XTX Markets Technologies Limited
+C00000-CFFFFF     (base 16)		XTX Markets Technologies Limited
+				R7, 14-18 Handyside Street
+				London    N1C 4DN
+				GB
+
+9C-E4-50   (hex)		ROHOTEK(shenzhen) Technology co., LTD
+800000-8FFFFF     (base 16)		ROHOTEK(shenzhen) Technology co., LTD
+				Room 3-1802, Building T3, Haigu Technology Building, Luozu Community, Shiyan Street, Baoan District
+				Shenzhen  Guangdong  518100
+				CN
+
 B8-4C-87   (hex)		Shenzhen Link-all Technology Co., Ltd
 300000-3FFFFF     (base 16)		Shenzhen Link-all Technology Co., Ltd
 				Floor 5th, Block 9th, Sunny Industrial Zone, Xili Town, Nanshan District, Shenzhen, China 
@@ -14197,6 +14215,12 @@ E00000-EFFFFF     (base 16)		Advant sp. z o.o.
 				Obrońców Wybrzeża 9/4
 				Gdańsk  pomorskie  80-398
 				PL
+
+9C-E4-50   (hex)		Shenzhen GW Technology Co., LTD
+600000-6FFFFF     (base 16)		Shenzhen GW Technology Co., LTD
+				2-1501C, Building T2, Haigu Technology Building, Luozu Community, Shiyan Street, Bao'an District, Shenzhen City, Guangdong Province
+				Shenzhen  Guangdong  518101
+				CN
 
 B8-4C-87   (hex)		Altronix , Corp
 A00000-AFFFFF     (base 16)		Altronix , Corp
@@ -35854,3 +35878,9 @@ A00000-AFFFFF     (base 16)		Varex Imaging Finland
 				Tekniikantie 4
 				Espoo    02150
 				FI
+
+9C-E4-50   (hex)		AUO DISPLAY PLUS CORPORATION
+A00000-AFFFFF     (base 16)		AUO DISPLAY PLUS CORPORATION
+				No. 1, Gongye E. 3rd Rd., East Dist., Hsinchu Science Park
+				Hsinchu  Taiwan  30075
+				TW
