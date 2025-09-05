@@ -5270,12 +5270,6 @@ F5D2                          Schweitzer Engineering Laboratories, Inc.         
                               US                                                                                                       
 
 
-8BC2                          Digital 14                                                                                               Protocol unavailable.
-                              Elektroniikkatie 8                                                                                       
-                              Oulu    90590                                                                                            
-                              FI                                                                                                       
-
-
 8748                          Hybrid                                                                                                   Protocol unavailable.
                               20863 Stevens Creek Blvd.                                                                                
                               Cupertino  CA  95014-8750                                                                                
@@ -7664,6 +7658,12 @@ C22A                          University of Berkeley                            
                               350 Oakmead Parkway, Suite 100                                                                           
                               Sunnyvale  CA  94085                                                                                     
                               US                                                                                                       
+
+
+8BC2                          KATIM L.L.C                                                                                              Protocol unavailable.
+                              Elektroniikkatie 8                                                                                       
+                              Oulu    90590                                                                                            
+                              FI                                                                                                       
 
 
 0500                          University  of Berkeley                                                                                  Invalid as an EtherType value since 1983

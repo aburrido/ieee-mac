@@ -14204,6 +14204,12 @@ B00000-BFFFFF     (base 16)		Eruminc Co.,Ltd.
 				Shenzhen  Guangzhou  51800
 				CN
 
+9C-E4-50   (hex)		Shenzhen GW Technology Co., LTD
+600000-6FFFFF     (base 16)		Shenzhen GW Technology Co., LTD
+				2-1501C, Building T2, Haigu Technology Building, Luozu Community, Shiyan Street, Bao'an District, Shenzhen City, Guangdong Province
+				Shenzhen  Guangdong  518101
+				CN
+
 50-FA-CB   (hex)		Kyocera AVX Components (Timisoara) SRL
 200000-2FFFFF     (base 16)		Kyocera AVX Components (Timisoara) SRL
 				CT Parc, Unit 2
@@ -14216,11 +14222,11 @@ E00000-EFFFFF     (base 16)		Advant sp. z o.o.
 				Gdańsk  pomorskie  80-398
 				PL
 
-9C-E4-50   (hex)		Shenzhen GW Technology Co., LTD
-600000-6FFFFF     (base 16)		Shenzhen GW Technology Co., LTD
-				2-1501C, Building T2, Haigu Technology Building, Luozu Community, Shiyan Street, Bao'an District, Shenzhen City, Guangdong Province
-				Shenzhen  Guangdong  518101
-				CN
+9C-E4-50   (hex)		AIO SYSTEMS
+100000-1FFFFF     (base 16)		AIO SYSTEMS
+				158 Jan smuts drive,Walter streetRosebank quarter 
+				Johannesburg    2196
+				ZA
 
 B8-4C-87   (hex)		Altronix , Corp
 A00000-AFFFFF     (base 16)		Altronix , Corp

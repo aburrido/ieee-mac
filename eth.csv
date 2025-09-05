@@ -995,7 +995,6 @@ EtherType,86CC,"Software Technology, Inc.",1511 Park Ave Melbourne FL US 32901 ,
 EtherType,86D0,"Software Technology, Inc.",1511 Park Ave Melbourne FL US 32901 ,Protocol unavailable.
 EtherType,86D5,"Software Technology, Inc.",1511 Park Ave Melbourne FL US 32901 ,Protocol unavailable.
 EtherType,F5D2,"Schweitzer Engineering Laboratories, Inc.",2350 NE Hopkins Court Pullman WA US 99163 ,"This Ethertype enables cryptographically protected transport of OT communications. For VLAN tagged frames, the Ethertype appears after the VLAN tag header, and is followed by an SEL-managed sub-type field."
-EtherType,8BC2,Digital 14,Elektroniikkatie 8 Oulu  FI 90590 ,Protocol unavailable.
 EtherType,8748,Hybrid,20863 Stevens Creek Blvd. Cupertino CA US 95014-8750 ,Protocol unavailable.
 EtherType,874F,Hybrid,20863 Stevens Creek Blvd. Cupertino CA US 95014-8750 ,Protocol unavailable.
 EtherType,8750,Hybrid,20863 Stevens Creek Blvd. Cupertino CA US 95014-8750 ,Protocol unavailable.
@@ -1498,6 +1497,7 @@ EtherType,88D6,Hewlett Packard Enterprise,3333 Scott Blvd 6280 America Center Dr
 EtherType,88EA,Hewlett Packard Enterprise,3333 Scott Blvd 6280 America Center Dr CA US 95002 ,For the use of transferring a new security authentication and encryption protocol between two devices at the L2 layer.  The protocol will transfer 802.1x and 256 bit AES-CBC encrypted frames across wired and wireless devices by encapsulating L2 packets.  The new ether type is needed to identify and differentiate from other packets in order to apply the the proper decryption functions.
 EtherType,8932,"Mellanox Technologies, Inc.","350 Oakmead Parkway, Suite 100   Sunnyvale CA US 94085 ","Mellanox discovery and configuration protocol.
 "
+EtherType,8BC2,KATIM L.L.C,Elektroniikkatie 8 Oulu  FI 90590 ,Protocol unavailable.
 EtherType,0500,University  of Berkeley,Computer Science Department Berkeley CA US 94720 ,Invalid as an EtherType value since 1983
 EtherType,0201,Private,,Invalid as an EtherType value since 1983
 EtherType,0128,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
