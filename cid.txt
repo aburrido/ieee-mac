@@ -524,6 +524,12 @@ BAA2D0                        (base 16)                     Wireless Broadband A
                                                             Wilmington  DE  19810-4929                   
                                                             US                                           
 
+FA-7D-04                      (hex)                         Salience Labs                                
+FA7D04                        (base 16)                     Salience Labs                                
+                                                            100 Park Drive                               
+                                                            Abingdon-on-Thames  Oxfordshire  OX14 4RY    
+                                                            GB                                           
+
 8A-85-2E                      (hex)                         Kampr Systems                                
 8A852E                        (base 16)                     Kampr Systems                                
                                                             2047 Kings Lane                              
