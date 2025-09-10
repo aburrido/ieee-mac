@@ -14252,6 +14252,18 @@ D00000-DFFFFF     (base 16)		BCD SRL
 				Tolmezzo  Italy/Udine  33028
 				IT
 
+24-A1-0D   (hex)		REVUPTECH PRIVATE LIMITED 
+C00000-CFFFFF     (base 16)		REVUPTECH PRIVATE LIMITED 
+				G 232, G.B. NAGAR SECTOR 63 NOIDA 
+				NOIDA   UTTAR PRADESH  201301
+				IN
+
+9C-E4-50   (hex)		Shenzhen Lixun Technology Co., Ltd.
+200000-2FFFFF     (base 16)		Shenzhen Lixun Technology Co., Ltd.
+				Room 209, Building D, Xinda Creative Park, Qianjin 2nd Road and Baotian 2nd Road, Bao'an District
+				Shenzhen    518102
+				CN
+
 B8-4C-87   (hex)		Altronix , Corp
 A00000-AFFFFF     (base 16)		Altronix , Corp
 				140 58th St. Bldg A, Ste 2N
@@ -21593,6 +21605,18 @@ D00000-DFFFFF     (base 16)		Shanghai Kanghai Information System CO.,LTD.
 				ShenZhen  GuangDong  518000
 				CN
 
+9C-E4-50   (hex)		Shenzhen HQVT TECHNOLOGY Co.,LTD
+900000-9FFFFF     (base 16)		Shenzhen HQVT TECHNOLOGY Co.,LTD
+				3/F,Building 8 ,Taihua Wutong Island,Xixiang,Bao'an District
+				China  Guang Dong  518000
+				CN
+
+9C-E4-50   (hex)		Shenzhen Coslight Technology Co.,Ltd.
+B00000-BFFFFF     (base 16)		Shenzhen Coslight Technology Co.,Ltd.
+				Room 101, Factory Building, No. 2 Guangtian Road, Luotian Community, Yanluo Sub-district, Bao'an District, Shenzhen
+				Shenzhen    518000
+				CN
+
 48-5E-0E   (hex)		Shanghai Kanghai Information System CO.,LTD.
 000000-0FFFFF     (base 16)		Shanghai Kanghai Information System CO.,LTD.
 				9th FIoor, Building 9, No.1 Qingxiang road, BaoNeng Science and TechnoIogy Industrial Park, Longhua New District
@@ -21611,16 +21635,10 @@ EC-74-CD   (hex)		Shanghai Kanghai Information System CO.,LTD.
 				Beijing  Beijing  100176
 				CN
 
-9C-E4-50   (hex)		Shenzhen HQVT TECHNOLOGY Co.,LTD
-900000-9FFFFF     (base 16)		Shenzhen HQVT TECHNOLOGY Co.,LTD
-				3/F,Building 8 ,Taihua Wutong Island,Xixiang,Bao'an District
-				China  Guang Dong  518000
-				CN
-
-9C-E4-50   (hex)		Shenzhen Coslight Technology Co.,Ltd.
-B00000-BFFFFF     (base 16)		Shenzhen Coslight Technology Co.,Ltd.
-				Room 101, Factory Building, No. 2 Guangtian Road, Luotian Community, Yanluo Sub-district, Bao'an District, Shenzhen
-				Shenzhen    518000
+9C-E4-50   (hex)		Shenzhen Kuki Electric Co., Ltd.
+E00000-EFFFFF     (base 16)		Shenzhen Kuki Electric Co., Ltd.
+				No.6 Shichang Road,Xinqiao Street Baoan District,Shenzhen,Guangdong
+				Shenzhen  Guangdong  518125
 				CN
 
 D0-14-11   (hex)		P.B. Elettronica srl
@@ -35938,3 +35956,9 @@ B00000-BFFFFF     (base 16)		Shanghai Kanghai Information System CO.,LTD.
 				Building A, No. 13 Huayin Road, Hualang Community, Dalang Subdistrict, Longhua District
 				Shenzhen  Guangdong  518000
 				CN
+
+24-A1-0D   (hex)		Avantel Limited
+500000-5FFFFF     (base 16)		Avantel Limited
+				Plot No. S-119M, E-CITYMaheshwaram Mandal, Raviryal, Rangareddy
+				HYDERABAD   Telangana  501510
+				IN

@@ -1016,6 +1016,12 @@ CA443E                        (base 16)                     Allianz Technology S
                                                             Suwon-si  Gyeonggi-do  16681                 
                                                             KR                                           
 
+4A-65-36                      (hex)                         m3connect GmbH                               
+4A6536                        (base 16)                     m3connect GmbH                               
+                                                            Pascalstr. 18                                
+                                                            Aachen  Nordrhein-Westfalen  52076           
+                                                            DE                                           
+
 8A-7D-B3                      (hex)                         Evolv Technology, Inc.                       
 8A7DB3                        (base 16)                     Evolv Technology, Inc.                       
                                                             500 Totten Pond Road4th Floor                
