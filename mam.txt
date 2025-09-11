@@ -7379,6 +7379,12 @@ F4-97-9D   (hex)		Smart Access Designs, LLC
 				Boucherville  Quebec  J4B 7Z7
 				CA
 
+24-A1-0D   (hex)		Lobaro GmbH
+000000-0FFFFF     (base 16)		Lobaro GmbH
+				Stadtdeich 7
+				Hamburg      20097
+				DE
+
 B8-4C-87   (hex)		Shenzhen Link-all Technology Co., Ltd
 300000-3FFFFF     (base 16)		Shenzhen Link-all Technology Co., Ltd
 				Floor 5th, Block 9th, Sunny Industrial Zone, Xili Town, Nanshan District, Shenzhen, China 
@@ -14210,10 +14216,16 @@ E00000-EFFFFF     (base 16)		Advant sp. z o.o.
 				Johannesburg    2196
 				ZA
 
-38-A8-CD   (hex)		Shanghai Kanghai Information System CO.,LTD.
-700000-7FFFFF     (base 16)		Shanghai Kanghai Information System CO.,LTD.
-				9th FIoor, Building 9, No.1 Qingxiang road, BaoNeng Science and TechnoIogy Industrial Park, Longhua New District
-				ShenZhen  GuangDong  518000
+24-A1-0D   (hex)		REVUPTECH PRIVATE LIMITED 
+C00000-CFFFFF     (base 16)		REVUPTECH PRIVATE LIMITED 
+				G 232, G.B. NAGAR SECTOR 63 NOIDA 
+				NOIDA   UTTAR PRADESH  201301
+				IN
+
+9C-E4-50   (hex)		Shenzhen Lixun Technology Co., Ltd.
+200000-2FFFFF     (base 16)		Shenzhen Lixun Technology Co., Ltd.
+				Room 209, Building D, Xinda Creative Park, Qianjin 2nd Road and Baotian 2nd Road, Bao'an District
+				Shenzhen    518102
 				CN
 
 F4-20-55   (hex)		Shanghai Kanghai Information System CO.,LTD.
@@ -14240,29 +14252,29 @@ FC-E4-98   (hex)		Shanghai Kanghai Information System CO.,LTD.
 				ShenZhen  GuangDong  518000
 				CN
 
-9C-E4-50   (hex)		BCD SRL
-D00000-DFFFFF     (base 16)		BCD SRL
-				Galvez 1060
-				Rosario  FOREIGN  2000
-				AR
-
 9C-E4-50   (hex)		Marelli AL&S ALIT-TZ
 300000-3FFFFF     (base 16)		Marelli AL&S ALIT-TZ
 				Via dell'industria 17
 				Tolmezzo  Italy/Udine  33028
 				IT
 
-24-A1-0D   (hex)		REVUPTECH PRIVATE LIMITED 
-C00000-CFFFFF     (base 16)		REVUPTECH PRIVATE LIMITED 
-				G 232, G.B. NAGAR SECTOR 63 NOIDA 
-				NOIDA   UTTAR PRADESH  201301
-				IN
-
-9C-E4-50   (hex)		Shenzhen Lixun Technology Co., Ltd.
-200000-2FFFFF     (base 16)		Shenzhen Lixun Technology Co., Ltd.
-				Room 209, Building D, Xinda Creative Park, Qianjin 2nd Road and Baotian 2nd Road, Bao'an District
-				Shenzhen    518102
+38-A8-CD   (hex)		Shanghai Kanghai Information System CO.,LTD.
+700000-7FFFFF     (base 16)		Shanghai Kanghai Information System CO.,LTD.
+				9th FIoor, Building 9, No.1 Qingxiang road, BaoNeng Science and TechnoIogy Industrial Park, Longhua New District
+				ShenZhen  GuangDong  518000
 				CN
+
+9C-E4-50   (hex)		BCD SRL
+D00000-DFFFFF     (base 16)		BCD SRL
+				Galvez 1060
+				Rosario  FOREIGN  2000
+				AR
+
+24-A1-0D   (hex)		Tecnojest SrL
+900000-9FFFFF     (base 16)		Tecnojest SrL
+				Viale Europa, 128 Spoltore
+				Spoltore    65010
+				IT
 
 B8-4C-87   (hex)		Altronix , Corp
 A00000-AFFFFF     (base 16)		Altronix , Corp
@@ -21641,6 +21653,18 @@ E00000-EFFFFF     (base 16)		Shenzhen Kuki Electric Co., Ltd.
 				Shenzhen  Guangdong  518125
 				CN
 
+24-A1-0D   (hex)		Shenzhen Star Instrument Co., Ltd. 
+100000-1FFFFF     (base 16)		Shenzhen Star Instrument Co., Ltd. 
+				23/F., Coastal Building(west), Haide 3rd Road, Nanshan District
+				Shenzhen   GuangDong   518054
+				CN
+
+24-A1-0D   (hex)		Sony Honda Mobility Inc.
+200000-2FFFFF     (base 16)		Sony Honda Mobility Inc.
+				Midtown-East 9th floor, 9-7-2 Akasaka
+				Minato-ku  Tokyo  107-0052
+				JP
+
 D0-14-11   (hex)		P.B. Elettronica srl
 100000-1FFFFF     (base 16)		P.B. Elettronica srl
 				Via Santorelli, 8
@@ -28729,6 +28753,12 @@ B00000-BFFFFF     (base 16)		Shanghai Kanghai Information System CO.,LTD.
 				9th FIoor, Building 9, No.1 Qingxiang road, BaoNeng Science and TechnoIogy Industrial Park, Longhua New District
 				ShenZhen  GuangDong  518000
 				CN
+
+24-A1-0D   (hex)		Amina Distribution AS
+D00000-DFFFFF     (base 16)		Amina Distribution AS
+				Strandsvingen 14A
+				Stavanger    4032
+				NO
 
 C8-5C-E2   (hex)		Fela Management AG 
 000000-0FFFFF     (base 16)		Fela Management AG 
@@ -35909,6 +35939,12 @@ A00000-AFFFFF     (base 16)		AUO DISPLAY PLUS CORPORATION
 				Hsinchu  Taiwan  30075
 				TW
 
+9C-E4-50   (hex)		Shenzhen Chengzhao Technology Co., Ltd.
+000000-0FFFFF     (base 16)		Shenzhen Chengzhao Technology Co., Ltd.
+				Building A, No. 13 Huayin Road, Hualang Community, Dalang Subdistrict, Longhua District
+				Shenzhen  Guangdong  518000
+				CN
+
 78-13-05   (hex)		Shanghai Kanghai Information System CO.,LTD.
 900000-9FFFFF     (base 16)		Shanghai Kanghai Information System CO.,LTD.
 				9th FIoor, Building 9, No.1 Qingxiang road, BaoNeng Science and TechnoIogy Industrial Park, Longhua New District
@@ -35949,12 +35985,6 @@ E0-23-3B   (hex)		Shanghai Kanghai Information System CO.,LTD.
 B00000-BFFFFF     (base 16)		Shanghai Kanghai Information System CO.,LTD.
 				9th FIoor, Building 9, No.1 Qingxiang road, BaoNeng Science and TechnoIogy Industrial Park, Longhua New District
 				ShenZhen  GuangDong  518000
-				CN
-
-9C-E4-50   (hex)		Shenzhen Chengzhao Technology Co., Ltd.
-000000-0FFFFF     (base 16)		Shenzhen Chengzhao Technology Co., Ltd.
-				Building A, No. 13 Huayin Road, Hualang Community, Dalang Subdistrict, Longhua District
-				Shenzhen  Guangdong  518000
 				CN
 
 24-A1-0D   (hex)		Avantel Limited
