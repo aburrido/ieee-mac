@@ -21341,12 +21341,6 @@ FC-A2-DF   (hex)		Beijing KSL Electromechanical Technology Development Co.,Ltd
 				Beijing    100071
 				CN
 
-60-A4-34   (hex)		Hangzhou Zhongxinhui lntelligent Technology Co.,Ltd.
-200000-2FFFFF     (base 16)		Hangzhou Zhongxinhui lntelligent Technology Co.,Ltd.
-				Room 809, Building B, No. 567 Yueming Road, Xixing Street,
-				Hangzhou  Binjiang Distric  310000
-				CN
-
 FC-A2-DF   (hex)		Orion Power Systems, Inc.
 E00000-EFFFFF     (base 16)		Orion Power Systems, Inc.
 				2939 W. Beaver Street
@@ -21664,6 +21658,15 @@ E00000-EFFFFF     (base 16)		Shenzhen Kuki Electric Co., Ltd.
 				Midtown-East 9th floor, 9-7-2 Akasaka
 				Minato-ku  Tokyo  107-0052
 				JP
+
+24-A1-0D   (hex)		Private
+B00000-BFFFFF     (base 16)		Private
+
+60-A4-34   (hex)		Hangzhou Zhongxinghui Intelligent Technology Co., Ltd.
+200000-2FFFFF     (base 16)		Hangzhou Zhongxinghui Intelligent Technology Co., Ltd.
+				Room 809, Building B, No. 567 Yueming Road, Xixing Street,
+				Hangzhou  Binjiang Distric  310000
+				CN
 
 D0-14-11   (hex)		P.B. Elettronica srl
 100000-1FFFFF     (base 16)		P.B. Elettronica srl
