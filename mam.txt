@@ -36007,3 +36007,9 @@ B00000-BFFFFF     (base 16)		Shanghai Kanghai Information System CO.,LTD.
 				Plot No. S-119M, E-CITYMaheshwaram Mandal, Raviryal, Rangareddy
 				HYDERABAD   Telangana  501510
 				IN
+
+24-A1-0D   (hex)		Rhymebus corporation
+300000-3FFFFF     (base 16)		Rhymebus corporation
+				No. 17, 33rd Road, Taichung Industrial Park
+				Taichung    40768
+				TW
