@@ -16025,12 +16025,6 @@ B1A000-B1AFFF     (base 16)		Panoramic Power
 				Kfar Sava    4464312
 				IL
 
-8C-1F-64   (hex)		VINGLOOP TECHNOLOGY LTD
-DFF000-DFFFFF     (base 16)		VINGLOOP TECHNOLOGY LTD
-				UNIT 910.9/F.TOWER 1 CHEUNGSHA WAN PLAZA 833 CHEUNG SHA WAN RD CHEUNG SHA WAN
-				Hong Kong    000000
-				HK
-
 8C-1F-64   (hex)		Fujian ONETHING Technology Co.,Ltd.
 B30000-B30FFF     (base 16)		Fujian ONETHING Technology Co.,Ltd.
 				Room B1017, 10th Floor, Building 17, Innovation Park Phase II, No. 7, Wulongjiang Middle Avenue, Shangjie Town, Minhou County, Fujian Province
@@ -16060,6 +16054,24 @@ C46000-C46FFF     (base 16)		Inex Technologies
 				2716 Daley Dr.
 				Troy  MI  48083
 				US
+
+8C-1F-64   (hex)		VINGLOOP TECHNOLOGY LTD
+DFF000-DFFFFF     (base 16)		VINGLOOP TECHNOLOGY LTD
+				UNIT 910.9/F.TOWER 1 CHEUNGSHA WAN PLAZA 833 CHEUNG SHA WAN RD CHEUNG SHA WAN
+				Hong Kong    000000
+				HK
+
+8C-1F-64   (hex)		JMV BHARAT PRIVATE LIMITED
+961000-961FFF     (base 16)		JMV BHARAT PRIVATE LIMITED
+				W 50, SECTOR 11, NOIDA, GAUTAM BUDDHA NAGAR
+				NOIDA  UTTAR PRADESH  201301
+				IN
+
+8C-1F-64   (hex)		Chipset Communication Co.,Ltd.
+B8C000-B8CFFF     (base 16)		Chipset Communication Co.,Ltd.
+				5F-3, No. 130, Jian Kang Rd., 
+				Zhonghe Dist.,  New Taipei City  235
+				TW
 
 8C-1F-64   (hex)		Vision Systems Safety Tech
 E6F000-E6FFFF     (base 16)		Vision Systems Safety Tech
@@ -24107,6 +24119,12 @@ EC2000-EC2FFF     (base 16)		HARBIN DIGITAL ECONOMY DEVELOPMENT CO.,LTD
 				HELSINKI    00380
 				FI
 
+8C-1F-64   (hex)		BRS Sistemas Eletrônicos
+944000-944FFF     (base 16)		BRS Sistemas Eletrônicos
+				Rua Capistrano de Abreu, 68
+				Canoas  RS  92120130
+				BR
+
 8C-1F-64   (hex)		Flow Power
 82B000-82BFFF     (base 16)		Flow Power
 				Suite 2, Level 3, 18 - 20 York St
@@ -32125,6 +32143,12 @@ BF7000-BF7FFF     (base 16)		Intellicon Private Limited
 
 8C-1F-64   (hex)		Private
 B80000-B80FFF     (base 16)		Private
+
+8C-1F-64   (hex)		VivoKey Technologies Inc.
+305000-305FFF     (base 16)		VivoKey Technologies Inc.
+				336 36th Street # 366
+				Bellingham  WA  98225
+				US
 
 8C-1F-64   (hex)		Lumiplan-Duhamel
 0D0000-0D0FFF     (base 16)		Lumiplan-Duhamel

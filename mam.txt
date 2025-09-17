@@ -14276,17 +14276,17 @@ D00000-DFFFFF     (base 16)		BCD SRL
 				Spoltore    65010
 				IT
 
-24-A1-0D   (hex)		Goertek Inc.
-600000-6FFFFF     (base 16)		Goertek Inc.
-				No. 999 Liyuan Street, High-Tech Industrial Development District
-				Weifang  Shandong  261000
-				CN
-
 24-A1-0D   (hex)		Detroit Defense Inc.
 A00000-AFFFFF     (base 16)		Detroit Defense Inc.
 				300 E Big Beaver Rd Suite 100
 				Troy  MI  48083
 				US
+
+24-A1-0D   (hex)		Goertek Inc.
+600000-6FFFFF     (base 16)		Goertek Inc.
+				No. 999 Liyuan Street, High-Tech Industrial Development District
+				Weifang  Shandong  261000
+				CN
 
 B8-4C-87   (hex)		Altronix , Corp
 A00000-AFFFFF     (base 16)		Altronix , Corp
@@ -36013,3 +36013,15 @@ B00000-BFFFFF     (base 16)		Shanghai Kanghai Information System CO.,LTD.
 				No. 17, 33rd Road, Taichung Industrial Park
 				Taichung    40768
 				TW
+
+24-A1-0D   (hex)		Dongguan Taijie Electronics Technology Co.,Ltd
+400000-4FFFFF     (base 16)		Dongguan Taijie Electronics Technology Co.,Ltd
+				5F, 6# Building, Sanjia Industrial Park, Dongkeng Town
+				Dongguan  Guangdong  523000
+				CN
+
+24-A1-0D   (hex)		Luxvisions lnnovation TechnologyCorp.Limited
+800000-8FFFFF     (base 16)		Luxvisions lnnovation TechnologyCorp.Limited
+				No. 69, Yongsheng Road, Huangpu District, Guangzhou
+				Guangzhou  Guangdong Province  510000
+				CN
