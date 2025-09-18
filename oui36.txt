@@ -16073,6 +16073,12 @@ B8C000-B8CFFF     (base 16)		Chipset Communication Co.,Ltd.
 				Zhonghe Dist.,  New Taipei City  235
 				TW
 
+8C-1F-64   (hex)		Thermo Fisher Scientific (Asheville) LLC
+B25000-B25FFF     (base 16)		Thermo Fisher Scientific (Asheville) LLC
+				275 Aiken Rd
+				Asheville  NC  28804
+				US
+
 8C-1F-64   (hex)		Vision Systems Safety Tech
 E6F000-E6FFFF     (base 16)		Vision Systems Safety Tech
 				5 Chemin de Chiradie
@@ -24124,6 +24130,12 @@ EC2000-EC2FFF     (base 16)		HARBIN DIGITAL ECONOMY DEVELOPMENT CO.,LTD
 				Rua Capistrano de Abreu, 68
 				Canoas  RS  92120130
 				BR
+
+8C-1F-64   (hex)		Maven Pet Inc
+B7E000-B7EFFF     (base 16)		Maven Pet Inc
+				800 N King Street Suite 304 2873 Wilmington
+				Wilmington  DE  19801
+				US
 
 8C-1F-64   (hex)		Flow Power
 82B000-82BFFF     (base 16)		Flow Power
