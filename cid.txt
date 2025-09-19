@@ -740,12 +740,6 @@ BA03C6                        (base 16)                     Schüco Internationa
                                                             Bielefeld    33609                           
                                                             DE                                           
 
-EA-DA-6E                      (hex)                         FUJIFILM Recording Media GmbH                
-EADA6E                        (base 16)                     FUJIFILM Recording Media GmbH                
-                                                            Fujistraße 1                                 
-                                                            Kleve    47533                               
-                                                            DE                                           
-
 0A-F9-9D                      (hex)                         Fitipower Integrated Technology              
 0AF99D                        (base 16)                     Fitipower Integrated Technology              
                                                             3 Floor, No.6-8, Duxing Rd.,Hsinchu Science-Park
@@ -763,6 +757,12 @@ BAFE3A                        (base 16)                     DENSO CORPORATION
                                                             1-1, Showa-cho,                              
                                                             Kariya-shi  Aichi  448-8661                  
                                                             JP                                           
+
+EA-DA-6E                      (hex)                         FUJIFILM Germany GmbH                        
+EADA6E                        (base 16)                     FUJIFILM Germany GmbH                        
+                                                            Balcke-Dürr-Allee 6                          
+                                                            Ratingen    40882                            
+                                                            DE                                           
 
 DA-C4-51                      (hex)                         Takaratomy                                   
 DAC451                        (base 16)                     Takaratomy                                   

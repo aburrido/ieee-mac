@@ -7391,6 +7391,12 @@ E00000-EFFFFF     (base 16)		Shanghai Kanghai Information System CO.,LTD.
 				Chatsworth  CA  91311
 				US
 
+F0-40-AF   (hex)		ROBOX SG PTE. LTD.
+400000-4FFFFF     (base 16)		ROBOX SG PTE. LTD.
+				60 PAYA LEBAR ROAD #12-03 PAYA LEBAR SQUARE SINGAPORE
+				SINGAPORE    409051
+				SG
+
 B8-4C-87   (hex)		Shenzhen Link-all Technology Co., Ltd
 300000-3FFFFF     (base 16)		Shenzhen Link-all Technology Co., Ltd
 				Floor 5th, Block 9th, Sunny Industrial Zone, Xili Town, Nanshan District, Shenzhen, China 
