@@ -14306,6 +14306,12 @@ F0-40-AF   (hex)		Nepean Networks Pty Ltd
 				Sorrento  Victoria  3943
 				AU
 
+F0-40-AF   (hex)		TargaSystem S.r.L.
+800000-8FFFFF     (base 16)		TargaSystem S.r.L.
+				Via Circonvallazione Clodia 165-167
+				Roma    00195
+				IT
+
 B8-4C-87   (hex)		Altronix , Corp
 A00000-AFFFFF     (base 16)		Altronix , Corp
 				140 58th St. Bldg A, Ste 2N
