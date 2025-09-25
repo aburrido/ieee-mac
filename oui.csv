@@ -7675,6 +7675,7 @@ MA-L,984914,WNC Corporation,"No.20,Park Avenue II,Hsinchu Science Park Hsin-Chu 
 MA-L,10E8A7,WNC Corporation,"No.20,Park Avenue II,Hsinchu Science Park Hsin-Chu R.O.C. TW 308 "
 MA-L,3041DB,"vivo Mobile Communication Co., Ltd.","No.1, vivo Road, Chang'an Dongguan Guangdong CN 523860 "
 MA-L,68A34F,Nokia,600 March Road Kanata Ontario CA K2K 2E6 
+MA-L,2C658D,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
 MA-L,000130,Extreme Networks Headquarters,2121 RDU Center Drive  Morrisville NC US 27560 
 MA-L,FC0A81,Extreme Networks Headquarters,2121 RDU Center Drive  Morrisville NC US 27560 
 MA-L,00749C,"Ruijie Networks Co.,LTD","19# Building,Star-net Science Plaza,Juyuanzhou, 618 Jinshan Road Fuzhou Fujian CN 350002 "
@@ -19978,7 +19979,6 @@ MA-L,001F34,"Lung Hwa Electronics Co., Ltd.","3F, 248, Pei Sheng Rd. Sec. 3, Tai
 MA-L,001F25,MBS GmbH,Römerstraße 15 Krefeld Nordrhein-Westfalen DE 47809 
 MA-L,001F27,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
 MA-L,001EDB,"Giken Trastem Co., Ltd.",4-1 Takeda Dankawaracho Fushimiku Kyoto  JP 612-8414 
-MA-L,001ED1,Keyprocessor B.V.,Paasheuvelweg 20 Amsterdam NH NL 1105 BJ 
 MA-L,001ED0,Ingespace,6 rue de lourmede Eurocentre  FR 31621 
 MA-L,001EEF,Cantronic International Limited,"Unit 515-516, Building 15, East Wing, No 8 Science Park West Avenue, Hong Kong Science Park Phase II Shatin New Territories HK 852 "
 MA-L,001EDE,BYD COMPANY LIMITED,"NO.1,Baoping Road,Baolong Industrial Town,Longgang SHEN ZHEN Guangdong CN 518116 "
@@ -22822,6 +22822,8 @@ MA-L,282E89,WNC Corporation,"No.20,Park Avenue II,Hsinchu Science Park Hsin-Chu 
 MA-L,388D3D,WNC Corporation,"No.20,Park Avenue II,Hsinchu Science Park Hsin-Chu R.O.C. TW 308 "
 MA-L,8C8B5B,WNC Corporation,"No.20,Park Avenue II,Hsinchu Science Park Hsin-Chu R.O.C. TW 308 "
 MA-L,D44F14,"Tesla,Inc.",3500 Deer Creek Rd. PALO ALTO CA US 94304 
+MA-L,001ED1,TKH Security B.V.,Paasheuvelweg 20 Amsterdam NH NL 1105 BJ 
+MA-L,68EFA8,AutomationDirect.com,3505 Hutchinson Road Cumming GA US 30040 
 MA-L,B00C9D,"Quectel Wireless Solutions Co.,Ltd.","7th Floor, Hongye Building, No.1801 Hongmei Road, Xuhui District Shanghai  CN 200233 "
 MA-L,F0AB1F,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
 MA-L,7CB30A,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
@@ -30500,6 +30502,9 @@ MA-L,8829BF,Amazon Technologies Inc.,P.O Box 8102  Reno NV US 89507
 MA-L,001AB9,Groupe Carrus,"56, avenue Raspail Saint Maur  FR 94100 "
 MA-L,D8332A,"Ruijie Networks Co.,LTD","Building 19,Juyuanzhou Industrial Park, No.618 Jinshan Avenue, Cangshan District Fuzhou  CN 35000 "
 MA-L,C467A1,Accelight Technologies (Wuhan) Inc.,"777 Guanggu 3rd, Bldg. #16, 5th Floor, Wuhan Hubei, P. R. CN 430205 "
+MA-L,24D53B,"Motorola Mobility LLC, a Lenovo Company",222 West Merchandise Mart Plaza Chicago IL US 60654 
+MA-L,C834E5,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
+MA-L,806132,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
 MA-L,C85CE2,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
 MA-L,DCEE14,ADT Technology,"Room 325, 3rd Floor, Building F, Xinmao Science and Technology Park, Huayuan Industrial Zone Tianjin Tianjin CN 300384 "
 MA-L,10FFE0,"GIGA-BYTE TECHNOLOGY CO.,LTD.","Pin-Jen City, Taoyuan, Taiwan, R.O.C. Pin-Jen Taoyuan TW 324 "
@@ -38098,3 +38103,7 @@ MA-L,205843,WNC Corporation,"No.20,Park Avenue II,Hsinchu Science Park Hsin-Chu 
 MA-L,30144A,WNC Corporation,"20 Park Avenue II, Hsin Science Park, Hsinchu 308, Taiwan HsinChu Taiwan TW 308 "
 MA-L,F040AF,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
 MA-L,B49D6B,"vivo Mobile Communication Co., Ltd.","No.1, vivo Road, Chang'an Dongguan Guangdong CN 523860 "
+MA-L,045FA6,"Shenzhen SDMC Technology CP,.LTD","19/F, Changhong Science &Technology Mansion,No.18, Keji South 12th Road High-tech IndustrialPark Nanshan District,Shenzhen,China Shenzhen China CN 518000 "
+MA-L,2812D0,"Motorola Mobility LLC, a Lenovo Company",222 West Merchandise Mart Plaza Chicago IL US 60654 
+MA-L,189024,Astera LED Technology GmbH,Schatzbogen 60 Munich Bayern DE 81829 
+MA-L,C878F7,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
