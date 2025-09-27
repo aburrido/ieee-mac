@@ -21716,12 +21716,6 @@ B00000-BFFFFF     (base 16)		Shenzhen Coslight Technology Co.,Ltd.
 				Minato-ku  Tokyo  107-0052
 				JP
 
-F0-40-AF   (hex)		Shenzhen BitFantasy Technology Co., Ltd
-B00000-BFFFFF     (base 16)		Shenzhen BitFantasy Technology Co., Ltd
-				Room 530, Block A, Huafeng Internet Cretive Park, No.107 Gonghe Industrial Road, Xixiang Street, Baoan District, Shenzhen, China
-				Shenzhen  Guangdong  518000
-				CN
-
 F0-40-AF   (hex)		Actia Nordic AB
 200000-2FFFFF     (base 16)		Actia Nordic AB
 				Datalinjen 3A
@@ -21733,6 +21727,12 @@ F0-40-AF   (hex)		Smart Gadgets Global LLC
 				2637 North 400 East 127
 				North Ogden  UT  84414
 				US
+
+F0-40-AF   (hex)		Shenzhen BitFantasy Technology Co., Ltd
+B00000-BFFFFF     (base 16)		Shenzhen BitFantasy Technology Co., Ltd
+				Room 507, Building C3, East Industrial Zone, No.12 Wenchang Street, Xiangshan Street Community, Shahe Subdistrict, Nanshan District, Shenzhen, Guangdong, China 
+				Shenzhen    518000
+				CN
 
 D0-14-11   (hex)		P.B. Elettronica srl
 100000-1FFFFF     (base 16)		P.B. Elettronica srl
