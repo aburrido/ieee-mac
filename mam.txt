@@ -21728,12 +21728,6 @@ F0-40-AF   (hex)		Smart Gadgets Global LLC
 				North Ogden  UT  84414
 				US
 
-F0-40-AF   (hex)		Shenzhen BitFantasy Technology Co., Ltd
-B00000-BFFFFF     (base 16)		Shenzhen BitFantasy Technology Co., Ltd
-				Room 507, Building C3, East Industrial Zone, No.12 Wenchang Street, Xiangshan Street Community, Shahe Subdistrict, Nanshan District, Shenzhen, Guangdong, China 
-				Shenzhen    518000
-				CN
-
 E8-F6-D7   (hex)		Jinan Ruolin Video Technology Co., Ltd
 200000-2FFFFF     (base 16)		Jinan Ruolin Video Technology Co., Ltd
 				济南市市中区顺河东街66号银座晶都国际1-2303 
@@ -21744,6 +21738,18 @@ E8-F6-D7   (hex)		Hefei BOE Vision-electronic Technology Co.,Ltd.
 900000-9FFFFF     (base 16)		Hefei BOE Vision-electronic Technology Co.,Ltd.
 				No.2177 Dongfang RD,Xinzhan General Pilot Zone,Hefei,Anhui,230012,P.R.China
 				Hefei  Anhui  230012
+				CN
+
+E8-F6-D7   (hex)		clover Co,.Ltd
+C00000-CFFFFF     (base 16)		clover Co,.Ltd
+				Uiwang-si, Korea
+				Uiwang-si Gyeonggi-do    16072
+				KR
+
+F0-40-AF   (hex)		Shenzhen BitFantasy Technology Co., Ltd
+B00000-BFFFFF     (base 16)		Shenzhen BitFantasy Technology Co., Ltd
+				Room 507, Building C3, East Industrial Zone, No.12 Wenchang Street, Xiangshan Street Community, Shahe Subdistrict, Nanshan District, Shenzhen, Guangdong, China 
+				Shenzhen    518000
 				CN
 
 D0-14-11   (hex)		P.B. Elettronica srl
@@ -36151,3 +36157,9 @@ B00000-BFFFFF     (base 16)		GUANGZHOU PANYU JUDA CAR AUDIO EQUIPMENT CO.,LTD
 				No.139, Zhouxing Street, Wanzhou Village, Dongchong Town, Nansha District,
 				 Guangzhou  Guangdong  511400
 				CN
+
+E8-F6-D7   (hex)		PRECISION FUKUHARA WORKS,LTD.
+100000-1FFFFF     (base 16)		PRECISION FUKUHARA WORKS,LTD.
+				2-1,Ibukidai Higasimachi 7-choume, Nishi-ku
+				Kobe  Hyougo  651-2242
+				JP
