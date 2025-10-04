@@ -28907,6 +28907,18 @@ D00000-DFFFFF     (base 16)		ZhuoPuCheng (Shenzhen) Technology.Co.,Ltd.
 				Shenzhen  Guangdong  518057
 				CN
 
+E8-F6-D7   (hex)		Mono Technologies Inc.
+000000-0FFFFF     (base 16)		Mono Technologies Inc.
+				600 N Broad Street, Suite 5 # 924
+				Middletown  DE  19709
+				US
+
+E8-F6-D7   (hex)		Ivostud GmbH
+A00000-AFFFFF     (base 16)		Ivostud GmbH
+				Schützenstraße 6-8
+				Breckerfeld    58339
+				DE
+
 C8-5C-E2   (hex)		Fela Management AG 
 000000-0FFFFF     (base 16)		Fela Management AG 
 				Basadingerstrasse 18
