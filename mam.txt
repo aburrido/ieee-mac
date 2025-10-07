@@ -7409,6 +7409,12 @@ C00000-CFFFFF     (base 16)		Rayve Innovation Corp
 				Shawnee  KS  66214
 				US
 
+E8-F6-D7   (hex)		CowManager
+700000-7FFFFF     (base 16)		CowManager
+				Gerverscop 9
+				Harmelen  UT  3481LT
+				NL
+
 B8-4C-87   (hex)		Shenzhen Link-all Technology Co., Ltd
 300000-3FFFFF     (base 16)		Shenzhen Link-all Technology Co., Ltd
 				Floor 5th, Block 9th, Sunny Industrial Zone, Xili Town, Nanshan District, Shenzhen, China 
@@ -14329,6 +14335,18 @@ E8-F6-D7   (hex)		Xiphos Systems Corp.
 				Suite 500
 				Montreal  QC  H2W 1Y5
 				CA
+
+E8-F6-D7   (hex)		ZIEHL-ABEGG SE
+300000-3FFFFF     (base 16)		ZIEHL-ABEGG SE
+				Heinz-Ziehl-Strasse 1
+				Kuenzelsau    74653
+				DE
+
+E8-F6-D7   (hex)		emicrotec
+500000-5FFFFF     (base 16)		emicrotec
+				Münzgrabenstraße 168/102
+				Graz  Styria  8010
+				AT
 
 B8-4C-87   (hex)		Altronix , Corp
 A00000-AFFFFF     (base 16)		Altronix , Corp
