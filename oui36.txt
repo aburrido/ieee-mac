@@ -8045,6 +8045,12 @@ C70000-C70FFF     (base 16)		INVIXIUM ACCESS INC
 				Hazelwood  MO  63042
 				US
 
+8C-1F-64   (hex)		Televic Rail GmbH
+9D1000-9D1FFF     (base 16)		Televic Rail GmbH
+				Teltowkanalstr.1
+				Berlin    12247
+				DE
+
 8C-1F-64   (hex)		Jacobs Technology, Inc.
 A98000-A98FFF     (base 16)		Jacobs Technology, Inc.
 				7765 Old Telegraph Road
@@ -31034,12 +31040,6 @@ C3F000-C3FFFF     (base 16)		SONIC CORPORATION
 				Thu Duc City  Ho Chi Minh City  700000
 				VN
 
-00-1B-C5   (hex)		CyanConnode
-0C6000-0C6FFF     (base 16)		CyanConnode
-				The Jeffreys Building, Cowley Road
-				Milton  Cambridge  CB4 0DS
-				SE
-
 8C-1F-64   (hex)		ViewSonic Corp
 62E000-62EFFF     (base 16)		ViewSonic Corp
 				10 Point Drive Brea, CA 92821 USA
@@ -32275,6 +32275,12 @@ B80000-B80FFF     (base 16)		Private
 				Haaksbergerstraat 49
 				Hengelo  Overijssel  7554PA
 				NL
+
+00-1B-C5   (hex)		CyanConnode
+0C6000-0C6FFF     (base 16)		CyanConnode
+				Suite 2, Ground Floor, The Jeffreys Building, Cowley Road
+				Milton  Cambridge  CB4 0DS
+				GB
 
 8C-1F-64   (hex)		Mobileye
 D63000-D63FFF     (base 16)		Mobileye
