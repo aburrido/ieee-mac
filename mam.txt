@@ -28979,17 +28979,29 @@ D00000-DFFFFF     (base 16)		ZhuoPuCheng (Shenzhen) Technology.Co.,Ltd.
 				Shenzhen  Guangdong  518057
 				CN
 
+74-33-36   (hex)		SECLAB FR
+500000-5FFFFF     (base 16)		SECLAB FR
+				40 av Theroigne de Mericourt
+				MONTPELLIER    34000
+				FR
+
 74-33-36   (hex)		Shenzhen Handheld-Wireless Technology Co., Ltd.
 C00000-CFFFFF     (base 16)		Shenzhen Handheld-Wireless Technology Co., Ltd.
 				702-1, Building 5, Gonglian Fuji Innovation Park, No. 58 Ping'an Road, Dafu Community, Guanlan Street, Longhua District, 
 				Shenzhen  GuangDong  518000
 				CN
 
-74-33-36   (hex)		SECLAB FR
-500000-5FFFFF     (base 16)		SECLAB FR
-				40 av Theroigne de Mericourt
-				MONTPELLIER    34000
-				FR
+74-33-36   (hex)		Huzhou Luxshare Precision Industry Co.LTD
+000000-0FFFFF     (base 16)		Huzhou Luxshare Precision Industry Co.LTD
+				399 Shengxun Road, Zhili Town, Wuxing District,Huzhou City, Zhejiang Province
+				Huzhou  Zhejiang  313008
+				CN
+
+74-33-36   (hex)		Annapurna labs
+B00000-BFFFFF     (base 16)		Annapurna labs
+				Matam Scientific Industries Center,   Building 8.2
+				Mail box 15123  Haifa  3508409
+				IL
 
 C8-5C-E2   (hex)		Fela Management AG 
 000000-0FFFFF     (base 16)		Fela Management AG 
