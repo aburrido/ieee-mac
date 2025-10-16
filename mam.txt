@@ -7409,6 +7409,12 @@ E8-F6-D7   (hex)		CowManager
 				Harmelen  UT  3481LT
 				NL
 
+74-33-36   (hex)		ACTECK TECHNOLOGY Co., Ltd
+D00000-DFFFFF     (base 16)		ACTECK TECHNOLOGY Co., Ltd
+				4F-1, No. 13, Sec.2 Beitou Rd., Beitou Dist.
+				Taipei City  Taiwan  112028
+				TW
+
 E8-F6-D7   (hex)		Emergent Solutions Inc.
 E00000-EFFFFF     (base 16)		Emergent Solutions Inc.
 				3600 Steeles Ave. E, Markham, ON
@@ -7427,23 +7433,17 @@ E8-F6-D7   (hex)		INTEGRA Metering AG
 				Palo Alto  CA  94304
 				US
 
-74-33-36   (hex)		Shengzhen Gongjin Electronics
-100000-1FFFFF     (base 16)		Shengzhen Gongjin Electronics
-				No. 2 Danzi North Road, Kengzi Street, Pingshan District
-				Shenzhen  Guangdong  518122
-				CN
-
 74-33-36   (hex)		Shenzhen Jooan Technology  Co., Ltd
 A00000-AFFFFF     (base 16)		Shenzhen Jooan Technology  Co., Ltd
 				Area B, Floor 101-2, Floor 3, Floor 5 and Floor 6 of area B, Building No. 8, Guixiang Community Plaza Road, Guanlan Street, Longhua District, Shenzhen. 
 				Shenzhen  Guangdong  518000
 				CN
 
-74-33-36   (hex)		ACTECK TECHNOLOGY Co., Ltd
-D00000-DFFFFF     (base 16)		ACTECK TECHNOLOGY Co., Ltd
-				4F-1, No. 13, Sec.2 Beitou Rd., Beitou Dist.
-				Taipei City  Taiwan  112028
-				TW
+74-33-36   (hex)		Shengzhen Gongjin Electronics
+100000-1FFFFF     (base 16)		Shengzhen Gongjin Electronics
+				No. 2 Danzi North Road, Kengzi Street, Pingshan District
+				Shenzhen  Guangdong  518122
+				CN
 
 B8-4C-87   (hex)		Shenzhen Link-all Technology Co., Ltd
 300000-3FFFFF     (base 16)		Shenzhen Link-all Technology Co., Ltd
@@ -21824,6 +21824,12 @@ E8-F6-D7   (hex)		Massive Beams GmbH
 				Berlin    10625
 				DE
 
+74-33-36   (hex)		Ramon Space
+E00000-EFFFFF     (base 16)		Ramon Space
+				HAHARASH 4
+				HOD HASHARON    4524078
+				IL
+
 74-33-36   (hex)		Moultrie Mobile
 800000-8FFFFF     (base 16)		Moultrie Mobile
 				5724 Highway 280 East
@@ -28997,29 +29003,29 @@ C00000-CFFFFF     (base 16)		Shenzhen Handheld-Wireless Technology Co., Ltd.
 				Shenzhen  GuangDong  518000
 				CN
 
-74-33-36   (hex)		SECLAB FR
-500000-5FFFFF     (base 16)		SECLAB FR
-				40 av Theroigne de Mericourt
-				MONTPELLIER    34000
-				FR
-
-74-33-36   (hex)		Huzhou Luxshare Precision Industry Co.LTD
-000000-0FFFFF     (base 16)		Huzhou Luxshare Precision Industry Co.LTD
-				399 Shengxun Road, Zhili Town, Wuxing District,Huzhou City, Zhejiang Province
-				Huzhou  Zhejiang  313008
-				CN
-
 74-33-36   (hex)		Annapurna labs
 B00000-BFFFFF     (base 16)		Annapurna labs
 				Matam Scientific Industries Center,   Building 8.2
 				Mail box 15123  Haifa  3508409
 				IL
 
+74-33-36   (hex)		SECLAB FR
+500000-5FFFFF     (base 16)		SECLAB FR
+				40 av Theroigne de Mericourt
+				MONTPELLIER    34000
+				FR
+
 74-33-36   (hex)		Venture International Pte Ltd
 700000-7FFFFF     (base 16)		Venture International Pte Ltd
 				5006, Ang Mo Kio Ave 5, #05-01/12, Techplace II
 				Singapore    569873
 				SG
+
+74-33-36   (hex)		Huzhou Luxshare Precision Industry Co.LTD
+000000-0FFFFF     (base 16)		Huzhou Luxshare Precision Industry Co.LTD
+				399 Shengxun Road, Zhili Town, Wuxing District,Huzhou City, Zhejiang Province
+				Huzhou  Zhejiang  313008
+				CN
 
 C8-5C-E2   (hex)		Fela Management AG 
 000000-0FFFFF     (base 16)		Fela Management AG 
