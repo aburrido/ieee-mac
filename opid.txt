@@ -121,7 +121,6 @@ OPERATOR ID                   Organization
 00006B                        Itochu Techno-Solution Corporation
 000071                        Alcatel-Lucent
 000063                        Omani Qatari Telecommunication Co. SAOC (NAWRAS)
-000053                        NTT Communications Corporation
 00004A                        UMD Maxwell Lab
 00004D                        Wimax Forum
 000045                        Adam Internet Pty Ltd
@@ -138,6 +137,7 @@ OPERATOR ID                   Organization
 000019                        Etihad Atheeb Telecommunications
 000002                        Clearwire Corporation
 000008                        Moline Dispatch Publishing Company
+000053                        NTT Communications Corporation
 0000A9                        Telefonica Celular del Paragua S.A.
 0000A1                        Government of Guyana
 00009C                        New Generation Graphics Limited

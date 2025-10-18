@@ -14390,6 +14390,12 @@ E8-F6-D7   (hex)		ZIEHL-ABEGG SE
 				Kuenzelsau    74653
 				DE
 
+0C-BF-B4   (hex)		Nanchang si colordisplay Technology Co.,Ltd
+D00000-DFFFFF     (base 16)		Nanchang si colordisplay Technology Co.,Ltd
+				No.679,Aixihu North Road, High-tech Zone
+				Nanchang  Jiangxi  330096
+				CN
+
 B8-4C-87   (hex)		Altronix , Corp
 A00000-AFFFFF     (base 16)		Altronix , Corp
 				140 58th St. Bldg A, Ste 2N
@@ -21847,6 +21853,18 @@ E00000-EFFFFF     (base 16)		Ramon Space
 				Floor 2, Building 6, No. 1026 Songbai Road, Nanshan District, Shenzhen, China. 518055
 				shenzhen    518055
 				CN
+
+0C-BF-B4   (hex)		VirtualV Trading Limited
+900000-9FFFFF     (base 16)		VirtualV Trading Limited
+				1 Innovation Way
+				Cramlington  Northumberland  NE23 7FP
+				GB
+
+0C-BF-B4   (hex)		Innomotics GmbH
+100000-1FFFFF     (base 16)		Innomotics GmbH
+				Vogelweiherstr. 1-15
+				Nuremberg  Bayern  90441
+				DE
 
 D0-14-11   (hex)		P.B. Elettronica srl
 100000-1FFFFF     (base 16)		P.B. Elettronica srl
@@ -36313,3 +36331,9 @@ E8-F6-D7   (hex)		PRECISION FUKUHARA WORKS,LTD.
 				Unit 301, Building C, Qianwan Key & Core Technology Industrial Park, Xixiang, Bao'an Shenzhen, Guangdong. 
 				Shenzhen    518103
 				CN
+
+0C-BF-B4   (hex)		Odyssey Robot LLC
+700000-7FFFFF     (base 16)		Odyssey Robot LLC
+				3422 Old Capitol Trail STE 700,Delaware, USA
+				WiImington  DE  19808
+				US
