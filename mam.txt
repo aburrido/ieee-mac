@@ -14396,6 +14396,12 @@ D00000-DFFFFF     (base 16)		Nanchang si colordisplay Technology Co.,Ltd
 				Nanchang  Jiangxi  330096
 				CN
 
+0C-BF-B4   (hex)		IRTEYA LLC
+A00000-AFFFFF     (base 16)		IRTEYA LLC
+				Andropova prospect 18 bld 8
+				Moscow  Moscow  115432
+				RU
+
 B8-4C-87   (hex)		Altronix , Corp
 A00000-AFFFFF     (base 16)		Altronix , Corp
 				140 58th St. Bldg A, Ste 2N
@@ -36336,4 +36342,16 @@ E8-F6-D7   (hex)		PRECISION FUKUHARA WORKS,LTD.
 700000-7FFFFF     (base 16)		Odyssey Robot LLC
 				3422 Old Capitol Trail STE 700,Delaware, USA
 				WiImington  DE  19808
+				US
+
+0C-BF-B4   (hex)		Changzhou Asia Networks Information Technology Co., Ltd
+800000-8FFFFF     (base 16)		Changzhou Asia Networks Information Technology Co., Ltd
+				ROOM 908, NO.888 CHANGWU MID., RD. HUTANG, WUJIN
+				CHANGZHOU  JIANGSU  213161
+				CN
+
+0C-BF-B4   (hex)		Macnica Technology
+200000-2FFFFF     (base 16)		Macnica Technology
+				380 Stevens Avenue
+				Solana Beach  CA  92075
 				US
