@@ -168,3 +168,4 @@ MANUFACTURER ID               Organization
 71                            Tokyo Sokki Kenkyujo Co., Ltd
 5872                          HANGZHOU CRYSOUND ELECTRONICS CO.,LTD.
 15034                         CAEN ELS S.r.l.
+11363                         Clariphotonics CO., Ltd

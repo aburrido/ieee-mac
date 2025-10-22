@@ -16145,8 +16145,14 @@ A28000-A28FFF     (base 16)		Monnit Corporation
 				Warriewood  NSW  2102
 				AU
 
-70-B3-D5   (hex)		BAE Systems Apllied Intelligence
-1D7000-1D7FFF     (base 16)		BAE Systems Apllied Intelligence
+8C-1F-64   (hex)		Power Electronics Espana, S.L.
+EB8000-EB8FFF     (base 16)		Power Electronics Espana, S.L.
+				Ctra. CV-35, Salida 30 Parcela M-13. Pla de Carrases B
+				LIRIA, Valencia  Valencia  46160
+				ES
+
+70-B3-D5   (hex)		BAE Systems
+1D7000-1D7FFF     (base 16)		BAE Systems
 				Waterside House, 170 Priestley Road, Surrey Research Park
 				Guildford  Surrey  GU2 7RQ
 				GB
@@ -24255,6 +24261,24 @@ CE9000-CE9FFF     (base 16)		Landis+Gyr Equipamentos de Medição Ltda
 652000-652FFF     (base 16)		TOKYO INTERPHONE CO.,LTD.
 				8F, JS Shibuya Building3-8-10 Shibuya, Shibuya-ku
 				TOKYO    150-0002
+				JP
+
+8C-1F-64   (hex)		Pro Design Electronic GmbH
+62F000-62FFFF     (base 16)		Pro Design Electronic GmbH
+				Albert-Mayer-Straße 14-16
+				Bruckmuehl  Bavaria  83052
+				DE
+
+8C-1F-64   (hex)		YUYAMA MFG Co.,Ltd
+65A000-65AFFF     (base 16)		YUYAMA MFG Co.,Ltd
+				1-4-30
+				MEISHINGUCHI,TOYONAKA  OSAKA  561-0841
+				JP
+
+8C-1F-64   (hex)		MAYSUN CORPORATION
+784000-784FFF     (base 16)		MAYSUN CORPORATION
+				966-2 Gokanjima
+				Fuji-shi  Shizuoka-ken  416-0946
 				JP
 
 8C-1F-64   (hex)		Flow Power
@@ -32924,12 +32948,6 @@ A00000-A00FFF     (base 16)		BITECHNIK GmbH
 				Marlborough   CT  06447
 				US
 
-70-B3-D5   (hex)		BAE Systems Apllied Intelligence
-E2D000-E2DFFF     (base 16)		BAE Systems Apllied Intelligence
-				170 Waterside House
-				Guildford  Surrey  GU2 7RQ
-				GB
-
 8C-1F-64   (hex)		RealD, Inc.
 44F000-44FFFF     (base 16)		RealD, Inc.
 				9777 Wilshire Boulevard, Ste 430
@@ -40243,3 +40261,9 @@ DFD000-DFDFFF     (base 16)		Novanta IMS
 				370 North Main St
 				Marlborough   CT  06447
 				US
+
+70-B3-D5   (hex)		BAE Systems
+E2D000-E2DFFF     (base 16)		BAE Systems
+				170 Waterside House
+				Guildford  Surrey  GU2 7RQ
+				GB

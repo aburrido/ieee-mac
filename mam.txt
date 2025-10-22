@@ -21872,6 +21872,12 @@ E00000-EFFFFF     (base 16)		Ramon Space
 				Nuremberg  Bayern  90441
 				DE
 
+0C-BF-B4   (hex)		ShenZhen XunDun Technology CO.LTD
+300000-3FFFFF     (base 16)		ShenZhen XunDun Technology CO.LTD
+				2/F, Building 11, Mabian Industrial Zone (Dezhi High-tech Park), Area 72, Xingdong Community, Xin 'an Street, Bao 'an District, Shenzhen
+				ShenZhen    518101
+				CN
+
 D0-14-11   (hex)		P.B. Elettronica srl
 100000-1FFFFF     (base 16)		P.B. Elettronica srl
 				Via Santorelli, 8
@@ -36338,20 +36344,26 @@ E8-F6-D7   (hex)		PRECISION FUKUHARA WORKS,LTD.
 				Shenzhen    518103
 				CN
 
-0C-BF-B4   (hex)		Odyssey Robot LLC
-700000-7FFFFF     (base 16)		Odyssey Robot LLC
-				3422 Old Capitol Trail STE 700,Delaware, USA
-				WiImington  DE  19808
-				US
-
 0C-BF-B4   (hex)		Changzhou Asia Networks Information Technology Co., Ltd
 800000-8FFFFF     (base 16)		Changzhou Asia Networks Information Technology Co., Ltd
 				ROOM 908, NO.888 CHANGWU MID., RD. HUTANG, WUJIN
 				CHANGZHOU  JIANGSU  213161
 				CN
 
+0C-BF-B4   (hex)		Odyssey Robot LLC
+700000-7FFFFF     (base 16)		Odyssey Robot LLC
+				3422 Old Capitol Trail STE 700,Delaware, USA
+				WiImington  DE  19808
+				US
+
 0C-BF-B4   (hex)		Macnica Technology
 200000-2FFFFF     (base 16)		Macnica Technology
 				380 Stevens Avenue
 				Solana Beach  CA  92075
 				US
+
+0C-BF-B4   (hex)		Prolight Concepts (UK) Ltd
+600000-6FFFFF     (base 16)		Prolight Concepts (UK) Ltd
+				Edison Point
+				Colne  Lancashire  BB8 8LJ
+				GB
