@@ -137,7 +137,7 @@ OPERATOR ID                   Organization
 000019                        Etihad Atheeb Telecommunications
 000002                        Clearwire Corporation
 000008                        Moline Dispatch Publishing Company
-000053                        NTT Communications Corporation
+000053                        NTT DOCOMO BUSINESS, Inc.
 0000A9                        Telefonica Celular del Paragua S.A.
 0000A1                        Government of Guyana
 00009C                        New Generation Graphics Limited
