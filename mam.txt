@@ -36374,11 +36374,11 @@ E8-F6-D7   (hex)		PRECISION FUKUHARA WORKS,LTD.
 				Solana Beach  CA  92075
 				US
 
-0C-BF-B4   (hex)		Prolight Concepts (UK) Ltd
-600000-6FFFFF     (base 16)		Prolight Concepts (UK) Ltd
-				Edison Point
-				Colne  Lancashire  BB8 8LJ
-				GB
+0C-BF-B4   (hex)		ShenZhen Zeal-All Technology Co.,Ltd
+C00000-CFFFFF     (base 16)		ShenZhen Zeal-All Technology Co.,Ltd
+				Room 1001, C Building,Tsinghua UNIS information port,langshan Road 13, Nanshan District, Shenzhen,Guangdong,China
+				ShenZhen  Guangdong  518057
+				CN
 
 0C-BF-B4   (hex)		대한전력전자
 B00000-BFFFFF     (base 16)		대한전력전자
@@ -36386,8 +36386,8 @@ B00000-BFFFFF     (base 16)		대한전력전자
 				동안구  안양시  14042
 				KR
 
-0C-BF-B4   (hex)		ShenZhen Zeal-All Technology Co.,Ltd
-C00000-CFFFFF     (base 16)		ShenZhen Zeal-All Technology Co.,Ltd
-				Room 1001, C Building,Tsinghua UNIS information port,langshan Road 13, Nanshan District, Shenzhen,Guangdong,China
-				ShenZhen  Guangdong  518057
-				CN
+0C-BF-B4   (hex)		Prolight Concepts (UK) Ltd
+600000-6FFFFF     (base 16)		Prolight Concepts (UK) Ltd
+				Edison Point
+				Colne  Lancashire  BB8 8LJ
+				GB

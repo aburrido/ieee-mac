@@ -8057,6 +8057,12 @@ C70000-C70FFF     (base 16)		INVIXIUM ACCESS INC
 				Moscow  Select State  123112
 				RU
 
+8C-1F-64   (hex)		VMA GmbH
+783000-783FFF     (base 16)		VMA GmbH
+				Graefinauer Strasse 2
+				Ilmenau    98693
+				DE
+
 8C-1F-64   (hex)		Jacobs Technology, Inc.
 A98000-A98FFF     (base 16)		Jacobs Technology, Inc.
 				7765 Old Telegraph Road
@@ -16157,11 +16163,23 @@ EB8000-EB8FFF     (base 16)		Power Electronics Espana, S.L.
 				Guildford  Surrey  GU2 7RQ
 				GB
 
+8C-1F-64   (hex)		FIBERNET LTD
+F48000-F48FFF     (base 16)		FIBERNET LTD
+				9 Hakidma st. Hi-Tech City Park,
+				Yokneam  Non-US/Canada  2069206
+				IL
+
 8C-1F-64   (hex)		Carestream Healthcare International Company Limited 
 4CC000-4CCFFF     (base 16)		Carestream Healthcare International Company Limited 
 				Building 7, No.1510 Chuanqiao Road, China (Shanghai) Pilot Free Trade Zone
 				Shanghai  Shanghai  201206
 				CN
+
+8C-1F-64   (hex)		Sentek Pty Ltd
+A95000-A95FFF     (base 16)		Sentek Pty Ltd
+				77 Magill Road
+				Stepney  SA  5069
+				AU
 
 8C-1F-64   (hex)		Vision Systems Safety Tech
 E6F000-E6FFFF     (base 16)		Vision Systems Safety Tech
@@ -24269,6 +24287,12 @@ CE9000-CE9FFF     (base 16)		Landis+Gyr Equipamentos de Medição Ltda
 				Cheyenne  WY  82001
 				US
 
+8C-1F-64   (hex)		MAYSUN CORPORATION
+784000-784FFF     (base 16)		MAYSUN CORPORATION
+				966-2 Gokanjima
+				Fuji-shi  Shizuoka-ken  416-0946
+				JP
+
 8C-1F-64   (hex)		Pro Design Electronic GmbH
 62F000-62FFFF     (base 16)		Pro Design Electronic GmbH
 				Albert-Mayer-Straße 14-16
@@ -24279,12 +24303,6 @@ CE9000-CE9FFF     (base 16)		Landis+Gyr Equipamentos de Medição Ltda
 65A000-65AFFF     (base 16)		YUYAMA MFG Co.,Ltd
 				1-4-30
 				MEISHINGUCHI,TOYONAKA  OSAKA  561-0841
-				JP
-
-8C-1F-64   (hex)		MAYSUN CORPORATION
-784000-784FFF     (base 16)		MAYSUN CORPORATION
-				966-2 Gokanjima
-				Fuji-shi  Shizuoka-ken  416-0946
 				JP
 
 8C-1F-64   (hex)		Flow Power
@@ -40268,18 +40286,6 @@ DFD000-DFDFFF     (base 16)		Novanta IMS
 				Marlborough   CT  06447
 				US
 
-70-B3-D5   (hex)		BAE Systems
-E2D000-E2DFFF     (base 16)		BAE Systems
-				170 Waterside House
-				Guildford  Surrey  GU2 7RQ
-				GB
-
-8C-1F-64   (hex)		Opal Camera Inc.
-0C1000-0C1FFF     (base 16)		Opal Camera Inc.
-				150 POST STREET, SUITE 700
-				SAN FRANCISCO  CA  94108
-				US
-
 8C-1F-64   (hex)		Colossus Computing, Inc.
 226000-226FFF     (base 16)		Colossus Computing, Inc.
 				470 3rd st
@@ -40291,3 +40297,15 @@ E2D000-E2DFFF     (base 16)		BAE Systems
 				ROOM C, 14/F, CENTRO COMERCIAL DO GRUPO BRILHANTISMO, NO.181, ALAMEDA DR. CARLOS D'ASSUMPCAO
 				MACAU    Macau
 				MO
+
+8C-1F-64   (hex)		Opal Camera Inc.
+0C1000-0C1FFF     (base 16)		Opal Camera Inc.
+				150 POST STREET, SUITE 700
+				SAN FRANCISCO  CA  94108
+				US
+
+70-B3-D5   (hex)		BAE Systems
+E2D000-E2DFFF     (base 16)		BAE Systems
+				170 Waterside House
+				Guildford  Surrey  GU2 7RQ
+				GB
