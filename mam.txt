@@ -36391,3 +36391,9 @@ B00000-BFFFFF     (base 16)		대한전력전자
 				Edison Point
 				Colne  Lancashire  BB8 8LJ
 				GB
+
+0C-BF-B4   (hex)		Shenzhen PengBrain Technology Co.,Ltd
+E00000-EFFFFF     (base 16)		Shenzhen PengBrain Technology Co.,Ltd
+				B1014, Building 2, Chuangwei Innovation Valley, No. 8, Tangtou 1st Road, Tangtou Community, Shiyan Street, Bao'an District,
+				Shenzhen  Guangdong  518000
+				CN

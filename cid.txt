@@ -698,12 +698,6 @@ BA3054                        (base 16)                     George Wilson Indust
                                                             Coventry  West Midlands  CV2 2LD             
                                                             GB                                           
 
-CA-12-5C                      (hex)                         Microsoft Corporation                        
-CA125C                        (base 16)                     Microsoft Corporation                        
-                                                            One Microsoft Way                            
-                                                            Redmond  null  98052-6399                    
-                                                            US                                           
-
 FA-14-66                      (hex)                         Allegion PLC                                 
 FA1466                        (base 16)                     Allegion PLC                                 
                                                             500 Golden Ridge Rd Ste 160                  
@@ -763,6 +757,12 @@ EADA6E                        (base 16)                     FUJIFILM Germany Gmb
                                                             Balcke-Dürr-Allee 6                          
                                                             Ratingen    40882                            
                                                             DE                                           
+
+CA-12-5C                      (hex)                         Microsoft Corporation                        
+CA125C                        (base 16)                     Microsoft Corporation                        
+                                                            One Microsoft Way                            
+                                                            Redmond    98052-6399                        
+                                                            US                                           
 
 DA-C4-51                      (hex)                         Takaratomy                                   
 DAC451                        (base 16)                     Takaratomy                                   

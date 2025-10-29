@@ -21554,8 +21554,8 @@ F08000-F08FFF                 (base 16)                     Aplex Technology Inc
                                                             Offenburg    77652                           
                                                             DE                                           
 
-00-50-C2                      (hex)                         Cyan Technology Ltd                          
-187000-187FFF                 (base 16)                     Cyan Technology Ltd                          
+00-50-C2                      (hex)                         CyanConnode                                  
+187000-187FFF                 (base 16)                     CyanConnode                                  
                                                             Suite 2, Ground Floor, The Jeffreys Building, Cowley Road
                                                             Milton  Cambridge  CB4 0DS                   
                                                             GB                                           
