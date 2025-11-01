@@ -40351,3 +40351,9 @@ E37000-E37FFF     (base 16)		RADA Electronics Industries Ltd.
 				KH NO 1126 GROUND FLOOR STREET NO 17 VILLAGE RITHALA LANDMARK HONDA SHOW ROOM, North Delhi
 				Rohini  Delhi  110085
 				IN
+
+8C-1F-64   (hex)		Meiji Electric Industry
+75B000-75BFFF     (base 16)		Meiji Electric Industry
+				48-1 Itabari , Yamayashiki-cho
+				Chiryu  AICHI  472-0022
+				JP

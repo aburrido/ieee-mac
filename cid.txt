@@ -1022,6 +1022,12 @@ CA443E                        (base 16)                     Allianz Technology S
                                                             Aachen  Nordrhein-Westfalen  52076           
                                                             DE                                           
 
+2A-2F-E2                      (hex)                         onway ag                                     
+2A2FE2                        (base 16)                     onway ag                                     
+                                                            Stauffacherstrasse 16                        
+                                                            Zürich    8004                               
+                                                            CH                                           
+
 8A-7D-B3                      (hex)                         Evolv Technology, Inc.                       
 8A7DB3                        (base 16)                     Evolv Technology, Inc.                       
                                                             500 Totten Pond Road4th Floor                
