@@ -16193,6 +16193,12 @@ B1E000-B1EFFF     (base 16)		Aidhom
 				Soumagne  Liège  4630
 				BE
 
+8C-1F-64   (hex)		IDNEO TECHNOLOGIES,S.A.U.
+507000-507FFF     (base 16)		IDNEO TECHNOLOGIES,S.A.U.
+				GRAN VÍA CARLOS III , 98 .PLANTA 5
+				Barcelona  Barcelona  08028
+				ES
+
 8C-1F-64   (hex)		Vision Systems Safety Tech
 E6F000-E6FFFF     (base 16)		Vision Systems Safety Tech
 				5 Chemin de Chiradie
@@ -40360,3 +40366,15 @@ D48000-D48FFF     (base 16)		Private
 				Prismastraat 3
 				Nootdorp    2631RT 
 				NL
+
+8C-1F-64   (hex)		Hiwin Mikrosystem Corp.
+A74000-A74FFF     (base 16)		Hiwin Mikrosystem Corp.
+				NO 6 JINGKE CENTRAL RD  TAICHUNG CITY TAIWAN 40841
+				TAICHUNG    40841
+				TW
+
+8C-1F-64   (hex)		37130
+81E000-81EFFF     (base 16)		37130
+				Gaildorfer Strasse 6
+				Backnang    71540
+				DE
