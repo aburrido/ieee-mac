@@ -7715,6 +7715,7 @@ MA-L,A09A0C,"Honor Device Co., Ltd.","Suite 3401, Unit A, Building 6, Shum Yip S
 MA-L,C05724,"Honor Device Co., Ltd.","Suite 3401, Unit A, Building 6, Shum Yip Sky Park, No. 8089, Hongli West Road, Xiangmihu Street, Futian District  Shenzhen  Guangdong CN 518040 "
 MA-L,28EA5B,SAMSARA NETWORKS INC,525 York St San Francisco CA US 94110 
 MA-L,449BC6,EOSS s.r.l.,Via Chiese 6 Milan  IT IT20126 
+MA-L,C4CD50,"Shenzhen C-Data Technology Co., Ltd.","#201, Building A4, Nanshan Zhiyuan, No.1001, Xueyuan Avenue, Changyuan Community,Taoyuan,Nanshan Shenzhen Guangdong CN 518055 "
 MA-L,000130,Extreme Networks Headquarters,2121 RDU Center Drive  Morrisville NC US 27560 
 MA-L,FC0A81,Extreme Networks Headquarters,2121 RDU Center Drive  Morrisville NC US 27560 
 MA-L,00749C,"Ruijie Networks Co.,LTD","19# Building,Star-net Science Plaza,Juyuanzhou, 618 Jinshan Road Fuzhou Fujian CN 350002 "
@@ -22941,6 +22942,7 @@ MA-L,A491B1,Vantiva Technologies Belgium,Prins Boudewijnlaan 47 Edegem - Belgium
 MA-L,D4351D,Vantiva Technologies Belgium,Prins Boudewijnlaan 47 Edegem - Belgium  BE B-2650 
 MA-L,38FBA0,Shenzhen Baseus Technology CoLtd,"2nd Floor, Building B, Baseus Intelligence Park, No.2008, Xuegang Rd,Gangtou Community,Bantian Street, Longgang District Shenzhen  CN 518172 "
 MA-L,2C2FF4,eero inc.,660 3rd Street  San Francisco CA US 94107 
+MA-L,74D082,"HISENSE VISUAL TECHNOLOGY CO.,LTD",Qianwangang Road 218 Qingdao Shandong CN 266510 
 MA-L,B00C9D,"Quectel Wireless Solutions Co.,Ltd.","7th Floor, Hongye Building, No.1801 Hongmei Road, Xuhui District Shanghai  CN 200233 "
 MA-L,F0AB1F,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
 MA-L,7CB30A,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
@@ -30660,11 +30662,12 @@ MA-L,F0ED51,"Qingdao Intelligent&Precise Electronics Co.,Ltd.",No.218 Qianwangan
 MA-L,60A954,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
 MA-L,441A5C,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
 MA-L,380FE4,Dedicated Network Partners Oy,Valimotie 13a Helsinki  FI 00380  
-MA-L,44658A,Dukelana LLC,2945 Bell Rd #365 Auburn CA US 95603 
-MA-L,FC3D98,ACCTON TECHNOLOGY CORPORATION,"No.1, Creation Road 3, Hsinchu Science Park, Hsinchu  TW 30077 "
-MA-L,A4B1E9,Vantiva Technologies Belgium,Prins Boudewijnlaan 47 Edegem - Belgium  BE B-2650 
-MA-L,20B001,Vantiva Technologies Belgium,Prins Boudewijnlaan 47 Edegem - Belgium  BE B-2650 
 MA-L,682ADD,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
+MA-L,FC3D98,ACCTON TECHNOLOGY CORPORATION,"No.1, Creation Road 3, Hsinchu Science Park, Hsinchu  TW 30077 "
+MA-L,602972,Arista Networks,5453 Great America Parkway Santa Clara CA US 95054 
+MA-L,20B001,Vantiva Technologies Belgium,Prins Boudewijnlaan 47 Edegem - Belgium  BE B-2650 
+MA-L,44658A,Dukelana LLC,2945 Bell Rd #365 Auburn CA US 95603 
+MA-L,A4B1E9,Vantiva Technologies Belgium,Prins Boudewijnlaan 47 Edegem - Belgium  BE B-2650 
 MA-L,C85CE2,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
 MA-L,DCEE14,ADT Technology,"Room 325, 3rd Floor, Building F, Xinmao Science and Technology Park, Huayuan Industrial Zone Tianjin Tianjin CN 300384 "
 MA-L,10FFE0,"GIGA-BYTE TECHNOLOGY CO.,LTD.","Pin-Jen City, Taoyuan, Taiwan, R.O.C. Pin-Jen Taoyuan TW 324 "
@@ -38293,10 +38296,11 @@ MA-L,10DA43,NETGEAR,3553 N. First Street San Jose CA US 95134
 MA-L,A040A0,NETGEAR,3553 N. First Street San Jose CA US 95134 
 MA-L,0836C9,NETGEAR,3553 N. First Street San Jose CA US 95134 
 MA-L,6CCDD6,NETGEAR,3553 N. First Street San Jose CA US 95134 
-MA-L,503123,FN-LINK TECHNOLOGY Ltd.,"No.8, Litong Road, Liuyang Economic & Technical Development Zone, Changsha, Hunan,China Changsha Hunan CN 410329 "
 MA-L,3CEFA5,CLOUD NETWORK TECHNOLOGY SINGAPORE PTE. LTD.,"B22 Building,NO.51 Tongle Road, Shajing Town, Jiangnan District, Nanning, Guangxi Province, China Nanning Guangxi CN 530007 "
 MA-L,30CB89,OnLogic Inc,435 Community Drive South Burlington VT US 05403 
 MA-L,E48F09,ithinx GmbH,Am Kabellager 5-7 Koeln / Cologne  DE 51063 
+MA-L,503123,FN-LINK TECHNOLOGY Ltd.,"No.8, Litong Road, Liuyang Economic & Technical Development Zone, Changsha, Hunan,China Changsha Hunan CN 410329 "
 MA-L,101331,Vantiva Technologies Belgium,Prins Boudewijnlaan 47 Edegem - Belgium  BE B-2650 
 MA-L,D4925E,Vantiva Technologies Belgium,Prins Boudewijnlaan 47 Edegem - Belgium  BE B-2650 
+MA-L,BCD9FB,"China Mobile Group Device Co.,Ltd.","32 Xuanwumen West Street,Xicheng District  Beijing  CN 100053 "
 MA-L,400AE7,BSH Hausgeräte GmbH,Im Gewerbepark B35 Regensburg Bayern DE 93059 
