@@ -1028,6 +1028,12 @@ CA443E                        (base 16)                     Allianz Technology S
                                                             Zürich    8004                               
                                                             CH                                           
 
+0A-93-26                      (hex)                         Qorvo, Inc.                                  
+0A9326                        (base 16)                     Qorvo, Inc.                                  
+                                                            500 W. Renner Road                           
+                                                            Richardson    75080                          
+                                                            US                                           
+
 8A-7D-B3                      (hex)                         Evolv Technology, Inc.                       
 8A7DB3                        (base 16)                     Evolv Technology, Inc.                       
                                                             500 Totten Pond Road4th Floor                

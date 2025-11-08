@@ -29105,6 +29105,12 @@ B00000-BFFFFF     (base 16)		Arvind Limited
 				Pune  Maharastra  411060
 				IN
 
+20-2B-DA   (hex)		Industrial Connections & Solutions LLC
+A00000-AFFFFF     (base 16)		Industrial Connections & Solutions LLC
+				6801 Industrial Dr
+				Mebane  NC  27302
+				US
+
 C8-5C-E2   (hex)		Fela Management AG 
 000000-0FFFFF     (base 16)		Fela Management AG 
 				Basadingerstrasse 18
@@ -36445,3 +36451,21 @@ E00000-EFFFFF     (base 16)		Shenzhen PengBrain Technology Co.,Ltd
 				Via dell'Industria 46
 				Modena  Italy  41122
 				IT
+
+20-2B-DA   (hex)		Transit Solutions, LLC.
+D00000-DFFFFF     (base 16)		Transit Solutions, LLC.
+				114 West Grandview Avenue
+				Zelienople  PA  16063
+				US
+
+20-2B-DA   (hex)		Plato System Development B.V.
+500000-5FFFFF     (base 16)		Plato System Development B.V.
+				Amerikalaan 59
+				Maastricht-Airport    6199 AE
+				NL
+
+20-2B-DA   (hex)		Teletek Electronics JSC
+400000-4FFFFF     (base 16)		Teletek Electronics JSC
+				2 Iliyansko Shose Str.
+				Sofia  Sofia  1220
+				BG
