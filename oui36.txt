@@ -16217,6 +16217,12 @@ B1E000-B1EFFF     (base 16)		Aidhom
 				Acacias_geneva  Geneva  1227
 				CH
 
+8C-1F-64   (hex)		Daniele Saladino
+515000-515FFF     (base 16)		Daniele Saladino
+				Via G. B. Sala, 13
+				Lecco  Lecco  23900
+				IT
+
 8C-1F-64   (hex)		Vision Systems Safety Tech
 E6F000-E6FFFF     (base 16)		Vision Systems Safety Tech
 				5 Chemin de Chiradie
