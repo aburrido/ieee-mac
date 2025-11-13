@@ -242,6 +242,12 @@ FA7ACB                        (base 16)                     Ultra Ethernet Conso
                                                             Irkutsk    664007                            
                                                             RU                                           
 
+0A-58-FB                      (hex)                         Purple WiFi Limited                          
+0A58FB                        (base 16)                     Purple WiFi Limited                          
+                                                            Hollinwood Business CentreAlbert Street      
+                                                            Oldham  Lancashire  OL8 3QL                  
+                                                            GB                                           
+
 CA-C2-76                      (hex)                         Saab Seaeye Ltd                              
 CAC276                        (base 16)                     Saab Seaeye Ltd                              
                                                             20 Brunel Way                                

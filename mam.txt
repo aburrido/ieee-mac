@@ -14414,6 +14414,12 @@ A00000-AFFFFF     (base 16)		IRTEYA LLC
 				Hengelo  Overijssel  7554PA
 				NL
 
+58-76-07   (hex)		Shade Innovations
+600000-6FFFFF     (base 16)		Shade Innovations
+				9715 B Burnet Rd. Suite 400
+				Austin  TX  78758
+				US
+
 B8-4C-87   (hex)		Altronix , Corp
 A00000-AFFFFF     (base 16)		Altronix , Corp
 				140 58th St. Bldg A, Ste 2N
@@ -21907,6 +21913,12 @@ C00000-CFFFFF     (base 16)		EV4 Limited
 				Brandstraat 13
 				Lokeren    9160
 				BE
+
+20-2B-DA   (hex)		ZhuoYu Technology
+E00000-EFFFFF     (base 16)		ZhuoYu Technology
+				No. 60 Xingke Road, Xili Street
+				Nanshan District,  Shenzhen  518054
+				CN
 
 D0-14-11   (hex)		P.B. Elettronica srl
 100000-1FFFFF     (base 16)		P.B. Elettronica srl
@@ -36458,11 +36470,11 @@ E00000-EFFFFF     (base 16)		Shenzhen PengBrain Technology Co.,Ltd
 				Modena  Italy  41122
 				IT
 
-20-2B-DA   (hex)		Transit Solutions, LLC.
-D00000-DFFFFF     (base 16)		Transit Solutions, LLC.
-				114 West Grandview Avenue
-				Zelienople  PA  16063
-				US
+20-2B-DA   (hex)		CtrlMovie AG
+300000-3FFFFF     (base 16)		CtrlMovie AG
+				Grenzstrasse 5a
+				Schenkon  LU  6214
+				CH
 
 20-2B-DA   (hex)		Plato System Development B.V.
 500000-5FFFFF     (base 16)		Plato System Development B.V.
@@ -36476,8 +36488,8 @@ D00000-DFFFFF     (base 16)		Transit Solutions, LLC.
 				Sofia  Sofia  1220
 				BG
 
-20-2B-DA   (hex)		CtrlMovie AG
-300000-3FFFFF     (base 16)		CtrlMovie AG
-				Grenzstrasse 5a
-				Schenkon  LU  6214
-				CH
+20-2B-DA   (hex)		Transit Solutions, LLC.
+D00000-DFFFFF     (base 16)		Transit Solutions, LLC.
+				114 West Grandview Avenue
+				Zelienople  PA  16063
+				US
