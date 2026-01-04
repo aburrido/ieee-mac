@@ -3,7 +3,7 @@ name: Daily IEEE Standards Sync
 on:
   schedule:
     - cron: '10 8 * * *' # 每天 08:10 UTC
-  workflow_dispatch:      # 允许手动触发
+  workflow_dispatch:
 
 jobs:
   download-and-backup:
@@ -12,25 +12,27 @@ jobs:
       contents: write
 
     steps:
-      - name: Checkout Root Files Only (Sparse Checkout)
+      - name: Checkout Repository
         uses: actions/checkout@v4
         with:
-          # 关键点：只拉取根目录文件，不拉取 history 目录
+          # 关键点 1: 依然排除 history 目录以节省带宽
           sparse-checkout: |
             /*
             !/history
           sparse-checkout-cone-mode: false
+          # 关键点 2: 必须确保 fetch 深度，否则无法 push
+          fetch-depth: 0 
 
-      - name: Prepare Directories
+      - name: Download and Prepare
         run: |
           DATE=$(date +%Y-%m-%d)
           echo "DATE=$DATE" >> $GITHUB_ENV
-          # 仅在本地创建今天的备份目录，不影响远程历史数据
           mkdir -p history/$DATE
-
-      - name: Download Files
-        run: |
-          FILES=(
+          
+          UA="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:102.0) Gecko/20100101 Firefox/102.0"
+          
+          # 定义文件列表
+          declare -A FILES=(
             "https://standards-oui.ieee.org/oui/oui.txt|oui.txt"
             "https://standards-oui.ieee.org/oui/oui.csv|oui.csv"
             "https://standards-oui.ieee.org/oui28/mam.txt|mam.txt"
@@ -48,13 +50,11 @@ jobs:
             "https://standards-oui.ieee.org/iab/iab.txt|iab.txt"
             "https://standards-oui.ieee.org/iab/iab.csv|iab.csv"
           )
-          UA="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:102.0) Gecko/20100101 Firefox/102.0"
 
-          for entry in "${FILES[@]}"; do
-            IFS="|" read -r URL FILENAME <<< "$entry"
-            echo "Downloading $FILENAME..."
-            wget --user-agent="$UA" "$URL" -O "$FILENAME"
-            cp "$FILENAME" "history/${{ env.DATE }}/$FILENAME"
+          for url in "${!FILES[@]}"; do
+            filename=${FILES[$url]}
+            wget --user-agent="$UA" "$url" -O "$filename"
+            cp "$filename" "history/$DATE/$filename"
           done
 
       - name: Commit and Push Changes
@@ -62,14 +62,16 @@ jobs:
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           
-          # 告诉 Git 包含今天的备份目录
-          # 虽然 checkout 时排除了 history，但 add 会强制将新创建的目录放入暂存区
-          git add *.txt *.csv
-          git add history/${{ env.DATE }}/
-
+          # 关键点 3: 更新索引，允许 git 知道我们要在不下载 history 的情况下推送它
+          git add .
+          
           if git diff --quiet && git diff --staged --quiet; then
             echo "No changes detected."
           else
             git commit -m "Auto-sync: ${{ env.DATE }}"
-            # push 会将新文件推送到远程，但下次运行依然不会下载 history 目录
-            git push origin main
+            
+            # 关键点 4: 使用 pull --rebase 解决非快进错误
+            # 即使 history 被排除，rebase 也能处理元数据冲突
+            git pull origin ${{ github.ref_name }} --rebase
+            git push origin ${{ github.ref_name }}
+          fi
