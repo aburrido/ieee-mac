@@ -11,6 +11,11 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
         with:
+          sparse-checkout: |
+            .github
+            *.txt
+            *.csv
+          sparse-checkout-cone-mode: false
           fetch-depth: 1
 
       - name: download
