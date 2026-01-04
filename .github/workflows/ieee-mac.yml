@@ -2,34 +2,34 @@ name: Daily IEEE Standards Sync
 
 on:
   schedule:
-    # 每天 08:10 UTC (GitHub Action 使用 UTC 时间)
-    # 如果你需要北京时间 08:10，请设置为 '10 0' (00:10 UTC)
-    - cron: '10 8 * * *'
-  workflow_dispatch: # 允许手动触发
+    - cron: '10 8 * * *' # 每天 08:10 UTC
+  workflow_dispatch:      # 允许手动触发
 
 jobs:
   download-and-backup:
     runs-on: ubuntu-latest
     permissions:
-      contents: write # 赋予推送权限
+      contents: write
 
     steps:
-      - name: Checkout Repository
+      - name: Checkout Root Files Only (Sparse Checkout)
         uses: actions/checkout@v4
         with:
-          fetch-depth: 1
+          # 关键点：只拉取根目录文件，不拉取 history 目录
+          sparse-checkout: |
+            /*
+            !/history
+          sparse-checkout-cone-mode: false
 
       - name: Prepare Directories
         run: |
-          # 获取当前日期 (YYYY-MM-DD)
           DATE=$(date +%Y-%m-%d)
           echo "DATE=$DATE" >> $GITHUB_ENV
-          # 创建当天的历史目录
+          # 仅在本地创建今天的备份目录，不影响远程历史数据
           mkdir -p history/$DATE
 
       - name: Download Files
         run: |
-          # 定义下载列表：URL | 输出文件名
           FILES=(
             "https://standards-oui.ieee.org/oui/oui.txt|oui.txt"
             "https://standards-oui.ieee.org/oui/oui.csv|oui.csv"
@@ -48,15 +48,12 @@ jobs:
             "https://standards-oui.ieee.org/iab/iab.txt|iab.txt"
             "https://standards-oui.ieee.org/iab/iab.csv|iab.csv"
           )
-
           UA="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:102.0) Gecko/20100101 Firefox/102.0"
 
           for entry in "${FILES[@]}"; do
             IFS="|" read -r URL FILENAME <<< "$entry"
             echo "Downloading $FILENAME..."
-            # 下载到根目录
             wget --user-agent="$UA" "$URL" -O "$FILENAME"
-            # 复制一份到当天的 history 目录
             cp "$FILENAME" "history/${{ env.DATE }}/$FILENAME"
           done
 
@@ -65,15 +62,14 @@ jobs:
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           
-          # 仅添加根目录的 txt/csv 文件以及当天的 history 文件夹
-          # 这样可以避免 git 扫描过深的旧 history 目录（如果文件非常多的话）
+          # 告诉 Git 包含今天的备份目录
+          # 虽然 checkout 时排除了 history，但 add 会强制将新创建的目录放入暂存区
           git add *.txt *.csv
-          git add "history/${{ env.DATE }}/"
+          git add history/${{ env.DATE }}/
 
-          # 检查是否有文件更改，防止因为没有更新而导致 Action 报错
           if git diff --quiet && git diff --staged --quiet; then
-            echo "No changes detected. Skipping commit."
+            echo "No changes detected."
           else
             git commit -m "Auto-sync: ${{ env.DATE }}"
-            git push
-          fi
+            # push 会将新文件推送到远程，但下次运行依然不会下载 history 目录
+            git push origin main
