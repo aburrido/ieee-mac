@@ -41,7 +41,19 @@ jobs:
         run : mkdir -p history/$(date +"%Y-%m-%d")
       - name: move
         run : cp -a *.txt *.csv history/$(date +"%Y-%m-%d")
+      - name: Commit
+        run: |
+          if [ -n "$(git status -s)" ];then
+            git config --global user.name 'aburrido'
+            git config --global user.email 'aburrido@qq.com'
+            git sparse-checkout add history
+            git add --sparse .
+            git commit -m $(date +"%Y-%m-%d.%H:%M:%S")
+            git pull --rebase --depth=1 origin main
+            git push
+          fi
 
+          
       - name: Commit
         run: |
           if [ -n "$(git status -s)" ];then
