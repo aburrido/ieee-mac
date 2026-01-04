@@ -1,66 +1,79 @@
-name: ieee-mac
+name: Daily IEEE Standards Sync
+
 on:
-  workflow_dispatch:
   schedule:
-    - cron: '10 08 * * *'
+    # 每天 08:10 UTC (GitHub Action 使用 UTC 时间)
+    # 如果你需要北京时间 08:10，请设置为 '10 0' (00:10 UTC)
+    - cron: '10 8 * * *'
+  workflow_dispatch: # 允许手动触发
 
 jobs:
-  bot:
+  download-and-backup:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write # 赋予推送权限
+
     steps:
-      - name: Checkout
+      - name: Checkout Repository
         uses: actions/checkout@v4
         with:
-          sparse-checkout: |
-            /*
-            !/history
-          sparse-checkout-cone-mode: false
           fetch-depth: 1
 
-
-      - name: download
-        run : |
-          wget --user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:102.0) Gecko/20100101 Firefox/102.0" https://standards-oui.ieee.org/oui/oui.txt -O oui.txt
-          wget --user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:102.0) Gecko/20100101 Firefox/102.0" https://standards-oui.ieee.org/oui/oui.csv -O oui.csv
-          wget --user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:102.0) Gecko/20100101 Firefox/102.0" https://standards-oui.ieee.org/oui28/mam.txt -O mam.txt
-          wget --user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:102.0) Gecko/20100101 Firefox/102.0" https://standards-oui.ieee.org/oui28/mam.csv -O mam.csv
-          wget --user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:102.0) Gecko/20100101 Firefox/102.0" https://standards-oui.ieee.org/oui36/oui36.txt -O oui36.txt
-          wget --user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:102.0) Gecko/20100101 Firefox/102.0" https://standards-oui.ieee.org/oui36/oui36.csv -O oui36.csv
-          wget --user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:102.0) Gecko/20100101 Firefox/102.0" https://standards-oui.ieee.org/cid/cid.txt -O cid.txt
-          wget --user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:102.0) Gecko/20100101 Firefox/102.0" https://standards-oui.ieee.org/cid/cid.csv -O cid.csv
-          wget --user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:102.0) Gecko/20100101 Firefox/102.0" https://standards-oui.ieee.org/ethertype/eth.txt -O eth.txt
-          wget --user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:102.0) Gecko/20100101 Firefox/102.0" https://standards-oui.ieee.org/ethertype/eth.csv -O eth.csv
-          wget --user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:102.0) Gecko/20100101 Firefox/102.0" https://standards-oui.ieee.org/manid/manid.txt -O manid.txt
-          wget --user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:102.0) Gecko/20100101 Firefox/102.0" https://standards-oui.ieee.org/manid/manid.csv -O manid.csv
-          wget --user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:102.0) Gecko/20100101 Firefox/102.0" https://standards-oui.ieee.org/bopid/opid.txt -O opid.txt
-          wget --user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:102.0) Gecko/20100101 Firefox/102.0" https://standards-oui.ieee.org/bopid/opid.csv -O opid.csv
-          wget --user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:102.0) Gecko/20100101 Firefox/102.0" https://standards-oui.ieee.org/iab/iab.txt -O iab.txt
-          wget --user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:102.0) Gecko/20100101 Firefox/102.0" https://standards-oui.ieee.org/iab/iab.csv -O iab.csv
-
-      - name: mkdir
-        run : mkdir -p history/$(date +"%Y-%m-%d")
-      - name: move
-        run : cp -a *.txt *.csv history/$(date +"%Y-%m-%d")
-      - name: Commit
+      - name: Prepare Directories
         run: |
-          if [ -n "$(git status -s)" ];then
-            git config --global user.name 'aburrido'
-            git config --global user.email 'aburrido@qq.com'
-            git sparse-checkout add history
-            git add --sparse .
-            git commit -m $(date +"%Y-%m-%d.%H:%M:%S")
-            git pull --rebase --depth=1 origin main
-            git push
-          fi
+          # 获取当前日期 (YYYY-MM-DD)
+          DATE=$(date +%Y-%m-%d)
+          echo "DATE=$DATE" >> $GITHUB_ENV
+          # 创建当天的历史目录
+          mkdir -p history/$DATE
 
+      - name: Download Files
+        run: |
+          # 定义下载列表：URL | 输出文件名
+          FILES=(
+            "https://standards-oui.ieee.org/oui/oui.txt|oui.txt"
+            "https://standards-oui.ieee.org/oui/oui.csv|oui.csv"
+            "https://standards-oui.ieee.org/oui28/mam.txt|mam.txt"
+            "https://standards-oui.ieee.org/oui28/mam.csv|mam.csv"
+            "https://standards-oui.ieee.org/oui36/oui36.txt|oui36.txt"
+            "https://standards-oui.ieee.org/oui36/oui36.csv|oui36.csv"
+            "https://standards-oui.ieee.org/cid/cid.txt|cid.txt"
+            "https://standards-oui.ieee.org/cid/cid.csv|cid.csv"
+            "https://standards-oui.ieee.org/ethertype/eth.txt|eth.txt"
+            "https://standards-oui.ieee.org/ethertype/eth.csv|eth.csv"
+            "https://standards-oui.ieee.org/manid/manid.txt|manid.txt"
+            "https://standards-oui.ieee.org/manid/manid.csv|manid.csv"
+            "https://standards-oui.ieee.org/bopid/opid.txt|opid.txt"
+            "https://standards-oui.ieee.org/bopid/opid.csv|opid.csv"
+            "https://standards-oui.ieee.org/iab/iab.txt|iab.txt"
+            "https://standards-oui.ieee.org/iab/iab.csv|iab.csv"
+          )
+
+          UA="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:102.0) Gecko/20100101 Firefox/102.0"
+
+          for entry in "${FILES[@]}"; do
+            IFS="|" read -r URL FILENAME <<< "$entry"
+            echo "Downloading $FILENAME..."
+            # 下载到根目录
+            wget --user-agent="$UA" "$URL" -O "$FILENAME"
+            # 复制一份到当天的 history 目录
+            cp "$FILENAME" "history/${{ env.DATE }}/$FILENAME"
+          done
+
+      - name: Commit and Push Changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
           
-      - name: Commit
-        run: |
-          if [ -n "$(git status -s)" ];then
-          git config --global user.name 'aburrido'
-          git config --global user.email 'aburrido@qq.com'
-          git add .
-          git commit -m $(date +"%Y-%m-%d.%H:%M:%S")
-          git pull
-          git push
+          # 仅添加根目录的 txt/csv 文件以及当天的 history 文件夹
+          # 这样可以避免 git 扫描过深的旧 history 目录（如果文件非常多的话）
+          git add *.txt *.csv
+          git add "history/${{ env.DATE }}/"
+
+          # 检查是否有文件更改，防止因为没有更新而导致 Action 报错
+          if git diff --quiet && git diff --staged --quiet; then
+            echo "No changes detected. Skipping commit."
+          else
+            git commit -m "Auto-sync: ${{ env.DATE }}"
+            git push
           fi
