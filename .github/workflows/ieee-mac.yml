@@ -12,11 +12,11 @@ jobs:
         uses: actions/checkout@v4
         with:
           sparse-checkout: |
-            .github
-            *.txt
-            *.csv
+            /*
+            !/history
           sparse-checkout-cone-mode: false
           fetch-depth: 1
+
 
       - name: download
         run : |
